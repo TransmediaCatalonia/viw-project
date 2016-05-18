@@ -1,0 +1,51 @@
+AD-en	2660	5920	3260	Al amanecer, una pareja pasea con su perro por la playa.
+AD-en	8170	11000	2830	Se cruzan con un hombre que va corriendo en chándal.
+AD-en	22900	26150	3250	Un BMW de color blanco se detiene en el paseo marítimo
+AD-en	27800	30100	2300	El conductor baja hablando por un teléfono móvil.
+AD-en	53000	55200	2200	Se guarda el teléfono en el pantalón.
+AD-en	57360	61250	3890	A continuación saca del bolsillo de la camisa unas gafas de sol y se las pone.
+AD-en	63460	66200	2740	Sobreimpreso: JAMES, el empresario.
+AD-en	68280	71390	3110	Poco después, deambula con una bolsa de playa al hombro.
+AD-en	92270	97150	4880	Minutos más tarde, en la playa, James se tumba sobre una toalla con el torso desnudo.
+AD-en	99440	102040	2600	Cierra los ojos y se lleva las manos a la cara
+AD-en	105780	109180	3400	Luego extiende los brazos palpando suavemente la arena.
+AD-en	113100	116000	2900	Se recuesta y coge el teléfono móvil.
+AD-en	142050	144100	2050	James mira inquieto a su alrededor.
+AD-en	157510	160350	2840	Suelta el teléfono móvil en la toalla y se incorpora
+AD-en	164080	166340	2260	Camina descalzo por la orilla, mirando a su alrededor.
+AD-en	167410	169530	2120	La playa está totalmente desierta
+AD-en	187100	191100	4000	Se aproxima a la orilla, mostrando cierto recelo.
+AD-en	193150	198150	5000	Es un hombre rubio con barba, de estatura media y complexión fuerte.
+AD-en	201150	205150	4000	El extraño sonido que percibe lo mantiene alerta.
+AD-en	208100	214200	6100	Regresa adonde tiene la toalla. Comienza a ponerse la camisa sin dejar de mirar alrededor.
+AD-en	218000	221120	3120	Ya vestido, avanza solo por una arboleda.
+AD-en	226050	230150	4100	Continúa la marcha subiendo por una ladera salpicada de arbustos.
+AD-en	233150	240050	6900	En otro lugar, un hombre con barba cana y el pelo alborotado descansa con un vaso de plástico entre las manos.
+AD-en	241200	246140	4940	Lleva una cadena plateada al cuello y viste una camiseta verde de tirantes.
+AD-en	249150	257000	7850	Se distrae pasando un dedo sobre la tapa que cubre el envase. Lo abre y se lleva la bebida a los labios.
+AD-en	259000	260200	1200	Prueba un poco.
+AD-en	265050	280000	14950	Sobreimpreso: RICK, el jubilado. Su atuendo lo completan un pantalón vaquero y unas zapatillas deportivas. Rick está sentado solo en un banco de un parque, tomando café y moviendo con nerviosismo una pierna.
+AD-en	285100	293120	8020	Saca de un bolsillo del pantalón un teléfono móvil. Desliza un dedo por la pantalla, revisando la lista de contactos.
+AD-en	296100	299050	2950	Selecciona uno y marca llamada.
+AD-en	329100	332100	3000	Rick alza la mirada al notar algo extraño.
+AD-en	380000	382050	2050	Percibe el extraño sonido.
+AD-en	398000	403050	5050	Rick se levanta y comienza a alejarse del parque, intentando localizar el sonido.
+AD-en	406050	411120	5070	Ha dejado el vaso de plástico sobre uno de los bancos. Mientras, en una habitación.
+AD-en	417000	423050	6050	Sobreimpreso: JESS, la estudiante. Es una adolescente con el pelo rizado.
+AD-en	425580	429260	3680	Busca el teléfono móvil bajo un montón de papeles que tiene sobre la mesa.
+AD-en	494050	498880	4830	Jess también percibe el extraño sonido en la habitación donde está estudiando.
+AD-en	509590	521049	11459	Se levanta y se marcha. Segundos después, deambula por una zona boscosa percibiendo con mayor intensidad el extraño sonido. Se detiene un instante al llegar a una elevación.
+AD-en	527900	532450	4550	Continúa caminando hacia una pradera donde se encuentran Rick y James.
+AD-en	536660	541510	4850	Los tres miran con perplejidad a su alrededor, sin reparar en la presencia de los demás.
+AD-en	556040	560460	4420	La chica y los dos hombres tratan de localizar con la mirada el lugar de donde procede la voz.
+AD-en	707000	712530	5530	El jubilado niega con la cabeza mirando al empresario y a la estudiante, que reaccionan de igual modo.
+AD-en	715130	716930	1800	Rick abre los brazos y sonríe.
+AD-en	736340	741480	5140	El empresario y el jubilado se marchan del lugar mientras la estudiante se muestra pensativa.
+AD-en	745460	747780	2320	Corre unos metros hasta darles alcance.
+AD-en	750580	752770	2190	Los tres se marchan juntos del paraje.
+AD-en	756460	762050	5590	En otro momento, una mujer negra habla por un teléfono móvil mientras tiende ropa en una azotea.
+AD-en	763800	766250	2450	No, no he terminado de tenderla. Tengo que darme prisa.
+AD-en	767990	771050	3060	No, ¿de qué hablas? Sí, claro, las maletas están a punto.
+AD-en	774990	777390	2400	Oye, ahora no puedo hablar. Tengo que dejarte.
+AD-en	778660	781100	2440	Sobreimpreso: ZOÉ, la próxima.
+AD-en	784010	785430	1420	¿QUÉ OCURRE MIENTRAS.?

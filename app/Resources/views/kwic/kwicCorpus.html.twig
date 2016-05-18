@@ -1,0 +1,36 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+		<div id="status">
+		<h2>'{{ corpus }}' audio description:</h2>
+		
+		<h3>enter word:</h3>
+		{% if error %}
+   			 <p>{{ error }}</p>
+		{% endif %}
+		
+
+		<form action="{{ path('kwiccorpus', { 'dir':dir ,'corpus':corpus }) }}" method="post">
+		    <div id="sub">{{ form_widget(form) }}<input type="submit" class="submit" value="go" /></div>
+		</form>
+		</div>
+
+		<div id="status">
+		{% if result %}
+			<h3>{{ title }}</h3>
+			{{ result|raw }}
+
+		{% endif %}
+		</div>
+		
+
+		</div>
+	</div>
+
+{% endblock %}
+
+
+

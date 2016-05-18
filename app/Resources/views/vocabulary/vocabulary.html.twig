@@ -1,0 +1,54 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+		
+                	<h2>Density Graphs for </h2>
+    			<div id="chart_div" style="width:900; height:500px;"></div>
+	
+    			<p> <a href="{{ path('density') }}">
+        		Back to list density
+    			</a>
+			</p>
+			
+		
+	</div>
+
+{% endblock %}
+
+
+
+
+{% block javascripts %}
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+    google.setOnLoadCallback(drawSeriesChart);
+
+    function drawSeriesChart() {
+        var data = google.visualization.arrayToDataTable([
+        {{ key|raw }}
+        
+      ]);
+
+		
+		var options = {
+        title: "Words' distribution (nouns)",
+        hAxis: {title: 'Word frequency'},
+        vAxis: {title: 'Word distribution'},
+	legend: {position: 'top'},
+        bubble: {textStyle: {fontSize: 11}}
+      };
+
+      var chart = new google.visualization.BubbleChart(document.getElementById('chart_div'));
+      chart.draw(data, options);
+    }
+
+    </script>
+{% endblock %}
+
+
+
+

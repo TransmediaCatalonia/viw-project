@@ -1,0 +1,63 @@
+AD-en	920	14000	13080	Un matí de cel gris cendra amb núvols baixos plana sobre el mar i el passeig marítim. Una parella que passeja un gran danés per la sorra es creua amb un home que practica running. El gos s’atura a ensumar el terra i la parella el crida.
+AD-en	15290	17290	2000	En lletres negres sobre fons blanc... Què passa mentre...
+AD-en	22000	25000	3000	Un cotxe esportiu blanc, s’atura a la calçada del passeig.
+AD-en	26640	29640	3000	El conductor parla per telèfon fent gestos enèrgics amb les mans.
+AD-en	31150	32150	1000	Baixa del cotxe.
+AD-en	38000	39000	1000	Deixa el seu maletí a terra.
+AD-en	44560	45560	1000	Obre el maleter.
+AD-en	52000	71000	19000	L’home penja el telèfon, contrariat. Amb la mirada perduda al mar es treu de la butxaca interior de l’americana unes ulleres de sol de muntura daurada i vidres amb forma d’ametlla... Se les col·loca... i sospira. En lletres blanques sobreimpreses: James, l’empresari. Duu una bossa de platja penjada a l’espatlla. Camina per la sorra.
+AD-en	92000	104000	12000	James és un home ros de mitjana edat. Duu bigoti i una barba curta i ben cuidada. En vestit de bany, s’ajau de panxa enlaire en una tovallola, damunt la sorra. Sospira, tanca el ulls i se’ls frega amb les mans.
+AD-en	105240	108660	3420	Estirat, obre els braços abandonant-se a la carícia d’un sol pàl·lid.
+AD-en	110000	114000	4000	Amb el dits juga amb la sorra. La trucada el fa aixecar el cap i s’incorpora.
+AD-en	129440	133000	3560	Un dringar metàl·lic el distreu i mira inquiet al seu voltant.
+AD-en	141360	145380	4020	Mentre parla, mira a dreta i esquerra intentant localitzar d’on ve el soroll.
+AD-en	158150	160540	2390	Deixa el telèfon i s’aixeca ple de curiositat.
+AD-en	163270	169000	5730	En vestit de bany dóna tombs per la platja tot cercant l’origen d’aquell dring. Va cap a on trenquen les onades.
+AD-en	170420	176000	5580	A l’altre cantó de la badia, la fosca silueta dels edificis alts de la ciutat es retalla en el cel enteranyinat.
+AD-en	177000	184000	7000	James torna cap a la tovallola però s’atura. Resta dret i després es gira. Una gavina passa volant.
+AD-en	186000	193000	7000	Les passes de l’home són vacil·lants. Mira el cel a dreta i esquerra, confús, mentre va cap a la vora de l’aigua.
+AD-en	197000	199400	2400	S’allunya de l’aigua amb la mirada posada al cel.
+AD-en	202510	207000	4490	Al mar, no massa lluny de la costa, dues barques es gronxen damunt les onades.
+AD-en	208240	213740	5500	Decidit, arriba on hi ha la tovallola, agafa la camisa i se la posa sense deixar de mirar al cel.
+AD-en	220000	229510	9510	Ja vestit, camina sota els arbres del passeig. L’americana oberta, la camisa amb el coll descordat, sense corbata. Desapareix enfilant-se per un coster cap al cim d’un turó.
+AD-en	232410	255000	22590	Uns dits nerviosos colpegen un got de cartró amb tapa. Un home barba-serrat amb cabells llargs, arrissats i despentinats, sosté el got entre les mans. Duu una samarreta imperi que deixa al descobert el tatuatge de l’espatlla. Somriu, fa que no amb el cap i para atenció al got. Repassa la tapa amb l’índex, li dóna un copet amb el polze i la treu. El got és ple d’un líquid negre.
+AD-en	257000	264000	7000	Una cadena de baules gruixudes a joc amb la del canell li voreja el coll. Mira el got pensatiu, fa un glop i sospira.
+AD-en	265000	269000	4000	Sobreimpressionat amb lletres blanques: Rick, el jubilat.
+AD-en	270000	273000	3000	En Rick és assegut en un banc d’una placeta pública.
+AD-en	273720	277000	3280	Fa un altre glop sota l’ombra d’uns arbres de troncs recargolats.
+AD-en	279000	288000	9000	Belluga la cama dreta de manera nerviosa. Tot d’una deixa el got al banc del costat i pica de mans. De la butxaca de darrera del pantaló treu el telèfon.
+AD-en	289740	293840	4100	Amb el dit fa passar ràpid la llista de contactes. En selecciona un.
+AD-en	295690	299000	3310	Toca la pantalla i es posa el telèfon a l’orella esperant resposta.
+AD-en	329490	332000	2510	Estranyat, cerca amb la mirada d’on ve el soroll.
+AD-en	336220	337220	1000	El busca mentre parla.
+AD-en	380000	382000	2000	El soroll el torna a interrompre.
+AD-en	383000	385000	2000	Explora el seu voltant amb la mirada.
+AD-en	397360	408430	11070	En Rick s’aixeca somrient. Apressat, comença a caminar i s’allunya de la placeta, deixant el got abandonat i mig ple al damunt del banc. Camina tot mirant al seu voltant, com cercant alguna cosa.
+AD-en	411000	416480	5480	Una noia jove de cabells rinxolats i llargs fins a les espatlles treballa davant de l’ordinador portàtil.
+AD-en	418000	422000	4000	SObreimpressionat en lletres blanques: Jess l'estudiant.
+AD-en	422000	429000	7000	Es treu el llapis de la boca i cerca el telèfon emmig del desordre de papers de la seva taula. Quan el troba, respon a la trucada.
+AD-en	496000	499000	3000	Penja. Amb estranyesa, mira a un costat i a un altre.
+AD-en	500780	502540	1760	Fa per tornar a la feina però...
+AD-en	506000	507000	1000	Alça el cap.
+AD-en	509290	513850	4560	La Jess s’aixeca de la cadira, deixa l’estudi i, abrigada, surt al carrer.
+AD-en	516680	519790	3110	Puja per un pendent emmig de canyes, herbes altes i matolls.
+AD-en	523480	526650	3170	S’atura un moment, mira al seu voltant i accelera el pas.
+AD-en	528350	534350	6000	Arriba a una esplanada de terra nua, al peu de dos turons, vorejada de matolls secs i d’arbres sense fulles.
+AD-en	536220	539170	2950	També hi ha en Rick i en James, que escodrinyen el seu entorn.
+AD-en	555420	558560	3140	Tots tres miren en totes direccions sense veure-hi ningú.
+AD-en	576000	576900	900	Es sorprèn.
+AD-en	595000	596650	1650	En Rick es posa la mà al cap...
+AD-en	662570	664570	2000	Amb la mà, imita un metrònom.
+AD-en	685000	687000	2000	En James i la Jess l’escolten, reflexius.
+AD-en	707600	712000	4400	En James i en Rick s’intercanvien una mirada. En Rick i la Jess neguen amb el cap.
+AD-en	715000	719400	4400	Tots tres són al mig de l’esplanada. En Rick obre els braços.
+AD-en	723530	726530	3000	En James, sorprès, somriu i aixeca les espatlles.
+AD-en	736350	743500	7150	En Rick segueix en James, que també somriu. La Jess resta pensativa, aixeca les celles, dibuixa un somriure...
+AD-en	745450	751430	5980	...i els atrapa amb quatre gambades. Tots tres, parlant animadament, abandonen l’esplanada i fan cap a la platja.
+AD-en	755000	762360	7360	La pantalla s’enfosqueix. Una dona jove negra, amb el cabells pentinats amb trenes a l’estil africà, estén la roba en un terrat.
+AD-en	763150	766150	3000	No, encara no l’he estesa tota. M’he d’afanyar a acabar.
+AD-en	768000	771000	3000	No, però de què em parles? Si, esclar, ja he fet les maletes...
+AD-en	772000	774000	2000	La dona mira d’on ve el soroll.
+AD-en	775000	778330	3330	Escolta, ara no puc parlar. T’he de deixar. La dona penja el telèfon.
+AD-en	779110	783000	3890	Sobreimpressionat amb llebtres blanques: Zoé la següent.
+AD-en	783000	788520	5520	Amb lletres negres sobre fons blanc es pot llegir: "What happens While?". Què passa mentres?

@@ -1,0 +1,31 @@
+AD-en	3190	13060	9870	Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.
+AD-en	18130	21050	2920	What happens while.
+AD-en	24020	31210	7190	A white saloon car pulls up on the seafront and the driver, who is having an animated conversation on his mobile phone, gets out.
+AD-en	53020	69840	16820	The man looks exasperated then reaches into his inside jacket pocket and pulls out a pair of sunglasses, which he puts on. He's around fifty and has a short trimmed beard. James - the businessman. Now, he's walking along the promenade with a striped bag slung over his shoulder.
+AD-en	94610	109120	14510	Having taken off his suit James, who is now bare chested, lies down on his back on a towel he has spread out on the beach. He covers his face with his hands, then holds one arm out to his side and trails his fingers across the sand, allowing it to trickle through them.
+AD-en	158850	166160	7310	James hangs up then stands and walks a little way across the sand, trying to find the source of the pulsing ringing sound.
+AD-en	170510	179180	8670	He walks away from the shore, but as the sound seems to die out, he turns to head back to his towel and belongings, his suit lying in a crumpled heap.
+AD-en	186040	192090	6050	When the volume of the sound increases he looks about, perturbed by the strange trilling.
+AD-en	197730	204680	6950	He heads back to his spot, a frown furrowing his brow, then picks up his work shirt and starts to put it on.
+AD-en	209600	218740	9140	He keeps a wary eye on his surroundings. Later he is fully dressed and walking along a pavement with trees arcing over it.
+AD-en	221660	227200	5540	He heads up a steep, rugged slope, trying to track down the source of the sound.
+AD-en	231820	248740	16920	An unkempt man is holding a takeaway coffee cup in his hands.  He taps the side of the cup then narrows his eyes pensively before smiling and shaking his head. He's in his sixties, has unruly collar length hair tinged grey at the temples and a salt and pepper beard.
+AD-en	252300	260040	7740	He lifts the plastic lid off the cup and peers at the dark liquid inside, hesitates then takes a sip.
+AD-en	262070	265020	2950	Rick - the retiree.
+AD-en	267650	277159	9509	Rick, who is sitting on a wooden chair in the shade of trees with mishapen trunks, sets down the lid of his cup and jiggles one leg at the knee.
+AD-en	280050	290220	10170	He puts down his cup then claps his hands before rubbing them together. He takes a smartphone out of his back pocket and starts scrolling down the list of contacts.
+AD-en	293690	298170	4480	He selects a name, Craig Anderson, then holds his phone to his ear.
+AD-en	398850	407050	8200	Rick sets off, wearing baggy jeans and a vest, looking intrigued by the strange sound. He leaves his coffee cup behind.
+AD-en	409960	415900	5940	A curly haired woman sighs and bites the end of a pencil. Jess - the student.
+AD-en	419000	426100	7100	Distracted by her mobile phone buzzing she searches for it in among the papers scattered around her laptop.
+AD-en	495810	500170	4360	Jess looks about curiously, then lowers her gaze to her books.
+AD-en	511160	518169	7009	Giving up on her studies she heads outside to track down the source of the sound, heading up a grassy slope.
+AD-en	521860	533090	11230	She pauses, then as the shrill sound becomes louder she heads off. She joins James and Rick on an arid patch of land bordered by parched vegetation.
+AD-en	538940	540910	1970	Jess looks confused.
+AD-en	556920	560040	3120	The trio can't locate the exact source of the voice.
+AD-en	708690	711100	2410	Rick shrugs and Jess shakes her head.
+AD-en	740940	748210	7270	Rick heads after James but Jess lingers for a moment, looking thoughtful, then chuckles to herself before joining them. 
+AD-en	751250	756100	4850	James puts his arm around her shoulders for a brief moment, then rubs her back.
+AD-en	758700	764150	5450	A woman talking on a mobile phone while hanging out washing is distracted by the shrill sound.
+AD-en	766580	773150	6570	"No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready..."
+AD-en	776410	781160	4750	"Listen, I cannot talk right now. I have to leave you." Zoe  - the next one...

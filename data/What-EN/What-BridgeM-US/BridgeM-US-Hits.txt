@@ -1,0 +1,71 @@
+AD-en	370	6680	6310	A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.
+AD-en	7350	14330	6980	A male runner jogs past. The dog trots and sniffs the sand. It follows its owner along the coast.
+AD-en	15830	20200	4370	Words appear: What Happens While… with a long, blank line at the end.
+AD-en	22000	29690	7690	A slick, white car approaches, driving on the grey asphalt. The male driver sits alone inside and speaks on his cell phone.
+AD-en	31120	37950	6830	He looks aggressive as he bangs the steering wheel. He gets out. He wears a business suit.
+AD-en	39630	41330	1700	He grabs items from the trunk.
+AD-en	43490	47120	3630	He mutters and stares disdainfully at the phone as he hangs up.
+AD-en	52010	55310	3300	His pale skin looks cool and soft in the muted sunlight.
+AD-en	56510	59060	2550	He puts on dark aviator, sunglasses.
+AD-en	61410	64200	2790	Words appear: James, the Businessman
+AD-en	65990	70830	4840	He walks along the nearly empty beach carrying a beach bag. He makes a call.
+AD-en	91230	99610	8380	Now, James lies back, bare-chested, on a towel in the sand. His brownish, stubbly beard and chest hair almost match the ground.
+AD-en	100270	108740	8470	He exhales hard, then rubs his closed eyes. He stays up by the setled sunlight and gently moves his fingrers through the sand.
+AD-en	112000	112700	700	He sits up.
+AD-en	126670	128670	2000	He looks left...and right.
+AD-en	139000	140790	1790	He looks at the sand around him.
+AD-en	156000	162730	6730	James gazes around, looking confused. He stands up, wearing his boxer shorts on the secluded beach. 
+AD-en	163420	165240	1820	He walks along the water's edge.
+AD-en	166660	174320	7660	He suddenly turns to the left and looks as if he's following the sound. A city's skyscrapers rise in the distant coast.
+AD-en	176620	180350	3730	He pauses, then starts back toward his towel in the sand.
+AD-en	182430	184230	1800	He turns again toward the sound.
+AD-en	186740	192890	6150	He wanders closer to the waves along the shore. James looks puzzled, and peers around the beach.
+AD-en	195620	205340	9720	The sky is hazy-white, without distinguishable clouds or sun. James walks away from the water, scanning around with his eyes, as if trying to locate the mysterious sound.
+AD-en	206560	214340	7780	Standing at his towel in the sand, he grabs his shirt and begins to put it on. He furrows his brow, looking inquisitively at the air.
+AD-en	216000	220500	4500	Now, James wears his suit and walks under large, leafy trees.
+AD-en	221000	223920	2920	His unsmiling, serious face stares forward.
+AD-en	224480	229560	5080	James climbs a dirt trail, up a mountain covered in short, dense bushes and cactuses.
+AD-en	233000	235950	2950	Now, fingers lightly tap on a to-go coffee cup.
+AD-en	237330	242730	5400	An unshaven older man with messy, longish, grey hair gazes around, looking bored.
+AD-en	245000	249700	4700	He stares down at his hands and the coffee cup, circling his fingers around the plastic lid.
+AD-en	250690	254050	3360	He removes the lid and raises the black coffee to his mouth.
+AD-en	254930	257730	2800	The man hesitates, then gulps from the small cup.
+AD-en	258380	260380	2000	His eyes look moist and glassy.
+AD-en	261240	263840	2600	Words appear: Rick, the Retiree.
+AD-en	264660	270650	5990	Rick sits at a park bench. His right leg twitches, bouncing up and down in tiny movements.
+AD-en	271230	274070	2840	He sits alone and takes another sip of his coffee.
+AD-en	275550	277290	1740	He sets his cup on another bench.
+AD-en	278400	282010	3610	He stares up at the trees and looks restless as he claps his hands.
+AD-en	285200	288480	3280	Rick scrolls through the many contacts on his smart phone.
+AD-en	290240	292090	1850	He pauses on the ""C"" names.
+AD-en	294360	297570	3210	He selects a contact named ""Craig Anderson.""
+AD-en	327470	329430	1960	He darts his eyes up curiously.
+AD-en	377280	379360	2080	Rick stares around, looking pensive.
+AD-en	395000	399110	4110	Rick wanders off along a park trail, leaving his coffee cup on a bench.
+AD-en	400220	406920	6700	Rick wears a loose, green tank-top and jeans. He looks up and turns around, as if he's scanning for the sound.
+AD-en	408720	412480	3760	Now, a young woman looks tired and gazes at an open laptop.
+AD-en	413000	417190	4190	She bites on the end of a pencil. Words appear: Jess, the Student.
+AD-en	419000	421980	2980	She fumbles around the desk, searching for her phone.
+AD-en	423860	426010	2150	She lifts papers and find the phone.
+AD-en	427140	428010	870	Jess answers.
+AD-en	492150	499790	7640	Jess glances around the room. She peers left...and right. She touches her thick, curly, brown hair.
+AD-en	500220	502740	2520	She stares into the silence, looking puzzled.
+AD-en	506000	506900	900	She jolts up.
+AD-en	509000	525070	16070	Now, outside, Jess hikes up a hill. Tall grass and plants cover the ground. Jess wears a coat and walks around, scanning with her eyes. The sun shines off the greenery. She stops and stares. Then, she continues hiking up.
+AD-en	527790	532390	4600	Now, Rick, James, and Jess gather together in a bright, sandy clearing.
+AD-en	534190	535830	1640	Rick points to his ear.
+AD-en	537000	540770	3770	The three stand on the empty, sun-bleached ground, looking bewildered.
+AD-en	554000	558020	4020	They look everywhere, as if trying to find the source of the voice.
+AD-en	573300	574880	1580	James' face looks panicked.
+AD-en	592000	594250	2250	Rick grips his head with one hand.
+AD-en	694000	695000	1000	Rick nods.
+AD-en	704000	709220	5220	James quickly peers at Rick. Rick shrugs and shakes his head. Rick looks at Jess.
+AD-en	722180	724270	2090	James smiles with closed lips.
+AD-en	733520	736020	2500	Rick follows James across the pebbly ground.
+AD-en	736920	756080	19160	Jess looks down and smiles thoughtfully. She glances at the other two, then quickly runs to them. She walks between James and Rick. James softly places his arm around her shoulder. The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain. The image disappears to a black screen.
+AD-en	757000	758960	1960	Now, a woman speaks on a cell.
+AD-en	759370	762790	3420	Subtitles: No, I couldn't. I have to finish, really.
+AD-en	764000	769300	5300	She gazes up. No! What are you talking about? Of course yes, our luggage is ready…
+AD-en	769640	775380	5740	The woman furrows her brow. She looks around again. Listen, I cannot talk right now. I have to leave you.
+AD-en	776000	778920	2920	Words appear: Zoé, the Next One.
+AD-en	780000	784570	4570	A title: What Happens While... with a long, blank line at the end.

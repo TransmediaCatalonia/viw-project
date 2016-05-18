@@ -1,0 +1,44 @@
+AD-en	3320	12640	9320	Sota un cel enteranyinat, un home fa fúting per un passeig de terra vora el mar. Es creua amb una parella que passeja un gran danès. El gos es ressaga ensumant i els segueix.
+AD-en	16000	20690	4690	Sobre fons blanc, les lletres: Què passa mente
+AD-en	21210	29390	8180	Un cotxe de luxe s'atura arran de passeig. El conductor, que discuteix per telèfon, en baixa amb un maletí, el guarda al maleter i en treu una bossa.
+AD-en	54000	64000	10000	Es posa unes ulleres de sol d'aviador i sospira amb expressió cansada. Té uns cinquanta anys i porta vestit i corbata. Sobreimprès en un extrem: "James, l'empresari".
+AD-en	66180	70360	4180	Amb la bossa a l'espatlla, camina pel passeig entre gent que passeja i fa exercici.
+AD-en	94110	97630	3520	En calçotets, s'estira panxa enlaire a la platja sobre una tovallola.
+AD-en	103170	106390	3220	Es frega els ulls, estén els braços i joguineja amb la sorra.
+AD-en	112140	113590	1450	Agafa el mòbil i s'asseu.
+AD-en	142040	143790	1750	Mira estranyat a banda i banda.
+AD-en	159060	161150	2090	Deixa el mòbil sobre la roba i s'alça.  
+AD-en	166220	168510	2290	Avança fins a la riba i busca amb la mirada.
+AD-en	173260	176360	3100	Torna a endinsar-se a la sorra i passeja la vista, descol·locat.
+AD-en	185120	188250	3130	Va per recular, però s'atura i guaita enrere i pertot.
+AD-en	197000	199620	2620	Torna fins a la riba i camina mirant enlaire.
+AD-en	208460	210840	2380	Agafa la camisa i se la posa, desconcertat.
+AD-en	217340	221870	4530	Vestit, però amb el coll de la camisa obert i sense corbata, camina sota uns arbres.
+AD-en	226000	229610	3610	Enfila un caminet de terra que fa pujada entre cactus i matolls.
+AD-en	233000	242120	9120	Un home de mitjana edat d'aspecte deixat tamborina els dits en un got de cartró. Passeja la mirada i els ulls se li entelen. Mig somriu i fa que no.
+AD-en	249310	251730	2420	Acaricia la tapadora del got i l'enretira.
+AD-en	258140	263810	5670	S'acosta el recipient i fa un glop de cafè. Sobreimprès en un extrem: "Rick, el jubilat".
+AD-en	267220	275220	8000	Porta vambes, pantalons d'esport i samarreta imperi. Assegut en un banc sota uns arbres, belluga una cama, inquiet, i fa un altre glop de cafè.
+AD-en	279290	286010	6720	Mira enlaire, sacseja el cap i deixa el got al banc del costat. Pica de mans, se les frega i agafa el mòbil.
+AD-en	290030	291200	1170	Navega per l'agenda.
+AD-en	295340	298180	2840	Selecciona el nom "Craig Anderson" i clica trucar.
+AD-en	329350	331180	1830	Escodrinya els voltants, descol·locat.
+AD-en	380390	381770	1380	Mira estranyat enlaire.
+AD-en	399220	402750	3530	Deixa el got al banc i s'allunya sense deixar de mirar enrere i enlaire.
+AD-en	407000	411290	4290	Una noia pèl-roja estudia. Mossega un llapis i fa que no amb el cap.
+AD-en	418000	420880	2880	Sobreimprès en un extrem: "Jess, l'estudiant".
+AD-en	426000	428630	2630	Busca entre un portàtil i tot de paperassa.
+AD-en	497140	499490	2350	Recorre amb la mirada el sostre de l'habitació.
+AD-en	510310	512960	2650	Camina pel carrer mirant confosa a banda i banda.
+AD-en	517290	523540	6250	Avança entre herbes per un terreny que fa pujada. S'atura per guaitar enrere i continua endavant a corre-cuita.
+AD-en	528390	530840	2450	Arriba a una clariana on hi ha en James i en Rick.
+AD-en	535170	538800	3630	Tots tres miren enlaire estranyats, sota una claror enlluernadora.
+AD-en	556470	558440	1970	Ells busquen amb la mirada, atònits.
+AD-en	707500	710960	3460	En Rick arronsa les espatlles i fa que no. La Jess l'imita.
+AD-en	737110	740420	3310	En Rick segueix en James i la Jess arqueja les celles pensativa.
+AD-en	746000	750720	4720	Els atrapa d'una corredissa i s'encaminen plegats cap als arbres d'un extrem de la clariana.
+AD-en	755000	760030	5030	Fosa a negre. Una dona afroamericana parla pel mòbil mentre estén roba en un terrat.
+AD-en	762440	765120	2680	"No, encara no l'he estès tota. M'he d'afanyar a acabar."
+AD-en	768000	771270	3270	"No, però de què em parles? Sí, esclar, ja he fet les maletes..."
+AD-en	775000	783150	8150	"Escolta, ara no puc parlar. T'he de deixar." Passeja la vista, estranyada. Sobreimprès: "Zoé, la següent". Fosa a negre.
+AD-en	787000	791000	4000	Sobre fons blanc, les lletres "què passa mentre..." i els crèdits.

@@ -1,0 +1,32 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+		<div id="welcome">
+                	<h1>Density Graphs</h1>    	          
+            	</div>
+    		
+    		<div id="status">
+		<h2>List of available density graphs:</h2>
+		{% if error %}
+   			 <p>{{ error }}</p>
+		{% endif %}
+		
+
+		<form action="{{ path('density') }}" method="post">
+
+		    {{ form_widget(form) }}
+
+		    <input type="submit" />
+		</form>
+
+		</div>
+	</div>
+
+{% endblock %}
+
+
+
+

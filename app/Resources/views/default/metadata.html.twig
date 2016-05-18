@@ -1,0 +1,62 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+   
+<div id="container">
+
+	<div id="status">
+
+        <h3>Metadata for the audio-description file'{{ title }}'</h3>
+	
+		<div id="right"><a href="../../corpus/{{ corpus }}">go back to '{{ corpus }}' corpus</a></div>
+
+	
+                <ul>
+			{% for key, value in record %}
+    				<li><span style="font-weight:bold">{{ key }}:</span> {{ value }} </li>
+			{% endfor %}
+                </ul>
+	
+
+	
+        <h3>What's else?</h3>
+
+	<p>For each AU we provide the 'eaf' file together with a number of additional files. These can be downloaded 
+	and may be used in different ...</p>
+         	
+	<ul>
+	{% if html is not null %}
+	<li>Get the HTML version of the 'eaf' file<a href="../../show/{{ subdir }}/{{ html }}">{{ html }} </a>go...</li><hr/>
+	{% endif %}
+
+	{% if eaf is not null %}
+	<li>Get the source 'eaf' (XML) file <a href="../../show/{{ subdir }}/{{ eaf }}">go...</a> </li><hr/>
+	{% endif %}
+
+	{% if sentences is not null %}
+	<li>See the Audio Description file (you can make some simple searches) <a href="../../kwic/corpus/{{ subdir }}/{{ sentences }}">go...</a></li><hr/>
+	{% endif %}
+
+	{% if hits is not null %}
+	<li>See utterances' duration in the Timeline (duration: time in miliseconds) <a href="../../hits/time/{{ subdir }}/{{ hits }}">go...</a></li><hr/>
+	<li>See utterances' length in the Timeline (length: number of words) <a href="../../hits/words/{{ subdir }}/{{ hits }}">go...</a></li><hr/>
+	<li>See utterances' length in the Timeline together with shoot information (length: number of words) <a href="../../hits/wordsvisual/{{ subdir }}/{{ hits }}">go...</a></li><hr/>
+	<li>See utterances' density in the Timeline (density: time/words)<a href="../../hits/timewords/{{ subdir }}/{{ hits }}">go...</a></li><hr/>
+	{% endif %}
+
+	{% if words is not null %}
+	<li>Get some words' counting figures <a href="../../words/{{ subdir }}/{{ words }}">go...</a></li><hr/>
+	{% endif %}
+
+	
+	{% if verbs is not null %}
+	<li>20 top most frequent verbs/semclass <a href="../../vocabulary/verbs/{{ langdir }}/{{ eaf }}">go...</a></li><hr/>
+	{% endif %}
+
+	</div>
+
+</div>
+   
+{% endblock %}
+
+

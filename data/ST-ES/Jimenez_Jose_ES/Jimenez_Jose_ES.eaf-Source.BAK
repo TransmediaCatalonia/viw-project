@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-04-20T15:48:49+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/anna/Desktop/Audiodescripcions/MASTERCOMP_ENG_WHW.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../MASTERCOMP_ENG_WHW.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3a816774-53f2-4e62-82e6-84c3d70f28f0</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">106</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="5649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="24747"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="30399"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="32281"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="32720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="43845"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="44932"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="54905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="60014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="65092"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="66892"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="67712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="71441"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="92827"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="97410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="103285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="110055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="131092"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="132212"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="141539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="143640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="161596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="162959"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="165035"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="169865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="174722"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="177703"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="180134"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="182796"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="187548"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="192939"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="208573"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="212968"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="220493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="229074"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="234081"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="237758"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="239969"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="243877"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="252964"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="256079"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="265175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="266950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="273013"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="278722"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="290036"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="292979"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="295680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="298226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="330837"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="332740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="380268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="382380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="399524"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="406253"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="411764"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="415088"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="418424"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="419891"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="425851"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="429103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="474339"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="475347"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="497584"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="500967"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="511358"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="514730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="518379"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="521775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="532847"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="539188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="556489"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="560014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="595664"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="596876"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="621545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="622125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="709342"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="711078"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="740101"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="742022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="746407"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="752109"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="763556"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="767971"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="772254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="774012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="779809"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="781442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="784271"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="786762"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="789356"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="791141"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="794164"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="796869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="799299"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="802252"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="804092"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="806089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="808974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="812080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="813654"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="815677"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="818298"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="823076"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="utterance" TIER_ID="AD-en">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>De día, en la playa, una pareja pasea a su perro mientras un corredor pasa por su lado.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Un lujoso coche blanco se detiene delante de la playa.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>El conductor se apea.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Guarda un maletín en el maletero.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Saca unas gafas de sol y se las pone. Viste un traje gris y corbata.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>James [Yéims], el empresario.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>James, pelirrojo y de unos 40 años, pasea por la playa sujetando un móvil.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Ahora en bañador, James se tumba en una toalla y cierra los ojos.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Se frota los ojos con ambas manos, las estira y coge un poco de arena para luego dejarla caer entre sus dedos.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Mira a ambos lados.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Busca algo en su ropa.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>James se levanta.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Camina por la playa en bañador mirando a su alrededor con gesto extrañado.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Sigue caminando sin rumbo fijo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Se detiene y se dirige a donde está su toalla.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Vuelve a girar la vista extrañado y sigue caminando sin dejar de mirar a su alrededor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Coge su ropa y comienza a vestirse.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Ya vestido con su traje de oficina, camina con paso firme y comienza a subir por una pequeña montaña llena de arbustos y matorrales.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>En un parque, un hombre de unos 60 años descansa sentado en un banco.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>De canoso pelo largo y una barba descuidada, observa con la mirada perdida.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Destapa el café que sujeta con una mano y le da un sorbo con desgana.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Rick [Ríc], el jubilado.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Ric da otro sorbo al café y lo deja en el banco de al lado.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Saca su teléfono móvil y busca entre los contactos.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Selecciona uno y llama.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Rick alza la mirada extrañado.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Vuelve a alzar la vista lentamente.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Se levanta, y sin coger su café, empieza a caminar mirando a su alrededor una y otra vez.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>En su habitación una joven de melena pelirroja. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Jess [Yés], la estudiante.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Jess busca su móvil entre una montaña de libros y apuntes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Busca entre los papeles.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Jess mira a su alrededor con gesto confuso.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Sale a la calle y empieza a caminar.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Sube por una pequeña montaña llena de arbutos y matorrales.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>En un descampado rodeado por montañas, Jess se acerca a James y Rick, quienes están de pie sin hacer nada.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Los tres no paran de mirar al cielo y a su alrededor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Rick tiene los ojos llorosos.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>James asiente con gesto irónico.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Rick niega con la cabeza.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>Rick sigue a James.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Jess corre tras ellos y los tres juntos siguen caminando.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>En una terraza, una mujer francesa de piel morena se queja por teléfono de lo ajetreada que está.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>Mira a su alrededor extrañada.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Zoé [Zóe], la próxima.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>¿Qué pasa mientras...?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="utterance" TIER_ID="Credits">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>Dirigido por Núria Nia [Nía].</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>Director de fotografía: Albert Badia [Badía].</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>Diseñador de sonido: Enrique G. Bermejo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>Maquillaje: Laia Teixidó [Teishidó]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>Codirección: Marta Aguadé Forrellad [Furrellád]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>Editado por Núria Nia [Nía].</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>Producido por Transmedia Catalonia y La Panorámica punto cat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="focus" PARENT_REF="AD-en" TIER_ID="AD-Focus"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="words" PARENT_REF="AD-en" TIER_ID="AD-Sentences"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-en" TIER_ID="Tokens"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-Sentences" TIER_ID="Sentences-Focus"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-Sentences" TIER_ID="S-chunk"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="Tokens" TIER_ID="PoS"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lemma" PARENT_REF="Tokens" TIER_ID="Lemma"/>
+    <TIER LINGUISTIC_TYPE_REF="semantics" PARENT_REF="Tokens" TIER_ID="Semantic"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="focus" PARENT_REF="S-chunk" TIER_ID="S-chunk-focus"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Focus" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="focus" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="lemma" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="chunk" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="semantics" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="ES" LANGUAGE_CODE="ca"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid9">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid12">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid11">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid10">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Focus">
+        <DESCRIPTION LANG_REF="und">Focus of the Audio Description</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="focus on physical description" LANG_REF="und">physical description</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="focus on the scene" LANG_REF="und">scene</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="focus on charcters" LANG_REF="und">charcter</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="focus on action description" LANG_REF="und">action</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="focus on emotion" LANG_REF="und">emotion</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>

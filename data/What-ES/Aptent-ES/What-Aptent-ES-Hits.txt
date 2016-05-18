@@ -1,0 +1,67 @@
+AD-en	2830	10500	7670	En una playa, y bajo un cielo parcialmente nublado, se cruzan por la arena una pareja que pasea a un perro de gran tamaño y un hombre haciendo footing.
+AD-en	11060	12290	1230	El perro olisquea.
+AD-en	13300	17150	3850	Al oír el silbido corre con sus amos. Sobreimpreso con fondo blanco:
+AD-en	21260	30300	9040	Junto a la playa se detiene un coche blanco de alta gama. Saldrá el conductor hablando por el móvil, guardará su maletín en el maletero y cogerá un bolso de playa azul y blanco.
+AD-en	52500	56240	3740	Cuelga y guarda el móvil. Se lleva la mano al bolsillo interior del traje.
+AD-en	59140	62330	3190	Se pone unas gafas de sol de aviador doradas y mira al frente.
+AD-en	65420	70350	4930	Sobreimpreso: James, el empresario. Caminando por la playa se lleva el móvil a la oreja.
+AD-en	92060	97120	5060	Se tiende boca arriba y en bañador sobre una toalla. Deja el móvil junto a sus pertenencias.
+AD-en	99420	109240	9820	Permanece unos segundos con los ojos cerrados. Se lleva las manos a la cara y luego extiende los brazos sobre la arena. Con la mano recoge unos granos y los deja caer lentamente.
+AD-en	114700	116140	1440	Se incorpora y coge el móvil.
+AD-en	141540	144100	2560	Preocupado busca algo entre sus pertenencias.
+AD-en	157500	159740	2240	Deja el móvil a un lado y se levanta.
+AD-en	163140	167490	4350	Se aleja unos metros de la toalla mirando a lo lejos, en dirección al paseo marítimo.
+AD-en	169400	175920	6520	Se detiene y centra su atención en un punto fijo. Una gaviota vuela a unos metros de él agitando las alas con ímpetu.
+AD-en	179820	183780	3960	Dirige la mirada de un lado a otro de la playa, como desorientado.
+AD-en	187420	191580	4160	Da media vuelta y sin dejar de mirar en todas direcciones se acerca a la orilla.
+AD-en	197780	205660	7880	Su rostro denota cierta inquietud. Camina de vuelta hacia la toalla sin prestar atención a sus pasos. Dos yates surcan el mar.
+AD-en	208500	217700	9200	Se inclina ligeramente para recoger la camisa y vuelve a alzar la mirada mientras se la pone. Después se agacha para recoger el resto de la ropa y seguir vistiéndose.
+AD-en	218800	225610	6810	Camina por un largo paseo rodeado de árboles de abundante follaje. Tiene el cuello de la camisa desabrochado y ya no lleva corbata.
+AD-en	227220	230590	3370	Sube por una montaña a través de un estrecho sendero pedregoso.
+AD-en	233940	245650	11710	Un hombre de mediana edad con barba canosa y ligeramente descuidada está sentado en un banco individual rodeado de vegetación. Sostiene un vaso de plástico con tapa y tamborilea sobre él con el dedo índice de la mano izquierda.
+AD-en	248700	255800	7100	Sonríe y dice que no con la cabeza. Continúa tocando el vaso como nervioso y finalmente quita la tapa. Contiene café solo.
+AD-en	257700	260810	3110	Mira el interior del vaso, bebe un trago y lo saborea.
+AD-en	265660	276040	10380	Sobreimpreso: Rick, el jubilado. Deja la tapa en uno de los dos bancos individuales que tiene a cada lado. Después bebe otro trago de café sin dejar de mover la pierna derecha nervioso.
+AD-en	278000	280690	2690	Deja el vaso junto a la tapa y da unas palmadas.
+AD-en	284940	293120	8180	Saca el móvil del bolsillo trasero del pantalón. Accede a la sección "contactos" y desliza el dedo por la pantalla hasta detenerse en Craig Anderson.
+AD-en	296980	299060	2080	Pulsa llamar con gesto de fastidio.
+AD-en	325460	326700	1240	Gesto de impotencia.
+AD-en	329620	332100	2480	De repente frunce el ceño y alza la mirada.
+AD-en	336060	336930	870	Extrañado.
+AD-en	351940	353900	1960	Mueve la mano intentando explicarse.
+AD-en	380100	382180	2080	Vuelve a alzar la mirada extrañado.
+AD-en	387020	388780	1760	Esboza una pequeña sonrisa.
+AD-en	398180	412580	14400	El vaso de plástico reposa sobre el banco con la tapa puesta. Él se aleja mirando inquieto en todas direcciones y se adentra en un sendero. Una joven pelirroja con rizos está sentada frente a un ordenador portátil rodeada de apuntes.  Muerde el lápiz con hastío.
+AD-en	418220	420580	2360	Sobreimpreso: Jess, la estudiante.
+AD-en	423020	424000	980	Busca el móvil.
+AD-en	425660	429860	4200	Finalmente lo encuentra entre los papeles. Descuelga y se lo lleva a la oreja.
+AD-en	455620	456940	1320	Arquea las cejas.
+AD-en	464060	465580	1520	Mueve la mano alterada.
+AD-en	494300	501550	7250	Mira hacia ambos lados, con gesto de extrañeza y temor. Ligeramente aliviada por el cese del ruido, baja la mirada para seguir estudiando.
+AD-en	506620	507900	1280	Se levanta de la silla.
+AD-en	512780	519340	6560	Ha salido a la calle con un abrigo marrón y un fular negro con estampado blanco. Sube una pendiente llena de vegetación.
+AD-en	522220	527460	5240	De repente gira la cabeza como intentando averiguar de dónde viene el sonido y prosigue su camino.
+AD-en	530700	541060	10360	Llega a una explanada y camina lentamente hacia James y Rick, que también están allí. Los tres dan vueltas sobre sí mismos moviendo la cabeza desconcertados. Les sorprende una voz.
+AD-en	556540	560580	4040	James mira a lo lejos haciendo visera con la mano para evitar el intenso sol.
+AD-en	576260	577660	1400	James da un paso adelante.
+AD-en	586460	587540	1080	Buscan.
+AD-en	594940	596000	1060	Gesto angustiado.
+AD-en	642180	643410	1230	Los mira fijamente.
+AD-en	652140	653620	1480	Jess escucha atenta.
+AD-en	681100	681760	660	Serio.
+AD-en	684700	686060	1360	James reflexivo.
+AD-en	700460	701680	1220	Gestos de inquietud.
+AD-en	707580	711340	3760	James mira a Rick que parece dudar y Jess niega con la cabeza.
+AD-en	715300	716810	1510	Se mantiene expectante.
+AD-en	717940	720100	2160	De repente Rick abre los brazos.
+AD-en	721060	721780	720	Sonríe.
+AD-en	723400	724500	1100	Mirando al cielo.
+AD-en	725420	727260	1840	James retrocede unos pasos.
+AD-en	736580	741060	4480	James se marcha con las manos en los bolsillos. Rick se apresura a alcanzarlo.
+AD-en	744940	753080	8140	Jess corre con ellos. Cuando los alcanza, James le da unas palmadas en la espalda. Mientras hablan se van alejando poco a poco en dirección a la vegetación.
+AD-en	755900	760780	4880	Una mujer negra tiende la ropa con el móvil sujeto entre la cabeza y el hombro izquierdo.
+AD-en	762340	765220	2880	No, no he terminado de tenderla. Tengo que darme prisa.
+AD-en	767700	771620	3920	No, ¿de qué me hablas? Sí, claro, las maletas están a punto...
+AD-en	772420	774170	1750	Mira extrañada a su alrededor.
+AD-en	774700	777090	2390	Oye, ahora no puedo hablar. Tengo que dejarte.
+AD-en	777700	785430	7730	Asustada y con la mirada perdida. Sobreimpreso: Zoé, la próxima. En negro y sobre fondo blanco: ¿qué pasa mientras...?

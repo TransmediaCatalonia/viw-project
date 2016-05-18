@@ -1,0 +1,75 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+   
+<div id="container">
+
+
+	<div id="status">
+
+	<h3>Metadata for corpus '{{ corpus }}'</h2>
+
+                <ul>
+			{% for key, value in metadata %}
+    				<li><span style="font-weight:bold">{{ key }}:</span> {{ value }} </li>
+			{% endfor %}
+                </ul>
+
+
+
+         <h3>Actions for corpus '{{ corpus }}'</h2>
+	
+         <ul>
+	
+	{% if corpusfile is not null %}
+	<li><b>Simple string search:</b> this allows simple string searches on the entire {{ corpus }} corpus 
+	<a href="../../kwic/{{ corpus }}/{{ corpusfile }}">access</a> </li><hr/>
+	{% endif %}
+
+	
+	{% if words is not null %}
+	<li><b>Paragraphs, sentences and words' countings:</b> this provides some figures about paragraphs, sentences and words in the the {{ corpus }} corpus 
+    	<a href="../../words/corpus/{{ corpus }}/{{ words }}">access</a></li><hr/>
+	{% endif %}
+
+	
+	{% if verbs is not null %}
+	<li><b>Verbs's distribution by provider:</b> this gives the number of verbs per provider and lists the 20 top most frequent verbs & semantic 
+	classes. <a href="../../vocabulary/verbs/{{ corpus }}"> access</a></li><hr/>
+
+	<li><b>Verbs in the time line:</b> you can choose a verbal semantic class and see its 
+	distribution in the time line.
+	 <a href="../../vocabulary/verbssem/{{ corpus }}"> access</a></li><hr/>
+
+	{% endif %}
+
+	{% if sem is not null %}
+	<li><b>Counting words by PoS tag:</b> you can see words' frequency by part of speech tag
+	 <a href="../../vocabulary/semdash/{{ corpus }}"> access</a></li><hr/>
+
+	<li><b>Verbs & semantics classes:</b> you can inspect verbal semantic classes
+	 <a href="../../vocabulary/verbsdash/{{ corpus }}"> access</a></li><hr/>
+
+	<li><b>Nouns & semantics classes:</b> you can inspect verbal semantic classes
+	 <a href="../../vocabulary/nounsdash/{{ corpus }}"> access</a></li><hr/>
+
+	<li><b>Adjectives & semantics classes:</b> you can inspect verbal semantic classes
+	 <a href="../../vocabulary/adjsdash/{{ corpus }}"> access</a></li><hr/>
+
+	{% endif %}
+
+	</ul>
+
+	<h3>Files in corpus '{{ corpus }}'</h2>
+                <ul>
+			{% for key, value in files %}
+    				<li><a href="../../metadata/{{ value }}">{{ key }} </li>
+			{% endfor %}
+                </ul>
+	</div>
+
+</div>
+   
+{% endblock %}
+
+

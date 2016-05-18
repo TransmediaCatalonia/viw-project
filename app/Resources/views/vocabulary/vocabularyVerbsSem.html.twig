@@ -1,0 +1,149 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+		   		
+    		<div id="status">
+		<h3>List of Semantic Classes  (ordered by frequency):</h3>
+		{% if error %}
+   			 <p>{{ error }}</p>
+		{% endif %}
+		
+		<p>Choose a <b>Semantic Class</b> to see it in the <b>time line</b>.</p>
+		<form action="{{ path('vocabularyVerbsSemantic', { 'dir':dir }) }}" method="post">
+		    <div id="sub">{{ form_widget(form) }}<input type="submit" class="submit" value="go" /></div>
+		</form>
+
+		{% if dash %}
+		<table style="width: 100%; display: table-cell;"  >
+    		<tr> 
+    		  <td style="padding-left: 10px;">
+     		   <div id="chart_div" style="padding-top: 15px;"></div>
+      			</td>
+      			<td><div id="slider_div" style="padding-left: 5px"></div>     
+      			</td>
+    		</tr>
+  		</table>
+		{% endif %}
+		{% if scatter %}
+   			 <div id="scatter" style="width: 800px; height: 300px;"></div>	
+		{% endif %}
+
+		{% if pie %}
+			 <br/>
+   			 <div id="piechart" style="width: 800px; height: 400px;"></div>	
+		{% endif %}
+
+		
+
+		</div>
+	</div>
+
+{% endblock %}
+
+{% block javascripts %}
+{% if pie %}
+   			 
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+
+        var data = google.visualization.arrayToDataTable([ {{ pie|raw }} ]);
+         
+        var options = {
+          title: 'Verbs of {{ sem }}'
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+        chart.draw(data, options);
+
+
+
+
+var data2 = new google.visualization.DataTable();
+data2.addColumn('number', 'Frequency'); 
+data2.addColumn('number', 'Time'); 
+data2.addColumn({type:'string', role:'tooltip', 'p': {'html': true}}); // tooltip for first series
+
+
+
+        data2.addRows([
+
+{{ scatter|raw }}
+
+]);
+		
+        var options2 = {
+          title: 'Verbs of {{ sem }} in the Timeline',
+          hAxis: {title: 'TimeLine in msec.', viewWindow: {min: 0, max: {{ maxValue}} },format: 'short'},
+	  vAxis: {format: 'short'},
+          chartArea:{width:'80%',height:'400px'},
+          legend: {position: 'none'},
+	  tooltip: { textStyle: { fontName: 'Verdana', fontSize: 11 } }
+        };
+
+        var chart2 = new google.visualization.ScatterChart(document.getElementById('scatter'));
+        
+
+        chart2.draw(data2, options2);
+
+
+      }
+    </script>
+
+{% endif %}
+
+  
+
+{% if dash %}
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart', 'table', 'gauge', 'controls']});
+  google.charts.setOnLoadCallback(drawMainDashboard);
+
+  function drawMainDashboard() {
+    var dashboard = new google.visualization.Dashboard(
+        document.getElementById('dashboard_div'));
+  
+    var slider = new google.visualization.ControlWrapper({
+      'controlType': 'NumberRangeFilter',
+      'containerId': 'slider_div',
+      'options': {
+        'filterColumnIndex': 1,
+        'ui': {
+          'labelStacking': 'vertical',
+          'label': 'Filter by frequency:'
+        }
+      }
+    }); 
+        
+
+  var pie = new google.visualization.ChartWrapper({
+      'chartType': 'PieChart',
+      'containerId': 'chart_div',
+      'options': {
+        'width': 500,
+        'height': 300,
+        'legend': 'none',
+        'chartArea': {'left': 15, 'top': 15, 'right': 0, 'bottom': 0},
+        'pieSliceText': 'label'
+      },
+      'view': {'columns': [0, 1]}
+    });
+    
+    var data = google.visualization.arrayToDataTable([ {{ dash|raw }} ]);
+    dashboard.bind([slider], [pie]);
+    dashboard.draw(data);
+  }
+</script>
+
+
+{% endif %}
+
+{% endblock %}
+
+

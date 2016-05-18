@@ -1,0 +1,116 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+		<div id="status">
+                	<h3>Words/sentences countings in the {{ title }} corpus:</h3>
+		<center><p><b>(1) Number of words and sentences per paragraph:</b></p>
+		<table width="80%" style="background:#F5F5F5;">
+		<tr>	<td>Num of paragraphs</td><td>{{ all.Paragraphs }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Avg. words per paragraph</td><td>{{ all.Avg_WordsXpar }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Min. words per paragraph</td><td>{{ all.Min_WordsXpar }}</td>
+		</tr>
+		<tr>  	<td>Num of sentences</td><td>{{ all.Sentences }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Median words per paragraph</td><td>{{ all.Median_WordsXpar }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Max. words per paragraph</td><td>{{ all.Max_WordsXpar }}</td>
+		</tr>
+		<tr>	<td>Num of words</td><td>{{ all.Words }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Mode words per paragraph</td><td>{{ all.Mode_WordsXpar }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Range. words per paragraph</td><td>{{ all.Range_WordsXpar }}</td>
+		</tr>
+		</table>
+		<br/>
+		</center>
+				
+    		<div id="linechart_material_par" style="width: 900px; height: 500px;"></div>	
+
+			
+			<center><p><b>(2) Number of words per senteces:</b></p>
+		<table width="80%" style="background:#F5F5F5;">
+		<tr>	<td>Num of sentences</td><td>{{ all.Sentences }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Avg. words per sentence</td><td>{{ all.Avg_WordsXsentence }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Min. words per sentence</td><td>{{ all.Min_WordsXsentence }}</td>
+		</tr>
+		<tr>  	<td>Num of Words</td><td>{{ all.Words }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Median words per sentence</td><td>{{ all.Median_WordsXsentence }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Max. words per sentence</td><td>{{ all.Max_WordsXsentence }}</td>
+		</tr>
+		<tr>	<td>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Mode words per sentence</td><td>{{ all.Mode_WordsXsentence }}</td>
+			<td>&nbsp;&nbsp;</td>
+			<td>Range. words per sentence</td><td>{{ all.Range_WordsXsentence }}</td>
+		</tr>
+		</table>
+		<br/>
+		</center>
+    			<div id="linechart_material_sent" style="width: 900px; height: 500px;"></div>	
+		</div>
+	</div>
+</div>
+{% endblock %}
+
+
+
+{% block javascripts %}
+   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+     google.charts.load('current', {'packages':['line','table']});
+     google.charts.setOnLoadCallback(drawChart);
+
+
+      function drawChart() {
+
+	      var data = new google.visualization.DataTable();
+	      data.addColumn('number', 'paragraph');
+	      data.addColumn('number', 'sent. per paragraph');
+	      data.addColumn('number', 'words per paragraph');
+	      data.addRows([ {{ key|raw }} ]);
+	      var options = {
+		chart: {
+		  title: '',
+		  subtitle: ''
+		},
+		pointSize: 1,
+		width: 800,
+		height: 400,
+		legend : { position:"top"}
+      		};
+
+      		var chart = new google.charts.Line(document.getElementById('linechart_material_par'));
+     		chart.draw(data, options);
+     	
+
+	      var data2 = new google.visualization.DataTable();
+	      data2.addColumn('number', 'sentence');
+	      data2.addColumn('number', 'words per sent.');
+
+	      data2.addRows([ {{ key2|raw }} ]);
+	      var options2 = {
+		
+		legend: {position:'top'},
+		pointSize: 1,
+		width: 800,
+		height: 400,
+		
+      		};
+
+      		var chart2 = new google.charts.Line(document.getElementById('linechart_material_sent'));
+     		chart2.draw(data2, options2);
+     	 }
+    </script>
+{% endblock %}
+
+

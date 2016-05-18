@@ -1,0 +1,18 @@
+Paragraphs:	35
+Sentences:	84
+Words:	724
+SentencesXpar:	[3, 4, 4, 2, 1, 2, 1, 1, 6, 1, 2, 3, 6, 4, 3, 1, 1, 3, 1, 1, 1, 1, 1, 4, 4, 2, 1, 1, 1, 1, 2, 2, 2, 1, 10]
+WordsXpar:	[32, 38, 41, 17, 13, 22, 7, 4, 67, 21, 15, 34, 69, 45, 29, 8, 5, 39, 5, 3, 5, 10, 11, 29, 27, 13, 5, 4, 2, 2, 9, 12, 15, 5, 61]
+Avg_WordsXpar:	20.6857142857
+Median_WordsXpar:	13
+Min_WordsXpar:	2
+Max_WordsXpar:	69
+Mode_WordsXpar:	5
+Range_WordsXpar:	67
+WordsXsentence:	[7, 14, 11, 3, 7, 13, 15, 19, 4, 9, 9, 3, 14, 13, 14, 8, 7, 4, 8, 13, 13, 13, 9, 11, 21, 6, 9, 16, 12, 6, 12, 8, 11, 11, 13, 14, 3, 8, 11, 23, 3, 17, 9, 8, 5, 18, 11, 10, 5, 3, 5, 10, 11, 7, 9, 6, 7, 3, 14, 5, 5, 8, 5, 5, 4, 2, 2, 2, 7, 3, 9, 8, 7, 5, 11, 5, 5, 5, 1, 5, 7, 6, 5, 12]
+Avg_WordsXsentence:	8.63095238095
+Median_WordsXsentence:	8.0
+Min_WordsXsentence:	1
+Max_WordsXsentence:	23
+Mode_WordsXsentence:	5
+Range_WordsXsentence:	22

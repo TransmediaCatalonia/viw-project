@@ -1,0 +1,59 @@
+AD-en	2900	14830	11930	De dia, en una platja, un home corre. En sentit contrari, una parella, ben abrigada, passeja un gos gran. El gos s'atura per olorar alguna cosa sota la sorra. Ara, segueix els seus amos.
+AD-en	20950	28800	7850	Un cotxe d'alta gama arriba a la platja. Dins hi ha un home d'uns 40 anys, ros, alt i amb barba, que parla per telèfon.
+AD-en	52660	58790	6130	L'home penja i mira cap al mar. Treu unes ulleres de sol de la butxaca interior de la jaqueta i se les posa.
+AD-en	65069	70220	5151	Sobreescrit en pantalla: James, l'empresari. A la platja, el James truca per telèfon.
+AD-en	92110	96080	3970	Sobre la sorra, el James, en roba interior, es gita a la tovallola.
+AD-en	99060	106930	7870	El James, interpretat per James Humber, es passa les mans pels ulls. Ara, deixa caure els braços als costats i toca la sorra amb les mans.
+AD-en	111180	112229	1049	El James s'aixeca.
+AD-en	141670	143410	1740	El James mira al seu voltant.
+AD-en	158040	160050	2010	El James penja i s'aixeca del tot.
+AD-en	163110	165020	1910	S'acosta a la vora del mar i camina.
+AD-en	169090	172890	3800	Ara se n'allunya. Mira lleugerament cap a dalt, estranyat.
+AD-en	177030	178170	1140	El James s'atura.
+AD-en	179970	180650	680	Es gira.
+AD-en	184040	186150	2110	S'atura i es torna a girar, confús.
+AD-en	190050	192350	2300	Mira al seu voltant, estranyat, i s'acosta al mar.
+AD-en	196250	198360	2110	Ara, es torna a allunyar de la vora del mar.
+AD-en	201250	204290	3040	Mira lleugerament cap a dalt, arrufant les celles.
+AD-en	207960	211730	3770	S'apropa a la seva tovallola i s'ajup per agafar la camisa. Se la posa.
+AD-en	219080	222430	3350	En un parc, el James, ja vestit, camina entre els arbres.
+AD-en	226240	230430	4190	Arriba a un turó i puja per un camí petit de terra, envoltat de vegetació baixa.
+AD-en	235079	242330	7251	Al parc, un home d'uns 65 anys, de cabells i barba canosos i desendreçats, sosté un got de cafè. Somriu, resignat.
+AD-en	249010	251970	2960	Diu que no amb el cap i treu el tap de plàstic del got de cafè.
+AD-en	255210	257930	2720	Es mira el cafè una estona i, finalment, beu.
+AD-en	265160	274080	8920	Sobreescrit en pantalla: Rick, el jubilat. El Rick, interpretat per Rick Zingale, deixa el tap de plàstic al banc del costat i continua bevent.
+AD-en	278130	280230	2100	El Rick deixa el got i fa palmes.
+AD-en	285210	289340	4130	Treu el mòbil de la butxaca de darrere dels pantalons. Busca als contactes.
+AD-en	295100	298130	3030	S'atura a la "C" i truca el Creig Anderson.
+AD-en	329520	331740	2220	El Rick s'estranya i mira cap a dalt.
+AD-en	380360	381510	1150	Arrufa les celles.
+AD-en	397740	401380	3640	El Rick guarda el telèfon i camina pel parc sense deixar de mirar cap a dalt.
+AD-en	405070	413460	8390	El got continua al banc. El Rick marxa. Asseguda a un escriptori, una noia d'uns 18 anys i cabells arrissats treballa amb l'ordinador.
+AD-en	418060	420800	2740	Sobreescrit en pantalla: Jess, l'estudiant.
+AD-en	422120	423570	1450	La Jess busca el mòbil.
+AD-en	426190	427720	1530	Busca sota uns papers.
+AD-en	429140	430140	1000	Agafa el mòbil.
+AD-en	494370	500440	6070	La Jess penja i mira cap a dalt, estranyada. Es toca els cabells i mira cap a l'altre costat. Ara, abaixa la mirada.
+AD-en	503160	504210	1050	La Jess s'esglaia.
+AD-en	506090	506820	730	S'aixeca.
+AD-en	509110	515810	6700	Agafa l'abric i marxa. A l'exterior, la Jess, interpretada per Jessica Álvarez, mira a totes bandes.
+AD-en	517190	519250	2060	Ara puja per un camí ple de vegetació.
+AD-en	522130	522770	640	S'atura.
+AD-en	525100	527760	2660	La Jess es gira de cop i marxa entre la vegetació.
+AD-en	531060	534970	3910	En una gran esplanada, el James, el Rick i la Jess miren al seu voltant.
+AD-en	538160	539880	1720	La Jess s'acosta al Rick i al James.
+AD-en	555190	558260	3070	Els tres miren cap a dalt i al seu voltant, confusos.
+AD-en	594180	595620	1440	S'arronsa d'espatlles.
+AD-en	642150	643210	1060	El Rick se'ls mira.
+AD-en	652010	653170	1160	Els mira fixament.
+AD-en	684910	686530	1620	El James aixeca la mirada.
+AD-en	700610	701730	1120	Els tres es miren.
+AD-en	707540	711210	3670	El James mira el Rick, ell mira la Jess i fa que no amb el cap.
+AD-en	718150	719560	1410	Miren al seu voltant.
+AD-en	723410	724490	1080	El Rick mira al cel.
+AD-en	736600	741700	5100	El James fa un gest amb el cap. El Rick el segueix. La Jess aixeca les celles.
+AD-en	745020	748670	3650	La Jess corre cap a ells. El James li passa el braç per l'espatlla.
+AD-en	751100	753180	2080	Tots tres caminen cap a la vegetació.
+AD-en	756010	760240	4230	De nit, en una terrassa, una dona estén la roba mentre parla per telèfon.
+AD-en	762240	777780	15540	Sobreescrit en pantalla: "No, encara no l'he estès tota. M'he d'afanyar a acabar. No, però de què em parles? Sí, esclar, ja he fet les maletes..." Mira el seu voltant, estranyada. Sobreescrit en pantalla: "Escolta, ara no puc parlar. T'he de deixar".
+AD-en	780030	787190	7160	Sobreescrit en pantalla: Zoé, la següent. Sobre fons blanc, el títol seguit d'una ratlla: Què passa mentre...

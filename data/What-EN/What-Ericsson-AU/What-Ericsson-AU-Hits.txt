@@ -1,0 +1,35 @@
+AD-en	4530	13890	9360	A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which stops to sniff at something in the sand before trotting onwards.
+AD-en	19030	21880	2850	A title on screen. What Happens While...
+AD-en	24120	29080	4960	A bearded man in a suit parks his expensive car by the promenade and gets out while on the phone.
+AD-en	52910	58870	5960	Putting his phone away, he takes his sunglasses from his chest pocket and sighs wearily as he puts them on.
+AD-en	65710	70710	5000	Onscreen. James - the businessman. He's carrying a stripy beach bag.
+AD-en	94090	97150	3060	Bare-chested down on the beach, he flops onto a towel.
+AD-en	100030	106850	6820	Closing his eyes, he rubs his face wearily, then runs his left hand over the sand, letting some of it trickle through his fingers.
+AD-en	141850	143340	1490	He looks around in confusion.
+AD-en	158120	169450	11330	Dropping his phone, he gets up and walks along the seashore in his swimming trunks, scanning his surroundings for the source of the sound. Behind him, city buildings across the water blur against the hazy horizon.
+AD-en	179000	181200	2200	James turns back towards his towel.
+AD-en	188100	193380	5280	Walking back towards the ocean, he looks around him again with an increasingly puzzled expression.
+AD-en	199230	207890	8660	Heading back up the beach, he returns to his belongings and picks up his grey business shirt, still looking around in confusion as he pulls the sleeves over his arms.
+AD-en	219560	227500	7940	Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.
+AD-en	234010	242040	8030	Two hands holding a takeaway coffee cup. They belong to a thick-set man with a greying beard and fuzzy grey hair. His large eyes look about him.
+AD-en	250140	256160	6020	He taps the lid of his coffee cup before taking it off and smelling the black coffee. He sips it with a look of resignation.
+AD-en	266190	282260	16070	Rick - the retiree. He's sitting on a park bench in dappled shade, wearing an olive-green vest that exposes the chain around his neck and the tattoos on his arm. He taps his right leg restlessly as he takes another sip of coffee, then he puts the cup aside and claps his hands aimlessly.
+AD-en	287000	293540	6540	Taking a phone from his back pocket, he searches his list of contacts before choosing the number of someone called Craig Anderson.
+AD-en	329880	331110	1230	Rick frowns at the sky.
+AD-en	380270	381280	1010	He frowns again.
+AD-en	398010	403270	5260	He leaves his coffee behind as he pockets his phone and walks through the park, scanning the air above his head.
+AD-en	411130	416580	5450	A young woman with springy red-brown curls is studying at her laptop. Jess - the student.
+AD-en	422710	424370	1660	She searches her cluttered desk.
+AD-en	428600	429740	1140	She finds her phone.
+AD-en	494650	497220	2570	Jess looks around her with a puzzled expression.
+AD-en	511530	531070	19540	Outside, dressed in a warm jacket, jeans and a scarf, Jess scans her surroundings, then climbs up an overgrown hillside with the sun glinting on her long, springy hair. She pauses to look around, then hurries onward. At the top of the ridge is a clearing, where James and Rick are standing on an expanse of sandy dirt. Jess joins them.
+AD-en	540260	541650	1390	They all look mystified.
+AD-en	556140	558650	2510	They all look baffled by the disembodied voice.
+AD-en	594910	595540	630	He shrugs.
+AD-en	708140	710090	1950	With a shrug, Rick shakes his head.
+AD-en	725390	726140	750	James smiles.
+AD-en	737630	741010	3380	Rick follows James, but Jess lingers behind, looking pensive.
+AD-en	743610	751540	7930	She jogs after the others, and James puts his arm around her as she walks between him and Rick back to the overgrown ridge at the edge of the clearing.
+AD-en	758640	773630	14990	Blackout, then a woman with black dreadlocks hanging washing on a rooftop. She says into her phone, "No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready..."
+AD-en	774000	782230	8230	Looking about with a frown she says, "Listen, I cannot talk right now. I have to leave you." Onscreen: Zoe, the next one.
+AD-en	784110	785700	1590	'What Happens While...'

@@ -1,0 +1,45 @@
+AD-en	3040	16690	13650	De día. Frente a un paseo marítimo... El cielo, luminoso, está cubierto de nubes blancas. Un hombre hace "footing". Una pareja pasea con un gran perro. Sobre fondo blanco.
+AD-en	22020	26040	4020	Un coche blanco, de gama alta, se detiene frente al paseo marítimo.
+AD-en	27070	30810	3740	El conductor se baja con un maletín, mientras habla con su móvil.
+AD-en	43790	44820	1030	Abre el maletero.
+AD-en	52920	58760	5840	Cuelga. Ha dejado el maletín y ha cogido una bolsa de playa. Se pone unas gafas de sol.
+AD-en	65670	68130	2460	Sobreimpreso: James el empresario
+AD-en	69000	69880	880	Llama con su móvil.
+AD-en	93190	98370	5180	Se ha quitado el traje y solo lleva un bañador. Se tumba sobre una toalla en la arena.
+AD-en	100820	103970	3150	Se lleva las manos a los ojos... con gesto cansado...
+AD-en	112400	113590	1190	Se incorpora y contesta 00:02:22
+AD-en	142050	143170	1120	Mira a su alrededor.
+AD-en	157820	169620	11800	Se levanta... y camina por la arena. Está sólo en la playa. James tiene unos 40 años, cabello corto pelirrojo y barba, también corta, del mismo color.
+AD-en	179110	183810	4700	Extrañado, mira en todas direcciones buscando el origen del enigmático sonido.
+AD-en	187080	196840	9760	Se aproxima hacia la orilla... gira... y regresa hacia sus pertenencias... Coge su ropa y vuelve a vestirse con su traje, ahora sin corbata.
+AD-en	215110	216510	1400	Camina bajo una arboleda.
+AD-en	222940	225990	3050	Sube por un camino de tierra hacia lo alto de un pequeño monte.
+AD-en	231800	237440	5640	En otro lugar, un hombre de unos sesenta años está sentado con un vaso entre las manos.
+AD-en	239560	242390	2830	Mira al cielo... y esboza una sonrisa.
+AD-en	248160	251780	3620	Con gesto pensativo, mira el vaso, abre la tapa que lo cubre...
+AD-en	253720	255420	1700	... y da un pequeño sorbo de café.
+AD-en	286000	287000	1000	Tiene el cabello largo, canoso y despeinado. Luce barba del mismo color y grandes ojeras. Su aspecto general es bastante desaliñado. Viste pantalones azules y camiseta de tirantes verde. Está sentado en un parque público.
+AD-en	291000	295000	4000	Saca su teléfono móvil... y busca un nombre entre los contactos del mismo.
+AD-en	295610	297040	1430	Llama a Craig Anderson.
+AD-en	380530	380960	430	Alza la vista.
+AD-en	398160	403260	5100	Cuelga... Se levanta, deja el café sobre el banco y comienza a caminar.
+AD-en	407970	415530	7560	En una casa. Una joven de unos 20 años, luce melena pelirroja, larga y rizada. Sentada frente a un portátil.
+AD-en	418200	420820	2620	Sobreimpreso: JESS, LA ESTUDIANTE.
+AD-en	422920	424040	1120	Rebusca sobre la mesa.
+AD-en	428050	429040	990	Contesta a su móvil.
+AD-en	494570	496800	2230	Cuelga y mira sorprendida hacia las paredes.
+AD-en	506910	507560	650	Se levanta...
+AD-en	510060	515430	5370	...y sale de la casa... Camina entre maleza subiendo hacia lo alto del pequeño monte.
+AD-en	521050	522820	1770	Llega hasta una gran explanada.
+AD-en	528980	534450	5470	Los otros dos hombres ya están allí... Todos miran hacia el cielo desconcertados.
+AD-en	556690	559176	2486	Los tres siguen mirando extrañados.
+AD-en	707566	710244	2678	Los tres se miran entre sí, negando con la cabeza.
+AD-en	737266	743788	6522	Rick sigue a James... Jess sonríe pensativa... y va tras ellos.
+AD-en	746633	752544	5911	Los tres juntos caminando se alejan de la explanada... La imagen corta a negro.
+AD-en	755388	761233	5845	En una terraza. Una mujer de unos 30 años de raza negra tiende la ropa mientras habla por móvil.
+AD-en	762700	765477	2777	"NO, NO HE TERMINADO DE TENDERLA. TENGO QUE DARME PRISA." 
+AD-en	768588	772066	3478	"NO, ¿DE QUÉ ME HABLAS? SÍ, CLARO. LAS MALETAS ESTÁN A PUNTO..." 
+AD-en	775300	777255	1955	"OYE, AHORA NO PUEDO HABLAR. TENGO QUE DEJARTE." 
+AD-en	780066	782650	2584	Sobreimpreso: ZOÉ, LA PRÓXIMA.
+AD-en	784871	787478	2607	La imagen se congela. Sobre fondo blanco: 
+AD-en	788055	788975	920	¿QUÉ PASA MIENTRAS...?

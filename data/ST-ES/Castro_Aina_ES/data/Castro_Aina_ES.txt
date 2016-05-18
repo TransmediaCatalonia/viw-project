@@ -1,0 +1,42 @@
+00:00:04.01	00:00:08.03	En una playa un hombre corre y una pareja pasea con su perro.
+00:00:29.21	00:00:31.04	Un coche aparca delante de la playa.
+00:00:53.00	00:01:06.22	El conductor es un hombre de unos treinta y tantos años que lleva un traje con corbata.  Se guarda el móvil en un bolsillo de la americana y saca unas gafas de sol del otro.  James, el empresario.
+00:01:07.22	00:01:10.10	James va andando con una bolsa de playa de rayas al hombro y el teléfono a la oreja.
+00:01:34.00	00:01:40.11	En la playa sobre la arena James se tumba en calzoncillos sobre la toalla.
+00:02:22.08	00:02:24.19	Mira a los lados y revuelve sus cosas.
+00:02:41.04	00:02:47.11	Se levanta y camina por la arena mirando hacia arriba.
+00:02:57.01	00:03:05.07	Vuelve hacia sus cosas y sigue mirando a lo lejos.
+00:03:29.08	00:03:31.03	Se viste.
+00:03:39.11	00:03:43.08	Ahora vestido camina por un paseo con árboles.
+00:03:48.01	00:03:50.11	En un camino de tierra rodeado de matorrales, James sube una cuesta.
+00:03:54.10	00:04:00.03	Un hombre de unos sesenta años con el pelo y la barba canosos está sentado en un banco.
+00:04:13.04	00:04:19.10	Lleva una camiseta sin mangas verde, bebe un café y mira los árboles.
+00:04:25.01	00:04:26.21	Rick, el jubilado.
+00:04:31.08	00:04:37.05	Inquieto, se bebe el café y mira la lejanía.
+00:04:44.08	00:04:49.14	Deja el café en el banco de al lado. Saca el móvil y empieza a mirar sus contactos.
+00:04:56.12	00:04:59.03	Llama a un amigo.
+00:05:30.15	00:05:33.01	Frunce el ceño y mira a los lados.
+00:06:20.03	00:06:22.07	Extrañado mira hacia arriba y a los lados.
+00:06:39.04	00:06:42.08	Se va andando y deja el café.
+00:06:51.07	00:06:55.04	Una chica de unos 18 años, con el pelo rizado, chaqueta y pañuelo.
+00:06:58.08	00:07:00.11	Jess, la estudiante.
+00:08:15.08	00:08:17.11	Mira a los lados sorprendida.
+00:08:31.18	00:08:37.06	Fuera, con el abrigo puesto Jess va andando entre matorrales.
+00:08:52.06	00:08:55.01	Llega a un campo donde están James y Rick.
+00:09:01.17	00:09:03.06	Una voz salida de la nada habla.
+00:09:18.22	00:09:21.06	Los tres miran hacia todos lados.
+00:11:50.02	00:11:52.12	Se miran y niegan con la cabeza.
+00:12:17.17	00:12:19.00	Rick se va con James.
+00:12:25.01	00:12:26.24	Jess los sigue.
+00:12:32.21	00:12:42.01	Una mujer negra tiende la ropa y habla por teléfono.
+00:12:42.21	00:12:46.08	No, no he terminado de tenderla. Tengo que darme prisa.
+00:12:48.03	00:12:52.10	No, ¿de qué me hablas? Sí, claro, las maletas están a punto…
+00:12:55.01	00:12:57.12	Oye, ahora no puedo hablar. Tengo que dejarte.
+00:12:59.21	00:13:01.10	Zoé, la próxima.
+00:13:04.03	00:13:06.19	¿Qué pasa mientras…?
+00:13:09.04	00:13:26.09	Dirigido por Núria Nia.  Director de fotografía: Albert Badia.  Diseñador de sonido: Enrique G. Bermejo.  Maquilladora: Laia Teixidó.  Ayudante de dirección: Marta Aguadé Forrellad.  Editado por Núria Nia.
+00:13:26.12	00:14:02.04	Producido por Transmedia Catalonia y La panorámica.cat James: James Humber Rick: Rick Zingale Jess: Jessica Alvarez Zoé: Adeline Flaun Idea original de Marçal Font y Núria Nia.  Guión de Núria Nia.  Estudio de sonido: Kamikaze estudi.  Música de THE IMG- Time doesn’t wait y CC de 4.0 Estudio de edición: LaPanoràmica.cat
+00:14:06.13	00:14:22.15	Este corto se creó para el proyecto Visual into Words dirigido por Anna Matamala (UAB) y financiado por el Ministerio español de economía y competitividad (FFI2015-62522-ERC).  Se cofinanció con el proyecto FFI2012-39056-C02-01, dirigido por Pilar Orero (UAB) y con financiación del gobierno catalán (2014SGR027).
+00:14:22.18	00:14:28.12	Agradecimiento especial a Anna Matamala, Pilar Orero, Carme Campos, Ramón García, Marçal Font, Sàgar Font, al reparto y al equipo.
+00:14:28.16	00:14:30.16	Filmado y editado en Barcelona. Diciembre de 2015.
+00:14:33.04	00:14:35.21	Disfruta de tu tiempo.

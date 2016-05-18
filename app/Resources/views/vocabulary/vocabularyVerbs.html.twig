@@ -1,0 +1,78 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+		<div id="status">	
+			<h3>Verbs' countings for {{ title }}:</h3>
+		
+    		<div id="columnchart" style="width: 800px; height: 400px;"></div>	
+		
+		<div id="columnchart2" style="width: 800px; height: 400px;"></div>	
+		
+		<div id="columnchart3" style="width: 800px; height: 400px;"></div>	
+		
+	</div>
+</div>
+{% endblock %}
+
+
+
+{% block javascripts %}
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load("current", {packages:['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      
+	var data = google.visualization.arrayToDataTable([ {{ key|raw }} ]);
+      
+      	var options = {
+	
+        title: 'Number of verbs per provider',
+        subtitle: 'Given as total number of occurrences and number of unique verbs',
+        width: 800,
+        height: 400,
+        bar: {groupWidth: '30%'},
+        colors: ['#336699','#FF9900'],
+      	};
+      	var chart = new google.visualization.ColumnChart(document.getElementById('columnchart'));
+      	chart.draw(data, options);
+
+
+	var data2 = google.visualization.arrayToDataTable([ {{ key2|raw }} ]);
+      
+      	var options2 = {
+	
+        title: "Verbs' frequency (for the 20 most frequent verbs)",
+        subtitle: 'Given as total number of occurrences and number of unique verbs',
+        width: 800,
+        height: 400,
+        legend: {position: 'none'},
+	colors: ['#336699','#FF9900'],
+      	};
+      	var chart2 = new google.visualization.ColumnChart(document.getElementById('columnchart2'));
+      	chart2.draw(data2, options2);
+
+
+	var data3 = google.visualization.arrayToDataTable([ {{ key3|raw }} ]);
+      
+      	var options3 = {
+	
+        title: "Semantic class frequency (for the 20 most frequent verbs)",
+        subtitle: 'Given as total number of occurrences and number of unique verbs',
+        width: 800,
+        height: 400,
+        legend: {position: 'none'},
+	colors: ['#336699','#FF9900'],
+      	};
+      	var chart3 = new google.visualization.ColumnChart(document.getElementById('columnchart3'));
+      	chart3.draw(data3, options3);
+  }
+  </script>
+
+ 
+{% endblock %}
+
+

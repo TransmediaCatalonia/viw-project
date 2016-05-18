@@ -1,0 +1,67 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+		<div id="status">
+                	<h3>Density Graph ({{ type }}) for {{ title }}:</h3>
+			{% if mean is defined %}
+			<br/>
+			<center>
+			<table style="background:#F5F5F5;">
+				<tr>
+				<td>Mean {{ type }}</td><td> {{ mean }}</td>
+				<td>&nbsp;&nbsp;</td>
+				<td>Min {{ type }}</td><td> {{ min }}</td>
+				<td>&nbsp;&nbsp;</td>
+				<td>Variance</td><td> {{ var }}</td>
+				</tr>
+				<tr>
+				<td>Median {{ type }}</td><td> {{ median }}</td>
+				<td>&nbsp;&nbsp;</td>
+				<td>Max {{ type }}</td><td> {{ max }}</td>
+				<td>&nbsp;&nbsp;</td>
+				<td>Standard deviation</td><td> {{ std }}</td>
+				</tr>
+			</table>
+			</center>
+			{% endif %}
+    			<div id="columnchart_material" style="width: 900px; height: 500px;"></div>	
+		</div>
+	</div>
+
+{% endblock %}
+
+
+{% block javascripts %}
+    
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          {{ key|raw }}
+        ]);
+
+        var options = {
+          title: 'Utterances in timeline ({{ type }})',
+          hAxis: {title: 'TimeLine', minValue: 0, format: 'short'},
+	  vAxis: {format: 'short'},
+	  chartArea:{width:'80%',height:'500px'},
+          legend: 'none'
+        };
+
+        var chart = new google.visualization.ScatterChart(document.getElementById('columnchart_material'));
+
+        chart.draw(data, options);
+      }
+    </script>
+
+
+
+{% endblock %}
+
+

@@ -1,0 +1,615 @@
+<?xml version="1.0"?>
+
+<records>
+
+<corpus id="What-EN">
+  <title>What-EN</title>
+  <description>The What-EN corpus contains professional audio descriptions in English for the short movie "What happens While".</description>
+  <language>EN</language>
+  <movie_url>https://ddd.uab.cat/record/147267</movie_url>
+</corpus>
+
+<corpus id="What-ES">
+  <title>What-ES</title>
+  <description>The What-ES corpus contains professional audio descriptions in Spanish for the short movie "What happens While".</description>
+  <language>ES</language>
+  <movie_url>https://ddd.uab.cat/record/147267</movie_url>
+</corpus>
+
+<corpus id="What-CA">
+  <title>What-CA</title>
+  <description>The What-CA corpus contains professional audio descriptions in Catalan for the short movie "What happens While".</description>
+  <language>CA</language>
+  <movie_url>https://ddd.uab.cat/record/147267</movie_url>
+</corpus>
+
+<corpus id="ST-ES">
+  <title>ST-ES</title>
+  <description>The ST-ES corpus contains audio descriptions in Spanish for the short movie "What happens While" made by students.</description>
+  <language>ES</language>
+  <movie_url>https://ddd.uab.cat/record/147267</movie_url>
+</corpus>
+
+<corpus id="ST-CA">
+  <title>ST-CA</title>
+  <description>The ST-CA corpus contains audio descriptions in Catalan for the short movie "What happens While" made by students.</description>
+  <language>CA</language>
+  <movie_url>https://ddd.uab.cat/record/147267</movie_url>
+</corpus>
+
+<record id="BTI-UK">
+  <title>BTI-UK version of What Happens While</title>
+  <alternative>BTI-UK version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>BTI</creator>
+  <language>EN-UK</language>
+  <language>EN</language>
+  <source>What-EN/BTI-UK</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-EN</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+
+<record id="What-Able-NZ">
+  <title>Able-NZ version of What Happens While</title>
+  <alternative>Able-NZ version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Able</creator>
+  <language>EN-NZ</language>
+  <language>EN</language>
+  <source>What-EN/What-Able-NZ</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-EN</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-BridgeM-US">
+  <title>BridgeM-US version of What Happens While</title>
+  <alternative>BridgeM-US version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>BridgeM-US</creator>
+  <language>EN-US</language>
+  <language>EN</language>
+  <source>What-EN/What-BridgeM-US</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-EN</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+
+<record id="What-Deluxe-UK">
+  <title>Deluxe-UK version of What Happens While</title>
+  <alternative>Able-NZ version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Deluxe</creator>
+  <language>EN-UK</language>
+  <language>EN</language>
+  <source>What-EN/What-Deluxe-UK</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-EN</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-Ericsson-AU">
+  <title>Ericsson-AU version What Happens While</title>
+  <alternative>Ericsson-AU version What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Ericsson</creator>
+  <language>EN-AU</language>
+  <language>EN</language>
+  <source>What-EN/What-Ericsson-AU</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-EN</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+
+<record id="What-Ericsson-UK">
+  <title>Ericsson-UK version What Happens While</title>
+  <alternative>Ericsson-AU version What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Ericsson</creator>
+  <language>EN-UK</language>
+  <language>EN</language>
+  <source>What-EN/What-Ericsson-UK</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-EN</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-Mennell-CA">
+  <title>Mennell-CA version of What Happens While</title>
+  <alternative>Mennell-CA version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Mennell</creator>
+  <language>EN-CA</language>
+  <language>EN</language>
+  <source>What-EN/What-Mennell-CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-EN</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-MindsEye-UK">
+  <title>MindsEye version of What Happens While</title>
+  <alternative>MindsEye version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>MindsEye</creator>
+  <language>EN-UK</language>
+  <language>EN</language>
+  <source>What-EN/What-MindsEye-UK</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-EN</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-SDI-Media-UK">
+  <title>SDI-Media-UK version of What Happens While</title>
+  <alternative>SDI-Media-UK version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>SDI-Media-UK</creator>
+  <language>EN-UK</language>
+  <language>EN</language>
+  <source>What-EN/What-SDI-Media-UK</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-EN</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+
+<record id="What-Snyder-US">
+  <title>Snyder-US version of What Happens While</title>
+  <alternative>Snyder-US version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Snyder</creator>
+  <language>EN-US</language>
+  <language>EN</language>
+  <source>What-EN/What-Snyder-US</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-EN</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+
+
+<record id="What-Aptent-ES">
+  <title>Aptent version of What Happens While</title>
+  <alternative>Aptent version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Aptent</creator>
+  <language>ES</language>
+  <source>What-ES/Aptent-ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Aristia-ES">
+  <title>Aristia version of What Happens While</title>
+  <alternative>Aristia version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Aristia</creator>
+  <language>ES</language>
+  <source>What-ES/Aristia-ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-CEIAF-ES">
+  <title>CEIAF version of What Happens While</title>
+  <alternative>CEIAF version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>CEIAF</creator>
+  <language>ES</language>
+  <source>What-ES/CEIAF-ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-CineAccesibleNavarra-ES">
+  <title>CineAccesibleNavarra version of What Happens While</title>
+  <alternative>CineAccesibleNavarra-ES version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>CineAccesibleNavarra</creator>
+  <language>ES</language>
+  <source>What-ES/CineAccesibleNavarra-ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-EdSol-ES">
+  <title>EdSolProducciones version of What Happens While</title>
+  <alternative>EdSolProducciones version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>EdSolProducciones</creator>
+  <language>ES</language>
+  <source>What-ES/EdSolProducciones-ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-Ericsson-ES">
+  <title>Ericsson version of What Happens While</title>
+  <alternative>Ericsson version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Ericsson</creator>
+  <language>ES</language>
+  <source>What-ES/Ericsson-ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-K-Gala-ES">
+  <title>K-Gala version of What Happens While</title>
+  <alternative>K-Gala version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>K-Gala</creator>
+  <language>ES</language>
+  <source>What-ES/K-Gala-ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-SDI-Media-ES">
+  <title>SDI-Media- version of What Happens While</title>
+  <alternative>SDI-Media- version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>SDI-Media-</creator>
+  <language>ES</language>
+  <source>What-ES/SDI-Media-ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-Sonidos-ES">
+  <title>Sonidos version of What Happens While</title>
+  <alternative>Sonidos version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Sonidos</creator>
+  <language>ES</language>
+  <source>What-ES/Sonidos-ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-Tragora-ES">
+  <title>Tragora version of What Happens While</title>
+  <alternative>Tragora version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Tragora</creator>
+  <language>ES</language>
+  <source>What-ES/Tragora-ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+
+<record id="What-AccessFriendly-CA">
+  <title>AccessFriendly Catalan version of What Happens While</title>
+  <alternative>AccessFriendly Catalan version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>AccessFriednly</creator>
+  <language>CA</language>
+  <source>What-CA/AccessFriendly-CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-Aptent-CA">
+  <title>Aptent Catalan version of What Happens While</title>
+  <alternative>Aptent Catalan version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Aptent</creator>
+  <language>CA</language>
+  <source>What-CA/Aptent-CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="What-DescriptiveFerrer-CA">
+  <title>DescriptiveFerrer Catalan version of What Happens While</title>
+  <alternative>DescriptiveFerrer Catalan version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>DescriptiveFerrer</creator>
+  <language>CA</language>
+  <source>What-CA/DescriptiveFerrer-CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+
+
+
+<record id="Castro_Aina_ES">
+  <title>Aina Castro's audiodescription of What Happens While</title>
+  <alternative>Aina Castro's audiodescription of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Aina Castro</creator>
+  <language>ES</language>
+  <source>ST-ES/Castro_Aina_ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Fuente_Virginia_ES">
+  <title>Virginia Fuente's audiodescription of What Happens While</title>
+  <alternative>Virginia Fuente's audiodescription of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Virginia Fuente</creator>
+  <language>ES</language>
+  <source>ST-ES/Fuente_Virginia_ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Garcia_Isabel_ES">
+  <title>Isabel García's audiodescription of What Happens While</title>
+  <alternative>Isabel García's audiodescription of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Isabel García</creator>
+  <language>ES</language>
+  <source>ST-ES/Garcia_Isabel_ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Jimenez_Jose_ES">
+  <title>José Jiménez' audiodescription of What Happens While</title>
+  <alternative>José Jiménez' audiodescription of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Jose Jimenez</creator>
+  <language>ES</language>
+  <source>ST-ES/Jimenez_Jose_ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Marco_Carmen_ES">
+  <title>Carmen Marco's audiodescription of What Happens While</title>
+  <alternative>Carmen Marco's audiodescription of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Carmen Marco</creator>
+  <language>ES</language>
+  <source>ST-ES/Marco_Carmen_ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="MartindelRio_Barbara_ES">
+  <title>Bárbara Martín del Río's audiodescription of What Happens While</title>
+  <alternative>Bárbara Martín del Río's audiodescription of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Bárbara Martín del Río</creator>
+  <language>ES</language>
+  <source>ST-ES/MartindelRio_Barbara_ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Mateo_Antonio_ES">
+  <title>Antonio Mateo's audiodescription of What Happens While</title>
+  <alternative>Antonio Mateo's audiodescription of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Antonio Mateo</creator>
+  <language>ES</language>
+  <source>ST-ES/Mateo_Antonio_ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Palacios_Raquel_ES">
+  <title>Raquel Palacio's audiodescription of What Happens While</title>
+  <alternative>Raquel Palacio's audiodescription of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Raquel Palacio</creator>
+  <language>ES</language>
+  <source>ST-ES/Palacios_Raquel_ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Roldan_Marina_ES">
+  <title>Marina Roldán's audiodescription of What Happens While</title>
+  <alternative>Marina Roldán's audiodescription of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Marina Roldán</creator>
+  <language>ES</language>
+  <source>ST-ES/Roldan_Marina_ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Rubio_Jennifer_ES">
+  <title>Jennifer Rubio's audiodescription of What Happens While</title>
+  <alternative>Jennifer Rubio's audiodescription of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Jennifer Rubio</creator>
+  <language>ES</language>
+  <source>ST-ES/Rubio_Jennifer_ES</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-ES</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+
+
+<record id="Altadill_Judit_CA">
+  <title>Judit Altadill's audiodescription of What Happens While</title>
+  <subject>drama short movie</subject>
+  <creator>Judit Altadill</creator>
+  <language>CA</language>
+  <source>ST-CA/Altadill_Judit_CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Arderius_Elvira_CA">
+  <title>Elvira Arderius's audiodescription of What Happens While</title>
+  <subject>drama short movie</subject>
+  <creator>Elvira Arderius</creator>
+  <language>CA</language>
+  <source>ST-CA/Arderius_Elvira_CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Beneito_Satorres_CA">
+  <title>Beneito Satorres' audiodescription of What Happens While</title>
+  <subject>drama short movie</subject>
+  <creator>Beneito Satorres</creator>
+  <language>CA</language>
+  <source>ST-CA/Beneito_Satorres_CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Bonjoch_Sara_CA">
+  <title>Sara Bonjoch's audiodescription of What Happens While</title>
+  <subject>drama short movie</subject>
+  <creator>Sara Bonjoch</creator>
+  <language>CA</language>
+  <source>ST-CA/Bonjoch_Sara_CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Colomer_Sandra_CA">
+  <title>Sandra Colomer's audiodescription of What Happens While</title>
+  <subject>drama short movie</subject>
+  <creator>Sandra Colomer</creator>
+  <language>CA</language>
+  <source>ST-CA/Colomer_Sandra_CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Joan_Magdalena_CA">
+  <title>Magdalena Joan's audiodescription of What Happens While</title>
+  <subject>drama short movie</subject>
+  <creator>Magdalena Joan</creator>
+  <language>CA</language>
+  <source>ST-CA/Joan_Magdalena_CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+<record id="Mor_Polo_CA">
+  <title>Polo Mor's audiodescription of What Happens While</title>
+  <subject>drama short movie</subject>
+  <creator>Polo Mor</creator>
+  <language>CA</language>
+  <source>ST-CA/Mor_Polo_CA</source>
+  <description>some nice description about </description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>ST-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
+
+</records>

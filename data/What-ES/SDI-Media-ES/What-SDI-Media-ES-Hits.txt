@@ -1,0 +1,61 @@
+AD-en	3370	9390	6020	Es un día nuboso en una playa. Una pareja pasea por la arena con su perro. Por la orilla pasa un hombre haciendo footing
+AD-en	10600	12200	1600	El perro se para a olisquear algo.
+AD-en	13630	16540	2910	En animal atiende al silbido del amo y prosigue su camino.
+AD-en	23150	30080	6930	Un coche blanco circula junto al paseo marítimo. El conductor aparca mientras habla por el móvil. Se quita el cinturón y abre.
+AD-en	52590	62800	10210	Se trata de un hombre de unos cuarenta años con barba y piel clara. Viste traje de chaqueta y corbata. Cuelga el teléfono y mira hacia la playa. Saca del bolsillo unas gafas de sol y se las pone. 
+AD-en	65740	67500	1760	JAMES. EL EMPRESARIO.
+AD-en	68020	71410	3390	James camina con una bolsa de playa al hombro. Marca en su teléfono.
+AD-en	92760	96580	3820	Más tarde, en la playa, James se tumba boca arriba sobre una toalla.
+AD-en	100150	108790	8640	Tiene el torso desnudo y los ojos cerrados.  Se pasa las manos por la cara y extiende los brazos dejándolos caer a cada lado. Revuelve la arena con los dedos.
+AD-en	141820	144000	2180	Frunce el ceño y mira entre sus cosas.
+AD-en	157820	159520	1700	Suelta el teléfono y se pone en pie. 
+AD-en	163420	165830	2410	Camina hacia la orilla, está en calzoncillos. 
+AD-en	170620	175190	4570	Da algunos pasos sin rumbo mirando extrañado a su alrededor, como si buscara algo. 
+AD-en	178330	180790	2460	Queda quieto unos segundos y vuelve hacia su toalla.
+AD-en	184350	190420	6070	Se para y da media vuelta alarmado. Retoma el paso dibujando pisadas inconexas en la arena. 
+AD-en	198500	202400	3900	James vuelve hacia su toalla mirando hacia el cielo con cara de desconcierto.
+AD-en	209079	211590	2511	Coge la camisa y se la pone sin relajar el ceño.
+AD-en	219490	226150	6660	Más tarde, James ha abandonado la playa. Lleva puesto de nuevo el traje de chaqueta sin la corbata. Camina por una arboleda.
+AD-en	227580	232190	4610	Llega hasta una colina llena de arbustos y cactus. Comienza a subir por una senda de tierra.
+AD-en	234020	237030	3010	En otro lugar, alguien sostiene un vaso térmico con tapadera.
+AD-en	238030	245800	7770	Se trata de un hombre de unos sesenta años con barbas, ojos saltones y pelo largo desaliñado. Viste camiseta de tirantes y lleva una cadena de eslabones al cuello.
+AD-en	248100	250000	1900	Toquetea aburrido la tapadera del vaso
+AD-en	252890	254530	1640	La abre, está lleno de café.
+AD-en	257850	259190	1340	El hombre observa el café y bebe. 
+AD-en	260590	262650	2060	Mira hacia el frente con desencanto en sus ojos. 
+AD-en	265550	267000	1450	RICK. EL JUBILADO.
+AD-en	268870	274930	6060	Rick está sentado en un banco individual en un parque. Bebe un trago más de café mientras mueve nervioso una pierna.
+AD-en	278890	282390	3500	Deja el vaso en el banco de al lado y se recuesta en el respaldo del suyo.
+AD-en	285530	290160	4630	Saca el teléfono móvil del bolsillo trasero del pantalón y busca en la agenda de contactos.
+AD-en	296380	298160	1780	Marca GRAIG ANDERSON.
+AD-en	380470	382090	1620	Mira extrañado hacia el cielo.
+AD-en	398630	403540	4910	Rick sonríe y cuelga. Se pone en pie y se aleja del banco dejando olvidado el vaso de café.
+AD-en	404940	408580	3640	Abandona el parque dando pasos de un lado a otro y mirando hacia el cielo.
+AD-en	411380	412360	980	En otra parte. 
+AD-en	413650	415360	1710	Una chica frente a un ordenador.
+AD-en	418320	419990	1670	JESS. LA ESTUDIANTE.
+AD-en	422490	424060	1570	Tiene el pelo rizado y rojo. 
+AD-en	425990	428620	2630	Rebusca entre unos papeles, encuentra el móvil.
+AD-en	482700	483600	900	Se rasca el oído.
+AD-en	495620	498170	2550	Cuelga y mira de lado a lado con gesto extrañado.
+AD-en	503980	505640	1660	Se sobresalta y mira hacia el techo.
+AD-en	511630	515500	3870	Jess está en la calle. Se ha puesto el abrigo. Camina aturdida en busca de algo.
+AD-en	518440	520740	2300	Sube por un montículo lleno de arbustos y maleza. 
+AD-en	522990	525220	2230	Se para y mira desconfiada a su alrededor.
+AD-en	526580	528680	2100	Continúa y se pierde entre la vegetación.
+AD-en	531160	536520	5360	Jess llega a un descampado donde también están Rick y James. La luz del sol brilla con fuerza.
+AD-en	537840	540220	2380	Los tres miran desconcertados de lado a lado.
+AD-en	556760	560150	3390	Giran sobre sí mismos con cara de asombro y mirando hacia el cielo.
+AD-en	595000	596170	1170	Él se encoge de hombros.
+AD-en	708640	711190	2550	Rick niega con la cabeza, Jess también. 
+AD-en	718900	720120	1220	Rick alza los brazos.
+AD-en	736770	741350	4580	James camina hacia los arbustos, Rick le sigue. Jess queda pensativa.
+AD-en	746130	753010	6880	Corre hacia ellos y James le rodea los hombros con el brazo. Los tres caminan hacia el bosque de matorrales y abandonan el descampado.
+AD-en	758290	762070	3780	Fundido a negro. Una mujer tiende la ropa mientras habla por teléfono.
+AD-en	762660	766400	3740	En subtítulos. No, no he terminado de tenderla. Tengo que darme prisa.
+AD-en	767080	771340	4260	No, ¿de qué me hablas? Sí, claro las maletas están a punto...
+AD-en	772990	774220	1230	Se gira con gesto confuso.
+AD-en	775430	777710	2280	Oye, ahora no puedo hablar. Tengo que dejarte.
+AD-en	778030	779200	1170	Cuelga y frunce el ceño.
+AD-en	780000	781450	1450	ZOé. LA PRÓXIMA.
+AD-en	782900	787830	4930	Fundido a negro. Sobre un fondo blanco surge el rótulo: ¿QUé PASA MIENTRAS…?

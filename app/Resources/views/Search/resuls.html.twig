@@ -1,0 +1,34 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+ 
+        <div id="container">
+           
+            <div id="status">
+		<h2>List of available files for '{{ node }} = {{ value }}'</h1>
+                <ul>
+                    {% for file in files %}
+                        <li>
+			
+    				 {{ file[0] }}: {{ file[1] }} <a href="{{ file[2] }}"> more moremoremoremore{{ file[2] }} {{ file[2] }} {{ file[2] }}</a>
+			
+			</li>
+			<hr/>
+		    {% endfor %}
+                </ul>
+            </div>
+
+            <div id="status">
+                <h2>What's this?</h2>
+                <p>
+                    This is a nice text to learn about VIW!!!
+                </p>
+            </div>
+
+        </div>
+
+
+{% endblock %}
+
+

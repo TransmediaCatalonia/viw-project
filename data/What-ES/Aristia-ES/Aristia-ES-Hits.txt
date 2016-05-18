@@ -1,0 +1,57 @@
+AD-en	2390	10600	8210	Una pareja con un gran danés camina por la playa. Se cruzan con un corredor que va en sentido contrario. El día es gris y van abrigados.
+AD-en	17000	19200	2200	Rótulo sobre la pantalla blanca.
+AD-en	22040	26780	4740	Un BMW blanco se detiene frente a la playa. El conductor habla por el móvil. 
+AD-en	32040	33040	1000	Se apea.
+AD-en	52440	60320	7880	Ronda los cincuenta años, con pelo rubio, bigote y barba recortada. Ha dejado un maletín en el maletero del coche y ha sacado una bolsa.
+AD-en	60890	66810	5920	Se pone gafas de sol. Un letrero anuncia: James, el empresario.
+AD-en	67450	71310	3860	Camina por la playa manipulando el móvil y con la bolsa al hombro.
+AD-en	92000	98760	6760	Se tumba boca arriba sobre una toalla en la arena, junto a su ropa. Lleva bañador negro. Cierra los ojos.
+AD-en	102340	104020	1680	Se los frota y los abre.
+AD-en	114430	116400	1970	Se incorpora y coge el móvil.
+AD-en	130000	131120	1120	Escucha intrigado.
+AD-en	141410	142850	1440	Mira a su alrededor.
+AD-en	157950	159200	1250	Busca con la mirada. 
+AD-en	161020	162020	1000	Se levanta.
+AD-en	163000	167910	4910	Camina por la playa, cerca de la orilla, escuchando atento y mirando a su alrededor.
+AD-en	180380	181600	1220	Gira hacia su ropa.
+AD-en	183560	186320	2760	Se detiene y mira de nuevo al cielo.
+AD-en	195640	198640	3000	Camina intrigado, buscando con la mirada.
+AD-en	208370	210160	1790	Coge la camisa y se la pone.
+AD-en	218920	222390	3470	Vestido con su traje negro, camina por una zona arbolada.
+AD-en	226470	229130	2660	Sube una ladera cubierta por matorral bajo.
+AD-en	233060	244610	11550	Un hombre repiquetea cobre un vaso de plástico. Lleva guedejas, bigote y barba entrecanos. Mira triste al frente. Lleva una camiseta de tirantes verdosa y una cadena al cuello.
+AD-en	248120	250230	2110	Pasa el dedo sobre la tapa del vaso.
+AD-en	252080	254220	2140	La quita. El vaso contiene café.
+AD-en	255020	257730	2710	Se acerca el vaso a los labios y o mira pensativo. 
+AD-en	258330	259000	670	Bebe.
+AD-en	263310	266860	3550	Un cartel anuncia: Rick, el jubilado.
+AD-en	267390	274650	7260	Rick deja la tapa en un banco cercano al suyo. Está entre los árboles de un parque. Mueve rítmicamente la pierna derecha
+AD-en	279030	282000	2970	Deja el vaso en el banco contiguo y mira al cielo.
+AD-en	285090	287740	2650	Saca un móvil y busca en los contactos.
+AD-en	296280	297730	1450	Selecciona uno y llama.
+AD-en	329730	331170	1440	Mira intrigado al cielo.
+AD-en	380060	381610	1550	Mira de nuevo al cielo.
+AD-en	398280	403430	5150	Se levanta mirando al cielo y se aleja de los bancos, sobre los que queda el vaso de plástico.
+AD-en	411090	419140	8050	La estudiante Jess ronda los veinte años. Es pelirroja con la melena rizada. Está pensativa sentada ante su portátil.
+AD-en	423000	424210	1210	Busca por la mesa.
+AD-en	428480	429480	1000	Coge el móvil.
+AD-en	494300	496530	2230	Mira intrigada a su alrededor.
+AD-en	506360	507210	850	Se levanta.
+AD-en	511040	515500	4460	Camina por la calle con un anorak puesto. Mira extrañada a su alrededor
+AD-en	517120	519320	2200	Sube una ladera entre plantas de maíz.
+AD-en	523049	525020	1971	Se detiene y mira hacia atrás.
+AD-en	526030	527980	1950	Sube corriendo hacia su izquierda
+AD-en	529470	535760	6290	Llaga a una explanada terrosa, en la que están Rick y James. Todos miran extrañados a su alrededor.
+AD-en	539540	543100	3560	Miran al cielo, mientras escuchan asombrados la voz en off.
+AD-en	557000	558870	1870	Rick gesticula incrédulo.
+AD-en	707350	709800	2450	Se miran entre ellos. Rick niega.
+AD-en	717440	719590	2150	Miran al cielo desde la explanada.
+AD-en	736560	738180	1620	Rick camina tras James.
+AD-en	740250	742210	1960	Jessica queda pensativa y sonríe.
+AD-en	744900	748520	3620	Va tras ellos, que caminan hacia la vegetación que rodea la explanada.
+AD-en	758360	765690	7330	La imagen funde a negro. Una mujer tiende ropa y sujeta el móvil sobre el hombro. No, no he terminado de tenderla. Tengo que darme prisa.
+AD-en	768450	771400	2950	No, ¿de qué me hablas? Sí, claro, las maletas están a punto…
+AD-en	772340	774350	2010	Mira intrigada a su alrededor.
+AD-en	775630	779280	3650	Oye, ahora no puedo hablar. Tengo que dejarte. Guarda el móvil.
+AD-en	779660	782310	2650	Zoé, la próxima. Es negra y ronda los veinte. 
+AD-en	784020	785240	1220	¿Qué pasa mientras…?

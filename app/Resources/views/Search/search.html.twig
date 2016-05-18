@@ -1,0 +1,62 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+        <div id="container">
+         
+            <div id="status">
+		<h3>Search by Corpus</h3>
+                <ul>
+                    {% for c in corpus %}
+                        <li>
+			
+    				<a href="corpus/{{ c }}">{{ c }}</a>
+			
+			</li>
+			<hr/>
+		    {% endfor %}
+		</ul>
+
+		<h3>Search by Language</h3>
+                <ul>
+                    {% for lang in languages %}
+                        <li>
+			
+    				<a href="search/language/{{ lang }}">{{ lang }}</a>
+			
+			</li>
+			<hr/>
+		    {% endfor %}
+		</ul>
+
+		<h3>Search by Provider</h3>
+		<ul>
+		    {% for p in providers %}
+                        <li>
+			
+    				<a href="search/creator/{{ p }}">{{ p }}</a>
+			
+			</li>
+			<hr/>
+		    {% endfor %}
+                </ul>
+
+		<h3>Search by Subject</h3>
+		<ul>
+		    {% for subj in subjects %}
+                        <li>
+			
+    				<a href="search/subject/{{ subj }}">{{ subj }}</a>
+			
+			</li>
+			<hr/>
+		    {% endfor %}
+                </ul>
+            </div>
+
+            
+        </div>
+
+{% endblock %}
+
+

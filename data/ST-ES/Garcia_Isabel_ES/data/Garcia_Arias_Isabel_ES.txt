@@ -1,0 +1,266 @@
+
+00:00:04.848	00:00:11.848	De día, en el paseo marítimo de una playa, algunas personas pasean o hacen deporte. Junto a la playa hay una carretera.  
+
+00:00:12.448	00:00:14.448	El cielo está algo nublado y gris.
+
+
+00:00:17.167	00:00:18.849	Funde a blanco con la frase:
+
+
+00:00:21.403	00:00:25.083	Un coche de alta gama aparca en la carretera junto a la playa.
+
+
+00:00:52.865	00:00:56.694	Es un hombre trajeado de unos cuarenta años. Mira hacia la playa.
+
+
+00:00:59.642	00:01:01.173	Se pone unas gafas de sol.
+
+
+00:01:05.475	00:01:06.741	James, el empresario.
+
+
+00:01:07.672	00:01:11.107	Camina con un bolso de playa y el móvil pegado a la oreja.
+
+
+00:01:32.389	00:01:32.869	Después.
+
+
+00:01:33.680	00:01:36.760	James, sin camiseta, se tumba en la arena bocarriba.
+
+
+00:01:40.718	00:01:42.438	Se lleva las manos a la cara.
+
+
+00:01:46.056	00:01:49.654	Con los ojos cerrados, hace surcos con los dedos en la arena.
+
+
+00:02:10.197	00:02:11.086	Mira alrededor.
+
+
+00:02:21.510	00:02:24.227	Frunce el ceño y mira de nuevo a su alrededor.
+
+
+00:02:40.914	00:02:43.914	James, desconcertado, se levanta y anda unos pasos.
+
+
+00:02:46.899	00:02:48.699	Camina despacio por la orilla.
+
+
+00:02:51.118	00:02:54.978	Parece buscar con la vista y el oído de dónde proviene el sonido.
+
+
+00:02:57.649	00:03:03.028	Ante el silencio, se detiene y se dispone a dar media vuelta. Pero se gira y mira de nuevo.
+
+
+00:03:15.925	00:03:21.925	Regresa a por sus cosas. Camina rápido, sin dejar de mirar al frente, extrañado, con el ceño fruncido.
+
+
+00:03:28.794	00:03:29.994	Se empieza a vestir.
+
+
+00:03:34.591	00:03:36.431	No deja de mirar a todos lados.
+
+
+00:03:39.920	00:03:44.400	Más tarde, ya vestido, James camina por un paseo con árboles con paso firme.
+
+
+00:03:47.666	00:03:51.786	Sube por un sendero en una colina con vegetación, siguiendo el sonido.
+
+
+00:03:53.218	00:03:57.364	En un parque, un hombre de unos sesenta años está sentado en un banco.
+
+
+00:04:00.002	00:04:04.608	Tiene en las manos un vaso de café, al que da golpecitos. Observa los árboles.
+
+
+00:04:10.491	00:04:11.811	Abre la tapa del café.
+
+
+00:04:15.082	00:04:16.440	Se lo acerca a la boca.
+
+
+00:04:17.365	00:04:18.565	Mira el café y bebe.
+
+
+00:04:25.415	00:04:26.489	Rick, el jubilado.
+
+
+00:04:30.612	00:04:35.452	Sentado en el banco, Rick mueve las piernas con nerviosismo mientras bebé el café.
+
+
+00:04:38.769	00:04:40.249	Deja el café en el banco.
+
+
+00:04:40.860	00:04:41.883	Da unas palmadas.
+
+
+00:04:45.575	00:04:47.341	Se saca el móvil del bolsillo.
+
+
+00:04:49.071	00:04:50.960	Ojea los contactos de la agenda.
+
+
+00:04:53.960	00:04:56.960	No parece decidirse por ninguno.
+
+
+00:04:58.085	00:04:59.805	Finalmente elige uno y llama.
+
+
+00:05:30.036	00:05:31.688	Mira hacia arriba extrañado.
+
+
+00:06:20.205	00:06:21.887	Vuelve a mirar hacia arriba.
+
+
+00:06:39.074	00:06:40.634	Se aleja caminando rápido.
+
+
+00:06:42.784	00:06:44.104	Mira para todos lados.
+
+
+00:06:48.305	00:06:49.745	Se adentra en el parque.
+
+
+00:06:50.717	00:06:52.897	En una biblioteca, una joven estudia.
+
+
+00:06:58.454	00:06:59.667	Jess, la estudiante.
+
+
+00:07:02.930	00:07:04.847	Busca el móvil bajo los apuntes.
+
+
+00:07:09.886	00:07:10.663	Lo encuentra.
+
+
+00:08:10.481	00:08:11.381	Mira extrañada.
+
+
+00:08:14.466	00:08:17.906	Jess mira con asombro a derecha e izquierda, sin entender.
+
+
+00:08:29.634	00:08:30.954	Más tarde en la calle.
+
+
+00:08:33.762	00:08:38.202	Jess mira a derecha e izquierda, intentando localizar el origen del sonido.
+
+
+00:08:38.986	00:08:41.575	Sube por una colina con vegetación frondosa.
+
+
+00:08:43.329	00:08:44.826	Se detiene para escuchar.
+
+
+00:08:47.086	00:08:48.806	Y sigue subiendo rápidamente.
+
+
+00:08:50.887	00:08:57.247	Al final de la colina, Jess llega a una explanada donde están también James y Rick. El cielo está despejado.
+
+
+00:08:58.605	00:09:02.932	Los tres se miran entre sí, asombrados, a la vez que miran a todos lados.
+
+
+00:09:16.414	00:09:20.668	Miran al cielo. La voz parece provenir de ningún sitio y de todos lados.
+
+
+00:09:54.670	00:09:56.750	Rick se lleva una mano a la cabeza.
+
+
+00:10:42.232	00:10:43.432	Rick les mira serio.
+
+
+00:11:36.416	00:11:37.198	Rick asiente.
+
+
+00:11:40.636	00:11:41.731	Los tres se miran.
+
+
+00:11:47.174	00:11:52.297	Se intercambian miradas. Rick se encoge de hombros y niega con la cabeza. Jess también.
+
+
+00:11:58.218	00:11:59.992	Rick alza los brazos al cielo.
+
+
+00:12:05.532	00:12:06.911	James sacude la cabeza.
+
+
+00:12:20.372	00:12:21.925	Jess se encoge de hombros.
+
+
+00:12:23.243	00:12:23.743	Asiente.
+
+
+00:12:29.357	00:12:33.328	Los tres se alejan colina abajo, entre los árboles, hacia la playa.
+
+
+00:12:38.501	00:12:39.361	Funde a negro.
+
+
+00:12:39.895	00:12:42.100	En una azotea, una mujer tiende ropa.
+
+
+00:12:42.752	00:12:45.992	No, no he terminado de tenderla. Tengo que darme prisa.
+
+
+00:12:46.781	00:12:47.611	Mira al cielo.
+
+
+00:12:48.447	00:12:51.407	No, ¿de qué hablas? Sí, las maletas están a punto.
+
+
+00:12:54.968	00:12:57.688	Oye, ahora no puedo hablar. Tengo que dejarte.
+
+
+00:12:58.113	00:12:58.996	Mira extrañada.
+
+
+00:13:00.641	00:13:01.591	Zoé, la próxima.
+
+
+00:13:03.694	00:13:08.414	Sobre fondo blanco, la frase Qué pasa mientras... seguida de una línea continua.
+
+
+00:13:09.793	00:13:11.713	Un corto dirigido por Núria Nia.
+
+
+00:13:13.760	00:13:15.960	Director de fotografía, Albert Badia.
+
+
+00:13:18.723	00:13:21.083	Diseñador de sonido, Enrique G. Bermejo.
+
+
+00:13:23.688	00:13:25.168	Maquillaje, Laia Teixidó.
+
+
+00:13:28.692	00:13:31.432	Ayudante de dirección, Marta Aguadé Forrellad.
+
+
+00:13:33.158	00:13:34.468	Editado por Núria Nia.
+
+
+00:13:37.971	00:13:40.051	Producido por Transmedia Catalonia.
+
+
+00:13:42.110	00:13:43.060	Y La Panoràmica.
+
+
+00:13:47.555	00:13:52.915	James es James Humber. Rick es Rick Zingale. Jess es Jessica Alvarez. Zoé es Adeline Flaun.
+
+
+00:13:55.312	00:13:57.752	Idea original de Marçal Font y Núria Nia.
+
+
+00:13:58.548	00:13:59.668	Guión de Núria Nia.
+
+
+00:14:00.085	00:14:02.165	Estudio de sonido: Kamikaze Estudi.
+
+
+00:14:03.190	00:14:05.310	Música: The IMG - Time doesn't Wait.
+
+
+00:14:05.727	00:14:08.287	Estudio de edición: LaPanoràmica punto cat.
+
+
+00:14:32.088	00:14:33.448	¡Disfruta de tu tiempo!
+

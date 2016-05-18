@@ -1,0 +1,45 @@
+AD-en	3980	13020	9040	En una playa casi vacía una pareja pasea un perro y un hombre hace footing. La pareja lleva ropa de abrigo y el cielo está nublado.
+AD-en	17600	19130	1530	Sobreescrito en pantalla.
+AD-en	22242	30630	8388	Un coche de alta gama aparca frente a la playa. Un hombre trajeado se baja, abre el maletero y cambia su maletín por una bolsa de playa.
+AD-en	53390	59930	6540	El hombre, de unos cincuenta años y con barba, saca unas gafas de sol del bolsillo de su chaqueta y se las pone.
+AD-en	64570	67650	3080	Sobreescrito en pantalla: JAMES. EL EMPRESARIO.
+AD-en	68180	71360	3180	James camina con la bolsa de playa al hombro y llama.
+AD-en	92580	97200	4620	Sobre la arena, el traje oscuro de James reposa hecho un revoltillo.
+AD-en	99970	108620	8650	James se tumba a su lado, boca arriba, y se queda tendido. Después se frota los ojos, abre los brazos y juguetea con la arena.
+AD-en	141890	143660	1770	Mira extrañado a su alrededor
+AD-en	157890	164050	6160	Deja el móvil, se levanta y camina hasta el agua mirando al rededor. Sólo lleva los slips.
+AD-en	168110	170580	2470	Camina sin rumbo fijo, titubeando.
+AD-en	175560	181290	5730	Se da la vuelta, se para un momento y otea con los ojos entornados y frunciendo el ceño.
+AD-en	193230	197440	4210	Camina hacia el agua mirando alrededor y después vuelve a su ropa.
+AD-en	208720	211440	2720	Se pone la camisa sin dejar de mirar al rededor.
+AD-en	219590	223990	4400	Por una calle flanqueada por grandes árboles, James camina ya vestido.
+AD-en	227990	232530	4540	Más tarde asciende por un sendero entre matorrales la ladera de un monte.
+AD-en	234480	237110	2630	Unas manos sostienen un vaso de plástico blanco
+AD-en	237770	243930	6160	Un hombre de unos sesenta años, con pelo desaliñado y barba canosa mira a su alrededor desde el banco de un parque.
+AD-en	249510	251640	2130	Acaricia la tapa del vaso de plástico.
+AD-en	253320	257200	3880	Lo abre y bebe un trago. Tiene tatuajes, collar y pulsera.
+AD-en	265290	268470	3180	Sobreescrito en pantalla: RICK. EL JUBILADO.
+AD-en	269380	278850	9470	Rick deja la tapa en el banco de al lado. Está sentado. Lleva una camiseta verde de tirantes por dentro del pantalón y mueve sin parar la pierna derecha.
+AD-en	286296	291130	4834	Saca el móvil del bolsillo trasero de su pantalón y busca entre sus contactos.
+AD-en	296637	299280	2643	Selecciona a Craig  Anderson. Llama.
+AD-en	331470	332420	950	Mira al rededor
+AD-en	380920	382090	1170	Mira hacia arriba
+AD-en	399430	405060	5630	El vaso queda sobre el banco y Rick se aleja, sin dejar de mirar hacia arriba y a los lados.
+AD-en	411480	413440	1960	Una adolescente muerde un lápiz.
+AD-en	418250	421400	3150	Sobreescrito en pantalla. JESS. LA ESTUDIANTE.
+AD-en	426550	429720	3170	Rebusca por su mesa, entre papeles y su ordenador.
+AD-en	495430	500520	5090	Jess mira hacia el techo y las paredes. Tiene larga melena pelirroja y rizada.
+AD-en	512460	521630	9170	De día, asciende por una ladera entre hierbas y arbustos. Lleva abrigo y cada poco se para y mira alrededor. Luego sale corriendo.
+AD-en	531510	540320	8810	En una explanada, James, Rick y Jess miran alrededor. Rick y James están frente a frente, Jess está detrás de  Rick.
+AD-en	557480	560960	3480	Miran a su alrededor, James usa la mano como visera.
+AD-en	708460	711910	3450	Se miran entre ellos. Rick y Jess niegan.
+AD-en	737330	741680	4350	Rick sigue a James, Jess se queda parada y levanta una ceja
+AD-en	745640	750080	4440	Corre tras ellos, se sitúa entre los dos y James le pone una mano en el hombro.
+AD-en	752450	754460	2010	Los tres se alejan caminando.
+AD-en	759000	762170	3170	Una mujer tiende la ropa mientras habla por el móvil.
+AD-en	762657	765510	2853	No, no he terminado de tenderla. Tengo que darme prisa.
+AD-en	768720	772026	3306	No, ¿de qué me hablas? Si, claro, las maletas están a punto...
+AD-en	773270	774380	1110	Mira a su alrededor
+AD-en	774840	776850	2010	Oye no puedo hablar. Tengo que dejarte.
+AD-en	779540	782350	2810	Sobreescrito en pantalla. ZOE. LA PRÓXIMA.
+AD-en	783370	786400	3030	Sobreescrito en pantalla. Qué pasa mientras....

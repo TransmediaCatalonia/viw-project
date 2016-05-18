@@ -1,0 +1,67 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+		
+                	<h2>Density Graphs for {{ lang1 }} vs. {{ lang2 }}:</h2>
+    			<div id="chart_div" style="width:900; height:500px;"></div>
+	
+    			<p> <a href="{{ path('density') }}">
+        		Back to list density
+    			</a>
+			</p>
+			
+		
+	</div>
+
+{% endblock %}
+
+
+{% block javascripts %}
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+	  
+      function drawChart() {
+        
+
+		var data = new google.visualization.DataTable();
+data.addColumn('number', 'Agreement %'); 
+data.addColumn('number', '{{ lang1 }}'); // Implicit series 1 data col Orange.
+data.addColumn({type:'string', role:'tooltip', 'p': {'html': true}}); // tooltip for first series
+data.addColumn('number', '{{ lang2 }}');// Series 2 Green
+data.addColumn({ 'type': 'string', 'role': 'tooltip', 'p': { 'html': true } });// tooltip for second series
+
+        data.addRows([
+
+{{ key|raw }}
+
+]);
+		/// EN : time null null duration text
+		/// CA: time duration text null null
+        var options = {
+          title: '{{ lang1 }} vs. {{ lang2 }} comparison',
+          hAxis: {title: 'TimeLine in msec.', viewWindow: {min: 0, max: {{ maxValue}} }, format: 'short'},
+	  vAxis: {format: 'short'},
+          chartArea:{width:'80%',height:'500px'},
+          legend: {position: 'top'},
+	  tooltip: { textStyle: { fontName: 'Verdana', fontSize: 11 } }
+        };
+
+        var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+
+        chart.draw(data, options);
+      }
+	  
+	  
+
+    </script>
+{% endblock %}
+
+
+
+

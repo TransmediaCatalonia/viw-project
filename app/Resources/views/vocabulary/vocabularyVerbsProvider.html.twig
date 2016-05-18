@@ -1,0 +1,75 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+		<div id="status">	
+			<h3>Verbs for the {{ title }} corpus:</h3>
+					
+			
+
+		<div id="columnchart2" style="width: 800px; height: 400px;"></div>	
+		
+		<div id="columnchart3" style="width: 800px; height: 400px;"></div>	
+		
+		</div>
+
+		<div id="status">
+                <a name="help"></a>
+		<h2>What's this?</h2>
+                <p>
+                    Verbs have are semantically classified. The first chart....
+                </p>
+		<p>
+                    Verbs have are semantically classified. The second chart....
+                </p>
+            </div>
+</div>
+{% endblock %}
+
+
+
+{% block javascripts %}
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load("current", {packages:['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      
+	
+	var data2 = google.visualization.arrayToDataTable([ {{ key2|raw }} ]);
+      
+      	var options2 = {
+	
+        title: "Verbs' frequency (for the 20 most frequent verbs)",
+        subtitle: 'Given as total number of occurrences and number of unique verbs',
+        width: 900,
+        height: 400,
+        legend: {position: 'top'},
+	colors: ['#336699','#FF9900'],
+      	};
+      	var chart2 = new google.visualization.ColumnChart(document.getElementById('columnchart2'));
+      	chart2.draw(data2, options2);
+
+
+	var data3 = google.visualization.arrayToDataTable([ {{ key3|raw }} ]);
+      
+      	var options3 = {
+	
+        title: "Semantic class frequency (for the 20 most frequent verbs)",
+        subtitle: 'Given as total number of occurrences and number of unique verbs',
+        width: 900,
+        height: 400,
+        legend: {position: 'top'},
+	colors: ['#336699','#FF9900'],
+      	};
+      	var chart3 = new google.visualization.ColumnChart(document.getElementById('columnchart3'));
+      	chart3.draw(data3, options3);
+  }
+  </script>
+
+ 
+{% endblock %}
+
+

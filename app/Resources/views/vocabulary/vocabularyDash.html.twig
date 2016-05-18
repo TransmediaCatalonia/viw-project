@@ -1,0 +1,97 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+        <div id="container">
+		<div id="status">
+
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+  <a href="{{ app.request.baseUrl }}/corpus/{{ corpus }}">Back to {{ corpus }}</a>
+  <h3>Counting {{ pos }} by {{ message }} in the '{{ corpus }}' corpus</h3>
+  <p>Use the 'Filter by frequency' control to remove less frequent words. You can choose a {{ message }}.</p>
+  <table style="width: 100%; display: table-cell;"  >
+    <tr>
+      <td><div id="slider_div" style="padding-left: 15px"></div>     
+      </td>
+      <td style="padding-left: 50px;">
+        <div id="categoryPicker_div"></div>
+      </td>
+    </tr>
+    <tr style="width: 100%; vertical-align: top;">
+      <td >
+        <div id="chart_div" style="padding-top: 15px;"></div>
+      </td>
+      <td style="padding-left: 50px;">
+	
+        <div id="table_div" style="padding-top: 30px;"></div>
+      </td>
+    </tr>
+  </table>
+
+
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart', 'table', 'gauge', 'controls']});
+  google.charts.setOnLoadCallback(drawMainDashboard);
+
+  function drawMainDashboard() {
+    var dashboard = new google.visualization.Dashboard(
+        document.getElementById('dashboard_div'));
+  
+    var slider = new google.visualization.ControlWrapper({
+      'controlType': 'NumberRangeFilter',
+      'containerId': 'slider_div',
+      'options': {
+        'filterColumnIndex': 2,
+        'ui': {
+          'labelStacking': 'vertical',
+          'label': 'Filter by frequency:'
+        }
+      }
+    }); 
+    var categoryPicker = new google.visualization.ControlWrapper({
+      'controlType': 'CategoryFilter',
+      'containerId': 'categoryPicker_div',
+      'options': {
+        'filterColumnIndex': 1,
+        'ui': {
+          'labelStacking': 'vertical',
+          'label': '{{ message }} Selection:',
+          'allowTyping': false,
+          'allowMultiple': false
+        }
+      }
+    });
+    var pie = new google.visualization.ChartWrapper({
+      'chartType': 'PieChart',
+      'containerId': 'chart_div',
+      'options': {
+        'width': 300,
+        'height': 300,
+        'legend': 'none',
+        'chartArea': {'left': 15, 'top': 15, 'right': 0, 'bottom': 0},
+        'pieSliceText': 'label'
+      },
+      'view': {'columns': [0, 2]}
+    });
+    var table = new google.visualization.ChartWrapper({
+      'chartType': 'Table',
+      'containerId': 'table_div',
+      'options': {
+      }
+    });
+    var data = google.visualization.arrayToDataTable([ {{ key|raw }} ]);
+    dashboard.bind([slider, categoryPicker], [pie, table]);
+    dashboard.draw(data);
+  }
+</script>
+
+  
+  
+    
+
+{% endblock %}
+
+
+

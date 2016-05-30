@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2016-01-27T18:08:40+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:64bb8778-9e79-4dd7-a028-877806bb5e79</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">55</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="14230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="22230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="23100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="28180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="53200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="57230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="59110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="63190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="65010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="70090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="92210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="96160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="98020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="105039"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="107070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="109130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="113180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="115080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="141030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="143060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="162120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="170150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="178079"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="185190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="191050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="197150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="208120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="213220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="219170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="225170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="228040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="232020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="233110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="252090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="254140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="258220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="265030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="282070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="285040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="289020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="292000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="294010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="295130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="300050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="330030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="332000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="398010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="413030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="417170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="420090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="422060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="425160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="493230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="496180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="498190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="500240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="512030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="514179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="517190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="523190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="527120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="529070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="529190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="536010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="540050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="541170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="707220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="712000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="725000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="726170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="736210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="740160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="743150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="748220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="758230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="762070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="762190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="769000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="771000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="772180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="774080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="776230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="778170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="781100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="782090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="790170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="793180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="795190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="797040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="799180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="803070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="805160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="809040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="811110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="813110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="814240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="818170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="823120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="828120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="834150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="835020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="841120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="843230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="848030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="848150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="851090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="851210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="863140"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Tier-0">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>On a grey day, in the e distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog stops to sniff at something on the sand.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Responding to the whistle, he pads after his owners. words in black letters on a white background. what happens while , followed by a long black underscore.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>A white saloon pulls up alongside the beach wall. the male driver is on his mobile.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>The man in his 30's with a sandy beard sighs with annoyance.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>From his shirt pocket he brings out a pair of sunglasses and puts them on he is wearing a work suit, his tie loosened at the collar.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>In white letters, JAMES ,the business man James walks along the promenade with a beach bag over his shoulder. He's on the phone.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Having taken off his suit, James lies back on a thin towel on the sand.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>He rums his hands across his eyes and lets them drop by his side.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>He lets the sand trickle through his fingers.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>He answers his phone.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>He looks round for the source of the sound.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>He gets to his feet and walks along the sand in his trunks. In the distance, the city of Barcelona is a hazy outline.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>He looks towards the top of the beach and then turns to face the sea, disturned by the hi pitch whine.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>He walks into the shallows, then tunrs back up the beach to wahere he left his clothes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>putting on his blue shirt , hus eyes scouring the sky.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>With his suit back on, but no tie he walks under a canopy of trees with a slightly puzzled expression.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>He clambers up a sandy pathway to the top of a steep rocky slope.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>A middle aged man with unkempt grey hair, heavy brows and a bristly beard taps his coffee cup in his fingers. He wears a green vest and a chain around his neck. His eyes follow a flight of birds and a smile comes to his lips. He has a tatoo on his upper arm and a chain bracelet on one wrist. he taps thee lid of the cup and lifts it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>He looks at the half full cup of coffee, then takes a sip.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>a word in white capitals appears. RICK, in lower case, the retiree. He ;s sitting on a bench beneaht osme tress in full leaf. he puts the lid on the seat next to him and stares at the coffee, his right knee jigging up an down. He drinks up. He puts the cup next to the lid and leans back, clapping his hands.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>He reaches in the the back pocket of his trousers and pulls out his mobile phone.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>He scrolls through his contact list.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Finds one, taps on the green ring icon and puts the phone to his ear.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>He looks up towards the hi pitched sound.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Rick gets up, pockets his phone and wanders off leaving the coffee cup on the park seat. He looks up at the sky, trying to locate the source of the sound as he goes. A girl with ringletted auburn hair, heaves a sigh and chews on her pencil.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>A word in white capitals appears. Jess. in lower case, the student.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Jess sitting at her apple laptop fishes about for her phone.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>She rings off,puzzled by the sound.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>She looks about her.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>She puts on a jacket and goes outside.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>She climbs a grassy overgrown slope. The sun reflected on her long ringlets.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>She scampers off out of view.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>She runs on to the sunbbleached beach where. Rick and James are looking about them, in puzzlement.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>They hear a disembodied voice.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Rick shrugs his shoulder and shakes his head. Jess shakes her head.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Jmes smiles thinly.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>James strols off. Rick catches up with him Jess considers.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>She follows them and all three walk off together.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Cut to black. A young black woman is on the phone as she sorts through her washing.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>No I coudnt, I have to finish, really. No what are you talking about. Of course yes our luggage is ready.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>She looks up towards the sound.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Listen, I cannot talk right now, I have to leave you.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>A word in white capitals, Zoe, in lower cae, the next one.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>cut to black. The title again on , in black letters on a white background , what happens while followed by a long black line. directed by Nuria Nia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>director of photography albert badia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>sound designer enrique g bermejo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>make up artist laia teixido</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>assistant director marta aguade forrelad</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>edited by nuria nia.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>prodiuced by transmedia, catalonia and la panorami ca</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>James was played by James Humber Rick by Rick zingale and Jess by jessica alvarez zoe by adeline flaun</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>origimal idea marcal font and nuria nia screen play by nuria nia sound studio kamikaze estud</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>musicthe img time doesn't wait cc by 4.0</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>edition ctudio ;a panoramica.cat</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>This film was created for the project Visual into words led by anna matamala (UAB) and funded by the minsterio de economia y competitividad co -funding lerd by pilar orero uab was provided bycatalan governemtn funds</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="EN" LANGUAGE_CODE="us"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

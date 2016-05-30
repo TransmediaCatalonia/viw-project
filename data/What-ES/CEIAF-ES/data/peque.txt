@@ -1,0 +1,26 @@
+A	a	SPS00	1	0	1	
+el	el	DA0MS0	1	1	2	
+amanecer	amanecer	NCMS000	0.875	3	11	TimeInterval
+,	,	Fc	1	11	12	
+una	uno	DI0FS0	0.951241	13	16	
+pareja	pareja	NCFS000	0.928571	17	23	
+pasea	pasear	VMIP3S0	0.994868	24	29	Walking
+con	con	SPS00	1	30	33	
+su	su	DP3CS0	1	34	36	
+perro	perro	NCMS000	1	37	42	
+por	por	SPS00	1	43	46	
+la	el	DA0FS0	0.972146	47	49	
+playa	playa	NCFS000	1	50	55	Location
+.	.	Fp	1	55	56	
+						
+Se	se	P00CN000	0.465602	64	66	
+cruzan	cruzar	VMIP3P0	1	67	73	Motion
+con	con	SPS00	1	74	77	
+un	uno	DI0MS0	0.986987	78	80	
+hombre	hombre	NCMS000	0.95679	81	87	
+que	que	PR0CN000	0.5625	88	91	
+va	ir	VMIP3S0	1	92	94	
+corriendo	correr	VMG0000	1	95	104	Walking
+en	en	SPS00	1	105	107	
+chándal	chándal	NCMS000	1	108	115	Clothing
+.	.	Fp	1	115	116	

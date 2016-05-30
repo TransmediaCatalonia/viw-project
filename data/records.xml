@@ -45,7 +45,7 @@
   <language>EN-UK</language>
   <language>EN</language>
   <source>What-EN/BTI-UK</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-EN</corpus>
@@ -61,7 +61,7 @@
   <language>EN-NZ</language>
   <language>EN</language>
   <source>What-EN/What-Able-NZ</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-EN</corpus>
@@ -76,7 +76,7 @@
   <language>EN-US</language>
   <language>EN</language>
   <source>What-EN/What-BridgeM-US</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-EN</corpus>
@@ -92,7 +92,7 @@
   <language>EN-UK</language>
   <language>EN</language>
   <source>What-EN/What-Deluxe-UK</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-EN</corpus>
@@ -107,7 +107,7 @@
   <language>EN-AU</language>
   <language>EN</language>
   <source>What-EN/What-Ericsson-AU</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-EN</corpus>
@@ -123,7 +123,7 @@
   <language>EN-UK</language>
   <language>EN</language>
   <source>What-EN/What-Ericsson-UK</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-EN</corpus>
@@ -138,7 +138,7 @@
   <language>EN-CA</language>
   <language>EN</language>
   <source>What-EN/What-Mennell-CA</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-EN</corpus>
@@ -153,7 +153,7 @@
   <language>EN-UK</language>
   <language>EN</language>
   <source>What-EN/What-MindsEye-UK</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-EN</corpus>
@@ -168,7 +168,7 @@
   <language>EN-UK</language>
   <language>EN</language>
   <source>What-EN/What-SDI-Media-UK</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-EN</corpus>
@@ -184,7 +184,7 @@
   <language>EN-US</language>
   <language>EN</language>
   <source>What-EN/What-Snyder-US</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-EN</corpus>
@@ -200,7 +200,7 @@
   <creator>Aptent</creator>
   <language>ES</language>
   <source>What-ES/Aptent-ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-ES</corpus>
@@ -214,7 +214,7 @@
   <creator>Aristia</creator>
   <language>ES</language>
   <source>What-ES/Aristia-ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-ES</corpus>
@@ -228,7 +228,7 @@
   <creator>CEIAF</creator>
   <language>ES</language>
   <source>What-ES/CEIAF-ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-ES</corpus>
@@ -242,7 +242,7 @@
   <creator>CineAccesibleNavarra</creator>
   <language>ES</language>
   <source>What-ES/CineAccesibleNavarra-ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-ES</corpus>
@@ -256,7 +256,7 @@
   <creator>EdSolProducciones</creator>
   <language>ES</language>
   <source>What-ES/EdSolProducciones-ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-ES</corpus>
@@ -270,7 +270,7 @@
   <creator>Ericsson</creator>
   <language>ES</language>
   <source>What-ES/Ericsson-ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-ES</corpus>
@@ -284,7 +284,7 @@
   <creator>K-Gala</creator>
   <language>ES</language>
   <source>What-ES/K-Gala-ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-ES</corpus>
@@ -298,7 +298,7 @@
   <creator>SDI-Media-</creator>
   <language>ES</language>
   <source>What-ES/SDI-Media-ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-ES</corpus>
@@ -312,7 +312,7 @@
   <creator>Sonidos</creator>
   <language>ES</language>
   <source>What-ES/Sonidos-ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-ES</corpus>
@@ -326,7 +326,7 @@
   <creator>Tragora</creator>
   <language>ES</language>
   <source>What-ES/Tragora-ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-ES</corpus>
@@ -341,7 +341,7 @@
   <creator>AccessFriednly</creator>
   <language>CA</language>
   <source>What-CA/AccessFriendly-CA</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-CA</corpus>
@@ -355,7 +355,7 @@
   <creator>Aptent</creator>
   <language>CA</language>
   <source>What-CA/Aptent-CA</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-CA</corpus>
@@ -369,7 +369,7 @@
   <creator>DescriptiveFerrer</creator>
   <language>CA</language>
   <source>What-CA/DescriptiveFerrer-CA</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>What-CA</corpus>
@@ -386,7 +386,7 @@
   <creator>Aina Castro</creator>
   <language>ES</language>
   <source>ST-ES/Castro_Aina_ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-ES</corpus>
@@ -400,7 +400,7 @@
   <creator>Virginia Fuente</creator>
   <language>ES</language>
   <source>ST-ES/Fuente_Virginia_ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-ES</corpus>
@@ -414,7 +414,7 @@
   <creator>Isabel García</creator>
   <language>ES</language>
   <source>ST-ES/Garcia_Isabel_ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-ES</corpus>
@@ -428,7 +428,7 @@
   <creator>Jose Jimenez</creator>
   <language>ES</language>
   <source>ST-ES/Jimenez_Jose_ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-ES</corpus>
@@ -442,7 +442,7 @@
   <creator>Carmen Marco</creator>
   <language>ES</language>
   <source>ST-ES/Marco_Carmen_ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-ES</corpus>
@@ -456,7 +456,7 @@
   <creator>Bárbara Martín del Río</creator>
   <language>ES</language>
   <source>ST-ES/MartindelRio_Barbara_ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-ES</corpus>
@@ -470,7 +470,7 @@
   <creator>Antonio Mateo</creator>
   <language>ES</language>
   <source>ST-ES/Mateo_Antonio_ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-ES</corpus>
@@ -484,7 +484,7 @@
   <creator>Raquel Palacio</creator>
   <language>ES</language>
   <source>ST-ES/Palacios_Raquel_ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-ES</corpus>
@@ -498,7 +498,7 @@
   <creator>Marina Roldán</creator>
   <language>ES</language>
   <source>ST-ES/Roldan_Marina_ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-ES</corpus>
@@ -512,7 +512,7 @@
   <creator>Jennifer Rubio</creator>
   <language>ES</language>
   <source>ST-ES/Rubio_Jennifer_ES</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-ES</corpus>
@@ -527,7 +527,7 @@
   <creator>Judit Altadill</creator>
   <language>CA</language>
   <source>ST-CA/Altadill_Judit_CA</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-CA</corpus>
@@ -540,7 +540,7 @@
   <creator>Elvira Arderius</creator>
   <language>CA</language>
   <source>ST-CA/Arderius_Elvira_CA</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-CA</corpus>
@@ -553,7 +553,7 @@
   <creator>Beneito Satorres</creator>
   <language>CA</language>
   <source>ST-CA/Beneito_Satorres_CA</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-CA</corpus>
@@ -566,7 +566,7 @@
   <creator>Sara Bonjoch</creator>
   <language>CA</language>
   <source>ST-CA/Bonjoch_Sara_CA</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-CA</corpus>
@@ -579,20 +579,20 @@
   <creator>Sandra Colomer</creator>
   <language>CA</language>
   <source>ST-CA/Colomer_Sandra_CA</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-CA</corpus>
   <identifier>http://www.uab...</identifier>
 </record>
 
-<record id="Joan_Magdalena_CA">
-  <title>Magdalena Joan's audiodescription of What Happens While</title>
+<record id="Juan_Magdalena_CA">
+  <title>Magdalena Juan's audiodescription of What Happens While</title>
   <subject>drama short movie</subject>
-  <creator>Magdalena Joan</creator>
+  <creator>Magdalena Juan</creator>
   <language>CA</language>
-  <source>ST-CA/Joan_Magdalena_CA</source>
-  <description>some nice description about </description>
+  <source>ST-CA/Juan_Magdalena_CA</source>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-CA</corpus>
@@ -605,7 +605,7 @@
   <creator>Polo Mor</creator>
   <language>CA</language>
   <source>ST-CA/Mor_Polo_CA</source>
-  <description>some nice description about </description>
+  <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>
   <corpus>ST-CA</corpus>

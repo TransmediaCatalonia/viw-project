@@ -44,10 +44,10 @@ class DensityController extends Controller
 	}
 
 
-	## creates form with $files0
+	## creates form with $files0 ## symphony3.0: 	->add('chooseTwoFiles', ChoiceType::class,  array(
 	$defaultData = array();
     	$form = $this->createFormBuilder($defaultData)
-	->add('chooseTwoFiles', ChoiceType::class,  array(
+	->add('chooseTwoFiles', 'Symfony\Component\Form\Extension\Core\Type\ChoiceType',  array(
     	'choices' => array(
         $files0
     	),

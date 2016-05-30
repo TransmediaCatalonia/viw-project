@@ -20,8 +20,8 @@
 *.doc
 *.zip
 *.001
-*.eaf
 *.pfsx
 *.pdf
 *~
 *.gz
+*.BAK

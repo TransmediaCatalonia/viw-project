@@ -40,32 +40,6 @@ class DefaultController extends Controller
 
     }
 
-    /**
-     * @Route("/corpus", name="corpus")
-     */
-public function corpus(Request $request)
-    {
-
-	$path = $this->container->getParameter('kernel.root_dir');
-        $dataDir = $path . "/../data";
-        	
-	## reads records.xml and lists records available
-	$recordsFile = $path . "/../data/records.xml"; 
-	$records = $this->get('app.utils.metadata')->metadata($recordsFile);
-	$corpus = array();
-	foreach ($records->record as $r) { 
-    	   array_push($corpus, $r->corpus);
-	}
-	$corpora = (array_unique($corpus));  
-
-        $html = $this->container->get('templating')->render(
-            'default/indexCorpus.html.twig',
-            array('corpus' => $corpora)
-        );
-	 return new Response($html);
-
-    }
-
  /**
      * @Route("/corpus/{corpus_id}/", name="_corpusAction")
      */
@@ -115,6 +89,7 @@ public function corpusAction($corpus_id)
 	$hits = null;
 	$verbs = null;
 	$sem = null;
+	$hits_timeline = null;
 	$corpus = null;
 	$corpusfile = null;
 
@@ -134,6 +109,9 @@ public function corpusAction($corpus_id)
 		if ( preg_match("/sem.csv$/i", $f->getRelativePathname())) {
 	    	$sem = $f->getRelativePathname(); 
 		}
+		if ( preg_match("/Hits-All.txt$/i", $f->getRelativePathname())) {
+	    	$hits_timeline = $f->getRelativePathname(); 
+		}
 	}
 
 	
@@ -146,6 +124,7 @@ public function corpusAction($corpus_id)
 			'corpusfile' => $corpusfile,
 			'verbs' => $verbs,
 			'sem' => $sem,
+			'hits_timeline' => $hits_timeline,
 			'files' => $files)
         );
 	 return new Response($html);

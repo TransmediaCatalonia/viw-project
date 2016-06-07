@@ -422,7 +422,7 @@ class CSV
         
         #var_dump($csv[2]);
 	$result = array();
-	$total = 1;
+	$total = 0;
 	foreach ($csv as $c) { 
 		if ($c['Annotation1-1'] == $sem ) {
 			$lemma = $c['Annotation2-1'];
@@ -492,19 +492,20 @@ class CSV
 	#var_dump($result); # result lemma -> [time,time,time...]
 	
 	$values = array();
-		
+	$times = array();
 	foreach ($result as $key => $value) {
 		$num = $value[0];
 		array_shift($value);
 		foreach ($value as $v){
 			$pair = "[$v," . $num .",'" . $key . "']";
 			array_push($values, $pair);
+			array_push($times, $v);
 		}
 	}
 	#get the maxValue BeginTime (for visualisation issues)
-	$end = end($result);
-	$maxValue = $end[1] + 100000;
-	reset($result);
+	
+	$maxValue = max($times) + 50000;
+	
 	#var_dump($maxValue);		
 	# values: [time,Freq,'lemma']
 	
@@ -533,7 +534,6 @@ class CSV
 	$result = array();
 	$total = 1;
 	foreach ($csv as $c) { 
-
 			$sem = $c['Annotation1-1'];
 			##initialize the result for this sem because it doesnt exist yet
   			if (!isset($result[$sem])) {

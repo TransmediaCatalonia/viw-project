@@ -24,7 +24,7 @@ class KwicController extends Controller
 /**  
      * @Route("/kwic", name="kwicHome")
      */
-     ## simple search facility for Corpus 
+     ## simple search facility for Corpus. Lists corpora available.
     public function concordancerHome()
     {    
         
@@ -49,20 +49,18 @@ class KwicController extends Controller
 		$corpus = array_unique($corp);
 	}
 
-	
 		$html = $this->container->get('templating')->render(
 		'kwic/kwicHome.html.twig',
 		array('corpus' => $corpus, 'title' => ""));
 		return new Response($html);
-	
     }
 
 
      
 /**  
-     * @Route("/kwic/{corpus}/{word}", defaults={"word" = null }, name="kwic")
+     * @Route("/kwic/{corpus}", name="kwic")
      */
-     ## simple search facility for Corpus (corpus.txt file: [utterance, source.file]) 
+     ## simple search facility for Corpus (searches on 'corpus.txt' file with format: [utterance, source.file]) 
      ## allows for string search on corpus.txt file. Displays matching utterances (together with link to source file)
     public function concordancer($corpus, $word, Request $request)
     {    
@@ -77,14 +75,12 @@ class KwicController extends Controller
     	$form = $this->createFormBuilder($defaultData)
 	->add('word', 'text')
 	->getForm();
-	# ->add('word', TextType::class)
+	# ->add('word', TextType::class) symfony3
 	## checks if corpus file exists
 	$error = "";
 	if (!file_exists($file)) {   
 	$error = "Sorry there's no corpus text available yet!!!! You can try a different corpus.";                       
 	}
-
-
 
 	## check if form already posted
  	
@@ -97,19 +93,25 @@ class KwicController extends Controller
 		$content = file_get_contents($file);
 		$lines = explode(PHP_EOL, $content);
 		$values = array();
+		$files = array();
 		foreach ($lines as $l) { 
-			$string = explode("\t", $l); 
+			$string = explode("\t", $l);  
       	 		if (count($string) > 1) {
+				$path = explode("/",$string[1]);
+				array_pop($path);
+                      	  	$link = implode("/",$path);
 				#var_dump($string);print "<br/>";
 				$result = $this->get('app.utils.kwic')->kwic($d,$string[0]);
 				if ($result != "") {
-					array_push($values, array($result,$string[1]));
+					array_push($values, array($result,$link));
+					if( !in_array($link,$files)) array_push($files,$link);
 				}
 			}
 		}
 		#var_dump($values);
 		$c = count($values);
-		$title = "'$d' was found in $c utterances";
+		$cc = count($files);
+		$title = "'$d' was found in $c utterances in $cc files";
 		$html = $this->container->get('templating')->render(
 		'kwic/kwic.html.twig',
 		array('form' => $form->createView(), 'error' => $error, 'result' => $values, 'corpus' => $corpus, 'title' => $title));
@@ -125,7 +127,7 @@ class KwicController extends Controller
     }
 
 /**  
-     * @Route("/kwic/corpus/{dir}/{corpus}/{word}", defaults={"word" = null }, name="kwiccorpus")
+     * @Route("/kwic/corpus/{dir}/{corpus}", name="kwiccorpus")
      */
      ## simple search facility for file (sentences.txt file).
      ## displays sentences.txt file and allows for string search. Displays text with matching strings in red

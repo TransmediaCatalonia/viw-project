@@ -7,7 +7,7 @@
 		<div id="status">
                 	<h3>Density Graph ({{ type }}) for {{ title }}:</h3>
 			{% if mean is defined %}
-			</br>
+			<br/>
 			<center>
 			<table style="background:#F5F5F5;">
 				<tr>
@@ -37,34 +37,28 @@
 {% block javascripts %}
     
 
-    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-    <script type="text/javascript">
-      google.load("visualization", "1", {packages:["corechart"]});
-      google.setOnLoadCallback(drawChart);
-	  
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
       function drawChart() {
         
 
-		var data = new google.visualization.DataTable();
-data.addColumn('number', 'Agreement %'); 
-data.addColumn('number', 'Uterrances (num of words)'); // Implicit series 1 data col Orange.
-data.addColumn({type:'string', role:'tooltip', 'p': {'html': true}}); // tooltip for first series
-data.addColumn('number', 'Filmic annotations (indicate new shoots)');// Series 2 Green
-data.addColumn({ 'type': 'string', 'role': 'tooltip', 'p': { 'html': true } });// tooltip for second series
+	var data = new google.visualization.DataTable();
+		data.addColumn('number', 'timeline'); 
+		data.addColumn('number', 'num'); 
+		data.addColumn({type:'string', role:'tooltip', 'p': {'html': true}}); // tooltip 
 
         data.addRows([
-
-
           {{ key|raw }}
         ]);
 
         var options = {
           title: 'Utterances in timeline ({{ type }})',
-          hAxis: {title: 'TimeLine in msec.', viewWindow: {min: 0, max: {{ maxValue}} }, format: 'short'},
+          hAxis: {title: 'TimeLine', viewWindow: {min: 0, max: {{ maxValue}} }, format: 'short'},
 	  vAxis: {format: 'short'},
-          chartArea:{width:'80%',height:'500px'},
-          legend: {position: 'top'},
-	  tooltip: { textStyle: { fontName: 'Verdana', fontSize: 11 } }
+	  chartArea:{width:'80%',height:'500px'},
+          legend: 'none'
         };
 
         var chart = new google.visualization.ScatterChart(document.getElementById('columnchart_material'));

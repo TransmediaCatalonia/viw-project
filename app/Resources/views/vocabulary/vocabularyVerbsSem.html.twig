@@ -6,12 +6,12 @@
         <div id="container">
 		   		
     		<div id="status">
-		<h3>List of Semantic Classes  (ordered by frequency):</h3>
+		<h3>Choose a Verbal Semantic Classes to see it in the time line (ordered by frequency)</h3>
 		{% if error %}
    			 <p>{{ error }}</p>
 		{% endif %}
 		
-		<p>Choose a <b>Semantic Class</b> to see it in the <b>time line</b>.</p>
+		
 		<form action="{{ path('vocabularyVerbsSemantic', { 'dir':dir }) }}" method="post">
 		    <div id="sub">{{ form_widget(form) }}<input type="submit" class="submit" value="go" /></div>
 		</form>
@@ -32,7 +32,7 @@
 		{% endif %}
 
 		{% if pie %}
-			 <br/>
+			 
    			 <div id="piechart" style="width: 800px; height: 400px;"></div>	
 		{% endif %}
 

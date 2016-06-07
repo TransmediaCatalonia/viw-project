@@ -25,7 +25,17 @@ public function showFile($file_id,$dir_id,$subdir_id)
 
 	
 if (file_exists($file)) {
-        return new Response(file_get_contents($file));
+
+	$options = array('http' => array(
+        'method'  => 'POST',
+        'content' => $file,
+        'header'  => 
+            "Content-Type: text/plain\r\n" .
+            "Content-Length: " . strlen($file) . "\r\n"
+    ));
+    	$context  = stream_context_create($options);
+
+        return new Response(file_get_contents($file, false, $context));
     } else {
         throw NotFoundHttpException("Guide {$filename} Not Found.");
     }

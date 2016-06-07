@@ -80,6 +80,8 @@ class SearchController extends Controller
 
 /**
      * @Route("/search/{node}/{value}")
+     *
+     * Example: http://localhost:8000/search/language/CA
      */
     public function searchNode($node,$value)
     {
@@ -90,7 +92,7 @@ class SearchController extends Controller
 	//var_dump($node,$value);
 
 	if (file_exists($indexFile)) {
-		// biuld domXpath
+		// build domXpath
 		$doc = new \DOMDocument();
 		$doc->preserveWhiteSpace = false; 
 		$doc->loadXml(file_get_contents($indexFile));
@@ -130,9 +132,7 @@ class SearchController extends Controller
         );
 	 return new Response($html);
 
-
     }
-
 
 }
 

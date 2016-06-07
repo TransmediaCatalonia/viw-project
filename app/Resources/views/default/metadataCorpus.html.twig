@@ -26,6 +26,10 @@
 	<a href="../../kwic/{{ corpus }}/{{ corpusfile }}">access</a> </li><hr/>
 	{% endif %}
 
+	{% if hits_timeline is not null %}
+	<li><b>Corpus in timeline:</b> see how all audiodescriptions distribute in the timeline  
+	<a href="../../hits/timeline/{{ corpus }}">access</a> </li><hr/>
+	{% endif %}
 	
 	{% if words is not null %}
 	<li><b>Paragraphs, sentences and words' countings:</b> this provides some figures about paragraphs, sentences and words in the the {{ corpus }} corpus 

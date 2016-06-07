@@ -19,7 +19,7 @@ use Symfony\Component\Form\Extension\Core\Type\PasswordType;
 use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
 
 /*
-
+Index:
 
 @Route("/vocabulary/verbs/{dir}", name="vocabularyVerbs") 
      ex: vocabulary/verbs/What-ES  (generates 3 bar charts: "verbs x provider"; "20 top frequency verbs", "20 to semantic class verbs")
@@ -28,7 +28,7 @@ use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
 	vocabulary/verbs/What-ES/What-Aptent-ES.eaf  (two bar charts: "20 top frequency verbs", "20 to semantic class verbs")
 
 @Route("/vocabulary/verbssem/{dir}/{sem}", defaults={"sem" = null }, name="vocabularyVerbsSemantic")
-	form that gives piechart         *****
+	form that gives piechart and shows selected semclass in timeline
 
 @Route("/vocabulary/verbssemdash/{dir}", name="vocabularyVerbsSemanticDash")
      generates dashboard with lemma/semantic class
@@ -143,10 +143,10 @@ public function verbsFilesProvider($dir,$provider)
 	## creates form with $values
 	$defaultData = array();
     	$form = $this->createFormBuilder($defaultData)
-	->add('chooseSem', 'choice',  array(   
+	->add('chooseSemanticClass', 'choice',  array(   #->add('chooseSem', ChoiceType::class,  array(  OJO:symfony3
     	'choices' => $values))
 	->getForm();
-#->add('chooseSem', ChoiceType::class,  array(
+			
 	## check if form already posted
  	$error = "";
         if ($request->isMethod('POST')) {
@@ -164,7 +164,8 @@ public function verbsFilesProvider($dir,$provider)
 		#var_dump($result);
 		#var_dump($result2);
 
-		$i = count($result);
+		$i = count($result) - 1;
+		
 		$sem = "$d (total: $nWords ; different: $i)";
 		$toHTML = implode(",",$result);
 

@@ -1,0 +1,520 @@
+What-AccessFriendly-CA	4240	15389	Dia gris i ennuvolat. davant el mar. des de la carretera, un passeig sense arbres i, al fons, la línia de l’horitzó. Una parella passeja amb un gos, i una altre persona corre.
+What-AccessFriendly-CA	20713	27403	Apareix el títol en anglès: what happens while...  s’atura un cotxe esportiu, blanc. El conductor parla pel mòbil.
+What-AccessFriendly-CA	53034	62164	Mentre parlava, l’home ha sortit del cotxe amb una cartera a la mà. l’ha ficat al maleter, i ha tret una bossa de ratlles.  Es guarda el mòbil a la butxaca i es posa les ulleres de sol.
+What-AccessFriendly-CA	65334	69268	Sobreimprès, a la imatge congelada, es llegeix: James, l’empresari.
+What-AccessFriendly-CA	95693	108314	En James s’estira, de panxa enlaire, damunt la tovallola, a la sorra. ara va amb el tors despullat. abans anava vestit amb americana i corbata.  Es posa les mans a la cara, i després toca la sorra amb els dits.
+What-AccessFriendly-CA	162188	174159	S’aixeca. Porta banyador i va descalç. s’acosta a la vora de l’aigua. es gira i torna enrere, tot mirant al seu voltant. s’atura. fa unes passes titubejants, cap a una banda i l’altra.
+What-AccessFriendly-CA	176450	177010	S'atura.
+What-AccessFriendly-CA	179502	183391	Fa unes passes titubejants, cap a una banda i l’altra.
+What-AccessFriendly-CA	185734	191130	A la dreta de la pantalla, al fons, s’albira el perfil de la ciutat entre la broma.
+What-AccessFriendly-CA	192812	199540	En james té uns 40 anys, potser a prop dels 50. és ben plantat, pèl roig i amb barba.
+What-AccessFriendly-CA	206597	214704	Amb cara d’amoïnat, torna cap a la tovallola i es posa la camisa. intrigat, no para de mirar al seu voltant 
+What-AccessFriendly-CA	220209	224870	En james camina per una zona d’arbres. porta el vestit però sense la corbata.
+What-AccessFriendly-CA	227597	230485	Puja per un corriol costerut, entre matolls.
+What-AccessFriendly-CA	234708	244368	Un got de pàstic, amb tapa, subjectat per unes mans.  Rostre pensarós d’un home, d’uns seixanta anys, amb cabell arrissat i barba canosa. 
+What-AccessFriendly-CA	248664	257714	Voreja amb els dits la tapa del got i finalment l’obre. hi ha cafè aigualit. Indecís, acaba fent un glop.
+What-AccessFriendly-CA	265470	286687	Sobreimprès, a la imatge congelada, es llegeix: Rick, el jubilat. En Rick està assegut en un banc del parc. amb el got a les mans i la mirada perduda, mou nerviosament una cama.  Vesteix samarreta de tirants, pantalons texans i calçat esportiu. porta una cadena platejada al voltant del coll i una polsera al canell. Té alguns tatuatges als braços.
+What-AccessFriendly-CA	287442	297699	Deixa el got damunt el banc. es treu el mòbil de la butxaca del darrera.  l’activa i obre la llista de contactes. en selecciona un: craig anderson.
+What-AccessFriendly-CA	398967	410499	S’aixeca i es guarda el mobil a la butxaca. El got ha quedat sol damunt el banc. En Rick s’allunya i comença a caminar, tot mirant cap amunt i al seu voltant, encuriosit.
+What-AccessFriendly-CA	412289	422125	Noia jove davant l’ordinador. Es posa un llapis dins la boca i el mossega.  Sobreimprès, a la imatge congelada, es llegeix: jess, l’estudiant 
+What-AccessFriendly-CA	424403	430168	La jess té una llarga melena arrissada, d’un castany vermellós. Porta les ungles pintades de blau.
+What-AccessFriendly-CA	496201	499340	Mira cap amunt i darrera seu, temorosa.
+What-AccessFriendly-CA	509767	510556	S’aixeca.
+What-AccessFriendly-CA	512117	517866	A l’exterior.  la Jess, abrigada amb parca i bufanda, camina per una zona de matolls. 
+What-AccessFriendly-CA	519312	522469	Tot d’una s’atura i mira cap al seu darrera.
+What-AccessFriendly-CA	526327	528809	Es tomba i segueix caminant a pas lleuger.
+What-AccessFriendly-CA	530708	536023	En una clariana del bosc, sota un cel blau, coincideixen els tres personatges. 
+What-AccessFriendly-CA	537387	543061	Desconcertats, mouen el cap, fan passes indecises i miren a totes bandes. 
+What-AccessFriendly-CA	737538	756867	En James es tomba d’esquena i comença a caminar. en Rick el segueix. la Jess s’ho pensa. En el rostre dels tres personatges, s’hi ha dibuixat un somriure. La Jess, que s’havia quedat palplantada, es gira i comença a córrer cap a ells. junts, tots tres s’endinsen en el bosc.
+What-AccessFriendly-CA	758140	759431	Pantalla negre.
+What-AccessFriendly-CA	778921	782709	Sobreimprès, a la imatge congelada, es llegeix: Zoé, la següent
+What-Aptent-CA	2950	12240	A una platja, i sota un cel parcialment ennuvolat, es creuen per la sorra una parella que passeja un gos de mida gran i un home que fa fúting. El gos ensuma.
+What-Aptent-CA	13900	18660	En sentir el xiulet corre amb els seus amos. Sobreimprès amb fons blanc:
+What-Aptent-CA	19190	20720	Què passa mentre.
+What-Aptent-CA	21100	30200	Al costat de la platja s'atura un cotxe blanc de gamma alta. Sortirà el conductor parlant amb el mòbil, desarà el seu maletí al maleter i agafarà una bossa de platja.
+What-Aptent-CA	52500	56230	Penja i desa el mòbil. S'enduu la mà a la butxaca interior del vestit.
+What-Aptent-CA	59140	62810	Es posa unes ulleres de sol d'aviador daurades i mira endavant.
+What-Aptent-CA	65430	70430	Sobreimprès: James, l'empresari. Caminant per la platja s'enduu el mòbil a l'orella.
+What-Aptent-CA	92060	97450	S'estén de panxa enlaire i en banyador sobre una tovallola. Deixa el mòbil amb les seves coses.
+What-Aptent-CA	99420	108650	Roman uns segons amb els ulls tancats. S'emporta les mans a la cara i estén els braços sobre la sorra. Amb una mà n'agafa una mica i la deixa caure lentament.
+What-Aptent-CA	114700	116170	S'incorpora i l'agafa.
+What-Aptent-CA	141540	143730	Busca quelcom entre les seves coses.
+What-Aptent-CA	157500	159660	Deixa el mòbil a un costat i s'aixeca.
+What-Aptent-CA	163140	168170	S'allunya uns metres de la tovallola mirant a la llunyania, en direcció al passeig marítim.
+What-Aptent-CA	169400	176000	S'atura i centra la seva atenció en un punt fix. Una gavina vola a uns metres d'ell movent les ales amb ímpetu.
+What-Aptent-CA	179820	183420	Dirigeix la mirada d'una banda a l'altra de la platja com desorientat.
+What-Aptent-CA	187420	192260	Fa mitja volta i sense deixar de mirar en totes direccions s'apropa a la vora del mar.
+What-Aptent-CA	197780	205620	El seu rostre denota certa inquietud. Torna cap a la tovallola sense posar atenció als seus passos. Dos iots solquen el mar.
+What-Aptent-CA	208500	217760	S'inclina lleugerament per agafar la camisa i torna a alçar la mirada mentre se la posa. Després s'ajup per recollir la resta de la roba i continua vestint-se.
+What-Aptent-CA	218800	225970	Camina per un llarg passeig envoltat d'arbres d'abundant fullatge. Té el coll de la camisa descordat i ja no porta corbata.
+What-Aptent-CA	227220	231060	Puja per una muntanya a través d'una estreta sendera pedregosa.
+What-Aptent-CA	233940	246270	Un home de mitjana edat amb barba canosa i lleugerament descuidada està assegut a un banc individual envoltat de vegetació. Sosté un got de plàstic amb tapa i tamborina sobre ell amb l'índex de la mà esquerra.
+What-Aptent-CA	248700	255670	Somriu i fa que no amb el cap. Continua tocant el got nerviós i finalment treu la tapa. Conté cafè sol.
+What-Aptent-CA	257700	260670	Mira l'interior del got, beu un glop i l'assaboreix.
+What-Aptent-CA	265660	275890	Sobreimprès: Rick, el jubilat. Deixa la tapa a un dels dos bancs individuals que té a cada costat i beu un altre glop de cafè sense deixar de moure la cama dreta nerviós.
+What-Aptent-CA	278000	280810	Deixa el got al costat de la tapa i pica de mans.
+What-Aptent-CA	284940	293370	Treu el mòbil de la butxaca posterior dels pantalons. Accedeix a la secció "contactes" i fa lliscar el dit per la pantalla fins a aturar-se a Craig Anderson.
+What-Aptent-CA	296980	298690	Prem trucar amb gest d'enuig.
+What-Aptent-CA	325460	326860	Gest d'impotència.
+What-Aptent-CA	329620	332290	De sobte arrufa les celles i alça la mirada.
+What-Aptent-CA	336060	336770	Estranyat.
+What-Aptent-CA	351940	353900	Mou la mà intentant explicar-se.
+What-Aptent-CA	380100	381870	Torna a alçar la mirada estranyat.
+What-Aptent-CA	387020	388780	Apunta un petit somriure.
+What-Aptent-CA	398180	405520	El got de plàstic reposa sobre el banc amb la tapa posada. Ell s'allunya mirant inquiet en totes direccions i s'endinsa en una sendera.
+What-Aptent-CA	409680	417050	Una jove pèl-roja amb rínxols està asseguda davant d'un ordinador portàtil envoltada d'apunts. Mossega el llapis amb fastig.
+What-Aptent-CA	418220	420270	Sobreimprès: Jess, l'estudiant.
+What-Aptent-CA	423020	424100	Busca el mòbil.
+What-Aptent-CA	425590	429710	Finalment el troba entre els papers. Despenja i se l'emporta a l'orella.
+What-Aptent-CA	455620	456860	Arqueja les celles.
+What-Aptent-CA	464060	465360	Mou la mà alterada.
+What-Aptent-CA	494300	501490	Mira a banda i banda, amb gest d'estranyesa i temor. Alleujada pel cessament del soroll, abaixa la mirada per seguir estudiant.
+What-Aptent-CA	506620	507980	S'aixeca de la cadira.
+What-Aptent-CA	512780	519500	Ha sortit al carrer amb un abric marró i un fulard negre amb estampat blanc. Puja un pendent ple de vegetació.
+What-Aptent-CA	522220	527460	De sobte gira el cap com intentant esbrinar d'on ve el soroll i continua el seu camí.
+What-Aptent-CA	530700	541110	Arriba a una esplanada i camina lentament cap al James i el Rick, que també hi són. Els tres fan voltes sobre si mateixos movent el cap desconcertats. Una veu els sorprèn.
+What-Aptent-CA	556540	560740	El James mira a la llunyania protegint-se del sol intens amb la mà.
+What-Aptent-CA	576260	577700	Fent un pas endavant.
+What-Aptent-CA	586460	587190	Busquen.
+What-Aptent-CA	595000	596280	Gest anguniós.
+What-Aptent-CA	642180	643500	Els mira fixament.
+What-Aptent-CA	652100	653700	La Jess escolta atenta.
+What-Aptent-CA	681100	682040	Seriós.
+What-Aptent-CA	684700	686220	El James reflexiu.
+What-Aptent-CA	700460	701770	Gestos d'inquietud.
+What-Aptent-CA	707580	711940	El James mira el Rick que sembla dubtar i la Jess fa que no amb el cap.
+What-Aptent-CA	715300	716670	Es manté expectant.
+What-Aptent-CA	717940	720220	De sobte el Rick obre els braços.
+What-Aptent-CA	721060	721790	Somriu.
+What-Aptent-CA	723400	724500	Mirant al cel.
+What-Aptent-CA	725420	726890	El James es fa enrere.
+What-Aptent-CA	736580	740860	El James se'n va amb les mans a les butxaques. El Rick cuita a atrapar-lo.
+What-Aptent-CA	744940	753070	La Jess corre cap a ells. Quan els atrapa, el James li passa una mà per l'esquena. Mentre parlen es van allunyant en direcció a la vegetació.
+What-Aptent-CA	755900	760640	Una dona negra estén la roba amb el mòbil subjectat entre la galta i l'espatlla esquerra.
+What-Aptent-CA	762340	765580	No, encara no l'he estès tota. M'he d'afanyar a acabar.
+What-Aptent-CA	767700	771820	No, però de què em parles? Sí, esclar, ja he fet les maletes...
+What-Aptent-CA	772420	774460	Mira estranyada al seu voltant.
+What-Aptent-CA	774700	777310	Escolta, ara no puc parlar. T'he de deixar.
+What-Aptent-CA	777700	785680	Espantada i amb la mirada perduda. Sobreimprès: Zoé, la pròxima. En negre i sobre fons blanc: què passa mentre...?
+What-DescriptiveFerrer-CA	5000	11000	A l'alba, vista d'un passeig terrós vora el mar. Un home hi passa corrent i una parella hi passeja un gos.
+What-DescriptiveFerrer-CA	14400	16830	Sobre fons blanc, les lletres del títol.
+What-DescriptiveFerrer-CA	22000	30120	Un esportiu luxós s'atura davant del passeig. Un home elegant en baixa parlant pel mòbil i desa un maletí al maleter, d'on en treu una bossa de mà grossa.
+What-DescriptiveFerrer-CA	53050	55780	Llança una mirada al mar i es posa unes ulleres de sol.
+What-DescriptiveFerrer-CA	60320	69240	Esbufega i arronsa les espatlles amb expressió exhausta. Sobreimprès: "James, l'empresari". Camina pel passeig amb la bossa de mà penjada d'una espatlla.
+What-DescriptiveFerrer-CA	93120	96230	A la platja, s'estira en una tovallola sense la part de dalt.
+What-DescriptiveFerrer-CA	101000	103770	Es frega els ulls i estira una mà sobre la sorra.
+What-DescriptiveFerrer-CA	107000	109120	L'acarona i n'agafa un polsim.
+What-DescriptiveFerrer-CA	130270	132050	Mira a banda i banda buscant el soroll.
+What-DescriptiveFerrer-CA	142050	143320	Remena les seves coses.
+What-DescriptiveFerrer-CA	159000	160290	Tira el mòbil i s'alça.
+What-DescriptiveFerrer-CA	164520	171480	S'allunya unes passes buscant amb la mirada. Al fons, la silueta del Fòrum de Barcelona i les torres de la central tèrmica del Besós.
+What-DescriptiveFerrer-CA	178050	180150	S'atura, seriós, i fa mitja volta.
+What-DescriptiveFerrer-CA	185310	190250	S'atura un instant, però torna a passejar per la sorra buscant amb la mirada. Està tot sol.
+What-DescriptiveFerrer-CA	196000	202150	És un home de mitjana edat, porta els cabells curts i una barba espessa, i és de pell clara. Va en calçotets.
+What-DescriptiveFerrer-CA	207470	211720	Se'n torna vora les seves coses i es posa la camisa sense deixar de guaitar al seu voltant.
+What-DescriptiveFerrer-CA	220000	222050	Vestit, recorre un pont arbrat.
+What-DescriptiveFerrer-CA	226080	228540	S'enfila per un camí al pendent d'un descampat.
+What-DescriptiveFerrer-CA	232080	240920	Un home de cabells llargs i despentinats tamborina els dits contra l'envàs de plàstic d'una beguda. Té uns 60 anys i porta una barba canosa. Sacseja el cap, nostàlgic.
+What-DescriptiveFerrer-CA	250000	254120	Destapa l'envàs amb compte, es mira la beguda, cavil·lós, i en fa un glop.
+What-DescriptiveFerrer-CA	265000	273730	Sobreimprès: "Rick, el jubilat". Assegut en uns bancs sota una zona arbrada, en Rick es torna a mirar la beguda mentre belluga una cama, inquiet, i en fa un glop.
+What-DescriptiveFerrer-CA	278050	286260	Fa que no amb el cap i deixa el got al banc del costat, vora la tapa. Es recolza al banc, pica de mans sense deixar de camejar, i es treu el mòbil de la butxaca.
+What-DescriptiveFerrer-CA	290370	292240	Fa anar l'agenda i s'atura a la ce.
+What-DescriptiveFerrer-CA	297080	299150	Selecciona un contacte i hi truca.
+What-DescriptiveFerrer-CA	329150	330780	Mira incòmode al seu voltant.
+What-DescriptiveFerrer-CA	380140	381300	Busca amb la mirada.
+What-DescriptiveFerrer-CA	398000	403550	S'alça del banc i s'allunya per un caminet buscant al seu voltant. Es deixa el got de plàstic al banc del costat.
+What-DescriptiveFerrer-CA	409000	412970	Una noia pèl-roja feineja en un escriptori, davant d'un portàtil i d'un llibre.
+What-DescriptiveFerrer-CA	418000	423150	Sobreimprès: "Jess, l'estudiant". Busca el mòbil rere el portàtil i entre la paperassa.
+What-DescriptiveFerrer-CA	497120	500120	Mira desconcertada a les parets de l'habitació.
+What-DescriptiveFerrer-CA	510350	512240	Surt al carrer i segueix el soroll.
+What-DescriptiveFerrer-CA	518000	521000	Puja per un caminet entre canyes verdes i matolls.
+What-DescriptiveFerrer-CA	525000	528150	S'atura un moment per parar l'orella i continua cap a un flanc.
+What-DescriptiveFerrer-CA	531150	540200	En James, en Rick i la Jess es troben en un descampat terrós, enmig d'un paratge de turons coberts de vegetació. Miren enlaire i al seu voltant, desconcertats.
+What-DescriptiveFerrer-CA	708410	710750	Tots tres es miren: en Rick fa que no.
+What-DescriptiveFerrer-CA	736610	741330	En James comença a passar i en Rick el segueix. La Jessica mig somriu i assenteix.
+What-DescriptiveFerrer-CA	746000	752060	Els atrapa d'una corredissa i es posa entre tots dos. S'allunyen del descampat en direcció a una línia d'arbres.
+What-DescriptiveFerrer-CA	758150	760360	Fosa a negre. Al terrat d'un edifici.
+What-DescriptiveFerrer-CA	762490	765260	"No, encara no l'he estès tota. M'he d'afanyar a acabar."
+What-DescriptiveFerrer-CA	768000	773050	"No, però de què em parles? Sí, esclar, ja he fet les maletes..." La dona busca el soroll.
+What-DescriptiveFerrer-CA	775100	777100	"Escolta, ara no puc parlar. T'he de deixar."
+What-DescriptiveFerrer-CA	779090	786240	Sobreimprès: "Zoé, la següent." Fosa a negre. Sobre fons blanc, les lletres del títol, seguides d'una línia contínua.
+What-LlorencBlasi-CA	920	14000	Un matí de cel gris cendra amb núvols baixos plana sobre el mar i el passeig marítim. Una parella que passeja un gran danés per la sorra es creua amb un home que practica running. El gos s’atura a ensumar el terra i la parella el crida.
+What-LlorencBlasi-CA	15290	17290	En lletres negres sobre fons blanc... Què passa mentre...
+What-LlorencBlasi-CA	22000	25000	Un cotxe esportiu blanc, s’atura a la calçada del passeig.
+What-LlorencBlasi-CA	26640	29640	El conductor parla per telèfon fent gestos enèrgics amb les mans.
+What-LlorencBlasi-CA	31150	32150	Baixa del cotxe.
+What-LlorencBlasi-CA	38000	39000	Deixa el seu maletí a terra.
+What-LlorencBlasi-CA	44560	45560	Obre el maleter.
+What-LlorencBlasi-CA	52000	71000	L’home penja el telèfon, contrariat. Amb la mirada perduda al mar es treu de la butxaca interior de l’americana unes ulleres de sol de muntura daurada i vidres amb forma d’ametlla... Se les col·loca... i sospira. En lletres blanques sobreimpreses: James, l’empresari. Duu una bossa de platja penjada a l’espatlla. Camina per la sorra.
+What-LlorencBlasi-CA	92000	104000	James és un home ros de mitjana edat. Duu bigoti i una barba curta i ben cuidada. En vestit de bany, s’ajau de panxa enlaire en una tovallola, damunt la sorra. Sospira, tanca el ulls i se’ls frega amb les mans.
+What-LlorencBlasi-CA	105240	108660	Estirat, obre els braços abandonant-se a la carícia d’un sol pàl·lid.
+What-LlorencBlasi-CA	110000	114000	Amb el dits juga amb la sorra. La trucada el fa aixecar el cap i s’incorpora.
+What-LlorencBlasi-CA	129440	133000	Un dringar metàl·lic el distreu i mira inquiet al seu voltant.
+What-LlorencBlasi-CA	141360	145380	Mentre parla, mira a dreta i esquerra intentant localitzar d’on ve el soroll.
+What-LlorencBlasi-CA	158150	160540	Deixa el telèfon i s’aixeca ple de curiositat.
+What-LlorencBlasi-CA	163270	169000	En vestit de bany dóna tombs per la platja tot cercant l’origen d’aquell dring. Va cap a on trenquen les onades.
+What-LlorencBlasi-CA	170420	176000	A l’altre cantó de la badia, la fosca silueta dels edificis alts de la ciutat es retalla en el cel enteranyinat.
+What-LlorencBlasi-CA	177000	184000	James torna cap a la tovallola però s’atura. Resta dret i després es gira. Una gavina passa volant.
+What-LlorencBlasi-CA	186000	193000	Les passes de l’home són vacil·lants. Mira el cel a dreta i esquerra, confús, mentre va cap a la vora de l’aigua.
+What-LlorencBlasi-CA	197000	199400	S’allunya de l’aigua amb la mirada posada al cel.
+What-LlorencBlasi-CA	202510	207000	Al mar, no massa lluny de la costa, dues barques es gronxen damunt les onades.
+What-LlorencBlasi-CA	208240	213740	Decidit, arriba on hi ha la tovallola, agafa la camisa i se la posa sense deixar de mirar al cel.
+What-LlorencBlasi-CA	220000	229510	Ja vestit, camina sota els arbres del passeig. L’americana oberta, la camisa amb el coll descordat, sense corbata. Desapareix enfilant-se per un coster cap al cim d’un turó.
+What-LlorencBlasi-CA	232410	255000	Uns dits nerviosos colpegen un got de cartró amb tapa. Un home barba-serrat amb cabells llargs, arrissats i despentinats, sosté el got entre les mans. Duu una samarreta imperi que deixa al descobert el tatuatge de l’espatlla. Somriu, fa que no amb el cap i para atenció al got. Repassa la tapa amb l’índex, li dóna un copet amb el polze i la treu. El got és ple d’un líquid negre.
+What-LlorencBlasi-CA	257000	264000	Una cadena de baules gruixudes a joc amb la del canell li voreja el coll. Mira el got pensatiu, fa un glop i sospira.
+What-LlorencBlasi-CA	265000	269000	Sobreimpressionat amb lletres blanques: Rick, el jubilat.
+What-LlorencBlasi-CA	270000	273000	En Rick és assegut en un banc d’una placeta pública.
+What-LlorencBlasi-CA	273720	277000	Fa un altre glop sota l’ombra d’uns arbres de troncs recargolats.
+What-LlorencBlasi-CA	279000	288000	Belluga la cama dreta de manera nerviosa. Tot d’una deixa el got al banc del costat i pica de mans. De la butxaca de darrera del pantaló treu el telèfon.
+What-LlorencBlasi-CA	289740	293840	Amb el dit fa passar ràpid la llista de contactes. En selecciona un.
+What-LlorencBlasi-CA	295690	299000	Toca la pantalla i es posa el telèfon a l’orella esperant resposta.
+What-LlorencBlasi-CA	329490	332000	Estranyat, cerca amb la mirada d’on ve el soroll.
+What-LlorencBlasi-CA	336220	337220	El busca mentre parla.
+What-LlorencBlasi-CA	380000	382000	El soroll el torna a interrompre.
+What-LlorencBlasi-CA	383000	385000	Explora el seu voltant amb la mirada.
+What-LlorencBlasi-CA	397360	408430	En Rick s’aixeca somrient. Apressat, comença a caminar i s’allunya de la placeta, deixant el got abandonat i mig ple al damunt del banc. Camina tot mirant al seu voltant, com cercant alguna cosa.
+What-LlorencBlasi-CA	411000	416480	Una noia jove de cabells rinxolats i llargs fins a les espatlles treballa davant de l’ordinador portàtil.
+What-LlorencBlasi-CA	418000	422000	SObreimpressionat en lletres blanques: Jess l'estudiant.
+What-LlorencBlasi-CA	422000	429000	Es treu el llapis de la boca i cerca el telèfon emmig del desordre de papers de la seva taula. Quan el troba, respon a la trucada.
+What-LlorencBlasi-CA	496000	499000	Penja. Amb estranyesa, mira a un costat i a un altre.
+What-LlorencBlasi-CA	500780	502540	Fa per tornar a la feina però...
+What-LlorencBlasi-CA	506000	507000	Alça el cap.
+What-LlorencBlasi-CA	509290	513850	La Jess s’aixeca de la cadira, deixa l’estudi i, abrigada, surt al carrer.
+What-LlorencBlasi-CA	516680	519790	Puja per un pendent emmig de canyes, herbes altes i matolls.
+What-LlorencBlasi-CA	523480	526650	S’atura un moment, mira al seu voltant i accelera el pas.
+What-LlorencBlasi-CA	528350	534350	Arriba a una esplanada de terra nua, al peu de dos turons, vorejada de matolls secs i d’arbres sense fulles.
+What-LlorencBlasi-CA	536220	539170	També hi ha en Rick i en James, que escodrinyen el seu entorn.
+What-LlorencBlasi-CA	555420	558560	Tots tres miren en totes direccions sense veure-hi ningú.
+What-LlorencBlasi-CA	576000	576900	Es sorprèn.
+What-LlorencBlasi-CA	595000	596650	En Rick es posa la mà al cap...
+What-LlorencBlasi-CA	662570	664570	Amb la mà, imita un metrònom.
+What-LlorencBlasi-CA	685000	687000	En James i la Jess l’escolten, reflexius.
+What-LlorencBlasi-CA	707600	712000	En James i en Rick s’intercanvien una mirada. En Rick i la Jess neguen amb el cap.
+What-LlorencBlasi-CA	715000	719400	Tots tres són al mig de l’esplanada. En Rick obre els braços.
+What-LlorencBlasi-CA	723530	726530	En James, sorprès, somriu i aixeca les espatlles.
+What-LlorencBlasi-CA	736350	743500	En Rick segueix en James, que també somriu. La Jess resta pensativa, aixeca les celles, dibuixa un somriure...
+What-LlorencBlasi-CA	745450	751430	...i els atrapa amb quatre gambades. Tots tres, parlant animadament, abandonen l’esplanada i fan cap a la platja.
+What-LlorencBlasi-CA	755000	762360	La pantalla s’enfosqueix. Una dona jove negra, amb el cabells pentinats amb trenes a l’estil africà, estén la roba en un terrat.
+What-LlorencBlasi-CA	763150	766150	No, encara no l’he estesa tota. M’he d’afanyar a acabar.
+What-LlorencBlasi-CA	768000	771000	No, però de què em parles? Si, esclar, ja he fet les maletes...
+What-LlorencBlasi-CA	772000	774000	La dona mira d’on ve el soroll.
+What-LlorencBlasi-CA	775000	778330	Escolta, ara no puc parlar. T’he de deixar. La dona penja el telèfon.
+What-LlorencBlasi-CA	779110	783000	Sobreimpressionat amb llebtres blanques: Zoé la següent.
+What-LlorencBlasi-CA	783000	788520	Amb lletres negres sobre fons blanc es pot llegir: "What happens While?". Què passa mentres?
+Multi-Signes-CA	3570	15410	Un matí ennuvolat, prop del mar, per un passeig marítim urbà sense asfaltar, un noi i una noia passegen un gos i un home amb xandall corre. El gos s'atura un instant, ensuma en un petit clot i després segueix la parella.
+Multi-Signes-CA	16130	18000	En lletres negres, sobre fons blanc...
+Multi-Signes-CA	22510	29590	Un cotxe esportiu blanc s'atura davant del passeig marítim. El conductor parla pel mòbil, dóna un cop al volant i gesticula amb les mans.
+Multi-Signes-CA	38000	39340	L'home porta un maletí.
+Multi-Signes-CA	43900	44940	El desa al maleter.
+Multi-Signes-CA	52800	65470	L'home nega amb el cap, serra els llavis i mira cap al mar. Es treu unes ulleres de sol d'estil aviador de la butxaca interior de l'americana i se les posa. La imatge es congela i sobreimprès a la pantalla es llegeix: "James, l'empresari".
+Multi-Signes-CA	67100	71730	Amb la silueta de la ciutat de fons, en James camina amb el mòbil a la mà i una bossa de platja a l'espatlla.
+Multi-Signes-CA	92000	98220	0A la sorra de la platja, un vestit d'home rebregat al costat d'una tovallola groga. En James s'hi estira, tot deixant caure el cap.
+Multi-Signes-CA	100450	108750	Tanca els ulls, es frega la cara amb les mans i després posa els braços en creu. Amb la mà esquerra acarona la sorra, n'agafa un grapat i la deixa lliscar entre els dits.
+Multi-Signes-CA	112000	113620	Obre els ulls i s'incorpora.
+Multi-Signes-CA	142000	143420	Mira a banda i banda.
+Multi-Signes-CA	158010	160150	Deixa el mòbil damunt de la roba i s'aixeca.
+Multi-Signes-CA	161400	168390	En James camina cap a l'aigua en banyador. Té uns quaranta anys, els cabells foscos i curts, porta una barba ben arreglada i està en forma.
+Multi-Signes-CA	170430	175080	Quan és a prop de l'aigua, alça la vista com si seguís alguna cosa amb els ulls i torna cap a la sorra.
+Multi-Signes-CA	178850	181850	S'atura, mira cap al cel un instant i torna cap a l'aigua.
+Multi-Signes-CA	187280	196000	Es torna a aturar i mira cap al cel, a banda i banda, com si hi hagués alguna cosa volant a prop seu. Camina per la platja, amb la vista fixa al cel, com si busqués l'origen del so enigmàtic.
+Multi-Signes-CA	199100	212780	Camina per la sorra a poc a poc, mirant cap al cel enteranyinat i blanquinós amb el rostre tens i els ulls empetitits per la intensitat de la llum. S'ajup per agafar la camisa grisa de màniga llarga de terra i se la posa sense apartar la vista del cel en cap moment.
+Multi-Signes-CA	220270	232800	Per un carrer d'una ciutat amb plataners arrenglerats, en James camina amb l'americana descordada i el coll de la camisa obert, sense corbata. Arriba a un petit turó i comença a pujar per un corriol costerut i pedregós que s'obre pas entre arbustos i matolls secs.
+Multi-Signes-CA	235000	243320	En una cadira d'un parc hi seu un home d'uns seixanta anys, de cabells blancs i despentinats i barba espessa. Té un got de plàstic amb tapa a les mans i somriu amb amargor.
+Multi-Signes-CA	247910	251880	Amb el dit índex ressegueix el contorn de la tapa del got i després l'aixeca.
+Multi-Signes-CA	254000	260410	Es mira el cafè, s'apropa el got a la boca i l'ensuma. Després fa un glop i es llepa els llavis, mantenint la mirada fixa en un punt.
+Multi-Signes-CA	265610	281040	La imatge es congela i sobreimprès a la pantalla es llegeix: "Rick, el jubilat". Sota uns arbres hi ha tres cadires de fusta individuals i en Rick seu a la del mig. Du una samarreta sense mànigues, té un tatuatge al braç dret i mou nerviosament la cama. Fa un altre glop de cafè, deixa el got a una cadira buida i pica de mans.
+Multi-Signes-CA	285350	291000	Es treu un mòbil de pantalla tàctil de la butxaca del darrere dels texans i amb el dit índex va passant els contactes de l'agenda.
+Multi-Signes-CA	294350	298440	S'atura en un dels contactes, en Craig Anderson, i prem el botó verd de trucada.
+Multi-Signes-CA	330420	332150	En Rick alça la mirada cap al cel.
+Multi-Signes-CA	380340	382340	En Rick mira cap al cel sorprès.
+Multi-Signes-CA	398480	409480	El got de cafè és a una de les cadires. En Rick s'allunya caminant i es guarda el mòbil a la butxaca del darrere dels texans. Mentre camina pel parc, mira cap al cel com si seguís el rastre d'alguna cosa que hi hagués a l'aire.
+Multi-Signes-CA	412000	414000	En una habitació, una noia estudia.
+Multi-Signes-CA	416160	421930	Es fica un llapis a la boca i el mossega. La imatge es congela i sobreimprès es llegeix: "Jess, l'estudiant".
+Multi-Signes-CA	425726	430314	Busca el mòbil damunt un escriptori on hi ha un portàtil engegat i un munt de papers desendreçats.
+Multi-Signes-CA	494380	504970	La Jess penja i alça la mirada. Amb la mà dreta es col·loca els cabells llargs i rinxolats rere l'orella. Dóna un cop d'ull ràpid a banda i banda, abaixa la mirada cap a l'ordinador i torna a alçar els ulls.
+Multi-Signes-CA	509930	511040	S'aixeca de la cadira.
+Multi-Signes-CA	512530	532550	Ben abrigada, amb una jaqueta i un mocador, la Jess va per un camí que s'obre pas entre arbustos i canyes. Té uns divuit anys i és pèl-roja. S'atura un instant, mira enrere, com si busqués alguna cosa, i després continua caminant fins a una clariana envoltada de turons. Al bell mig de l'esplanada hi ha en James i en Rick. Tots dos miren cap al cel. La Jess s'hi apropa a poc a poc.
+Multi-Signes-CA	555800	561480	En Rick mira al cel. En James fa visera amb la mà, perquè el sol no l'enlluerni. La Jess mira al seu voltant.
+Multi-Signes-CA	595000	597000	En Rick es posa la mà al front.
+Multi-Signes-CA	696540	697760	En Rick assenteix.
+Multi-Signes-CA	700190	702190	James es fica les mans a les butxaques.
+Multi-Signes-CA	707280	711730	En James mira en Rick, que s'arronsa d'espatlles, mou el cap a banda i banda i mira la Jess.
+Multi-Signes-CA	717920	720570	Miren cap al cel. En Rick alça els braços.
+Multi-Signes-CA	736800	741800	En Rick segueix en James. La Jess es queda parada, arqueja les celles i arronsa els llavis .
+Multi-Signes-CA	746590	752590	La Jess corre i els empaita. En James l'abraça per les espatlles i tots tres marxen caminant i xerrant cap al bosc.
+Multi-Signes-CA	756430	762730	Dalt d'un terrat, una dona negra parla pel mòbil mentre estén la bugada. Diu: "Encara no l'he estès tota i m'he d'afanyar".
+Multi-Signes-CA	766440	768070	Diu: "Ja he fet les maletes".
+Multi-Signes-CA	773000	774590	Alça la mirada cap al cel.
+Multi-Signes-CA	777780	783670	Mira cap al cel sorpresa. La imatge es congela i sobreimprès es llegeix: "Zoé, la següent". La imatge talla a negre.
+Multi-Signes-CA	785200	788250	Sobre fons blanc, en lletres minúscules: "Què passa mentre..."
+Plurals-CAT	3080	16050	Un pla fix d'una platja a peu de carretera, amb el mar al fons. Darrere els núvols s'entreveu la llum tènue dels primers rajos de sol del matí. Un home i una dona, abrigats, passegen per la sorra amb un gos. Es creuen amb un home que fa fúting.
+Plurals-CAT	20640	22550	Lletres negres sobre fons blanc.
+Plurals-CAT	23800	29890	La mateixa platja. Un home condueix un cotxe blanc, de gamma alta. Parla pel mòbil mentre aparca.
+Plurals-CAT	52060	59950	Duu un maletí negre que guarda al portaequipatge, d'on treu una bossa de platja amb ratlles marineres. Contempla el mar, es posa unes ulleres de sol i sospira profundament.
+Plurals-CAT	65300	66870	James, l'empresari.
+Plurals-CAT	67410	70180	Camina per la platja amb la bossa penjada a l'espatlla.
+Plurals-CAT	91800	100030	És un home de mitjana edat, pèl-roig, alt i de constitució atlètica. Vesteix pantalons i americana negres, camisa grisa i corbata.
+Plurals-CAT	101410	110750	S'estira a la tovallola sobre la sorra, amb el tors nu, panxa enlaire. Es frega els ulls. Deixa caure els braços, relaxat, i pessiga la sorra, que se li esmuny entre els dits.
+Plurals-CAT	141490	143860	Mira a banda i banda, desconcertat.
+Plurals-CAT	163440	174440	Porta els cabells curts i la barba retallada. S'aixeca de la tovallola i camina uns quants metres amb gest confús. Ha deixat la roba apilonada sobre la sorra i va en calçotets. Escolta atentament i canvia de direcció.
+Plurals-CAT	175550	178510	S'atura i relaxa el gest, alleujat. Al seu voltant no hi ha ningú.
+Plurals-CAT	191450	196940	Perplex, mira cap a totes direccions, amb la barbeta elevada i els ulls entretancats, intrigat.
+Plurals-CAT	207410	214460	Observa i escolta amb atenció fins que, resolut i seriós, es vesteix, amb la mirada clavada en un punt llunyà, d'esquena al mar.
+Plurals-CAT	219410	222300	Camina per un carrer envoltat d'arbres, decidit.
+Plurals-CAT	227390	232570	Amb pas ferm, s'enfila per un camí de sorra estret, rodejat de plantes i matolls.
+Plurals-CAT	236450	243580	Uns dits inquiets repiquen un got de cartró. Un home d'uns seixanta anys, canós, despentinat i amb barba, mira al seu voltant, somriu i sacseja el cap.
+Plurals-CAT	249350	256430	Té un got de cafè entre les mans. N'acarona la tapa de plàstic, l'obre, en mira l'interior i en fa un glop, resignat.
+Plurals-CAT	265510	267040	Rick, el jubilat.
+Plurals-CAT	267510	284440	En un parc. En Rick, assegut en una cadira, es beu el cafè mentre mira al buit i fa tremolar la cama dreta, neguitós. Porta calçat esportiu, texans foscos i samarreta de tirants marró. Té un tatuatge al braç dret i duu una cadena i una polsera de plata, gruixudes. Deixa el got a un costat i es frega les mans.
+Plurals-CAT	289330	297310	Es treu el mòbil de la butxaca i obre la llista de contactes. En selecciona un: Craig Anderson. Li truca.
+Plurals-CAT	329340	332040	Arrufa les celles i mira enlaire, estranyat.
+Plurals-CAT	398410	399880	S'aixeca del banc i se'n va.
+Plurals-CAT	411380	413390	Una noia jove seu davant de l'ordinador.
+Plurals-CAT	418470	419930	Jess, l'estudiant.
+Plurals-CAT	421990	429180	Mossega un llapis, que deixa anar per buscar el mòbil. El troba sota una pila de papers que té sobre la taula, desendreçats.
+Plurals-CAT	494380	499290	Busca entre els papers, desconcertada. Amb gest confús, mira a dreta i esquerra.
+Plurals-CAT	503410	504590	Se sobresalta.
+Plurals-CAT	511480	520370	Al carrer, abrigada. Escolta atenta, amb actitud vigilant, i camina instintivament, com posseïda. Creua un terreny boscós, envoltat d'herbes altes.
+Plurals-CAT	523430	526780	S'atura, escolta, i arrenca a córrer convençuda.
+Plurals-CAT	532460	539270	Arriba a una esplanada de sorra extensa, envoltada de petits turons, on hi ha en James i en Rick que deambulen desorientats, mirant al cel.
+Plurals-CAT	556270	559820	Tots tres, drets enmig del pla, busquen arreu amb la mirada.
+Plurals-CAT	594740	596710	Es posa una mà al front, torbat.
+Plurals-CAT	710000	712370	Es miren. En Rick i la Jess fan que no.
+Plurals-CAT	725429	727527	En James somriu incrèdul.
+Plurals-CAT	737280	739260	L'home assenteix, somrient.
+Plurals-CAT	753280	755210	Marxen junts, abraçant-se.
+Plurals-CAT	762420	765390	No, encara no l'he estès tota. M'he d'afanyar a acabar.
+Plurals-CAT	768420	772510	No, però de què em parles? Sí, esclar, ja he fet les maletes...
+Plurals-CAT	775390	780640	Escolta, ara no puc parlar. T'he de deixar. Una dona estén la roba mentre parla per telèfon. Zoé, la següent.
+Plurals-CAT	783360	786610	Amb lletres negres sobre fons blanc, el títol: "El que passa mentre..."
+SBT-Carme-CA	3340	16360	En un pla estàtic, de cara al mar, mig carrer, la vorera, un passeig ampli de terra, una tanca i el mar, sota un cel de color perla, mig ennuvolat. Un home passa corrent de dreta a esquerra, i es creua amb una parella que passeja un gos, un gran danès.
+SBT-Carme-CA	24660	29230	Un cotxe esportiu blanc s'atura arran de vorera. El conductor parla pel mòbil.
+SBT-Carme-CA	38110	39990	Amb un maletí, va cap al maleter.
+SBT-Carme-CA	53810	62940	Deixa el maletí al maleter i n'agafa una bossa. Dret darrere del vehicle, es desa el mòbil, es treu unes ulleres de sol de la butxaca interior de l'americana i se les posa.
+SBT-Carme-CA	66270	71450	James, l'empresari.L'home camina pel descampat amb una bossa de ratlles penjada de l'espatlla.
+SBT-Carme-CA	92540	109180	Sobre la sorra, una pila de roba rebregada i una tovallola estesa. En James s'hi estira panxa amunt a prendre el sol. L'home, de pell clara, té els cabells pèl-rojos, tallats curts, i porta barba ben arreglada. Es frega els ulls, estén els braços a banda i banda del cos i agafa granets de sorra amb els dits.
+SBT-Carme-CA	117520	118330	S'incorpora.
+SBT-Carme-CA	142490	144130	Es gira a banda i banda, estranyat.
+SBT-Carme-CA	158850	163090	Mira entre la roba, i al voltant, neguitós. S'aixeca i camina cap a l'aigua.
+SBT-Carme-CA	171040	175050	Alça la mirada, com buscant alguna cosa, i s'allunya del trenc de les onades.
+SBT-Carme-CA	193160	199610	Torna cap a l'aigua i es gira de cop, cercant l'origen del xiulet. Mira pertot, estranyat, i desisteix del bany.
+SBT-Carme-CA	203440	205580	Torna cap a la tovallola, mirant enlaire.
+SBT-Carme-CA	210020	212810	Agafa la camisa, de color gris clar, i se la posa.
+SBT-Carme-CA	221590	229100	Ja vestit, amb americana i pantalons foscos, camina arran de carrer, per sota d'unes oliveres. S'enfila per un corriol entre matolls.
+SBT-Carme-CA	233430	245560	Primer pla d'un got de cafè amb tapa. Un home d'uns 60 anys, de cabells grisos desendreçats, barba i celles poblades, samarreta de tirants caqui i una cadena gruixuda penjada del coll, el sosté entre les mans.
+SBT-Carme-CA	248170	253290	Mira enlaire somrient, sacseja el cap i l'abaixa. Repassa amb el dit la tapa del got, i l'obre.
+SBT-Carme-CA	256530	260280	El sacseja lleugerament, se'n mira el líquid uns instants i en fa un glop.
+SBT-Carme-CA	266400	267600	Rick, el jubilat.
+SBT-Carme-CA	269610	275680	Deixa la tapa en un banc individual, al costat d'on seu ell, i s'acaba el cafè mentre fa tremolar la cama dreta.
+SBT-Carme-CA	278880	284159	Sacseja el cap fent que no, deixa el got al costat de la tapa i es deixa caure sobre el respatller.
+SBT-Carme-CA	288660	294170	Es treu el mòbil de la butxaca de darrere dels texans, en plega la tapa enrere i busca un contacte.
+SBT-Carme-CA	298340	300230	Craig Anderson. Li truca.
+SBT-Carme-CA	330270	332090	Arrufa les celles i mira enlaire.
+SBT-Carme-CA	380880	383000	Torna a mirar amunt, estranyat.
+SBT-Carme-CA	398430	409070	Pla estàtic des del banc, amb el got de cafè en primer pla. En Rick s'aixeca, somrient, es desa el mòbil a la butxaca del darrere dels texans i camina fent voltes sobre si mateix mirant enlaire.
+SBT-Carme-CA	414120	420150	Una noia adolescent, de cabellera arrissada  vermellosa i ulls clars. Jess, l'estudiant.
+SBT-Carme-CA	423530	428150	Deixa el llapis que tenia entre les dents, i busca entre llibres i papers, al voltant del portàtil.
+SBT-Carme-CA	495450	498650	Estranyada, busca entre els papers, i mira enlaire, a banda i banda.
+SBT-Carme-CA	510570	519730	S'incorpora. Al carrer, amb jaqueta cordada i mocador de coll, va mirant pertot, encuriosida. S'endinsa per un canyissar, i s'atura per fer un cop d'ull tot al voltant.
+SBT-Carme-CA	525680	528350	Corre amunt entre les herbes cap a un camp d'oliveres.
+SBT-Carme-CA	531040	537570	En un gran descampat de terra, envoltat de vegetació, en James, en Rick i la Jess, que van mirant enlaire desconcertats.
+SBT-Carme-CA	556530	560170	Tots tres, a pocs metres, cerquen pertot, encara més sorpresos.
+SBT-Carme-CA	595330	597130	Es posa la mà al front, desesperat.
+SBT-Carme-CA	708530	711200	En Rick s'arronsa d'espatlles i se'ls mira tots dos.
+SBT-Carme-CA	739440	741500	La Jess rumia, sorpresa, i somriu.
+SBT-Carme-CA	749250	753230	Corre fins a trobar-los, i camina entre els dos homes en direcció a la vegetació.
+SBT-Carme-CA	757800	762150	Fosa a negre. Una dona amb els cabells trenats i curts estén roba.
+SBT-Carme-CA	765540	768130	"No, encara no l'he estès tota. M'he d'afanyar a acabar."
+SBT-Carme-CA	771350	775030	"No, però de què em parles? Sí, esclar, ja he fet les maletes..."
+SBT-Carme-CA	777130	779120	"Escolta, ara no puc parlar. T'he de deixar."
+SBT-Carme-CA	780210	783060	Zoé, la següent.  Fosa a negre.
+SBT-Carme-CA	783120	787450	"QUÈ PASSA MENTRE..." Sobre fons blanc, els crèdits.
+SDI-Media-CAT	3390	10220	Un noi i una noia passegen amb un gos per un descampat a la vora de la platja. Es creuen amb un noi que corre.
+SDI-Media-CAT	24700	30000	Un cotxe blanc s’atura a la calçada, al costat del descampat. En baixa un home que parla per telèfon.
+SDI-Media-CAT	53790	57880	L’home ha ficat un maletí al maleter i n’ha tret una bossa informal
+SDI-Media-CAT	59350	61250	Es posa les ulleres de sol. 
+SDI-Media-CAT	65250	70500	Un rètol ens indica que és en James, l’empresari. En James va cap a la platja caminant i parlant per telèfon.
+SDI-Media-CAT	94580	96960	En James s’ajeu a la tovallola
+SDI-Media-CAT	102300	105190	Es frega els ulls, cansat.
+SDI-Media-CAT	160160	169350	En James fa cara d’ amoïnat. S’aixeca i va en banyador cap a l’aigua. Al fons hi ha la silueta d’una ciutat industrial.
+SDI-Media-CAT	171350	174510	Sense mullar-se, torna cap a la sorra seca.
+SDI-Media-CAT	189960	196000	Mira a totes bandes, busca d’on ve el soroll que se sent. Continua caminant per la platja.
+SDI-Media-CAT	211170	212680	En James es posa la camisa.
+SDI-Media-CAT	221220	225170	En James camina, vestit amb pantalons i americana, per un carrer amb arbres.
+SDI-Media-CAT	229246	232049	Ara puja per un camí que hi ha entremig d’uns matolls.
+SDI-Media-CAT	237000	241990	Un home amb barba de quatre dies i cabells embullats té un got de plàstic a les mans.
+SDI-Media-CAT	250000	256670	Fa gestos d’impaciència amb les mans. Obre la tapa del got i en beu el contingut, te o cafè.
+SDI-Media-CAT	264480	266940	Un rètol ens indica que és en Rick, el jubilat.
+SDI-Media-CAT	270410	275460	En Rick continua assegut en un banc, a sota d’uns arbres. Fa més gestos d’impaciència.
+SDI-Media-CAT	288270	291500	Agafa el mòbil i busca per l’agenda de contactes.
+SDI-Media-CAT	293320	296020	Truca a un tal Craig Anderson.
+SDI-Media-CAT	400430	407480	En Rick s’aixeca del banc i se’n va mirant per tot arreu buscant alguna cosa. Deixa el got al banc.
+SDI-Media-CAT	413610	420840	Veiem una noia amb els cabells arrissats i un llapis a la boca. Un rètol ens indica que és la Jess, l’estudiant.
+SDI-Media-CAT	427310	429230	Busca el mòbil per l’escriptori.
+SDI-Media-CAT	509540	510130	S’aixeca.
+SDI-Media-CAT	512440	513490	Ara és a l’exterior.
+SDI-Media-CAT	518000	519730	Puja pel mateix camí que en James.
+SDI-Media-CAT	532470	537140	Veiem una esplanada a l’aire lliure. Hi ha en James, en Rick i la Jess.
+SDI-Media-CAT	541160	542190	Se sent una veu.
+SDI-Media-CAT	558300	560500	Els tres busquen d’on veu la veu.
+SDI-Media-CAT	709240	711670	En Rick i la Jessica fan que no amb el cap.
+SDI-Media-CAT	738840	742150	En Rick i en James se’n van. La Jess pensa i somriu.
+SDI-Media-CAT	754770	756760	Se’n van tots tres de l’esplanada
+SDI-Media-CAT	759050	763710	Fosa en negre. Una noia parla per telèfon de la bugada i unes maletes.
+SDI-Media-CAT	779810	782530	Un rètol ens indica que és la Zoé, la següent.
+Sonidos-CA	2900	14830	De dia, en una platja, un home corre. En sentit contrari, una parella, ben abrigada, passeja un gos gran. El gos s'atura per olorar alguna cosa sota la sorra. Ara, segueix els seus amos.
+Sonidos-CA	20950	28800	Un cotxe d'alta gama arriba a la platja. Dins hi ha un home d'uns 40 anys, ros, alt i amb barba, que parla per telèfon.
+Sonidos-CA	52660	58790	L'home penja i mira cap al mar. Treu unes ulleres de sol de la butxaca interior de la jaqueta i se les posa.
+Sonidos-CA	65069	70220	Sobreescrit en pantalla: James, l'empresari. A la platja, el James truca per telèfon.
+Sonidos-CA	92110	96080	Sobre la sorra, el James, en roba interior, es gita a la tovallola.
+Sonidos-CA	99060	106930	El James, interpretat per James Humber, es passa les mans pels ulls. Ara, deixa caure els braços als costats i toca la sorra amb les mans.
+Sonidos-CA	111180	112229	El James s'aixeca.
+Sonidos-CA	141670	143410	El James mira al seu voltant.
+Sonidos-CA	158040	160050	El James penja i s'aixeca del tot.
+Sonidos-CA	163110	165020	S'acosta a la vora del mar i camina.
+Sonidos-CA	169090	172890	Ara se n'allunya. Mira lleugerament cap a dalt, estranyat.
+Sonidos-CA	177030	178170	El James s'atura.
+Sonidos-CA	179970	180650	Es gira.
+Sonidos-CA	184040	186150	S'atura i es torna a girar, confús.
+Sonidos-CA	190050	192350	Mira al seu voltant, estranyat, i s'acosta al mar.
+Sonidos-CA	196250	198360	Ara, es torna a allunyar de la vora del mar.
+Sonidos-CA	201250	204290	Mira lleugerament cap a dalt, arrufant les celles.
+Sonidos-CA	207960	211730	S'apropa a la seva tovallola i s'ajup per agafar la camisa. Se la posa.
+Sonidos-CA	219080	222430	En un parc, el James, ja vestit, camina entre els arbres.
+Sonidos-CA	226240	230430	Arriba a un turó i puja per un camí petit de terra, envoltat de vegetació baixa.
+Sonidos-CA	235079	242330	Al parc, un home d'uns 65 anys, de cabells i barba canosos i desendreçats, sosté un got de cafè. Somriu, resignat.
+Sonidos-CA	249010	251970	Diu que no amb el cap i treu el tap de plàstic del got de cafè.
+Sonidos-CA	255210	257930	Es mira el cafè una estona i, finalment, beu.
+Sonidos-CA	265160	274080	Sobreescrit en pantalla: Rick, el jubilat. El Rick, interpretat per Rick Zingale, deixa el tap de plàstic al banc del costat i continua bevent.
+Sonidos-CA	278130	280230	El Rick deixa el got i fa palmes.
+Sonidos-CA	285210	289340	Treu el mòbil de la butxaca de darrere dels pantalons. Busca als contactes.
+Sonidos-CA	295100	298130	S'atura a la "C" i truca el Creig Anderson.
+Sonidos-CA	329520	331740	El Rick s'estranya i mira cap a dalt.
+Sonidos-CA	380360	381510	Arrufa les celles.
+Sonidos-CA	397740	401380	El Rick guarda el telèfon i camina pel parc sense deixar de mirar cap a dalt.
+Sonidos-CA	405070	413460	El got continua al banc. El Rick marxa. Asseguda a un escriptori, una noia d'uns 18 anys i cabells arrissats treballa amb l'ordinador.
+Sonidos-CA	418060	420800	Sobreescrit en pantalla: Jess, l'estudiant.
+Sonidos-CA	422120	423570	La Jess busca el mòbil.
+Sonidos-CA	426190	427720	Busca sota uns papers.
+Sonidos-CA	429140	430140	Agafa el mòbil.
+Sonidos-CA	494370	500440	La Jess penja i mira cap a dalt, estranyada. Es toca els cabells i mira cap a l'altre costat. Ara, abaixa la mirada.
+Sonidos-CA	503160	504210	La Jess s'esglaia.
+Sonidos-CA	506090	506820	S'aixeca.
+Sonidos-CA	509110	515810	Agafa l'abric i marxa. A l'exterior, la Jess, interpretada per Jessica Álvarez, mira a totes bandes.
+Sonidos-CA	517190	519250	Ara puja per un camí ple de vegetació.
+Sonidos-CA	522130	522770	S'atura.
+Sonidos-CA	525100	527760	La Jess es gira de cop i marxa entre la vegetació.
+Sonidos-CA	531060	534970	En una gran esplanada, el James, el Rick i la Jess miren al seu voltant.
+Sonidos-CA	538160	539880	La Jess s'acosta al Rick i al James.
+Sonidos-CA	555190	558260	Els tres miren cap a dalt i al seu voltant, confusos.
+Sonidos-CA	594180	595620	S'arronsa d'espatlles.
+Sonidos-CA	642150	643210	El Rick se'ls mira.
+Sonidos-CA	652010	653170	Els mira fixament.
+Sonidos-CA	684910	686530	El James aixeca la mirada.
+Sonidos-CA	700610	701730	Els tres es miren.
+Sonidos-CA	707540	711210	El James mira el Rick, ell mira la Jess i fa que no amb el cap.
+Sonidos-CA	718150	719560	Miren al seu voltant.
+Sonidos-CA	723410	724490	El Rick mira al cel.
+Sonidos-CA	736600	741700	El James fa un gest amb el cap. El Rick el segueix. La Jess aixeca les celles.
+Sonidos-CA	745020	748670	La Jess corre cap a ells. El James li passa el braç per l'espatlla.
+Sonidos-CA	751100	753180	Tots tres caminen cap a la vegetació.
+Sonidos-CA	756010	760240	De nit, en una terrassa, una dona estén la roba mentre parla per telèfon.
+Sonidos-CA	762240	777780	Sobreescrit en pantalla: "No, encara no l'he estès tota. M'he d'afanyar a acabar. No, però de què em parles? Sí, esclar, ja he fet les maletes..." Mira el seu voltant, estranyada. Sobreescrit en pantalla: "Escolta, ara no puc parlar. T'he de deixar".
+Sonidos-CA	780030	787190	Sobreescrit en pantalla: Zoé, la següent. Sobre fons blanc, el títol seguit d'una ratlla: Què passa mentre...
+Subtil-CA	3320	12640	Sota un cel enteranyinat, un home fa fúting per un passeig de terra vora el mar. Es creua amb una parella que passeja un gran danès. El gos es ressaga ensumant i els segueix.
+Subtil-CA	16000	20690	Sobre fons blanc, les lletres: Què passa mente
+Subtil-CA	21210	29390	Un cotxe de luxe s'atura arran de passeig. El conductor, que discuteix per telèfon, en baixa amb un maletí, el guarda al maleter i en treu una bossa.
+Subtil-CA	54000	64000	Es posa unes ulleres de sol d'aviador i sospira amb expressió cansada. Té uns cinquanta anys i porta vestit i corbata. Sobreimprès en un extrem: "James, l'empresari".
+Subtil-CA	66180	70360	Amb la bossa a l'espatlla, camina pel passeig entre gent que passeja i fa exercici.
+Subtil-CA	94110	97630	En calçotets, s'estira panxa enlaire a la platja sobre una tovallola.
+Subtil-CA	103170	106390	Es frega els ulls, estén els braços i joguineja amb la sorra.
+Subtil-CA	112140	113590	Agafa el mòbil i s'asseu.
+Subtil-CA	142040	143790	Mira estranyat a banda i banda.
+Subtil-CA	159060	161150	Deixa el mòbil sobre la roba i s'alça.  
+Subtil-CA	166220	168510	Avança fins a la riba i busca amb la mirada.
+Subtil-CA	173260	176360	Torna a endinsar-se a la sorra i passeja la vista, descol·locat.
+Subtil-CA	185120	188250	Va per recular, però s'atura i guaita enrere i pertot.
+Subtil-CA	197000	199620	Torna fins a la riba i camina mirant enlaire.
+Subtil-CA	208460	210840	Agafa la camisa i se la posa, desconcertat.
+Subtil-CA	217340	221870	Vestit, però amb el coll de la camisa obert i sense corbata, camina sota uns arbres.
+Subtil-CA	226000	229610	Enfila un caminet de terra que fa pujada entre cactus i matolls.
+Subtil-CA	233000	242120	Un home de mitjana edat d'aspecte deixat tamborina els dits en un got de cartró. Passeja la mirada i els ulls se li entelen. Mig somriu i fa que no.
+Subtil-CA	249310	251730	Acaricia la tapadora del got i l'enretira.
+Subtil-CA	258140	263810	S'acosta el recipient i fa un glop de cafè. Sobreimprès en un extrem: "Rick, el jubilat".
+Subtil-CA	267220	275220	Porta vambes, pantalons d'esport i samarreta imperi. Assegut en un banc sota uns arbres, belluga una cama, inquiet, i fa un altre glop de cafè.
+Subtil-CA	279290	286010	Mira enlaire, sacseja el cap i deixa el got al banc del costat. Pica de mans, se les frega i agafa el mòbil.
+Subtil-CA	290030	291200	Navega per l'agenda.
+Subtil-CA	295340	298180	Selecciona el nom "Craig Anderson" i clica trucar.
+Subtil-CA	329350	331180	Escodrinya els voltants, descol·locat.
+Subtil-CA	380390	381770	Mira estranyat enlaire.
+Subtil-CA	399220	402750	Deixa el got al banc i s'allunya sense deixar de mirar enrere i enlaire.
+Subtil-CA	407000	411290	Una noia pèl-roja estudia. Mossega un llapis i fa que no amb el cap.
+Subtil-CA	418000	420880	Sobreimprès en un extrem: "Jess, l'estudiant".
+Subtil-CA	426000	428630	Busca entre un portàtil i tot de paperassa.
+Subtil-CA	497140	499490	Recorre amb la mirada el sostre de l'habitació.
+Subtil-CA	510310	512960	Camina pel carrer mirant confosa a banda i banda.
+Subtil-CA	517290	523540	Avança entre herbes per un terreny que fa pujada. S'atura per guaitar enrere i continua endavant a corre-cuita.
+Subtil-CA	528390	530840	Arriba a una clariana on hi ha en James i en Rick.
+Subtil-CA	535170	538800	Tots tres miren enlaire estranyats, sota una claror enlluernadora.
+Subtil-CA	556470	558440	Ells busquen amb la mirada, atònits.
+Subtil-CA	707500	710960	En Rick arronsa les espatlles i fa que no. La Jess l'imita.
+Subtil-CA	737110	740420	En Rick segueix en James i la Jess arqueja les celles pensativa.
+Subtil-CA	746000	750720	Els atrapa d'una corredissa i s'encaminen plegats cap als arbres d'un extrem de la clariana.
+Subtil-CA	755000	760030	Fosa a negre. Una dona afroamericana parla pel mòbil mentre estén roba en un terrat.
+Subtil-CA	762440	765120	"No, encara no l'he estès tota. M'he d'afanyar a acabar."
+Subtil-CA	768000	771270	"No, però de què em parles? Sí, esclar, ja he fet les maletes..."
+Subtil-CA	775000	783150	"Escolta, ara no puc parlar. T'he de deixar." Passeja la vista, estranyada. Sobreimprès: "Zoé, la següent". Fosa a negre.
+Subtil-CA	787000	791000	Sobre fons blanc, les lletres "què passa mentre..." i els crèdits.
+Visual	190	18500	shoot landscape
+Visual	18530	22070	letters
+Visual	22310	44530	lanscape character
+Visual	44770	67460	zoom-in character
+Visual	67530	91510	shoot lanscape character
+Visual	91760	162960	shoot character
+Visual	163210	218840	zoom-out character 
+Visual	219110	226590	shoot lanscape
+Visual	226830	233180	shoot lanscape
+Visual	233450	267400	shoot zoom-in character
+Visual	267670	286770	zoom-out charatcer
+Visual	287080	298160	zoom-in mobile
+Visual	298470	395430	zoom-in character
+Visual	395720	411310	zoom-out character
+Visual	411573	511080	shoot zomm-in character
+Visual	511368	529680	shoot lanscape character
+Visual	529912	541770	shoot lanscape zoom-out
+Visual	542018	547120	zomm-in character
+Visual	547352	551700	zomm-in character
+Visual	551936	556300	zomm-in character
+Visual	556600	563530	zoom-out characters
+Visual	563804	567410	zomm-in character
+Visual	567718	576060	zomm-in character
+Visual	576322	578810	zoom-out characters
+Visual	579096	587080	zomm-in character
+Visual	587339	591980	zoom-out characters
+Visual	592263	601850	zomm-in character
+Visual	602127	603180	zomm-in character
+Visual	603340	607250	zomm-in character
+Visual	607515	610110	zomm-in character
+Visual	610339	621140	zomm-in character
+Visual	621383	622770	zomm-in character
+Visual	623067	630000	zomm-in character
+Visual	630291	639200	zomm-in character
+Visual	639475	645930	zomm-in character
+Visual	646330	673640	zomm-in character
+Visual	673969	675330	zomm-in character
+Visual	675595	685310	zomm-in character
+Visual	685545	686470	zomm-in character
+Visual	686735	687970	zomm-in character
+Visual	688255	696290	zomm-in character
+Visual	696565	698270	zomm-in character
+Visual	698545	700190	zomm-in character
+Visual	700400	704660	zoom-out characters
+Visual	704840	707940	zomm-in character
+Visual	708230	710750	zomm-in character
+Visual	711080	716160	zomm-in character
+Visual	716430	721220	zoom-out characters
+Visual	721470	724790	zomm-in character
+Visual	725020	740280	zomm-in character
+Visual	740530	743360	zomm-in character
+Visual	743650	758230	zoom-out characters
+Visual	758510	782920	shoot character

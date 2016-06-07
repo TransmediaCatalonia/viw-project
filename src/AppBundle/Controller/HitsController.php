@@ -1,5 +1,5 @@
 <?php
-// src/AppBundle/Controller/GraphController.php
+// src/AppBundle/Controller/HitsController.php
 namespace AppBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
@@ -8,7 +8,7 @@ use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Finder\Finder;
 
 
-class GraphController extends Controller
+class HitsController extends Controller
 {
     /**
      * @Route("/hits/time/{subdir_id}/{dir_id}/{file_id}")
@@ -25,18 +25,21 @@ class GraphController extends Controller
         
 	$rows = array();
 	$duration = array();
-	array_push($rows,'["time line", "duration"]');
+	$lastTime = array();
         $i = 1;
 	foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
 		array_push($duration,$data[3]);
             	$row = "";
-            	$row = '[' . $data[1] . ',' . $data[3] . ']';
+		$text = "'Duration: " . $data[3] . "'" ;
+            	$row = '[' . $data[1] . ',' . $data[3] . ',' . $text .']';
 	    	array_push($rows,$row);
+		array_push($lastTime,$data[1]); #to get last time
 	    }
 	$i++;
         }
+	$maxValue = end($lastTime) + 50000;
 	$data = implode(",",$rows);
 	////// stats
 		$count = count($duration);
@@ -61,9 +64,10 @@ class GraphController extends Controller
 		
     
         $html = $this->container->get('templating')->render(
-            'graphs/Hits.html.twig',
+            'hits/Hits.html.twig',
             array('key' => $data, 'title' => $file_id, 'type' => 'duration in msec.',
-                  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var)
+                  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
+		  'maxValue' => $maxValue)
         );
 
         return new Response($html);
@@ -85,22 +89,25 @@ class GraphController extends Controller
         
 	$rows = array();
 	$words = array();
-	array_push($rows,'["time line", "words"]');
+	$lastTime = array();
+	#array_push($rows,'["time line", "words"]');
         $i = 1;
 	foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
             	$row = "";
-	    	//$text = "'" . $data[0] . "'" ;
+	    	
 		$sentence = explode(" ", $data[4]);
 		$c = count($sentence);
 		array_push($words,$c);
-		
-            	$row = '[' . $data[1] . ',' . $c . ']';
+		$text = "'Num. words: " . $c . "'" ;
+            	$row = '[' . $data[1] . ',' . $c . ',' . $text . ']';
 	    	array_push($rows,$row);
+		array_push($lastTime,$data[1]); #to get last time
 	    }
 	$i++;
         }
+	$maxValue = end($lastTime) + 50000;
 	    
 	$data = implode(",",$rows);
 	////// stats
@@ -125,9 +132,10 @@ class GraphController extends Controller
 	///////
     
         $html = $this->container->get('templating')->render(
-            'graphs/Hits.html.twig',
+            'hits/Hits.html.twig',
             array('key' => $data, 'title' => $file_id, 'type' => 'num. of words',
-			'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var)
+			'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
+			'maxValue' => $maxValue)
         );
 
         return new Response($html);
@@ -209,7 +217,7 @@ class GraphController extends Controller
 	///////
     
         $html = $this->container->get('templating')->render(
-            'graphs/hitsVisual.html.twig',
+            'hits/hitsVisual.html.twig',
             array('key' => $data, 'title' => $file_id, 'type' => 'num. of words',
 		  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 
                   'std' => $std, 'var' => $var, 'maxValue' => $maxValue)
@@ -237,7 +245,7 @@ class GraphController extends Controller
         
 	$rows = array();
 	$duration = array();
-	array_push($rows,'["time line", "time/words"]');
+	$lastTime = array();
         $i = 1;
 	foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t"); 
@@ -249,11 +257,14 @@ class GraphController extends Controller
 		$x = $data[3] / $c;
 		array_push($duration,$x);
             	$row = "";
-            	$row = '[' . $data[1] . ',' . $x . ']';
+		$text = "'time/words: " . $data[3] . "'" ;
+            	$row = '[' . $data[1] . ',' . $x . ',' . $text .']';
 	    	array_push($rows,$row);
+		array_push($lastTime,$data[1]); #to get last time
 	    }
 	$i++;
         }
+	$maxValue = end($lastTime) + 50000;
 	$data = implode(",",$rows);
 	////// stats
 		$count = count($duration);
@@ -278,9 +289,10 @@ class GraphController extends Controller
 		
     
         $html = $this->container->get('templating')->render(
-            'graphs/Hits.html.twig',
+            'hits/Hits.html.twig',
             array('key' => $data, 'title' => $file_id, 'type' => 'time/words',
-                  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var)
+                  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
+		  'maxValue' => $maxValue)
         );
 
         return new Response($html);
@@ -355,7 +367,7 @@ class GraphController extends Controller
 	$data2 = implode(",",$rows2); 
 
         $html = $this->container->get('templating')->render(
-            'graphs/words.html.twig',
+            'hits/words.html.twig',
             array('key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $subdir_id, 'type' => 'num. of words')
         );
 
@@ -430,7 +442,7 @@ class GraphController extends Controller
 	$data2 = implode(",",$rows2); 
 
         $html = $this->container->get('templating')->render(
-            'graphs/words.html.twig',
+            'hits/words.html.twig',
             array('key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $dir_id, 'type' => 'num. of words')
         );
 
@@ -438,6 +450,39 @@ class GraphController extends Controller
 
     }
 
+/**
+     * @Route("/hits/timeline/{corpus_id}")
+     */
+     ## reads Hits-All.txt file (for files) and displays data in timeline,
+     ## Input: What-Tragora-ES	417000	420000	Sobreimpreso en pantalla: Jess, la estudiante.
+     ## Output: ["What-Tragora-ES","",533000,542000],
+    public function timeline($corpus_id)
+    {
+        $path = $this->container->getParameter('kernel.root_dir');
+        $dataDir = $path . "/../data/" . $corpus_id ."/";
+        $file = $dataDir .  "Hits-All.txt";
+	
+	$lines = file($file);
+                
+	$rows = array();
+	$data = array();
 
+	foreach ($lines as $line) {
+            $data = explode("\t",$line);
+	    $text = htmlentities(mb_substr(rtrim($data[3]),0,60)); 
+	    $row = '["' . $data[0] . '", "", "' . $text . '",' . $data[1] . ',' . $data[2] . ']';
+	    array_push($rows,$row);
+	}
+
+	$data = implode(",",$rows);
+        
+        $html = $this->container->get('templating')->render(
+            'hits/timeline.html.twig',
+            array('key' => $data, 'corpus' => $corpus_id)
+        );
+
+        return new Response($html);
+
+    }
 
 }

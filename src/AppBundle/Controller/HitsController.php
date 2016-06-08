@@ -7,13 +7,25 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Finder\Finder;
 
+/**
+	Index:
+
+  vocabularyVerbs            ANY      ANY      ANY    /vocabulary/verbs/{dir}                           
+  vocabularyVerbsProvider    ANY      ANY      ANY    /vocabulary/verbs/{dir}/{provider}                
+  vocabularyVerbsSemantic    ANY      ANY      ANY    /vocabulary/verbssem/{dir}/{sem}                  
+  vocabularyVerbsDash        ANY      ANY      ANY    /vocabulary/verbsdash/{dir}                       
+  vocabularyNounsDash        ANY      ANY      ANY    /vocabulary/nounsdash/{dir}                       
+  vocabularyAdjsDash         ANY      ANY      ANY    /vocabulary/adjsdash/{dir}                        
+  vocabularyPosDash          ANY      ANY      ANY    /vocabulary/posdash/{dir}       
+
+**/
 
 class HitsController extends Controller
 {
     /**
      * @Route("/hits/time/{subdir_id}/{dir_id}/{file_id}")
      */
-	### reads file-Hits file and displays utterances in timeline (counting time)
+	### reads 'file-Hits' file and displays utterances in timeline (counting time)
     public function hitsTime($file_id,$dir_id,$subdir_id)
     {
         $path = $this->container->getParameter('kernel.root_dir');
@@ -30,16 +42,18 @@ class HitsController extends Controller
 	foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
-		array_push($duration,$data[3]);
+		$time = $data[1]/60000;
+		$d = $data[3]/1000;
+		array_push($duration,$d);
             	$row = "";
-		$text = "'Duration: " . $data[3] . "'" ;
-            	$row = '[' . $data[1] . ',' . $data[3] . ',' . $text .']';
+		$text = "'Duration: " . $d . "'" ;
+            	$row = '[' . $time . ',' . $d . ',' . $text .']';
 	    	array_push($rows,$row);
-		array_push($lastTime,$data[1]); #to get last time
+		array_push($lastTime,$time); #to get last time
 	    }
 	$i++;
         }
-	$maxValue = end($lastTime) + 50000;
+	$maxValue = end($lastTime) + 1;
 	$data = implode(",",$rows);
 	////// stats
 		$count = count($duration);
@@ -65,7 +79,7 @@ class HitsController extends Controller
     
         $html = $this->container->get('templating')->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $file_id, 'type' => 'duration in msec.',
+            array('key' => $data, 'title' => $file_id, 'type' => 'duration in seconds.',
                   'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
 		  'maxValue' => $maxValue)
         );
@@ -96,18 +110,18 @@ class HitsController extends Controller
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
             	$row = "";
-	    	
+	    	$d = $data[1] / 60000;
 		$sentence = explode(" ", $data[4]);
 		$c = count($sentence);
 		array_push($words,$c);
 		$text = "'Num. words: " . $c . "'" ;
-            	$row = '[' . $data[1] . ',' . $c . ',' . $text . ']';
+            	$row = '[' . $d . ',' . $c . ',' . $text . ']';
 	    	array_push($rows,$row);
-		array_push($lastTime,$data[1]); #to get last time
+		array_push($lastTime,$d); #to get last time
 	    }
 	$i++;
         }
-	$maxValue = end($lastTime) + 50000;
+	$maxValue = end($lastTime) + 1;
 	    
 	$data = implode(",",$rows);
 	////// stats
@@ -163,12 +177,13 @@ class HitsController extends Controller
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
             	$row = "";
+		$d = $data[1] / 60000 ;
 	    	//$text = "'" . $data[0] . "'" ;
 		$sentence = explode(" ", $data[4]);
 		$c = count($sentence);
 		array_push($words,$c);
 		$text = "'Words: " . $c . "'" ;
-            	$row = '[' . $data[1] . ',' . $c . ',' . $text . ',' .'null'. ',' .'null]';
+            	$row = '[' . $d . ',' . $c . ',' . $text . ',' .'null'. ',' .'null]';
 	    	array_push($rows,$row);
 	    }
 	$i++;
@@ -184,16 +199,17 @@ class HitsController extends Controller
             $d = str_getcsv($line, "\t"); 
 	    if (count($d) > 2 & $i > 1){
 		if (eregi("shoot", $d[3])) {
+			$t = $d[0] / 60000;
 			$text = "'" . $d[3] . "'" ;
-		    	$row = '[' . $d[0] . ', null, null, 1,'. $text .']';
+		    	$row = '[' . $t . ', null, null, 1,'. $text .']';
 		    	array_push($rows,$row);
 		}
-		array_push($lastTime,$d[1]); #to get last time
+		array_push($lastTime,$t); #to get last time
 	    }
 	$i++;
         }    #var_dump($rowsCorpus);
 	$data = implode(",",$rows);
-	$maxValue = end($lastTime) + 50000;
+	$maxValue = end($lastTime) + 1;
 ##
 	////// stats
 		$count = count($words);
@@ -252,19 +268,20 @@ class HitsController extends Controller
 	    if (count($data) > 2 & $i > 1){
 		$sentence = explode(" ", $data[4]);
 		$c = count($sentence);
+		$t = $data[1] / 60000;
 
 		#$x = $data[3] / str_word_count($data[4]);
 		$x = $data[3] / $c;
 		array_push($duration,$x);
             	$row = "";
-		$text = "'time/words: " . $data[3] . "'" ;
-            	$row = '[' . $data[1] . ',' . $x . ',' . $text .']';
+		$text = "'time/words: " . $x . "'" ;
+            	$row = '[' . $t . ',' . $x . ',' . $text .']';
 	    	array_push($rows,$row);
-		array_push($lastTime,$data[1]); #to get last time
+		array_push($lastTime,$t); #to get last time
 	    }
 	$i++;
         }
-	$maxValue = end($lastTime) + 50000;
+	$maxValue = end($lastTime) + 1;
 	$data = implode(",",$rows);
 	////// stats
 		$count = count($duration);

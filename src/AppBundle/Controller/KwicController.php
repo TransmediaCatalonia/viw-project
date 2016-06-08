@@ -62,7 +62,7 @@ class KwicController extends Controller
      */
      ## simple search facility for Corpus (searches on 'corpus.txt' file with format: [utterance, source.file]) 
      ## allows for string search on corpus.txt file. Displays matching utterances (together with link to source file)
-    public function concordancer($corpus, $word, Request $request)
+    public function concordancer($corpus, Request $request)
     {    
         
 	## gets data from CSV.php controller
@@ -131,7 +131,7 @@ class KwicController extends Controller
      */
      ## simple search facility for file (sentences.txt file).
      ## displays sentences.txt file and allows for string search. Displays text with matching strings in red
-    public function showcorpus($dir,$corpus, $word, Request $request)
+    public function showcorpus($dir,$corpus, Request $request)
     {    
         #var_dump($corpus);
 	## 

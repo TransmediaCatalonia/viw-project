@@ -22,61 +22,6 @@ use Symfony\Component\HttpFoundation\Request;
 
 class CSV 
 {
-    /** ????????????????????? crec que no l'utilitza ningu!!!!!!!
-     * 
-     * reads csv and returns:
-     * array ['lemma', 'Frequency', 'Distribution', 'SourceFile'] (***not really sourcefile, only used to calculate distribution)
-     * 
-     */
-    public function getVerbs($csvFile)
-    {
-	$nWords = 0;
-	$words = array();
-	$result = array();
-	## reads csv file into $data array (input format: Semantics, BeginTime, lemma-1, BeginTime, PoS-1, BeginTime, FileName)
-	
-	foreach ($csvFile as $line) {
-            $data = str_getcsv($line, ",");
-	    // just to skip blank lines
-	    if (count($data) > 2){ 
-		$nWords ++;
-            	$word = $data[2];
-		//checks if word was already used to modify result
-		if (in_array($word, $words)){
-			// looks for word in $result
-			foreach ($result as &$d){ 
-				if ($d['lemma'] == $word){ 	
-					if ($d['source'] !== $data[6]){
-						$d['source'] = $data[6];
-						$d['dist']++;
-						$d['freq']++ ;
-					} else { 
-						$d['freq']++ ;
-						}
-				}
-
-			}			
-		}
-		//checks word, if new -> initialise & adds it in $result
-		else {
-			array_push($words,$word);
-			
-			$d = array(
-		    	'lemma' => $word,
-		    	'freq' => 1,
-		    	'dist' => 1,
-			'source' => $data[6]
-			);
-			array_push($result,$d);
-		} 
-	    }
-        }
-
-	## ['lemma', 'Frequency', 'Distribution', 'SourceFile'] ***not really sourcefile, only the last one
-	
-        return array($result,$nWords);
-    }
-
 
 /**
      * 
@@ -235,6 +180,7 @@ class CSV
 	$result = array();
 	
 	foreach ($csv as $c) { 
+	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
@@ -249,6 +195,7 @@ class CSV
 		++$n; 
                 $result[$fileName]['lemma'] = $n;
 		array_push($result[$fileName]['verbs'], $lemma);
+	   }
 	}
 	#var_dump($result);
 	
@@ -390,6 +337,7 @@ class CSV
 	$result = array();
 	
 	foreach ($csv as $c) { 
+	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){
 		$sem = $c['Annotation1-1']; 
 		##initialize the result for this Sem because it doesnt exist yet
   		if (!isset($result[$sem])) {
@@ -397,6 +345,7 @@ class CSV
     			$result[$sem] = $n;
 		}
 		else {$result[$sem]++;}
+	   }
 	}
 	#var_dump($result);	
         return $result;
@@ -424,6 +373,7 @@ class CSV
 	$result = array();
 	$total = 0;
 	foreach ($csv as $c) { 
+	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){
 		if ($c['Annotation1-1'] == $sem ) {
 			$lemma = $c['Annotation2-1'];
 			##initialize the result for this Lemma because it doesnt exist yet
@@ -434,6 +384,7 @@ class CSV
 			else {$result[$lemma]++;}
 			$total++;
 		}
+	   }
 	}
 	arsort($result);
 	#var_dump($result);
@@ -475,19 +426,22 @@ class CSV
 	$result = array();
 	$total = 1;
 	foreach ($csv as $c) { 
+	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){		
 		if ($c['Annotation1-1'] == $sem ) {
 			$lemma = $c['Annotation2-1'];
+			$time = $c['BeginTime'] / 60000;
 			##initialize the result for this Lemma because it doesnt exist yet
   			if (!isset($result[$lemma])) {
 			$result[$lemma] = array();
 			$n = 1;
     			array_push($result[$lemma],$n);
-    			array_push($result[$lemma],$c['BeginTime']);
+    			array_push($result[$lemma],$time);
 
 			}
-			else {$result[$lemma][0]++; array_push($result[$lemma],$c['BeginTime']);}
+			else {$result[$lemma][0]++; array_push($result[$lemma],$time);}
 			$total++;
 		}
+	   }
 	}
 	#var_dump($result); # result lemma -> [time,time,time...]
 	
@@ -504,7 +458,8 @@ class CSV
 	}
 	#get the maxValue BeginTime (for visualisation issues)
 	
-	$maxValue = max($times) + 50000;
+	#$maxValue = max($times) + 50000; #when using miliseconds
+	$maxValue = max($times) + 1 ;     #when using minutes
 	
 	#var_dump($maxValue);		
 	# values: [time,Freq,'lemma']
@@ -587,7 +542,7 @@ class CSV
 	$prov = array();
 	
 	foreach ($csv as $c) { 
-
+	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){
 		$lemma = $c['Annotation2-1'];
 		##initialize the class for this Sem because it doesnt exist yet
 	  	if (!isset($class[$lemma])) {
@@ -612,6 +567,7 @@ class CSV
 			}
 			else {$result[$lemma]++;}
 		}
+	   }
 	}
 	arsort($result);
 	#var_dump($result);
@@ -656,7 +612,7 @@ class CSV
 	$prov = array();
 
 	foreach ($csv as $c) { 
-
+	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){
 		$sem = $c['Annotation1-1'];
 		##initialize the class for this Sem because it doesnt exist yet
 	  	if (!isset($class[$sem])) {
@@ -682,6 +638,7 @@ class CSV
 			}
 			else {$result[$sem]++;}
 		}
+	   }
 	}
 	arsort($result);
 	arsort($class);

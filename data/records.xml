@@ -376,8 +376,47 @@
   <identifier>http://www.uab...</identifier>
 </record>
 
+<record id="What-LlorencBlasi-CA">
+  <title>LlorencBlasi Catalan version of What Happens While</title>
+  <alternative>LlorencBlasi Catalan version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Llorenç Blasi</creator>
+  <language>CA</language>
+  <source>What-CA/LlorencBlasi-CA</source>
+  <description></description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
 
+<record id="What-Multi-Signes-CA">
+  <title>Multi-Signes Catalan version of What Happens While</title>
+  <alternative>Multi-Signes Catalan version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Multi Signes</creator>
+  <language>CA</language>
+  <source>What-CA/MultiSignes-CA</source>
+  <description></description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
 
+<record id="Plurals-CA">
+  <title>Plurals Catalan version of What Happens While</title>
+  <alternative>Plurals Catalan version of What Happens While</alternative>
+  <subject>drama short movie</subject>
+  <creator>Plurals</creator>
+  <language>CA</language>
+  <source>What-CA/Plurals-CA</source>
+  <description></description>
+  <movie>What Happens While</movie>
+  <publisher>UAB</publisher>
+  <corpus>What-CA</corpus>
+  <identifier>http://www.uab...</identifier>
+</record>
 
 <record id="Castro_Aina_ES">
   <title>Aina Castro's audiodescription of What Happens While</title>

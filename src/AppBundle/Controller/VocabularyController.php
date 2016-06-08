@@ -21,17 +21,13 @@ use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
 /*
 Index:
 
-@Route("/vocabulary/verbs/{dir}", name="vocabularyVerbs") 
-     ex: vocabulary/verbs/What-ES  (generates 3 bar charts: "verbs x provider"; "20 top frequency verbs", "20 to semantic class verbs")
-
-@Route("/vocabulary/verbs/{dir}/{provider}", name="vocabularyVerbsProvider")
-	vocabulary/verbs/What-ES/What-Aptent-ES.eaf  (two bar charts: "20 top frequency verbs", "20 to semantic class verbs")
-
-@Route("/vocabulary/verbssem/{dir}/{sem}", defaults={"sem" = null }, name="vocabularyVerbsSemantic")
-	form that gives piechart and shows selected semclass in timeline
-
-@Route("/vocabulary/verbssemdash/{dir}", name="vocabularyVerbsSemanticDash")
-     generates dashboard with lemma/semantic class
+  vocabularyVerbs            ANY      ANY      ANY    /vocabulary/verbs/{dir}                           
+  vocabularyVerbsProvider    ANY      ANY      ANY    /vocabulary/verbs/{dir}/{provider}                
+  vocabularyVerbsSemantic    ANY      ANY      ANY    /vocabulary/verbssem/{dir}/{sem}                  
+  vocabularyVerbsDash        ANY      ANY      ANY    /vocabulary/verbsdash/{dir}                       
+  vocabularyNounsDash        ANY      ANY      ANY    /vocabulary/nounsdash/{dir}                       
+  vocabularyAdjsDash         ANY      ANY      ANY    /vocabulary/adjsdash/{dir}                        
+  vocabularyPosDash          ANY      ANY      ANY    /vocabulary/posdash/{dir}       
 */
 
 class VocabularyController extends Controller
@@ -40,13 +36,14 @@ class VocabularyController extends Controller
 /**  
      * @Route("/vocabulary/verbs/{dir}", name="vocabularyVerbs")
      * generates 3 bar charts: "verbs x provider"; "20 top frequency verbs", "20 to semantic class verbs"
+     * input file: sem.csv (for corpus data)
      */
 public function verbsDir($dir)
     {    
         ## gets data from CSV.php controller
         $path = $this->container->getParameter('kernel.root_dir');
         $dataDir = $path . "/../data/$dir";
-        $file = $dataDir .  "/semVerbs.csv";
+        $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
 	# returns ['Provider','NumVerbs','UniqVerbs']
@@ -88,7 +85,7 @@ public function verbsFilesProvider($dir,$provider)
         ## gets data from CSV.php controller
         $path = $this->container->getParameter('kernel.root_dir');
         $dataDir = $path . "/../data/" . $dir;
-        $file = $dataDir .  "/semVerbs.csv";
+        $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
         
 	# returns: [verb, frequency, Mean]
@@ -117,13 +114,14 @@ public function verbsFilesProvider($dir,$provider)
 
 /**  
      * @Route("/vocabulary/verbssem/{dir}/{sem}", defaults={"sem" = null }, name="vocabularyVerbsSemantic")
+     *  shows a form and a pie with verbal semantic classes, the user selects a semclass and results are placed in timeline
      */
     public function verbssem($dir, Request $request)
     {    
 	## gets data from CSV.php controller
         $path = $this->container->getParameter('kernel.root_dir');
         $dataDir = $path . "/../data/$dir";
-        $file = $dataDir .  "/semVerbs.csv";
+        $file = $dataDir .  "/sem.csv";
 
 	# returns [semClass,frequency]
         $result = $this->get('app.utils.csv')->listSem($file);
@@ -157,7 +155,7 @@ public function verbsFilesProvider($dir,$provider)
 		## gets data from CSV.php controller
         	$path = $this->container->getParameter('kernel.root_dir');
         	$dataDir = $path . "/../data/$dir";
-        	$file = $dataDir .  "/semVerbs.csv";
+        	$file = $dataDir .  "/sem.csv";
 		$csvFile = file($file);
         	list($result,$nWords) = $this->get('app.utils.csv')->pieSemVerbs($file,$d);
 		list($result2,$nWords2,$maxValue) = $this->get('app.utils.csv')->scatterSemVerbs($file,$d);
@@ -197,6 +195,7 @@ public function verbsFilesProvider($dir,$provider)
 /**  
      * @Route("/vocabulary/verbsdash/{dir}", name="vocabularyVerbsDash")
      * returns: ['lemma', 'SemanticClass', 'Frequency' ]
+     * pie + table + form for verbs/semclass
      */
     public function verbsdash($dir)
     {    
@@ -219,6 +218,8 @@ public function verbsFilesProvider($dir,$provider)
 /**  
      * @Route("/vocabulary/nounsdash/{dir}", name="vocabularyNounsDash")
      * returns: ['lemma', 'SemanticClass', 'Frequency' ]
+     * pie + table + form for verbs/semclass
+     *
      */
     public function nounsdash($dir)
     {    
@@ -241,6 +242,7 @@ public function verbsFilesProvider($dir,$provider)
 /**  
      * @Route("/vocabulary/adjsdash/{dir}", name="vocabularyAdjsDash")
      * returns: ['lemma', 'SemanticClass', 'Frequency' ]
+     * pie + table + form for verbs/semclass
      */
     public function adjsdash($dir)
     {    
@@ -261,10 +263,11 @@ public function verbsFilesProvider($dir,$provider)
     }
 
 /**  
-     * @Route("/vocabulary/semdash/{dir}", name="vocabularySemanticDash")
+     * @Route("/vocabulary/posdash/{dir}", name="vocabularyPosDash")
      * returns: ['lemma', 'PoS', 'Frequency' ]
+     * pie + table + form for posTag
      */
-    public function semdash($dir)
+    public function sposdash($dir)
     {    
 	## gets data from CSV.php controller
         $path = $this->container->getParameter('kernel.root_dir');

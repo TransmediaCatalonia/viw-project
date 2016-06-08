@@ -79,8 +79,8 @@ data2.addColumn({type:'string', role:'tooltip', 'p': {'html': true}}); // toolti
 		
         var options2 = {
           title: 'Verbs of {{ sem }} in the Timeline',
-          hAxis: {title: 'TimeLine in msec.', viewWindow: {min: 0, max: {{ maxValue}} },format: 'short'},
-	  vAxis: {format: 'short'},
+          hAxis: {title: 'TimeLine in minutes.', viewWindow: {min: 0, max: {{ maxValue}} },format: 'short'},
+	  vAxis: {title: 'Frequency', format: 'short'},
           chartArea:{width:'80%',height:'400px'},
           legend: {position: 'none'},
 	  tooltip: { textStyle: { fontName: 'Verdana', fontSize: 11 } }

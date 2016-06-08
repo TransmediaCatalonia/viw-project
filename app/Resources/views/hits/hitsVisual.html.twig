@@ -58,8 +58,8 @@ data.addColumn({ 'type': 'string', 'role': 'tooltip', 'p': { 'html': true } });/
 
         var options = {
           title: 'Utterances in timeline ({{ type }})',
-          hAxis: {title: 'TimeLine in msec.', viewWindow: {min: 0, max: {{ maxValue}} }, format: 'short'},
-	  vAxis: {format: 'short'},
+          hAxis: {title: 'TimeLine in minutes.', viewWindow: {min: 0, max: {{ maxValue}} }, format: 'short'},
+	  vAxis: {title: '{{ type }}', format: 'short'},
           chartArea:{width:'80%',height:'500px'},
           legend: {position: 'top'},
 	  tooltip: { textStyle: { fontName: 'Verdana', fontSize: 11 } }

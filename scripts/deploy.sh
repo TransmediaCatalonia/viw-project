@@ -36,6 +36,25 @@ mirror -c -vvv -RL \
        --exclude-glob .git \
        --exclude-glob .git/* 
 "
+
+# Force autoload files
+lftp -c "set ftp:list-options -a 
+set ftp:ssl-allow true
+set ftp:ssl-force true
+set ftp:ssl-protect-data true
+set ftp:ssl-protect-list true
+set mirror:parallel-directories true;
+open '$FTPURL';
+lcd $VIW_LCD;
+cd $RCD;
+
+mirror -c -vvv -RL \
+       --parallel=8 \
+       $DELETE \
+       --verbose \
+       --include vendor/autoload.php \
+       --include vendor/composer \
+"
        
 ENDTIME=$(date +%s)
 

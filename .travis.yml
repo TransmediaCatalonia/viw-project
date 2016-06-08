@@ -4,7 +4,7 @@ install:
   - sudo apt-get install -y lftp
 
 before_script:
-  - composer --prefer-dist --dev --no-interaction install
+  - composer --prefer-dist --dev --no-interaction -o install
 
 script: true
 

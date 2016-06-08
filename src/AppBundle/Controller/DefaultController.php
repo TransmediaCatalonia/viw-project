@@ -87,11 +87,11 @@ public function corpusAction($corpus_id)
 	$words = null;
 	$sentences = null;
 	$hits = null;
-	$verbs = null;
 	$sem = null;
 	$hits_timeline = null;
 	$corpus = null;
 	$corpusfile = null;
+	$similarity = null;
 
 	foreach ($finder as $f) { 
 		if ( preg_match("/countWords.txt$/i", $f->getRelativePathname())) {
@@ -103,14 +103,15 @@ public function corpusAction($corpus_id)
 		if (preg_match("/(.*)-Hits.txt$/i", $f->getRelativePathname())) {
 	    	$hits = $f->getRelativePathname();
 		} 
-		if ( preg_match("/semVerbs.csv$/i", $f->getRelativePathname())) {
-	    	$verbs = $f->getRelativePathname(); 
-		}
+
 		if ( preg_match("/sem.csv$/i", $f->getRelativePathname())) {
 	    	$sem = $f->getRelativePathname(); 
 		}
 		if ( preg_match("/Hits-All.txt$/i", $f->getRelativePathname())) {
 	    	$hits_timeline = $f->getRelativePathname(); 
+		}
+		if ( preg_match("/similarity.csv$/i", $f->getRelativePathname())) {
+	    	$similarity = $f->getRelativePathname(); 
 		}
 	}
 
@@ -122,7 +123,7 @@ public function corpusAction($corpus_id)
 			'hits' => $hits, 
 			'corpus' => $corpus_id, 
 			'corpusfile' => $corpusfile,
-			'verbs' => $verbs,
+			'similarity' => $similarity,
 			'sem' => $sem,
 			'hits_timeline' => $hits_timeline,
 			'files' => $files)

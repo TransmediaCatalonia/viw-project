@@ -1,0 +1,49 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+		
+                	<h3>Text similarity for  {{ dir }}:</h3>
+
+    			<div id="right"><p><a href="../../corpus/{{ dir }}">go back to '{{ dir }}' corpus</a></p></div>
+			<div id="table_div"></div>
+			<br/><br/>
+			<div>
+			<p>Text similarity was computed using Ted Pedersen's Text-Similarity module.
+			</p>
+			</div>	
+	</div>
+
+{% endblock %}
+
+
+{% block javascripts %}
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      // [START script_body]
+      google.charts.load('current', {'packages':['table']});
+      google.charts.setOnLoadCallback(drawTable);
+
+      function drawTable() {
+        var data = google.visualization.arrayToDataTable([
+
+	{{ key|raw }}
+
+      ],
+      false); // 'false' means that the first row contains labels, not data.
+
+
+        var table = new google.visualization.Table(document.getElementById('table_div'));
+
+        table.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
+      }
+      // [END script_body]
+    </script>
+{% endblock %}
+
+
+
+

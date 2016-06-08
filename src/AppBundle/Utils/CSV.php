@@ -180,7 +180,7 @@ class CSV
 	$result = array();
 	
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){
+	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
@@ -337,7 +337,7 @@ class CSV
 	$result = array();
 	
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){
+	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
 		$sem = $c['Annotation1-1']; 
 		##initialize the result for this Sem because it doesnt exist yet
   		if (!isset($result[$sem])) {
@@ -373,7 +373,7 @@ class CSV
 	$result = array();
 	$total = 0;
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){
+	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
 		if ($c['Annotation1-1'] == $sem ) {
 			$lemma = $c['Annotation2-1'];
 			##initialize the result for this Lemma because it doesnt exist yet
@@ -426,7 +426,7 @@ class CSV
 	$result = array();
 	$total = 1;
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){		
+	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){		
 		if ($c['Annotation1-1'] == $sem ) {
 			$lemma = $c['Annotation2-1'];
 			$time = $c['BeginTime'] / 60000;
@@ -470,7 +470,7 @@ class CSV
 
 /**
      * input: csvFile
-     * returns: aray with [frequency, semclass]  'used to scatter verbs in timeline'
+     * returns: aray with [frequency, semclass]  'used to pie semclass for verbs'
      */
     public function scatterSemVerbs2($csvFile)
     {
@@ -489,6 +489,7 @@ class CSV
 	$result = array();
 	$total = 1;
 	foreach ($csv as $c) { 
+	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
 			$sem = $c['Annotation1-1'];
 			##initialize the result for this sem because it doesnt exist yet
   			if (!isset($result[$sem])) {
@@ -498,6 +499,7 @@ class CSV
 			}
 			else {$result[$sem]++;}
 			$total++;
+	   }
 		
 	}
 	#var_dump($result); # result sem -> [time,time,time...]
@@ -510,7 +512,6 @@ class CSV
 		$pair = "['" . $key ."'," . $value . "]";
 		array_push($values, $pair);
 	}
-	#get the maxValue BeginTime (for visualisation issues)
 	
 	reset($result);
 	
@@ -542,7 +543,7 @@ class CSV
 	$prov = array();
 	
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){
+	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
 		$lemma = $c['Annotation2-1'];
 		##initialize the class for this Sem because it doesnt exist yet
 	  	if (!isset($class[$lemma])) {
@@ -612,7 +613,7 @@ class CSV
 	$prov = array();
 
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 1 ) === "V"){
+	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
 		$sem = $c['Annotation1-1'];
 		##initialize the class for this Sem because it doesnt exist yet
 	  	if (!isset($class[$sem])) {

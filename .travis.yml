@@ -1,10 +1,13 @@
 language: php
 
+env:
+  - SYMFONY_ENV=prod
+
 install:
   - sudo apt-get install -y lftp
 
 before_script:
-  - composer --prefer-dist --dev --no-interaction -o install
+  - composer --prefer-dist --no-dev --no-interaction --optimize-autoloader install
 
 script: true
 

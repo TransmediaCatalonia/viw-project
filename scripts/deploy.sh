@@ -27,35 +27,14 @@ lcd $VIW_LCD;
 cd $RCD;
 
 mirror -c -vvv -RL \
-       --parallel=8 \
-       --ignore-time \
+       --parallel=16 \
+       --only-newer \
        $DELETE \
        --verbose \
-       --exclude-glob .idea \
-       --exclude-glob .idea/* \
-       --exclude-glob .git \
-       --exclude-glob .git/* 
+       --exclude-glob .idea/ \
+       --exclude-glob .git/
 "
 
-# Force autoload files
-lftp -c "set ftp:list-options -a 
-set ftp:ssl-allow true
-set ftp:ssl-force true
-set ftp:ssl-protect-data true
-set ftp:ssl-protect-list true
-set mirror:parallel-directories true;
-open '$FTPURL';
-lcd $VIW_LCD;
-cd $RCD;
-
-mirror -c -vvv -RL \
-       --parallel=8 \
-       $DELETE \
-       --verbose \
-       --include vendor/autoload.php \
-       --include vendor/composer \
-"
-       
 ENDTIME=$(date +%s)
 
 echo "It takes $((($ENDTIME - $STARTTIME)/60)) minutes to complete this task..."

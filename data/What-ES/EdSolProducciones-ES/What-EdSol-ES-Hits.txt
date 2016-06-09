@@ -39,8 +39,6 @@ AD-en	736610	739230	2620	James y Rick comienzan a andar de vuelta  hacia el mont
 AD-en	741270	746190	4920	Jess duda por un segundo, sonríe y se une a ellos en una breve carrera.
 AD-en	749230	753230	4000	Los tres juntos caminan alegres de nuevo hacia el monte en dirección a la playa.
 AD-en	757660	767350	9690	En otro lugar, una mujer de color habla por el móvil mientras tiende la colada en la azotea. No, no he terminado de tenderla. Tengo que darme prisa. Gira la cabeza ante un ruido desconocido.
-AD-en	768430	772000	3570	No, de qué me hablas? Si claro, las maletas están a punto….
-AD-en	772000	775000	3000	Extrañada trata de localizar el sonido perturbador
-AD-en	775000	778000	3000	Oye, ahora no puedo hablar. Tengo que dejarte.
+AD-en	768430	778000	9570	No, de qué me hablas? Si claro, las maletas están a punto…. Extrañada trata de localizar el sonido perturbador Oye, ahora no puedo hablar. Tengo que dejarte.
 AD-en	779000	781000	2000	Zoé, la próxima
 AD-en	783550	785030	1480	Qué pasa mientras…

@@ -7,11 +7,19 @@
 		
                 	<h3>Text similarity for  {{ dir }}:</h3>
 
-    			<div id="right"><p><a href="../../corpus/{{ dir }}">go back to '{{ dir }}' corpus</a></p></div>
+    			<div id="right"><p><a href="../corpus/{{ dir }}">go back to '{{ dir }}' corpus</a></p></div>
 			<div id="table_div"></div>
 			<br/><br/>
 			<div>
-			<p>Text similarity was computed using Ted Pedersen's Text-Similarity module.
+			<p>Text similarity was computed using <b>Ted Pedersen's Text-Similarity</b> module. It measures the similarity of 
+			two documents based on the number of shared words scaled by the lengths of the files. 
+			Text Similarity computes the F-Measure, the Dice Coefficient, the Cosine, and the Lesk measure.</p>
+
+			<p>The table above includes the results when running the command: 
+			<b>perl ./bin/text_similarity.pl --type Text::Similarity::Overlaps  FILE1 FILE2</b> (Dice Coefficient)</p>
+
+			<p>For testing purposes, you can run the <b>Ted Pedersen's Text-Similarity</b> module 
+			<a href="http://ws04.iula.upf.edu/soaplab2-axis/#statistics_analysis.text_similarity_row" target="_blank">here</a>
 			</p>
 			</div>	
 	</div>

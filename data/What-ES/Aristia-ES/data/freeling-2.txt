@@ -1,694 +1,694 @@
-Una	uno	DI0FS0	0.951241	0	3	
-pareja	pareja	NCFS000	0.928571	4	10	
-con	con	SPS00	1	11	14	
-un	uno	DI0MS0	0.986987	15	17	
+Una	uno	DI0FS0	0.951241	0	3	-
+pareja	pareja	NCFS000	0.928571	4	10	-
+con	con	SPS00	1	11	14	-
+un	uno	DI0MS0	0.986987	15	17	-
 gran	gran	AQ0CS0	1	18	22	A-SubjectiveAssessmentAttribute
-danés	danés	NCMS000	0.342819	23	28	
+danés	danés	NCMS000	0.342819	23	28	-
 camina	caminar	VMIP3S0	0.75	29	35	Walking
-por	por	SPS00	1	36	39	
-la	el	DA0FS0	0.972146	40	42	
+por	por	SPS00	1	36	39	-
+la	el	DA0FS0	0.972146	40	42	-
 playa	playa	NCFS000	1	43	48	Location
-.	.	Fp	1	48	49	
-Se	se	P00CN000	0.465602	50	52	
+.	.	Fp	1	48	49	-
+Se	se	P00CN000	0.465602	50	52	-
 cruzan	cruzar	VMIP3P0	1	53	59	Motion
-con	con	SPS00	1	60	63	
-un	uno	DI0MS0	0.986987	64	66	
-corredor	corredor	NCMS000	0.75	67	75	
-que	que	PR0CN000	0.5625	76	79	
+con	con	SPS00	1	60	63	-
+un	uno	DI0MS0	0.986987	64	66	-
+corredor	corredor	NCMS000	0.75	67	75	-
+que	que	PR0CN000	0.5625	76	79	-
 va	ir	VMIP3S0	1	80	82	Motion
-en	en	SPS00	1	83	85	
-sentido	sentido	NCMS000	0.948276	86	93	
+en	en	SPS00	1	83	85	-
+sentido	sentido	NCMS000	0.948276	86	93	-
 contrario	contrario	AQ0MS0	0.5	94	103	A-SubjectiveAssessmentAttribute
-.	.	Fp	1	103	104	
-El	el	DA0MS0	1	105	107	
+.	.	Fp	1	103	104	-
+El	el	DA0MS0	1	105	107	-
 día	día	NCMS000	1	108	111	TimeInterval
-es	ser	VSIP3S0	1	112	114	
+es	ser	VSIP3S0	1	112	114	Aux
 gris	gris	AQ0CS0	0.75	115	119	A-RadiatingLight
-y	y	CC	0.999812	120	121	
+y	y	CC	0.999812	120	121	-
 van	ir	VMIP3P0	1	122	125	Motion
 abrigados	abrigar	VMP00PM	0.691734	126	135	A-SubjectiveAssessmentAttribute
-.	.	Fp	1	135	136	
+.	.	Fp	1	135	136	-
 
 Rótulo	rótulo	NCMS000	1	144	150	FilmLanguage
-sobre	sobre	SPS00	0.994203	151	156	
-la	el	DA0FS0	0.972146	157	159	
+sobre	sobre	SPS00	0.994203	151	156	-
+la	el	DA0FS0	0.972146	157	159	-
 pantalla	pantalla	NCFS000	1	160	168	FilmLanguage
 blanca	blanco	AQ0FS0	0.875	169	175	A-ColorAttribute
-.	.	Fp	1	175	176	
+.	.	Fp	1	175	176	-
 
-Un	uno	DI0MS0	0.986987	184	186	
-BMW	bmw	NP00V00	1	187	190	
+Un	uno	DI0MS0	0.986987	184	186	-
+BMW	bmw	NP00V00	1	187	190	Aux
 blanco	blanco	AQ0MS0	0.59375	191	197	A-ColorAttribute
-se	se	P00CN000	0.465602	198	200	
+se	se	P00CN000	0.465602	198	200	-
 detiene	detener	VMIP3S0	1	201	208	Motion
-frente_a	frente_a	SPS00	1	209	217	
-la	el	DA0FS0	0.972146	218	220	
+frente_a	frente_a	SPS00	1	209	217	-
+la	el	DA0FS0	0.972146	218	220	-
 playa	playa	NCFS000	1	221	226	Location
-.	.	Fp	1	226	227	
-El	el	DA0MS0	1	228	230	
-conductor	conductor	NCMS000	0.409091	231	240	
+.	.	Fp	1	226	227	-
+El	el	DA0MS0	1	228	230	-
+conductor	conductor	NCMS000	0.409091	231	240	-
 habla	hablar	VMIP3S0	0.880952	241	246	Communication
-por	por	SPS00	1	247	250	
-el	el	DA0MS0	1	251	253	
-móvil	móvil	NCMS000	0.58648	254	259	
-.	.	Fp	1	259	260	
+por	por	SPS00	1	247	250	-
+el	el	DA0MS0	1	251	253	-
+móvil	móvil	NCMS000	0.58648	254	259	-
+.	.	Fp	1	259	260	-
 
-Se	se	P00CN000	0.465602	268	270	
+Se	se	P00CN000	0.465602	268	270	-
 apea	apear	VMIP3S0	0.450743	271	275	Motion
-.	.	Fp	1	275	276	
+.	.	Fp	1	275	276	-
 
 Ronda	rondar	VMIP3S0	0.166667	284	289	Process
-los	el	DA0MP0	0.97623	290	293	
-cincuenta	50	Z	1	294	303	
-años	año	NCMP000	1	304	308	
-,	,	Fc	1	308	309	
-con	con	SPS00	1	310	313	
+los	el	DA0MP0	0.97623	290	293	-
+cincuenta	50	Z	1	294	303	-
+años	año	NCMP000	1	304	308	-
+,	,	Fc	1	308	309	-
+con	con	SPS00	1	310	313	-
 pelo	pelo	NCMS000	0.958333	314	318	BodyPart
 rubio	rubio	AQ0MS0	0.75	319	324	A-ColorAttribute
-,	,	Fc	1	324	325	
+,	,	Fc	1	324	325	-
 bigote	bigote	NCMS000	1	326	332	BodyPart
-y	y	CC	0.999812	333	334	
+y	y	CC	0.999812	333	334	-
 barba	barba	NCFS000	0.777778	335	340	BodyPart
 recortada	recortar	VMP00SF	1	341	350	A-SubjectiveAssessmentAttribute
-.	.	Fp	1	350	351	
-Ha	haber	VAIP3S0	0.998141	352	354	
+.	.	Fp	1	350	351	-
+Ha	haber	VAIP3S0	0.998141	352	354	Aux
 dejado	dejar	VMP00SM	1	355	361	Process
-un	uno	DI0MS0	0.986987	362	364	
-maletín	maletín	NCMS000	1	365	372	
-en	en	SPS00	1	373	375	
-el	el	DA0MS0	1	376	378	
+un	uno	DI0MS0	0.986987	362	364	-
+maletín	maletín	NCMS000	1	365	372	-
+en	en	SPS00	1	373	375	-
+el	el	DA0MS0	1	376	378	-
 maletero	maletero	NCMS000	1	379	387	Location
-de	de	SPS00	1	388	389	
-el	el	DA0MS0	1	390	391	
-coche	coche	NCMS000	0.964286	392	397	
-y	y	CC	0.999812	398	399	
-ha	haber	VAIP3S0	0.998141	400	402	
+de	de	SPS00	1	388	389	-
+el	el	DA0MS0	1	390	391	-
+coche	coche	NCMS000	0.964286	392	397	-
+y	y	CC	0.999812	398	399	-
+ha	haber	VAIP3S0	0.998141	400	402	Aux
 sacado	sacar	VMP00SM	1	403	409	Process
-una	uno	DI0FS0	0.951241	410	413	
-bolsa	bolsa	NCFS000	1	414	419	
-.	.	Fp	1	419	420	
+una	uno	DI0FS0	0.951241	410	413	-
+bolsa	bolsa	NCFS000	1	414	419	-
+.	.	Fp	1	419	420	-
 
-Se	se	P00CN000	0.465602	428	430	
+Se	se	P00CN000	0.465602	428	430	-
 pone	poner	VMIP3S0	1	431	435	Process
 gafas	gafas	NCFP000	0.687464	436	441	Clothing
-de	de	SPS00	0.999919	442	444	
-sol	sol	NCMS000	1	445	448	
-.	.	Fp	1	448	449	
-Un	uno	DI0MS0	0.986987	450	452	
+de	de	SPS00	0.999919	442	444	-
+sol	sol	NCMS000	1	445	448	-
+.	.	Fp	1	448	449	-
+Un	uno	DI0MS0	0.986987	450	452	-
 letrero	letrero	NCMS000	1	453	460	FilmLanguage
 anuncia	anunciar	VMIP3S0	0.994868	461	468	Communication
-:	:	Fd	1	468	469	
-James	james	NP00G00	1	470	475	
-,	,	Fc	1	475	476	
-el	el	DA0MS0	1	477	479	
-empresario	empresario	NCMS000	1	480	490	
-.	.	Fp	1	490	491	
+:	:	Fd	1	468	469	-
+James	james	NP00G00	1	470	475	-
+,	,	Fc	1	475	476	-
+el	el	DA0MS0	1	477	479	-
+empresario	empresario	NCMS000	1	480	490	-
+.	.	Fp	1	490	491	-
 
 Camina	caminar	VMIP3S0	0.25	499	505	Walking
-por	por	SPS00	1	506	509	
-la	el	DA0FS0	0.972146	510	512	
+por	por	SPS00	1	506	509	-
+la	el	DA0FS0	0.972146	510	512	-
 playa	playa	NCFS000	1	513	518	Location
 manipulando	manipular	VMG0000	1	519	530	BodyMotion
-el	el	DA0MS0	1	531	533	
-móvil	móvil	NCMS000	0.58648	534	539	
-y	y	CC	0.999812	540	541	
-con	con	SPS00	1	542	545	
-la	el	DA0FS0	0.972146	546	548	
-bolsa	bolsa	NCFS000	1	549	554	
-a	a	SPS00	1	555	556	
-el	el	DA0MS0	1	556	557	
+el	el	DA0MS0	1	531	533	-
+móvil	móvil	NCMS000	0.58648	534	539	-
+y	y	CC	0.999812	540	541	-
+con	con	SPS00	1	542	545	-
+la	el	DA0FS0	0.972146	546	548	-
+bolsa	bolsa	NCFS000	1	549	554	-
+a	a	SPS00	1	555	556	-
+el	el	DA0MS0	1	556	557	-
 hombro	hombro	NCMS000	1	558	564	BodyPart
-.	.	Fp	1	564	565	
+.	.	Fp	1	564	565	-
 
-Se	se	P00CN000	0.465602	573	575	
+Se	se	P00CN000	0.465602	573	575	-
 tumba	tumbar	VMIP3S0	0.0238095	576	581	BodyMotion
 boca_arriba	boca_arriba	RG	1	582	593	PositionalAttribute
-sobre	sobre	SPS00	0.994203	594	599	
-una	uno	DI0FS0	0.951241	600	603	
+sobre	sobre	SPS00	0.994203	594	599	-
+una	uno	DI0FS0	0.951241	600	603	-
 toalla	toalla	NCFS000	1	604	610	Location
-en	en	SPS00	1	611	613	
-la	el	DA0FS0	0.972146	614	616	
+en	en	SPS00	1	611	613	-
+la	el	DA0FS0	0.972146	614	616	-
 arena	arena	NCFS000	0.866667	617	622	Location
-,	,	Fc	1	622	623	
-junto_a	junto_a	SPS00	1	624	631	
-su	su	DP3CS0	1	632	634	
+,	,	Fc	1	622	623	-
+junto_a	junto_a	SPS00	1	624	631	-
+su	su	DP3CS0	1	632	634	-
 ropa	ropa	NCFS000	1	635	639	Clothing
-.	.	Fp	1	639	640	
+.	.	Fp	1	639	640	-
 Lleva	llevar	VMIP3S0	0.975	641	646	Possesses
 bañador	bañador	NCMS000	0.579706	647	654	Clothing
 negro	negro	AQ0MS0	0.541667	655	660	A-ColorAttribute
-.	.	Fp	1	660	661	
+.	.	Fp	1	660	661	-
 Cierra	cerrar	VMIP3S0	0.25	662	668	BodyMotion
-los	el	DA0MP0	0.97623	669	672	
+los	el	DA0MP0	0.97623	669	672	-
 ojos	ojo	NCMP000	1	673	677	BodyPart
-.	.	Fp	1	677	678	
+.	.	Fp	1	677	678	-
 
-Se	se	P00CN000	0.465602	686	688	
-los	lo	PP3MPA00	0.023584	689	692	
+Se	se	P00CN000	0.465602	686	688	-
+los	lo	PP3MPA00	0.023584	689	692	-
 frota	frotar	VMIP3S0	0.994868	693	698	BodyMotion
-y	y	CC	0.999812	699	700	
-los	lo	PP3MPA00	0.023584	701	704	
+y	y	CC	0.999812	699	700	-
+los	lo	PP3MPA00	0.023584	701	704	-
 abre	abrir	VMIP3S0	0.8125	705	709	BodyMotion
-.	.	Fp	1	709	710	
+.	.	Fp	1	709	710	-
 
-Se	se	P00CN000	0.465602	718	720	
+Se	se	P00CN000	0.465602	718	720	-
 incorpora	incorporar	VMIP3S0	0.75	721	730	BodyMotion
-y	y	CC	0.999812	731	732	
+y	y	CC	0.999812	731	732	-
 coge	coger	VMIP3S0	0.75	733	737	Process
-el	el	DA0MS0	1	738	740	
-móvil	móvil	NCMS000	0.58648	741	746	
-.	.	Fp	1	746	747	
+el	el	DA0MS0	1	738	740	-
+móvil	móvil	NCMS000	0.58648	741	746	-
+.	.	Fp	1	746	747	-
 
 Escucha	escuchar	VMIP3S0	0.777778	755	762	Hearing
 intrigado	intrigar	VMP00SM	1	763	772	A-StateOfMind
-.	.	Fp	1	772	773	
+.	.	Fp	1	772	773	-
 
 Mira	mirar	VMIP3S0	0.666667	781	785	Seeing
-a	a	SPS00	0.99585	786	787	
-su	su	DP3CS0	1	788	790	
+a	a	SPS00	0.99585	786	787	-
+su	su	DP3CS0	1	788	790	-
 alrededor	alrededor	NCMS000	0.1	791	800	Location
-.	.	Fp	1	800	801	
+.	.	Fp	1	800	801	-
 
 Busca	buscar	VMIP3S0	0.047619	809	814	IntentionalPsychologicalProcess
-con	con	SPS00	1	815	818	
-la	el	DA0FS0	0.972146	819	821	
+con	con	SPS00	1	815	818	-
+la	el	DA0FS0	0.972146	819	821	-
 mirada	mirada	NCFS000	0.96875	822	828	Seeing
-.	.	Fp	1	828	829	
+.	.	Fp	1	828	829	-
 
-Se	se	P00CN000	0.465602	837	839	
+Se	se	P00CN000	0.465602	837	839	-
 levanta	levantar	VMIP3S0	0.9	840	847	BodyMotion
-.	.	Fp	1	847	848	
+.	.	Fp	1	847	848	-
 
 Camina	caminar	VMIP3S0	0.25	856	862	Walking
-por	por	SPS00	1	863	866	
-la	el	DA0FS0	0.972146	867	869	
+por	por	SPS00	1	863	866	-
+la	el	DA0FS0	0.972146	867	869	-
 playa	playa	NCFS000	1	870	875	Location
-,	,	Fc	1	875	876	
-cerca	cerca	RG	0.925	877	882	
-de	de	SPS00	0.999919	883	885	
-la	el	DA0FS0	0.972146	886	888	
+,	,	Fc	1	875	876	-
+cerca	cerca	RG	0.925	877	882	-
+de	de	SPS00	0.999919	883	885	-
+la	el	DA0FS0	0.972146	886	888	-
 orilla	orilla	NCFS000	0.846947	889	895	Location
-,	,	Fc	1	895	896	
+,	,	Fc	1	895	896	-
 escuchando	escuchar	VMG0000	1	897	907	Hearing
 atento	atento	AQ0MS0	0.974373	908	914	A-IntentionalPsychologicalProcess
-y	y	CC	0.999812	915	916	
+y	y	CC	0.999812	915	916	-
 mirando	mirar	VMG0000	1	917	924	Seeing
-a	a	SPS00	0.99585	925	926	
-su	su	DP3CS0	1	927	929	
+a	a	SPS00	0.99585	925	926	-
+su	su	DP3CS0	1	927	929	-
 alrededor	alrededor	NCMS000	0.1	930	939	Location
-.	.	Fp	1	939	940	
+.	.	Fp	1	939	940	-
 
 Gira	girar	VMIP3S0	0.285715	948	952	Motion
-hacia	hacia	SPS00	1	953	958	
-su	su	DP3CS0	1	959	961	
+hacia	hacia	SPS00	1	953	958	-
+su	su	DP3CS0	1	959	961	-
 ropa	ropa	NCFS000	1	962	966	Clothing
-.	.	Fp	1	966	967	
+.	.	Fp	1	966	967	-
 
-Se	se	P00CN000	0.465602	975	977	
+Se	se	P00CN000	0.465602	975	977	-
 detiene	detener	VMIP3S0	1	978	985	Motion
-y	y	CC	0.999812	986	987	
+y	y	CC	0.999812	986	987	-
 mira	mirar	VMIP3S0	0.666667	988	992	Seeing
-de_nuevo	de_nuevo	RG	0.999919	993	995	
-a	a	SPS00	1	1002	1003	
-el	el	DA0MS0	1	1003	1004	
+de_nuevo	de_nuevo	RG	0.999919	993	995	-
+a	a	SPS00	1	1002	1003	-
+el	el	DA0MS0	1	1003	1004	-
 cielo	cielo	NCMS000	1	1005	1010	Location
-.	.	Fp	1	1010	1011	
+.	.	Fp	1	1010	1011	-
 
 Camina	caminar	VMIP3S0	0.75	1019	1025	Walking
 intrigado	intrigar	VMP00SM	1	1026	1035	A-StateOfMind
-,	,	Fc	1	1035	1036	
+,	,	Fc	1	1035	1036	-
 buscando	buscar	VMG0000	1	1037	1045	IntentionalPsychologicalProcess
-con	con	SPS00	1	1046	1049	
-la	el	DA0FS0	0.972146	1050	1052	
+con	con	SPS00	1	1046	1049	-
+la	el	DA0FS0	0.972146	1050	1052	-
 mirada	mirada	NCFS000	0.96875	1053	1059	Seeing
-.	.	Fp	1	1059	1060	
+.	.	Fp	1	1059	1060	-
 
 Coge	coger	VMIP3S0	0.25	1068	1072	Process
-la	el	DA0FS0	0.972146	1073	1075	
+la	el	DA0FS0	0.972146	1073	1075	-
 camisa	camisa	NCFS000	1	1076	1082	Clothing
-y	y	CC	0.999812	1083	1084	
-se	se	P00CN000	0.465602	1085	1087	
-la	lo	PP3FSA00	0.0277626	1088	1090	
+y	y	CC	0.999812	1083	1084	-
+se	se	P00CN000	0.465602	1085	1087	-
+la	lo	PP3FSA00	0.0277626	1088	1090	-
 pone	poner	VMIP3S0	1	1091	1095	Process
-.	.	Fp	1	1095	1096	
+.	.	Fp	1	1095	1096	-
 
 Vestido	vestir	VMP00SM	0.3	1104	1111	A-Clothing
-con	con	SPS00	1	1112	1115	
-su	su	DP3CS0	1	1116	1118	
+con	con	SPS00	1	1112	1115	-
+su	su	DP3CS0	1	1116	1118	-
 traje	traje	NCMS000	0.75	1119	1124	Clothing
 negro	negro	AQ0MS0	0.541667	1125	1130	A-ColorAttribute
-,	,	Fc	1	1130	1131	
+,	,	Fc	1	1130	1131	-
 camina	caminar	VMIP3S0	0.75	1132	1138	Walking
-por	por	SPS00	1	1139	1142	
-una	uno	DI0FS0	0.951241	1143	1146	
+por	por	SPS00	1	1139	1142	-
+una	uno	DI0FS0	0.951241	1143	1146	-
 zona	zona	NCFS000	1	1147	1151	Location
 arbolada	arbolar	VMP00SF	1	1152	1160	A-SubjectiveAssessmentAttribute
-.	.	Fp	1	1160	1161	
+.	.	Fp	1	1160	1161	-
 
 Sube	subir	VMIP3S0	0.25	1169	1173	Walking
-una	uno	DI0FS0	0.951241	1174	1177	
+una	uno	DI0FS0	0.951241	1174	1177	-
 ladera	ladera	NCFS000	1	1178	1184	Location
 cubierta	cubrir	VMP00SF	0.625	1185	1193	A-SubjectiveAssessmentAttribute
-por	por	SPS00	1	1194	1197	
-matorral	matorral	NCMS000	1	1198	1206	
+por	por	SPS00	1	1194	1197	-
+matorral	matorral	NCMS000	1	1198	1206	-
 bajo	bajo	AQ0MS0	0.0803571	1207	1211	A-SubjectiveAssessmentAttribute
-.	.	Fp	1	1211	1212	
+.	.	Fp	1	1211	1212	-
 
-Un	uno	DI0MS0	0.986987	1220	1222	
-hombre	hombre	NCMS000	0.95679	1223	1229	
+Un	uno	DI0MS0	0.986987	1220	1222	-
+hombre	hombre	NCMS000	0.95679	1223	1229	-
 repiquetea	repiquetear	VMIP3S0	0.994868	1230	1240	BodyMotion
-sobre	sobre	SPS00	0.994203	1241	1246	
-un	uno	DI0MS0	0.986987	1247	1249	
+sobre	sobre	SPS00	0.994203	1241	1246	-
+un	uno	DI0MS0	0.986987	1247	1249	-
 vaso	vaso	NCMS000	1	1250	1254	Location
-de	de	SPS00	0.999919	1255	1257	
-plástico	plástico	NCMS000	0.75	1258	1266	
-.	.	Fp	1	1266	1267	
+de	de	SPS00	0.999919	1255	1257	-
+plástico	plástico	NCMS000	0.75	1258	1266	-
+.	.	Fp	1	1266	1267	-
 Lleva	llevar	VMIP3S0	0.975	1268	1273	Possesses
 guedejas	guedeja	NCFP000	1	1274	1282	BodyPart
-,	,	Fc	1	1282	1283	
+,	,	Fc	1	1282	1283	-
 bigote	bigote	NCMS000	1	1284	1290	BodyPart
-y	y	CC	0.999812	1291	1292	
+y	y	CC	0.999812	1291	1292	-
 barba	barba	NCFS000	0.777778	1293	1298	BodyPart
 entrecanos	entrecano	AQ0MP0	1	1299	1309	A-ColorAttribute
-.	.	Fp	1	1309	1310	
+.	.	Fp	1	1309	1310	-
 Mira	mirar	VMIP3S0	0.666667	1311	1315	Seeing
 triste	triste	AQ0CS0	1	1316	1322	A-StateOfMind
 al_frente	al_frente	RG	1	1323	1324	Location
-.	.	Fp	1	1332	1333	
+.	.	Fp	1	1332	1333	-
 Lleva	llevar	VMIP3S0	0.975	1334	1339	Possesses
-una	uno	DI0FS0	0.951241	1340	1343	
+una	uno	DI0FS0	0.951241	1340	1343	-
 camiseta	camiseta	NCFS000	1	1344	1352	Clothing
-de	de	SPS00	0.999919	1353	1355	
-tirantes	tirante	NCMP000	0.342762	1356	1364	
+de	de	SPS00	0.999919	1353	1355	-
+tirantes	tirante	NCMP000	0.342762	1356	1364	-
 verdosa	verdoso	AQ0FS0	1	1365	1372	A-ColorAttribute
-y	y	CC	0.999812	1373	1374	
-una	uno	DI0FS0	0.951241	1375	1378	
+y	y	CC	0.999812	1373	1374	-
+una	uno	DI0FS0	0.951241	1375	1378	-
 cadena	cadena	NCFS000	1	1379	1385	Clothing
-a	a	SPS00	1	1386	1387	
-el	el	DA0MS0	1	1387	1388	
+a	a	SPS00	1	1386	1387	-
+el	el	DA0MS0	1	1387	1388	-
 cuello	cuello	NCMS000	1	1389	1395	BodyPart
-.	.	Fp	1	1395	1396	
+.	.	Fp	1	1395	1396	-
 
 Pasa	pasar	VMIP3S0	0.964286	1404	1408	BodyMotion
-el	el	DA0MS0	1	1409	1411	
+el	el	DA0MS0	1	1409	1411	-
 dedo	dedo	NCMS000	1	1412	1416	BodyPart
-sobre	sobre	SPS00	0.994203	1417	1422	
-la	el	DA0FS0	0.972146	1423	1425	
+sobre	sobre	SPS00	0.994203	1417	1422	-
+la	el	DA0FS0	0.972146	1423	1425	-
 tapa	tapa	NCFS000	0.846937	1426	1430	Location
-de	de	SPS00	1	1431	1432	
-el	el	DA0MS0	1	1433	1434	
-vaso	vaso	NCMS000	1	1435	1439	
-.	.	Fp	1	1439	1440	
+de	de	SPS00	1	1431	1432	-
+el	el	DA0MS0	1	1433	1434	-
+vaso	vaso	NCMS000	1	1435	1439	-
+.	.	Fp	1	1439	1440	-
 
-La	el	DA0FS0	0.972146	1448	1450	
+La	el	DA0FS0	0.972146	1448	1450	-
 quita	quitar	VMIP3S0	0.05	1451	1456	Process
-.	.	Fp	1	1456	1457	
-El	el	DA0MS0	1	1458	1460	
-vaso	vaso	NCMS000	1	1461	1465	
+.	.	Fp	1	1456	1457	-
+El	el	DA0MS0	1	1458	1460	-
+vaso	vaso	NCMS000	1	1461	1465	-
 contiene	contener	VMIP3S0	1	1466	1474	Possesses
-café	café	NCMS000	1	1475	1479	
-.	.	Fp	1	1479	1480	
+café	café	NCMS000	1	1475	1479	-
+.	.	Fp	1	1479	1480	-
 
-Se	se	P00CN000	0.465602	1488	1490	
+Se	se	P00CN000	0.465602	1488	1490	-
 acerca	acercar	VMIP3S0	0.928571	1491	1497	Motion
-el	el	DA0MS0	1	1498	1500	
-vaso	vaso	NCMS000	1	1501	1505	
-a	a	SPS00	0.99585	1506	1507	
-los	el	DA0MP0	0.97623	1508	1511	
+el	el	DA0MS0	1	1498	1500	-
+vaso	vaso	NCMS000	1	1501	1505	-
+a	a	SPS00	0.99585	1506	1507	-
+los	el	DA0MP0	0.97623	1508	1511	-
 labios	labio	NCMP000	1	1512	1518	BodyPart
-y	y	CC	0.999812	1519	1520	
-o	o	CC	0.998845	1521	1522	
+y	y	CC	0.999812	1519	1520	-
+o	o	CC	0.998845	1521	1522	-
 mira	mirar	VMIP3S0	0.666667	1523	1527	Seeing
 pensativo	pensativo	AQ0MS0	1	1528	1537	A-IntentionalPsychologicalProcess
-.	.	Fp	1	1537	1538	
+.	.	Fp	1	1537	1538	-
 
 Bebe	beber	VMIP3S0	0.994868	1546	1550	Drinking
-.	.	Fp	1	1550	1551	
+.	.	Fp	1	1550	1551	-
 
-Un	uno	DI0MS0	0.986987	1559	1561	
+Un	uno	DI0MS0	0.986987	1559	1561	-
 cartel	cartel	NCMS000	1	1562	1568	FilmLanguage
 anuncia	anunciar	VMIP3S0	0.994868	1569	1576	Communication
-:	:	Fd	1	1576	1577	
-Rick	rick	NP00SP0	1	1578	1582	
-,	,	Fc	1	1582	1583	
-el	el	DA0MS0	1	1584	1586	
-jubilado	jubilado	NCMS000	0.75	1587	1595	
-.	.	Fp	1	1595	1596	
+:	:	Fd	1	1576	1577	-
+Rick	rick	NP00SP0	1	1578	1582	-
+,	,	Fc	1	1582	1583	-
+el	el	DA0MS0	1	1584	1586	-
+jubilado	jubilado	NCMS000	0.75	1587	1595	-
+.	.	Fp	1	1595	1596	-
 
-Rick	rick	NP00SP0	1	1604	1608	
+Rick	rick	NP00SP0	1	1604	1608	-
 deja	dejar	VMIP3S0	0.952381	1609	1613	Process
-la	el	DA0FS0	0.972146	1614	1616	
-tapa	tapa	NCFS000	0.846937	1617	1621	
-en	en	SPS00	1	1622	1624	
-un	uno	DI0MS0	0.986987	1625	1627	
+la	el	DA0FS0	0.972146	1614	1616	-
+tapa	tapa	NCFS000	0.846937	1617	1621	-
+en	en	SPS00	1	1622	1624	-
+un	uno	DI0MS0	0.986987	1625	1627	-
 banco	banco	NCMS000	1	1628	1633	Location
 cercano	cercano	AQ0MS0	1	1634	1641	A-PositionalAttribute
-a	a	SPS00	1	1642	1643	
-el	el	DA0MS0	1	1643	1644	
-suyo	suyo	PX3MS0C0	0.5	1645	1649	
-.	.	Fp	1	1649	1650	
+a	a	SPS00	1	1642	1643	-
+el	el	DA0MS0	1	1643	1644	-
+suyo	suyo	PX3MS0C0	0.5	1645	1649	-
+.	.	Fp	1	1649	1650	-
 Está	estar	VSIP3S0	0.996032	1651	1655	Process
-entre	entre	SPS00	0.995223	1656	1661	
-los	el	DA0MP0	0.97623	1662	1665	
+entre	entre	SPS00	0.995223	1656	1661	-
+los	el	DA0MP0	0.97623	1662	1665	-
 árboles	árbol	NCMP000	1	1666	1673	Location
-de	de	SPS00	0.999919	1674	1676	
-un	uno	DI0MS0	0.986987	1677	1679	
-parque	parque	NCMS000	1	1680	1686	
-.	.	Fp	1	1686	1687	
+de	de	SPS00	0.999919	1674	1676	-
+un	uno	DI0MS0	0.986987	1677	1679	-
+parque	parque	NCMS000	1	1680	1686	-
+.	.	Fp	1	1686	1687	-
 Mueve	mover	VMIP3S0	0.833333	1688	1693	BodyMotion
-rítmicamente	rítmicamente	RG	1	1694	1706	
-la	el	DA0FS0	0.972146	1707	1709	
+rítmicamente	rítmicamente	RG	1	1694	1706	-
+la	el	DA0FS0	0.972146	1707	1709	-
 pierna	pierna	NCFS000	1	1710	1716	BodyPart
 derecha	derecho	AQ0FS0	0.264706	1717	1724	A-PositionalAttribute
 
 Deja	dejar	VMIP3S0	0.952381	1732	1736	Process
-el	el	DA0MS0	1	1737	1739	
-vaso	vaso	NCMS000	1	1740	1744	
-en	en	SPS00	1	1745	1747	
-el	el	DA0MS0	1	1748	1750	
+el	el	DA0MS0	1	1737	1739	-
+vaso	vaso	NCMS000	1	1740	1744	-
+en	en	SPS00	1	1745	1747	-
+el	el	DA0MS0	1	1748	1750	-
 banco	banco	NCMS000	1	1751	1756	Location
 contiguo	contiguo	AQ0MS0	1	1757	1765	A-PositionalAttribute
-y	y	CC	0.999812	1766	1767	
+y	y	CC	0.999812	1766	1767	-
 mira	mirar	VMIP3S0	0.666667	1768	1772	Seeing
-a	a	SPS00	1	1773	1774	
-el	el	DA0MS0	1	1774	1775	
+a	a	SPS00	1	1773	1774	-
+el	el	DA0MS0	1	1774	1775	-
 cielo	cielo	NCMS000	1	1776	1781	Location
-.	.	Fp	1	1781	1782	
+.	.	Fp	1	1781	1782	-
 
 Saca	sacar	VMIP3S0	0.111111	1790	1794	Process
-un	uno	DI0MS0	0.986987	1795	1797	
-móvil	móvil	NCMS000	0.58648	1798	1803	
-y	y	CC	0.999812	1804	1805	
+un	uno	DI0MS0	0.986987	1795	1797	-
+móvil	móvil	NCMS000	0.58648	1798	1803	-
+y	y	CC	0.999812	1804	1805	-
 busca	busca	NCFS000	0.761905	1806	1811	IntentionalPsychologicalProcess
-en	en	SPS00	1	1812	1814	
-los	el	DA0MP0	0.97623	1815	1818	
+en	en	SPS00	1	1812	1814	-
+los	el	DA0MP0	0.97623	1815	1818	-
 contactos	contacto	NCMP000	1	1819	1828	Location
-.	.	Fp	1	1828	1829	
+.	.	Fp	1	1828	1829	-
 
 Selecciona	seleccionar	VMIP3S0	0.75	1837	1847	BodyMotion
-uno	uno	PI0MS000	0.964744	1848	1851	
-y	y	CC	0.999812	1852	1853	
+uno	uno	PI0MS000	0.964744	1848	1851	-
+y	y	CC	0.999812	1852	1853	-
 llama	llamar	VMIP3S0	0.948718	1854	1859	Communication
-.	.	Fp	1	1859	1860	
+.	.	Fp	1	1859	1860	-
 
 Mira	mirar	VMIP3S0	0.666667	1868	1872	Seeing
 intrigado	intrigar	VMP00SM	1	1873	1882	A-StateOfMind
-a	a	SPS00	1	1883	1884	
-el	el	DA0MS0	1	1884	1885	
+a	a	SPS00	1	1883	1884	-
+el	el	DA0MS0	1	1884	1885	-
 cielo	cielo	NCMS000	1	1886	1891	Location
-.	.	Fp	1	1891	1892	
+.	.	Fp	1	1891	1892	-
 
 Mira	mirar	VMIP3S0	0.666667	1900	1904	Seeing
-de_nuevo	de_nuevo	RG	0.999919	1905	1907	
-a	a	SPS00	1	1914	1915	
-el	el	DA0MS0	1	1915	1916	
+de_nuevo	de_nuevo	RG	0.999919	1905	1907	-
+a	a	SPS00	1	1914	1915	-
+el	el	DA0MS0	1	1915	1916	-
 cielo	cielo	NCMS000	1	1917	1922	Location
-.	.	Fp	1	1922	1923	
+.	.	Fp	1	1922	1923	-
 
-Se	se	P00CN000	0.465602	1931	1933	
+Se	se	P00CN000	0.465602	1931	1933	-
 levanta	levantar	VMIP3S0	0.9	1934	1941	BodyMotion
 mirando	mirar	VMG0000	1	1942	1949	Seeing
-a	a	SPS00	1	1950	1951	
-el	el	DA0MS0	1	1951	1952	
+a	a	SPS00	1	1950	1951	-
+el	el	DA0MS0	1	1951	1952	-
 cielo	cielo	NCMS000	1	1953	1958	Location
-y	y	CC	0.999812	1959	1960	
-se	se	P00CN000	0.465602	1961	1963	
+y	y	CC	0.999812	1959	1960	-
+se	se	P00CN000	0.465602	1961	1963	-
 aleja	alejar	VMIP3S0	0.833333	1964	1969	Motion
-de	de	SPS00	0.999919	1970	1972	
-los	el	DA0MP0	0.97623	1973	1976	
+de	de	SPS00	0.999919	1970	1972	-
+los	el	DA0MP0	0.97623	1973	1976	-
 bancos	banco	NCMP000	1	1977	1983	Location
-,	,	Fc	1	1983	1984	
-sobre	sobre	SPS00	0.994203	1985	1990	
-los	el	DA0MP0	0.97623	1991	1994	
-que	que	PR0CN000	0.5625	1995	1998	
+,	,	Fc	1	1983	1984	-
+sobre	sobre	SPS00	0.994203	1985	1990	-
+los	el	DA0MP0	0.97623	1991	1994	-
+que	que	PR0CN000	0.5625	1995	1998	-
 queda	quedar	VMIP3S0	0.885417	1999	2004	Process
-el	el	DA0MS0	1	2005	2007	
-vaso	vaso	NCMS000	1	2008	2012	
-de	de	SPS00	0.999919	2013	2015	
-plástico	plástico	NCMS000	0.75	2016	2024	
-.	.	Fp	1	2024	2025	
+el	el	DA0MS0	1	2005	2007	-
+vaso	vaso	NCMS000	1	2008	2012	-
+de	de	SPS00	0.999919	2013	2015	-
+plástico	plástico	NCMS000	0.75	2016	2024	-
+.	.	Fp	1	2024	2025	-
 
-La	el	DA0FS0	0.972146	2033	2035	
-estudiante	estudiante	NCCS000	0.75	2036	2046	
-Jess	jess	NP00SP0	1	2047	2051	
+La	el	DA0FS0	0.972146	2033	2035	-
+estudiante	estudiante	NCCS000	0.75	2036	2046	-
+Jess	jess	NP00SP0	1	2047	2051	-
 ronda	rondar	VMIP3S0	0.166667	2052	2057	Process
-los	el	DA0MP0	0.97623	2058	2061	
-veinte	20	Z	1	2062	2068	
-años	año	NCMP000	1	2069	2073	
-.	.	Fp	1	2073	2074	
-Es	ser	VSIP3S0	1	2075	2077	
+los	el	DA0MP0	0.97623	2058	2061	-
+veinte	20	Z	1	2062	2068	-
+años	año	NCMP000	1	2069	2073	-
+.	.	Fp	1	2073	2074	-
+Es	ser	VSIP3S0	1	2075	2077	Aux
 pelirroja	pelirrojo	AQ0FS0	0.657199	2078	2087	A-ColorAttribute
-con	con	SPS00	1	2088	2091	
-la	el	DA0FS0	0.972146	2092	2094	
+con	con	SPS00	1	2088	2091	-
+la	el	DA0FS0	0.972146	2092	2094	-
 melena	melena	NCFS000	0.34273	2095	2101	BodyPart
 rizada	rizar	VMP00SF	1	2102	2108	A-SubjectiveAssessmentAttribute
-.	.	Fp	1	2108	2109	
+.	.	Fp	1	2108	2109	-
 Está	estar	VSIP3S0	0.996032	2110	2114	Process
 pensativa	pensativo	AQ0FS0	1	2115	2124	A-IntentionalPsychologicalProcess
 sentada	sentar	VMP00SF	0.691767	2125	2132	A-PositionalAttribute
-ante	ante	SPS00	0.990566	2133	2137	
-su	su	DP3CS0	1	2138	2140	
+ante	ante	SPS00	0.990566	2133	2137	-
+su	su	DP3CS0	1	2138	2140	-
 portátil	portátil	NCMS000	0.25	2141	2149	Location
-.	.	Fp	1	2149	2150	
+.	.	Fp	1	2149	2150	-
 
 Busca	buscar	VMIP3S0	0.047619	2158	2163	IntentionalPsychologicalProcess
-por	por	SPS00	1	2164	2167	
-la	el	DA0FS0	0.972146	2168	2170	
+por	por	SPS00	1	2164	2167	-
+la	el	DA0FS0	0.972146	2168	2170	-
 mesa	mesa	NCFS000	0.939394	2171	2175	Location
-.	.	Fp	1	2175	2176	
+.	.	Fp	1	2175	2176	-
 
 Coge	coger	VMIP3S0	0.25	2184	2188	Process
-el	el	DA0MS0	1	2189	2191	
-móvil	móvil	NCMS000	0.58648	2192	2197	
-.	.	Fp	1	2197	2198	
+el	el	DA0MS0	1	2189	2191	-
+móvil	móvil	NCMS000	0.58648	2192	2197	-
+.	.	Fp	1	2197	2198	-
 
 Mira	mirar	VMIP3S0	0.666667	2206	2210	Seeing
 intrigada	intrigar	VMP00SF	1	2211	2220	A-StateOfMind
-a	a	SPS00	0.99585	2221	2222	
-su	su	DP3CS0	1	2223	2225	
+a	a	SPS00	0.99585	2221	2222	-
+su	su	DP3CS0	1	2223	2225	-
 alrededor	alrededor	NCMS000	0.1	2226	2235	Location
-.	.	Fp	1	2235	2236	
+.	.	Fp	1	2235	2236	-
 
-Se	se	P00CN000	0.465602	2244	2246	
+Se	se	P00CN000	0.465602	2244	2246	-
 levanta	levantar	VMIP3S0	0.9	2247	2254	BodyMotion
-.	.	Fp	1	2254	2255	
+.	.	Fp	1	2254	2255	-
 
 Camina	caminar	VMIP3S0	0.25	2263	2269	Walking
-por	por	SPS00	1	2270	2273	
-la	el	DA0FS0	0.972146	2274	2276	
+por	por	SPS00	1	2270	2273	-
+la	el	DA0FS0	0.972146	2274	2276	-
 calle	calle	NCFS000	0.96875	2277	2282	Location
-con	con	SPS00	1	2283	2286	
-un	uno	DI0MS0	0.986987	2287	2289	
+con	con	SPS00	1	2283	2286	-
+un	uno	DI0MS0	0.986987	2287	2289	-
 anorak	anorak	NCMS000	1	2290	2296	Clothing
 puesto	poner	VMP00SM	0.547619	2297	2303	A-PositionalAttribute
-.	.	Fp	1	2303	2304	
+.	.	Fp	1	2303	2304	-
 Mira	mirar	VMIP3S0	0.666667	2305	2309	Seeing
 extrañada	extrañar	VMP00SF	1	2310	2319	A-StateOfMind
-a	a	SPS00	0.99585	2320	2321	
-su	su	DP3CS0	1	2322	2324	
+a	a	SPS00	0.99585	2320	2321	-
+su	su	DP3CS0	1	2322	2324	-
 alrededor	alrededor	NCMS000	0.1	2325	2334	Location
 
 Sube	subir	VMIP3S0	0.25	2342	2346	Walking
-una	uno	DI0FS0	0.951241	2347	2350	
+una	uno	DI0FS0	0.951241	2347	2350	-
 ladera	ladera	NCFS000	1	2351	2357	Location
-entre	entre	SPS00	0.995223	2358	2363	
-plantas	planta	NCFP000	0.9	2364	2371	
-de	de	SPS00	0.999919	2372	2374	
-maíz	maíz	NCMS000	1	2375	2379	
-.	.	Fp	1	2379	2380	
+entre	entre	SPS00	0.995223	2358	2363	-
+plantas	planta	NCFP000	0.9	2364	2371	-
+de	de	SPS00	0.999919	2372	2374	-
+maíz	maíz	NCMS000	1	2375	2379	-
+.	.	Fp	1	2379	2380	-
 
-Se	se	P00CN000	0.465602	2388	2390	
+Se	se	P00CN000	0.465602	2388	2390	-
 detiene	detener	VMIP3S0	1	2391	2398	Motion
-y	y	CC	0.999812	2399	2400	
+y	y	CC	0.999812	2399	2400	-
 mira	mirar	VMIP3S0	0.666667	2401	2405	Seeing
-hacia	hacia	SPS00	1	2406	2411	
+hacia	hacia	SPS00	1	2406	2411	-
 atrás	atrás	RG	0.96875	2412	2417	Location
-.	.	Fp	1	2417	2418	
+.	.	Fp	1	2417	2418	-
 
 Sube	subir	VMIP3S0	0.75	2426	2430	Walking
 corriendo	correr	VMG0000	1	2431	2440	Walking
-hacia	hacia	SPS00	1	2441	2446	
-su	su	DP3CS0	1	2447	2449	
+hacia	hacia	SPS00	1	2441	2446	-
+su	su	DP3CS0	1	2447	2449	-
 izquierda	izquierda	NCFS000	0.5	2450	2459	Location
 
 Llega	llegar	VMIP3S0	0.300728	2467	2472	Motion
-a	a	SPS00	0.99585	2473	2474	
-una	uno	DI0FS0	0.951241	2475	2478	
+a	a	SPS00	0.99585	2473	2474	-
+una	uno	DI0FS0	0.951241	2475	2478	-
 explanada	explanada	NCFS000	0.608138	2479	2488	Location
 terrosa	terroso	AQ0FS0	1	2489	2496	A-SubjectiveAssessmentAttribute
-,	,	Fc	1	2496	2497	
-en	en	SPS00	1	2498	2500	
-la	el	DA0FS0	0.972146	2501	2503	
-que	que	PR0CN000	0.5625	2504	2507	
+,	,	Fc	1	2496	2497	-
+en	en	SPS00	1	2498	2500	-
+la	el	DA0FS0	0.972146	2501	2503	-
+que	que	PR0CN000	0.5625	2504	2507	-
 están	estar	VSIP3P0	1	2508	2513	Process
-Rick	rick	NP00O00	1	2514	2518	
-y	y	CC	0.999812	2519	2520	
-James	james	NP00O00	1	2521	2526	
-.	.	Fp	1	2526	2527	
-Todos	todo	PI0MP000	0.374631	2528	2533	
+Rick	rick	NP00O00	1	2514	2518	-
+y	y	CC	0.999812	2519	2520	-
+James	james	NP00O00	1	2521	2526	-
+.	.	Fp	1	2526	2527	-
+Todos	todo	PI0MP000	0.374631	2528	2533	-
 miran	mirar	VMIP3P0	1	2534	2539	Seeing
 extrañados	extrañar	VMP00PM	1	2540	2550	A-StateOfMind
-a	a	SPS00	0.99585	2551	2552	
-su	su	DP3CS0	1	2553	2555	
+a	a	SPS00	0.99585	2551	2552	-
+su	su	DP3CS0	1	2553	2555	-
 alrededor	alrededor	NCMS000	0.1	2556	2565	Location
-.	.	Fp	1	2565	2566	
+.	.	Fp	1	2565	2566	-
 
 Miran	mirar	VMIP3P0	1	2574	2579	Seeing
-a	a	SPS00	1	2580	2581	
-el	el	DA0MS0	1	2581	2582	
+a	a	SPS00	1	2580	2581	-
+el	el	DA0MS0	1	2581	2582	-
 cielo	cielo	NCMS000	1	2583	2588	Location
-,	,	Fc	1	2588	2589	
+,	,	Fc	1	2588	2589	-
 mientras	mientras	CS	0.881579	2590	2598	TimeInterval
 escuchan	escuchar	VMIP3P0	1	2599	2607	Hearing
 asombrados	asombrar	VMP00PM	1	2608	2618	A-StateOfMind
-la	el	DA0FS0	0.972146	2619	2621	
+la	el	DA0FS0	0.972146	2619	2621	-
 voz	voz	NCFS000	1	2622	2625	RadiatingSound
-en	en	SPS00	1	2626	2628	
+en	en	SPS00	1	2626	2628	-
 off	off	NCMS000	0.666649	2629	2632	FilmLanguage
-.	.	Fp	1	2632	2633	
+.	.	Fp	1	2632	2633	-
 
-Rick	rick	NP00SP0	1	2641	2645	
+Rick	rick	NP00SP0	1	2641	2645	-
 gesticula	gesticular	VMIP3S0	0.994868	2646	2655	BodyMotion
 incrédulo	incrédulo	AQ0MS0	0.627141	2656	2665	A-StateOfMind
-.	.	Fp	1	2665	2666	
+.	.	Fp	1	2665	2666	-
 
-Se	se	P00CN000	0.465602	2674	2676	
+Se	se	P00CN000	0.465602	2674	2676	-
 miran	mirar	VMIP3P0	1	2677	2682	Seeing
-entre	entre	SPS00	0.995223	2683	2688	
-ellos	ellos	PP3MP000	1	2689	2694	
-.	.	Fp	1	2694	2695	
-Rick	rick	NP00SP0	1	2696	2700	
+entre	entre	SPS00	0.995223	2683	2688	-
+ellos	ellos	PP3MP000	1	2689	2694	-
+.	.	Fp	1	2694	2695	-
+Rick	rick	NP00SP0	1	2696	2700	-
 niega	negar	VMIP3S0	0.833333	2701	2706	BodyMotion
-.	.	Fp	1	2706	2707	
+.	.	Fp	1	2706	2707	-
 
 Miran	mirar	VMIP3P0	1	2715	2720	Seeing
-a	a	SPS00	1	2721	2722	
-el	el	DA0MS0	1	2722	2723	
+a	a	SPS00	1	2721	2722	-
+el	el	DA0MS0	1	2722	2723	-
 cielo	cielo	NCMS000	1	2724	2729	Location
-desde	desde	SPS00	1	2730	2735	
-la	el	DA0FS0	0.972146	2736	2738	
+desde	desde	SPS00	1	2730	2735	-
+la	el	DA0FS0	0.972146	2736	2738	-
 explanada	explanada	NCFS000	0.608138	2739	2748	Location
-.	.	Fp	1	2748	2749	
+.	.	Fp	1	2748	2749	-
 
-Rick	rick	NP00SP0	1	2757	2761	
+Rick	rick	NP00SP0	1	2757	2761	-
 camina	caminar	VMIP3S0	0.75	2762	2768	Walking
-tras	tras	SPS00	1	2769	2773	
+tras	tras	SPS00	1	2769	2773	-
 James	james	NP00G00	1	2774	2779	Location
-.	.	Fp	1	2779	2780	
+.	.	Fp	1	2779	2780	-
 
-Jessica	jessica	NP00SP0	1	2788	2795	
+Jessica	jessica	NP00SP0	1	2788	2795	-
 queda	quedar	VMIP3S0	0.885417	2796	2801	Process
 pensativa	pensativo	AQ0FS0	1	2802	2811	A-IntentionalPsychologicalProcess
-y	y	CC	0.999812	2812	2813	
+y	y	CC	0.999812	2812	2813	-
 sonríe	sonreír	VMIP3S0	0.833333	2814	2820	BodyMotion
-.	.	Fp	1	2820	2821	
+.	.	Fp	1	2820	2821	-
 
 Va	ir	VMIP3S0	1	2829	2831	Motion
-tras	tras	SPS00	1	2832	2836	
+tras	tras	SPS00	1	2832	2836	-
 ellos	ellos	PP3MP000	1	2837	2842	Location
-,	,	Fc	1	2842	2843	
-que	que	PR0CN000	0.5625	2844	2847	
+,	,	Fc	1	2842	2843	-
+que	que	PR0CN000	0.5625	2844	2847	-
 caminan	caminar	VMIP3P0	1	2848	2855	Walking
-hacia	hacia	SPS00	1	2856	2861	
-la	el	DA0FS0	0.972146	2862	2864	
+hacia	hacia	SPS00	1	2856	2861	-
+la	el	DA0FS0	0.972146	2862	2864	-
 vegetación	vegetación	NCFS000	1	2865	2875	Location
-que	que	PR0CN000	0.5625	2876	2879	
+que	que	PR0CN000	0.5625	2876	2879	-
 rodea	rodear	VMIP3S0	0.777778	2880	2885	PositionalAttribute
-la	el	DA0FS0	0.972146	2886	2888	
-explanada	explanada	NCFS000	0.608138	2889	2898	
-.	.	Fp	1	2898	2899	
+la	el	DA0FS0	0.972146	2886	2888	-
+explanada	explanada	NCFS000	0.608138	2889	2898	-
+.	.	Fp	1	2898	2899	-
 
-La	el	DA0FS0	0.972146	2907	2909	
+La	el	DA0FS0	0.972146	2907	2909	-
 imagen	imagen	NCFS000	1	2910	2916	FilmLanguage
 funde	fundir	VMIP3S0	0.878846	2917	2922	FilmLanguage
-a	a	SPS00	0.99585	2923	2924	
+a	a	SPS00	0.99585	2923	2924	-
 negro	negro	AQ0MS0	0.657895	2925	2930	A-ColorAttribute
-.	.	Fp	1	2930	2931	
-Una	uno	DI0FS0	0.951241	2932	2935	
-mujer	mujer	NCFS000	0.959459	2936	2941	
+.	.	Fp	1	2930	2931	-
+Una	uno	DI0FS0	0.951241	2932	2935	-
+mujer	mujer	NCFS000	0.959459	2936	2941	-
 tiende	tender	VMIP3S0	0.833333	2942	2948	Process
 ropa	ropa	NCFS000	1	2949	2953	Clothing
-y	y	CC	0.999812	2954	2955	
+y	y	CC	0.999812	2954	2955	-
 sujeta	sujetar	VMIP3S0	0.666667	2956	2962	Process
-el	el	DA0MS0	1	2963	2965	
-móvil	móvil	NCMS000	0.58648	2966	2971	
-sobre	sobre	SPS00	0.994203	2972	2977	
-el	el	DA0MS0	1	2978	2980	
+el	el	DA0MS0	1	2963	2965	-
+móvil	móvil	NCMS000	0.58648	2966	2971	-
+sobre	sobre	SPS00	0.994203	2972	2977	-
+el	el	DA0MS0	1	2978	2980	-
 hombro	hombro	NCMS000	1	2981	2987	BodyPart
-.	.	Fp	1	2987	2988	
-No	no	RN	0.99778	2989	2991	
-,	,	Fc	1	2991	2992	
-no	no	RN	0.99778	2993	2995	
-he	haber	VAIP1S0	0.984848	2996	2998	
-terminado	terminar	VMP00SM	1	2999	3008	
-de	de	SPS00	0.999919	3009	3011	
+.	.	Fp	1	2987	2988	-
+No	no	RN	0.99778	2989	2991	-
+,	,	Fc	1	2991	2992	-
+no	no	RN	0.99778	2993	2995	-
+he	haber	VAIP1S0	0.984848	2996	2998	Aux
+terminado	terminar	VMP00SM	1	2999	3008	Aux
+de	de	SPS00	0.999919	3009	3011	-
 tender	tender	VMN0000	1	3012	3018	Process
-la	lo	PP3FSA00	1	3018	3020	
-.	.	Fp	1	3020	3021	
-Tengo	tener	VMIP1S0	1	3022	3027	
-que	que	CS	0.4375	3028	3031	
+la	lo	PP3FSA00	1	3018	3020	-
+.	.	Fp	1	3020	3021	-
+Tengo	tener	VMIP1S0	1	3022	3027	Aux
+que	que	CS	0.4375	3028	3031	-
 dar	dar	VMN0000	1	3032	3035	Process
-me	me	PP1CS000	1	3035	3037	
-prisa	prisa	NCFS000	1	3038	3043	
-.	.	Fp	1	3043	3044	
+me	me	PP1CS000	1	3035	3037	-
+prisa	prisa	NCFS000	1	3038	3043	-
+.	.	Fp	1	3043	3044	-
 
-No	no	RN	0.99778	3052	3054	
-,	,	Fc	1	3054	3055	
-¿	¿	Fia	1	3056	3057	
-de	de	SPS00	0.999919	3057	3059	
-qué	qué	PT0CN000	0.685662	3060	3063	
-me	me	PP1CS000	0.889706	3064	3066	
+No	no	RN	0.99778	3052	3054	-
+,	,	Fc	1	3054	3055	-
+¿	¿	Fia	1	3056	3057	-
+de	de	SPS00	0.999919	3057	3059	-
+qué	qué	PT0CN000	0.685662	3060	3063	-
+me	me	PP1CS000	0.889706	3064	3066	-
 hablas	hablar	VMIP2S0	0.973497	3067	3073	Communication
-?	?	Fit	1	3073	3074	
-Sí	sí	RG	0.536797	3075	3077	
-,	,	Fc	1	3077	3078	
-claro	claro	RG	0.490741	3079	3084	
-,	,	Fc	1	3084	3085	
-las	el	DA0FP0	0.97051	3086	3089	
-maletas	maleta	NCFP000	1	3090	3097	
+?	?	Fit	1	3073	3074	-
+Sí	sí	RG	0.536797	3075	3077	-
+,	,	Fc	1	3077	3078	-
+claro	claro	RG	0.490741	3079	3084	-
+,	,	Fc	1	3084	3085	-
+las	el	DA0FP0	0.97051	3086	3089	-
+maletas	maleta	NCFP000	1	3090	3097	-
 están	estar	VSIP3P0	1	3098	3103	Process
-a	a	SPS00	0.99585	3104	3105	
-punto	punto	NCMS000	1	3106	3111	
+a	a	SPS00	0.99585	3104	3105	-
+punto	punto	NCMS000	1	3106	3111	-
 
 Mira	mirar	VMIP3S0	0.666667	3120	3124	Seeing
 intrigada	intrigar	VMP00SF	1	3125	3134	A-StateOfMind
-a	a	SPS00	0.99585	3135	3136	
-su	su	DP3CS0	1	3137	3139	
+a	a	SPS00	0.99585	3135	3136	-
+su	su	DP3CS0	1	3137	3139	-
 alrededor	alrededor	NCMS000	0.1	3140	3149	Location
-.	.	Fp	1	3149	3150	
+.	.	Fp	1	3149	3150	-
 
 Oye	oír	VMM02S0	0.625	3158	3161	Hearing
-,	,	Fc	1	3161	3162	
-ahora	ahora	RG	1	3163	3168	
-no	no	RN	0.99778	3169	3171	
+,	,	Fc	1	3161	3162	-
+ahora	ahora	RG	1	3163	3168	-
+no	no	RN	0.99778	3169	3171	-
 puedo	poder	VMIP1S0	1	3172	3177	Process
 hablar	hablar	VMN0000	1	3178	3184	Communication
-.	.	Fp	1	3184	3185	
-Tengo	tener	VMIP1S0	1	3186	3191	
-que	que	CS	0.4375	3192	3195	
+.	.	Fp	1	3184	3185	-
+Tengo	tener	VMIP1S0	1	3186	3191	Aux
+que	que	CS	0.4375	3192	3195	-
 dejar	dejar	VMN0000	1	3196	3201	Process
-te	te	PP2CS000	1	3201	3203	
-.	.	Fp	1	3203	3204	
+te	te	PP2CS000	1	3201	3203	-
+.	.	Fp	1	3203	3204	-
 Guarda	guardar	VMIP3S0	0.427665	3205	3211	Process
-el	el	DA0MS0	1	3212	3214	
-móvil	móvil	NCMS000	0.58648	3215	3220	
-.	.	Fp	1	3220	3221	
+el	el	DA0MS0	1	3212	3214	-
+móvil	móvil	NCMS000	0.58648	3215	3220	-
+.	.	Fp	1	3220	3221	-
 
-Zoé	zoé	NP00SP0	1	3229	3232	
-,	,	Fc	1	3232	3233	
-la	el	DA0FS0	0.972146	3234	3236	
+Zoé	zoé	NP00SP0	1	3229	3232	-
+,	,	Fc	1	3232	3233	-
+la	el	DA0FS0	0.972146	3234	3236	-
 próxima	próximo	AQ0FS0	1	3237	3244	A-PositionalAttribute
-.	.	Fp	1	3244	3245	
-Es	ser	VSIP3S0	1	3246	3248	
+.	.	Fp	1	3244	3245	-
+Es	ser	VSIP3S0	1	3246	3248	Aux
 negra	negro	AQ0FS0	0.657895	3249	3254	A-ColorAttribute
-y	y	CC	0.999812	3255	3256	
+y	y	CC	0.999812	3255	3256	-
 ronda	rondar	VMIP3S0	0.166667	3257	3262	Process
-los	el	DA0MP0	0.97623	3263	3266	
-veinte	20	Z	1	3267	3273	
-.	.	Fp	1	3273	3274	
+los	el	DA0MP0	0.97623	3263	3266	-
+veinte	20	Z	1	3267	3273	-
+.	.	Fp	1	3273	3274	-
 
-¿	¿	Fia	1	3282	3283	
-Qué	qué	PT0CN000	0.685662	3283	3286	
+¿	¿	Fia	1	3282	3283	-
+Qué	qué	PT0CN000	0.685662	3283	3286	-
 pasa	pasar	VMIP3S0	0.964286	3287	3291	Process
-mientras	mientras	CS	0.881579	3292	3300	
-?	?	Fit	1	3301	3302	
+mientras	mientras	CS	0.881579	3292	3300	-
+?	?	Fit	1	3301	3302	-

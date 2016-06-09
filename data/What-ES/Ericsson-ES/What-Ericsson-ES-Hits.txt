@@ -41,6 +41,6 @@ AD-en	737040	739430	2390	Jessica, pensativa, se ha quedado inmóvil.
 AD-en	745360	746100	740	Corre tras ellos.
 AD-en	748630	753030	4400	James echa el brazo por el hombro de la chica y los tres se alejan satisfechos del descampado.
 AD-en	754340	761780	7440	En una azotea, una mujer de mediana edad tiende la colada mientras habla por el móvil. Dice que tiene que darse prisa y que las maletas están a punto.
-AD-en	771630	774240	2610	Confusa, dice que no puede hablar y corta la llamada.
-AD-en	779140	780580	1440	Es Zoé, la próxima.
-AD-en	784330	785330	1000	What happens while…
+AD-en	771000	772000	1000	Confusa, dice que no puede hablar y corta la llamada.
+AD-en	779240	781000	1760	Es Zoé, la próxima.
+AD-en	784000	785000	1000	What happens while…

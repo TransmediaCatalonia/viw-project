@@ -1,13 +1,13 @@
-AD-en	2390	10600	8210	Una pareja con un gran danés camina por la playa. Se cruzan con un corredor que va en sentido contrario. El día es gris y van abrigados.
-AD-en	17000	19200	2200	Rótulo sobre la pantalla blanca.
+AD-en	2630	10240	7610	Una pareja con un gran danés camina por la playa. Se cruzan con un corredor que va en sentido contrario. El día es gris y van abrigados.
+AD-en	17000	19000	2000	Rótulo sobre la pantalla blanca.
 AD-en	22040	26780	4740	Un BMW blanco se detiene frente a la playa. El conductor habla por el móvil. 
 AD-en	32040	33040	1000	Se apea.
 AD-en	52440	60320	7880	Ronda los cincuenta años, con pelo rubio, bigote y barba recortada. Ha dejado un maletín en el maletero del coche y ha sacado una bolsa.
 AD-en	60890	66810	5920	Se pone gafas de sol. Un letrero anuncia: James, el empresario.
-AD-en	67450	71310	3860	Camina por la playa manipulando el móvil y con la bolsa al hombro.
+AD-en	67450	70710	3260	Camina por la playa manipulando el móvil y con la bolsa al hombro.
 AD-en	92000	98760	6760	Se tumba boca arriba sobre una toalla en la arena, junto a su ropa. Lleva bañador negro. Cierra los ojos.
-AD-en	102340	104020	1680	Se los frota y los abre.
-AD-en	114430	116400	1970	Se incorpora y coge el móvil.
+AD-en	102540	104220	1680	Se los frota y los abre.
+AD-en	114430	116330	1900	Se incorpora y coge el móvil.
 AD-en	130000	131120	1120	Escucha intrigado.
 AD-en	141410	142850	1440	Mira a su alrededor.
 AD-en	157950	159200	1250	Busca con la mirada. 
@@ -47,7 +47,7 @@ AD-en	557000	558870	1870	Rick gesticula incrédulo.
 AD-en	707350	709800	2450	Se miran entre ellos. Rick niega.
 AD-en	717440	719590	2150	Miran al cielo desde la explanada.
 AD-en	736560	738180	1620	Rick camina tras James.
-AD-en	740250	742210	1960	Jessica queda pensativa y sonríe.
+AD-en	740250	742480	2230	Jessica queda pensativa y sonríe.
 AD-en	744900	748520	3620	Va tras ellos, que caminan hacia la vegetación que rodea la explanada.
 AD-en	758360	765690	7330	La imagen funde a negro. Una mujer tiende ropa y sujeta el móvil sobre el hombro. No, no he terminado de tenderla. Tengo que darme prisa.
 AD-en	768450	771400	2950	No, ¿de qué me hablas? Sí, claro, las maletas están a punto…

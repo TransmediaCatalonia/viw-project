@@ -205,7 +205,7 @@ public function fileAction($dir_id,$file_id)
 
 	# path = ./data
 	foreach ($finder2 as $f) {
-		if ( preg_match("/semVerbs.csv$/i", $f->getRelativePathname())) {
+		if ( preg_match("/sem.csv$/i", $f->getRelativePathname())) {
 	    	$verbs = $f->getRelativePathname(); 
 		} 
 	}

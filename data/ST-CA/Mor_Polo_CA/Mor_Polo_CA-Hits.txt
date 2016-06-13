@@ -1,0 +1,49 @@
+AD-en	3000	9000	6000	De bon matí, en una platja gairebé deserta, una parella passeja un gos i un home corre. Està ennuvolat. 
+AD-en	22000	30000	8000	Un cotxe blanc de gamma alta aparca davant de la platja. De dins surt un home d’uns 40 anys vestit d’etiqueta parlant per telèfon. Guarda el maletí que duu al maleter i agafa una bossa de platja.
+AD-en	53000	58000	5000	L’home és pèl-roig i duu barba i bigoti. Preocupat, mira cap al mar i es posa unes ulleres de sol. 
+AD-en	65000	67000	2000	Sobreimprès en pantalla: James, l’empresari.
+AD-en	68000	70000	2000	Mentre camina per la platja, en James fa una altra trucada.
+AD-en	94000	97000	3000	Ara sense samarreta, s’estira a la tovallola.
+AD-en	106000	108000	2000	Amb els ulls tancats, acaricia l’arena. 
+AD-en	114000	115000	1000	S’incorpora malhumorat. 
+AD-en	142000	144000	2000	Estranyat, mira a un costat i a l’altre. 
+AD-en	163000	172000	9000	S’aixeca i, amb la mateixa expressió d’estranyesa, camina per l’arena mirant al seu voltant, intentant esbrinar d’on ve el so. Duu un banyador negre.
+AD-en	178000	182000	4000	Segueix caminant, però cada cop que sent el so, s’atura i mira a una banda i a l’altra.
+AD-en	192000	195000	3000	Desconcertat, s’apropa a l’aigua i se’n torna a allunyar.
+AD-en	205000	208000	3000	Sense deixar de mirar al seu voltant, es vesteix.
+AD-en	219000	223000	4000	Ara, vestit un altre cop d’etiqueta, camina per fora la platja.
+AD-en	227000	229000	2000	S’enfila per un turó.
+AD-en	234000	242000	8000	Al mateix temps, en un parc, un senyor d’uns 60 anys, amb els cabells grisos i esvalotats i la barba deixada, està assegut subjectant un got de plàstic entre les mans. 
+AD-en	244000	245000	1000	Somriu i nega amb el cap.
+AD-en	249000	251000	2000	Destapa el got de plàstic i a l’interior s’hi veu café sol. 
+AD-en	255000	257000	2000	Abans de fer-ne un glop, s’ho pensa.
+AD-en	259000	260000	1000	Finalment, beu.
+AD-en	265000	267000	2000	Sobreimprès en pantalla: Rick, el jubilat.
+AD-en	268000	281000	13000	Duu una samarreta de tirants de color caqui per dins dels pantalons, que són negres. Les sabates que porta també són de color negre i al coll duu una cadena. Mentre mou una cama amb nerviosisme, deixa el café al banc del costat, pica de mans i es frega els braços. 
+AD-en	288000	291000	3000	Agafa el mòbil, busca un número a l’agenda i truca. 
+AD-en	330000	332000	2000	Estranyat, mira cap amunt.
+AD-en	380000	381000	1000	Torna a mirar cap a dalt.
+AD-en	399000	403000	4000	Deixa el cafè damunt d’un banc i marxa mirant a un costat i a l’altre.
+AD-en	411000	416000	5000	En una casa, una noia d’uns 20 anys està asseguda davant d’un escriptori amb un ordinador i apunts i llibres damunt la taula.
+AD-en	418000	419000	1000	Jess, l’estudiant. 
+AD-en	422000	429000	7000	Rebusca entre les coses i agafa el telèfon mòbil.
+AD-en	496000	501000	5000	La Jess, que és pèl-roja i té els cabells arrissats, mira amb expressió de desconcert al seu voltant. 
+AD-en	509000	510000	1000	S’aixeca i marxa de casa.
+AD-en	513000	519000	6000	Un cop fora, sense deixar de mirar d’una banda a l’altra, puja per un turó ple de plantes i arbustos. 
+AD-en	530000	536000	6000	Va a parar a una esplanada de terra on també hi són en James i en Rick, que miren a un costat i a l’altre.
+AD-en	538000	539000	1000	La Jess s’apropa a ells.
+AD-en	556000	559000	3000	Desconcertats, tots miren al cel i al seu voltant.
+AD-en	576000	577000	1000	A en James li canvia l’expressió.
+AD-en	595000	596000	1000	En Rick es posa la mà al front.
+AD-en	707000	710000	3000	Es miren entre ells i fan que no amb el cap. 
+AD-en	718000	719000	1000	En Rick alça els braços. 
+AD-en	725000	726000	1000	En James fa cara d’incrèdul. 
+AD-en	738000	741000	3000	La Jess, encara sorpresa, somriu i s’hi afegeix.
+AD-en	749000	750000	1000	Marxen els tres junts.
+AD-en	758000	761000	3000	En un terrat, una dona negra estén roba mentre parla per telèfon.
+AD-en	762000	765000	3000	No, encara no l’he estès tota. M’he d’afanyar a acabar1.
+AD-en	768000	771000	3000	No, però de què em parles? Sí, és clar, ja he fet les maletes…2
+AD-en	772000	773000	1000	Estranyada, mira al seu voltant.
+AD-en	774000	776000	2000	Escolta, ara no puc parlar. T’he de deixar.3
+AD-en	779000	781000	2000	Sobreimprès en pantalla: Zoé, la següent. 
+AD-en	783000	786000	3000	Sobreimprès en pantalla: what happens while…

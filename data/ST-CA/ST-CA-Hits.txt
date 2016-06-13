@@ -1,0 +1,54 @@
+BeginTime	EndTime	Duration	Visual
+190	18500	18310	shoot landscape
+18530	22070	3540	letters
+22310	44530	22220	lanscape character
+44770	67460	22690	zoom-in character
+67530	91510	23980	shoot lanscape character
+91760	162960	71200	shoot character
+163210	218840	55630	zoom-out character 
+219110	226590	7480	shoot lanscape
+226830	233180	6350	shoot lanscape
+233450	267400	33950	shoot zoom-in character
+267670	286770	19100	zoom-out charatcer
+287080	298160	11080	zoom-in mobile
+298470	395430	96960	zoom-in character
+395720	411310	15590	zoom-out character
+411573	511080	99507	shoot zomm-in character
+511368	529680	18312	shoot lanscape character
+529912	541770	11858	shoot lanscape zoom-out
+542018	547120	5102	zomm-in character
+547352	551700	4348	zomm-in character
+551936	556300	4364	zomm-in character
+556600	563530	6930	zoom-out characters
+563804	567410	3606	zomm-in character
+567718	576060	8342	zomm-in character
+576322	578810	2488	zoom-out characters
+579096	587080	7984	zomm-in character
+587339	591980	4641	zoom-out characters
+592263	601850	9587	zomm-in character
+602127	603180	1053	zomm-in character
+603340	607250	3910	zomm-in character
+607515	610110	2595	zomm-in character
+610339	621140	10801	zomm-in character
+621383	622770	1387	zomm-in character
+623067	630000	6933	zomm-in character
+630291	639200	8909	zomm-in character
+639475	645930	6455	zomm-in character
+646330	673640	27310	zomm-in character
+673969	675330	1361	zomm-in character
+675595	685310	9715	zomm-in character
+685545	686470	925	zomm-in character
+686735	687970	1235	zomm-in character
+688255	696290	8035	zomm-in character
+696565	698270	1705	zomm-in character
+698545	700190	1645	zomm-in character
+700400	704660	4260	zoom-out characters
+704840	707940	3100	zomm-in character
+708230	710750	2520	zomm-in character
+711080	716160	5080	zomm-in character
+716430	721220	4790	zoom-out characters
+721470	724790	3320	zomm-in character
+725020	740280	15260	zomm-in character
+740530	743360	2830	zomm-in character
+743650	758230	14580	zoom-out characters
+758510	782920	24410	shoot character

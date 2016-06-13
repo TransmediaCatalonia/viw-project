@@ -1,0 +1,39 @@
+AD-en	3145	10421	7276	A pleno día, por una playa algo nublada, pasean varias personas. Un hombre hace jogging y un perro olfatea la arena.
+AD-en	26802	30435	3633	Un coche blanco aparca frente a la arena. Dentro, un hombre discute por el móvil.
+AD-en	52772	63172	10400	El hombre ha salido del coche, ha sacado una bolsa del maletero y ha metido un maletín en él. Tiene unos 35 años. lleva traje y corbata. es rubio y tiene barba. Se pone unas gafas de sol.
+AD-en	65450	67096	1646	James, el empresario.
+AD-en	67726	71462	3736	Marca un teléfono en su móvil mientras camina por la playa con la bolsa al hombro.
+AD-en	93607	99633	6026	Vestido únicamente con la ropa interior, James se tumba boca arriba en una toalla extendida sobre la arena.
+AD-en	105508	108981	3473	Extiende los brazos y juega con la arena entre sus dedos.
+AD-en	142001	144041	2040	Mira a ambos lados, confuso.
+AD-en	159426	167258	7832	Deja el móvil en el suelo, se levanta de la toalla y empieza a caminar junto al agua, mirando a su alrededor en busca de la prodecencia del sonido.
+AD-en	179914	182753	2839	Se detiene y se dispone a volver a la toalla.
+AD-en	187414	189704	2290	Vuelve a mirar en todas direcciones.
+AD-en	205087	209186	4099	Vuelve junto a la toalla para recoger su ropa y empieza a vestirse.
+AD-en	221244	225182	3938	Camina por una acera rodeada de árboles con expresión seria.
+AD-en	227498	230622	3124	Sube por un monte lleno de arbustos y matorrales.
+AD-en	236047	245652	9605	Unas manos sujetan un vaso desechable de café. Son de un hombre de unos 60 años con una media melena alborotada y barba canosa. Tiene
+AD-en	250171	251896	1725	Juguetea con la tapa del café.
+AD-en	256702	258552	1850	Abre la tapa y da un sorbo.
+AD-en	265407	267067	1660	Rick, el jubilado.
+AD-en	267943	276055	8112	Rick lleva un chándal y una camiseta de tirantes. Está sentado en el banco de un parque. Sigue bebiendo su café con una expresión seria y de aburrimiento.
+AD-en	278852	281070	2218	Deja el vaso en el banco de al lado.
+AD-en	286074	292686	6612	Saca un móvil del bolsillo trasero del pantalón. Busca en su lista de contactos hasta encontrar el número de Craig Anderson.
+AD-en	380199	382092	1893	Mira a su alrededor desconcertado.
+AD-en	398386	403979	5593	Dejando atrás su vaso de café, se adentra por un sendero del parque, mirando en todas direcciones.
+AD-en	411755	414409	2654	Una chica mira la pantalla de su ordenador.
+AD-en	418215	419823	1608	Jess, la estudiante.
+AD-en	422560	424213	1653	Rebusca entre sus apuntes.
+AD-en	494682	501823	7141	Tiene unos 18 años, pelo rizado y cobrizo. Viste una chaqueta de lana blanca y un pañuelo. Mira confusa a su alrededor.
+AD-en	511931	516690	4759	Con un abrigo color caqui sale a la calle y sube por un monte cubierto de hierbas altas.
+AD-en	530222	536761	6539	Jess se encuentra con James y Rick en un claro y se acerca a ellos. Los tres siguen buscando con la mirada en todas direcciones.
+AD-en	556389	558882	2493	Permanecen quietos, desconcertados.
+AD-en	707321	712186	4865	James mira a Rick, quien se encoje de hombros y niega con la cabeza, al igual que Jess.
+AD-en	737315	741525	4210	Rick sigue a James hacia los árboles. Jess hace un gesto de indiferencia.
+AD-en	745842	751628	5786	Va corriendo hacia los dos hombres y se coloca entre ellos. Ambos le dan una palmada en la espalda mientras se alejan.
+AD-en	758240	761660	3420	Una mujer negra de unos 30 años tiende la ropa en una azotea.
+AD-en	762472	765576	3104	No, no he terminado de tenderla. Tengo que darme prisa.
+AD-en	767700	771368	3668	No, ¿de qué me hablas? Sí, claro, las maletas están a punto.
+AD-en	774920	777176	2256	Oye, ahora no puedo hablar. Tengo que dejarte.
+AD-en	779638	780995	1357	Zoé, la próxima.
+AD-en	783796	785469	1673	¿Qué pasa mientras...?

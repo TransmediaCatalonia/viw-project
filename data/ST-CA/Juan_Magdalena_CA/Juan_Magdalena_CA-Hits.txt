@@ -1,0 +1,55 @@
+AD-en	4340	15361	11021	A la tarda, per un passeig a la vora del mar, un home amb xandall passa corrent i una parella passeja un gos gran. La claror és pàl·lida i a l'horitzó es veuen núvols blancs.
+AD-en	52552	64272	11720	En James és un empresari d'uns 45 anys, amb els cabells castanys curts i barba. Deixa un maletí dins el cotxe, es mira el mar i es posa unes ulleres de sol.  
+AD-en	67739	71136	3397	És a la sorra i porta una bossa de platja. Agafa el mòbil.  
+AD-en	94011	98170	4159	En James va sense camisa i es tomba sobre una tovallola que està damunt la sorra.  
+AD-en	100197	107530	7333	Té els ulls tancats i, al cap d'un moment, passa una mà per sobre l'arena i hi juga amb els dits, tanquil·lament.  
+AD-en	115027	116087	1060	S'incorpora.  
+AD-en	131222	131900	678	Es gira.  
+AD-en	141817	144199	2382	Busca amb la mirada al seu voltant.  
+AD-en	158048	162849	4801	Deixa el mòbil i s'aixeca. Porta un banyador.  
+AD-en	164631	178660	14029	S'acosta a l'aigua i camina lentament. Va moguent el cap, buscant alguna cosa amb la mirada. S'allunya una mica de l'aigua i es queda parat, mirant lluny, cap a la sorra. Al fons es veuen uns gratacels.  
+AD-en	181923	183617	1694	Es dirigeix cap a la tovallola.  
+AD-en	187487	190652	3165	Torna a mirar darrera seu.  
+AD-en	194009	195864	1855	Es torna a acostar a l'aigua.  
+AD-en	204707	209724	5017	Segueix el so amb la mirada. Torna cap a la tovallola i es posa la camisa.  
+AD-en	221123	226293	5170	Vestit amb la roba d'executiu, camina per un passeig amb arbres.  
+AD-en	229612	232630	3018	Puja per un turó àrid i amb vegetació seca.  
+AD-en	234571	239271	4700	En Rick és un jubilat d'uns 65 anys. Té els cabells grisos i porta barba.  
+AD-en	240588	244069	3481	Està assegut a un banc d'un parc i té un cafè per emportar a les mans.  
+AD-en	249627	251710	2083	Li treu la tapa al cafè.  
+AD-en	254916	261827	6911	Es mira el cafè, pensatiu, i en pega un bon glop. Té la mirada perduda.  
+AD-en	268787	281307	12520	Deixa la tapa del cafè sobre el banc del costat i torna a beure. Mou la cama dreta cap amunt i cap avall, amb un gest nerviós. Fa que no amb el cap, amolla el got de cafè al costat de la tapa i pica de mans, contemplatiu.  
+AD-en	285526	290879	5353	Es treu el mòbil de la butxaca de darrere dels pantalons i mira els contactes.  
+AD-en	296533	299852	3319	Escull un número i hi truca.  
+AD-en	330509	332662	2153	Fa cara d'estranyat i busca amb la mirada.  
+AD-en	335993	337034	1041	Arrufa les celles.  
+AD-en	381197	382140	943	Torna a mirar.  
+AD-en	399207	405216	6009	S'aixeca i se'n va, deixant el got de cafè sobre el banc. Es gira.  
+AD-en	407842	411387	3545	Mira a darrere, com si busqués alguna cosa, i marxa.  
+AD-en	412020	415381	3361	La Jess és una estudiant amb els cabells castanys arrissats.  
+AD-en	418135	420144	2009	Està assaguda i té un llàpis a les mans.  
+AD-en	496169	500632	4463	Busca amb la mirada al seu voltant, estranyada.  
+AD-en	509598	511042	1444	S'aixeca i marxa.  
+AD-en	514809	519880	5071	Camina per un camí de terra, envoltat de plantes. Porta una jaqueta llarga i botes.  
+AD-en	521755	524293	2538	Puja pel camí i es gira a mirar a darrere.  
+AD-en	526956	529580	2624	Es torna a girar cap a davant i camina amb pressa.  
+AD-en	533169	540645	7476	Al mig d'un camp àrid hi ha en James i en Rick, que miren als voltants, desconcertats. La Jess se'ls hi acosta.  
+AD-en	556457	560931	4474	Tots tres miren buscant d'on ve la veu, sorpresos.  
+AD-en	576434	577687	1253	Miren als voltants.  
+AD-en	594971	596642	1671	Té una mà al cap i s'arronsa d'espatlles.  
+AD-en	641629	643360	1731	En Rick allarga el braç i nega amb el cap.  
+AD-en	646492	647409	917	La Jess el mira.  
+AD-en	652092	653620	1528	En Rick se'ls mira incrèdul.  
+AD-en	684965	686966	2001	En James aixeca la vista i se'l mira.  
+AD-en	700380	702136	1756	Els tres es queden parats, mirant-se.  
+AD-en	707467	712482	5015	Es miren pensatius. En Rick s'arronsa d'espatlles i nega amb el cap. La Jess també fa que no.  
+AD-en	718071	720426	2355	Aixequen els braços i miren al voltant.  
+AD-en	737734	742057	4323	Comencen a marxar. La Jess es queda pensativa i somriu.  
+AD-en	745338	757889	12551	Marxen per allà on havia vingut la Jess, que se'ls hi acosta corrent. Es posa enmig dels dos, que li posen una mà a l'esquena cadascun, amb un gest amigable. Van caminant tranquil·lament, a un pas desperocupat.  
+AD-en	758942	762180	3238	La Zoé és a dalt d'un terrat, estenent roba. És una dona de color.  
+AD-en	762460	765938	3478	No, encara no l'he estès tota. M'he d'afanyar a acabar.  
+AD-en	767871	771901	4030	No, però de què em parles? Sí, esclar, ja he fet les maletes...  
+AD-en	772703	774343	1640	Mira al seu voltant, desconcertada.  
+AD-en	774962	777285	2323	Escolta, ara no puc parlar. T'he de deixar.  
+AD-en	778938	781066	2128	És la següent.  
+AD-en	784376	786535	2159	Què passa mentre...?  

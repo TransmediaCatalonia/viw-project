@@ -1,0 +1,38 @@
+AD-en	2976	8345	5369	Es un día nublado. En la playa, una pareja pasea a un perro y un hombre hace footing.
+AD-en	52480	57053	4573	Es un hombre de unos 40 años.  Tiene pelo y barba castaños y viste de traje.
+AD-en	60382	63836	3454	Saca unas gafas de sol de un bolsillo y se las pone.
+AD-en	65646	67320	1674	Es James, el empresario.
+AD-en	93875	97718	3843	James, en bañador, extiende una toalla en la arena y se tumba.
+AD-en	101219	102613	1394	Se frota los ojos.
+AD-en	106150	109299	3149	Luego extiende los brazos y acaricia la arena.
+AD-en	141974	144180	2206	James busca entre sus cosas.
+AD-en	163156	166225	3069	Se levanta y y se acerca a la orilla del mar.
+AD-en	170162	173877	3715	Luego camina por la playa en busca del origen del pitido.
+AD-en	179953	182147	2194	Se queda quieto un instante.
+AD-en	187204	191200	3996	Camina hacia el lado contrario mientras escruta los alrededores.
+AD-en	198278	202082	3804	Vuelve a la toalla con los ojos entornados y el ceño fruncido.
+AD-en	211112	213449	2337	Recoge su camisa y se la pone.
+AD-en	220251	224078	3827	Poco después camina por la calle, otra vez vestido con el traje.
+AD-en	227238	230579	3341	Asciende por una ladera de tierra sembrada de arbustos.
+AD-en	236737	242866	6129	Sentado en una silla hay un hombre de unos 50 años.  Tiene el pelo gris y revuelto y una barba descuidada.
+AD-en	248864	252107	3243	Tiene un vaso en las manos y quita la tapa de plástico.
+AD-en	256968	259004	2036	Bebe un trago de café.
+AD-en	265594	267439	1845	Es Rick, el jubilado.
+AD-en	269097	273506	4409	Está en un parque. Deja la tapa en la silla de al lado y toma otro trago.
+AD-en	278544	281626	3082	Mueve una pierna con un tic nervioso y deja el vaso.
+AD-en	286040	290098	4058	Saca el móvil del bolsillo, elige un contacto de la lista y llama.
+AD-en	330363	332432	2069	Frunce el ceño y levanta la cabeza.  
+AD-en	398024	404678	6654	Rick se aleja mientras intenta localizar la procedencia del pitido.  El vaso de café queda abandonado en la silla.
+AD-en	418325	421895	3570	Jess, la estudiante, es una adolescente de rizos pelirrojos.
+AD-en	494685	497410	2725	Jess pasea la mirada por la habitación.
+AD-en	511539	514028	2489	Se pone el abrigo y sale a la calle.
+AD-en	518278	522054	3776	Sube un camino cubierto de maleza y se pierde en la espesura.
+AD-en	530311	534880	4569	Llega a una gran explanada de arena donde se encuentran James y Rick.
+AD-en	537712	541306	3594	Los tres dan pasos vacilantes y dirigen la vista al cielo.
+AD-en	556792	561005	4213	Todos examinan la explanada, pero no localizan la fuente de la voz.
+AD-en	708576	710735	2159	Los tres niegan con la cabeza.
+AD-en	745951	750166	4215	Jess corre tras ellos hasta alcanzarlos y se marchan juntos.
+AD-en	762383	765631	3248	No, no he terminado de tenderla. Tengo que darme prisa.
+AD-en	768120	772007	3887	No, ¿de qué me hablas? Sí, claro, las maletas están a punto.
+AD-en	774661	777376	2715	Oye, ahora no puedo hablar. Tengo que dejarte.
+AD-en	779764	781482	1718	Zoé. La próxima.

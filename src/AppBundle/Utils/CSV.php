@@ -242,6 +242,7 @@ class CSV
 	$result = array();
 	
 	foreach ($csv as $c) { 
+	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
 		$lemma = $c['Annotation2-1'];
 		##initialize the result for this Lemma because it doesnt exist yet
   		if (!isset($result[$lemma])) {
@@ -249,6 +250,7 @@ class CSV
     			$result[$lemma] = $n;
 		}
 		else {$result[$lemma]++;}
+	   }
 	}
 	arsort($result);
 	#var_dump($result);
@@ -290,6 +292,7 @@ class CSV
 	$result = array();
 	
 	foreach ($csv as $c) { 
+	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
 		$sem = $c['Annotation1-1'];
 		##initialize the result for this Sem because it doesnt exist yet
   		if (!isset($result[$sem])) {
@@ -297,6 +300,7 @@ class CSV
     			$result[$sem] = $n;
 		}
 		else {$result[$sem]++;}
+	   }
 	}
 	arsort($result);
 	#var_dump($result);

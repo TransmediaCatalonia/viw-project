@@ -1,0 +1,54 @@
+AD-en	2706	7803	5097	En un dia una mica ennuvolat, a la platja, un noi i una noia passegen un gos i un noi corre.
+AD-en	7982	12512	4530	El gos s'atura a ensumar el terra. El noi i la noia es creuen amb el corredor.
+AD-en	16769	18913	2144	Sobre un fons blanc, amb lletres negres:
+AD-en	22157	25944	3787	Un cotxe platejat de dues portes aparca al carrer de davant la platja.
+AD-en	26126	30139	4013	El conductor, en James, parla per telèfon i baixa del cotxe amb un maletí.
+AD-en	38086	39574	1488	Desa el maletí al maleter.
+AD-en	43643	45198	1555	En treu una bossa de ratlles.
+AD-en	53019	57269	4250	En James, d'uns quaranta anys, duu barba, corbata, camisa clara i vestit negre.
+AD-en	57437	61511	4074	Es treu unes ulleres de sol d'una butxaca de la jaqueta i se les posa.
+AD-en	64626	67038	2412	Amb lletres blanques: James, l'empresari.
+AD-en	67565	71494	3929	En James camina amb la bossa de ratlles penjada mentre parla per telèfon.
+AD-en	91655	96505	4850	Sobre la sorra de la platja hi ha una tovallola estesa i el vestit d'en James.
+AD-en	99335	101393	2058	En James s'hi estira. Va amb banyador.
+AD-en	103823	106949	3126	Es frega els ulls i deixa caure els braços sobre la sorra.
+AD-en	108610	110468	1858	Juga amb la sorra amb els dits.
+AD-en	142044	144260	2216	Estranyat, en James mira al seu voltant.
+AD-en	159128	161902	2774	S'aixeca i camina cap al mar, però torna enrere.
+AD-en	190812	193375	2563	Desconcertat, es torna a apropar a l'aigua.
+AD-en	199025	212216	13191	Finalment torna cap a la tovallola i es posa la camisa. Continua desconcertat i escruta el seu voltant amb la mirada.
+AD-en	218984	224379	5395	En James, amb la camisa i el vestit fosc, camina per un passeig amb arbres a banda i banda.
+AD-en	229602	233259	3657	Puja per un camí escarpat envoltat de matolls.
+AD-en	233783	236720	2937	En un parc, en Rick aguanta un got de cafè.
+AD-en	238123	243718	5595	Té uns seixanta-cinc anys, va despentinat i porta barba i samarreta de tirants. Té un aspecte descuidat.
+AD-en	253585	257242	3657	Treu la tapa del got i en fa un glop.
+AD-en	265098	267477	2379	Amb lletres blanques: Rick, el jubilat.
+AD-en	267652	272813	5161	Deixa la tapa en una altra cadira i continua bevent.
+AD-en	273593	276037	2444	Té un tic nerviós a la cama dreta.
+AD-en	284924	288467	3543	En Rick es treu un mòbil de la butxaca del darrere dels pantalons.
+AD-en	288666	291426	2760	Selecciona un contacte de la llista i li truca.
+AD-en	330338	332049	1711	Estranyat, mira al seu voltant.
+AD-en	380738	381919	1181	Alça la vista.
+AD-en	400730	407370	6640	Deixa el cafè a la cadira. Se'n va caminant mentre no deixa de mirar al seu voltant.
+AD-en	411238	413723	2485	En un estudi hi ha la Jess, d'uns divuit anys.
+AD-en	417841	420229	2388	Amb lletres blanques: Jess, l'estudiant.
+AD-en	425807	428885	3078	La Jess busca el mòbil entre el portàtil i els apunts.
+AD-en	495989	500718	4729	La Jess mira confusa al seu voltant.
+AD-en	509721	511026	1305	S'aixeca de la cadira.
+AD-en	512797	518109	5312	Amb l'abric posat, la Jess surt al carrer. Té els cabells llargs, arrissats i vermellosos.
+AD-en	518722	524672	5950	Puja per un camí ple d'herbes i envoltat d'arbres i de canyes mentre continua buscant al seu voltant.
+AD-en	533142	538511	5369	Finalment arriba a un descampat. Fa un dia radiant. Hi ha dos homes més, en James i en Rick.
+AD-en	540105	542565	2460	Tots tres estan desconcertats.
+AD-en	555912	559979	4067	Miren cap al cel i cap als arbres que envolten el descampat.
+AD-en	684699	686647	1948	En James mira cap amunt.
+AD-en	708527	711388	2861	En Rick fa que no amb el cap i s'arronsa d'espatlles.
+AD-en	737841	739345	1504	En Rick segueix en James.
+AD-en	739518	741611	2093	La Jess alça les celles i somriu.
+AD-en	745500	746527	1027	Els segueix.
+AD-en	746714	750739	4025	Tots tres se'n van del descampat caminant lun al costat de laltre.
+AD-en	757934	762090	4156	En un terrat, la Zoé, d'uns trenta anys, estén roba mentre parla per telèfon.
+AD-en	762448	766149	3701	No, encara no l'he estès tota. M'he d'afanyar a acabar.
+AD-en	768125	771897	3772	No, però de què em parles? Sí, esclar, ja he fet les maletes...
+AD-en	774913	777339	2426	Escolta, ara no puc parlar. T'he de deixar.  
+AD-en	779663	781900	2237	Amb lletres blanques: Zoé, la següent.
+AD-en	783524	786737	3213	Amb lletres negres sobre un fons blanc: què passa mentre.

@@ -1,0 +1,33 @@
+AD-en	2826	5827	3001	En el paseo de la playa.
+AD-en	15187	19144	3957	Sobre fondo blanco, en letras negras:
+AD-en	21796	28869	7073	En el paseo aparca un coche de alta gama conducido por un ejecutivo con traje que habla por el móvil.
+AD-en	53173	59522	6349	El ejecutivo, de unos 40 años, cambia el maletín por una bolsa de playa.
+AD-en	62097	67456	5359	En letras blancas: James, el empresario.
+AD-en	67496	71496	4000	Llama por el móvil mientras camina por el paseo de la playa.
+AD-en	94690	98182	3492	Se queda en calzoncillos y se tumba en la arena.
+AD-en	106442	110353	3911	Relajado, juega con la arena entre sus dedos.
+AD-en	163053	166651	3598	Se levanta y busca el ruido extraño.
+AD-en	181651	185006	3355	Se mueve de un lado a otro desconcertado.
+AD-en	207496	212380	4884	Se viste para seguir el rastro del ruido fuera de la playa.
+AD-en	226692	229836	3144	Sube un pequeño monte.
+AD-en	233297	246593	13296	En un parque, unas manos sostienen un café para llevar. Un hombre de unos 55 años, desdeñado, está sentado en un banco. Mira al horizonte y sonríe. Hace un gesto de resignación.
+AD-en	254966	257647	2681	Bebe del café.
+AD-en	264257	267383	3126	En letras blancas: Rick, el jubilado.
+AD-en	277543	281465	3922	Mueve la pierna y da unas palmadas nervioso.
+AD-en	293436	297218	3782	Coge el móvil y hace una llamada.
+AD-en	398634	404140	5506	Mira extrañado y se levanta para buscar el ruido. Se aleja y se deja el café en el banco.
+AD-en	411405	415300	3895	En una habitación está sentada una chica de unos 18 años.
+AD-en	417444	423092	5648	En letras blancas, Jess, la estudiante. No encuentra el móvil entre el desorden.
+AD-en	494558	498114	3556	Jess mira a todos lados buscando el ruido.
+AD-en	511236	516799	5563	Sale de su casa en busca del ruido y sube un pequeño monte.
+AD-en	529805	534459	4654	Allí están James y Rick mirando a todos lados.
+AD-en	538573	541660	3087	Una voz desconocida les habla.
+AD-en	708623	711596	2973	Se miran los unos a los otros.
+AD-en	739557	742196	2639	Jess, extrañada, sonríe.
+AD-en	746077	749120	3043	Se alejan juntos.
+AD-en	755720	761993	6273	En la azotea de un edificio, una mujer de unos 35 años habla por el móvil mientras tiende la ropa.
+AD-en	762153	765956	3803	No, no he terminado de tender. Tengo que darme prisa.
+AD-en	767664	772310	4646	No, ¿de qué me hablas? Si, las maletas están hechas...
+AD-en	774593	777921	3328	Oye, ahora no puedo hablar. Tengo que colgar.
+AD-en	778081	781591	3510	El letras blancas: Zoé, la próxima.
+AD-en	782813	787179	4366	Sobre fondo blanco, en letras negras: ¿qué pasa mientras...?

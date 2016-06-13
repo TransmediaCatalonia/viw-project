@@ -1,0 +1,46 @@
+AD-en	5649	11631	5982	De día, en la playa, una pareja pasea a su perro mientras un corredor pasa por su lado.
+AD-en	24747	30399	5652	Un lujoso coche blanco se detiene delante de la playa.
+AD-en	32281	32720	439	El conductor se apea.
+AD-en	43845	44932	1087	Guarda un maletín en el maletero.
+AD-en	54905	60014	5109	Saca unas gafas de sol y se las pone. Viste un traje gris y corbata.
+AD-en	65092	66892	1800	James [Yéims], el empresario.
+AD-en	67712	71441	3729	James, pelirrojo y de unos 40 años, pasea por la playa sujetando un móvil.
+AD-en	92827	97410	4583	Ahora en bañador, James se tumba en una toalla y cierra los ojos.
+AD-en	103285	110055	6770	Se frota los ojos con ambas manos, las estira y coge un poco de arena para luego dejarla caer entre sus dedos.
+AD-en	131092	132212	1120	Mira a ambos lados.
+AD-en	141539	143640	2101	Busca algo en su ropa.
+AD-en	161596	162959	1363	James se levanta.
+AD-en	165035	169865	4830	Camina por la playa en bañador mirando a su alrededor con gesto extrañado.
+AD-en	174722	177703	2981	Sigue caminando sin rumbo fijo.
+AD-en	180134	182796	2662	Se detiene y se dirige a donde está su toalla.
+AD-en	187548	192939	5391	Vuelve a girar la vista extrañado y sigue caminando sin dejar de mirar a su alrededor.
+AD-en	208573	212968	4395	Coge su ropa y comienza a vestirse.
+AD-en	220493	229074	8581	Ya vestido con su traje de oficina, camina con paso firme y comienza a subir por una pequeña montaña llena de arbustos y matorrales.
+AD-en	234081	237758	3677	En un parque, un hombre de unos 60 años descansa sentado en un banco.
+AD-en	239969	243877	3908	De canoso pelo largo y una barba descuidada, observa con la mirada perdida.
+AD-en	252964	256079	3115	Destapa el café que sujeta con una mano y le da un sorbo con desgana.
+AD-en	265175	266950	1775	Rick [Ríc], el jubilado.
+AD-en	273013	278722	5709	Ric da otro sorbo al café y lo deja en el banco de al lado.
+AD-en	290036	292979	2943	Saca su teléfono móvil y busca entre los contactos.
+AD-en	295680	298226	2546	Selecciona uno y llama.
+AD-en	330837	332740	1903	Rick alza la mirada extrañado.
+AD-en	380268	382380	2112	Vuelve a alzar la vista lentamente.
+AD-en	399524	406253	6729	Se levanta, y sin coger su café, empieza a caminar mirando a su alrededor una y otra vez.
+AD-en	411764	415088	3324	En su habitación una joven de melena pelirroja. 
+AD-en	418424	419891	1467	Jess [Yés], la estudiante.
+AD-en	425851	429103	3252	Jess busca su móvil entre una montaña de libros y apuntes.
+AD-en	474339	475347	1008	Busca entre los papeles.
+AD-en	497584	500967	3383	Jess mira a su alrededor con gesto confuso.
+AD-en	511358	514730	3372	Sale a la calle y empieza a caminar.
+AD-en	518379	521775	3396	Sube por una pequeña montaña llena de arbutos y matorrales.
+AD-en	532847	539188	6341	En un descampado rodeado por montañas, Jess se acerca a James y Rick, quienes están de pie sin hacer nada.
+AD-en	556489	560014	3525	Los tres no paran de mirar al cielo y a su alrededor.
+AD-en	595664	596876	1212	Rick tiene los ojos llorosos.
+AD-en	621545	622125	580	James asiente con gesto irónico.
+AD-en	709342	711078	1736	Rick niega con la cabeza.
+AD-en	740101	742022	1921	Rick sigue a James.
+AD-en	746407	752109	5702	Jess corre tras ellos y los tres juntos siguen caminando.
+AD-en	763556	767971	4415	En una terraza, una mujer francesa de piel morena se queja por teléfono de lo ajetreada que está.
+AD-en	772254	774012	1758	Mira a su alrededor extrañada.
+AD-en	779809	781442	1633	Zoé [Zóe], la próxima.
+AD-en	784271	786762	2491	¿Qué pasa mientras...?

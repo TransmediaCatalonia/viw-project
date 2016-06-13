@@ -37,14 +37,14 @@
   <movie_url>https://ddd.uab.cat/record/147267</movie_url>
 </corpus>
 
-<record id="BTI-UK">
+<record id="What-BTI-UK">
   <title>BTI-UK version of What Happens While</title>
   <alternative>BTI-UK version of What Happens While</alternative>
   <subject>drama short movie</subject>
   <creator>BTI</creator>
   <language>EN-UK</language>
   <language>EN</language>
-  <source>What-EN/BTI-UK</source>
+  <source>What-EN/What-BTI-UK</source>
   <description></description>
   <movie>What Happens While</movie>
   <publisher>UAB</publisher>

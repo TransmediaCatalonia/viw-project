@@ -1,0 +1,56 @@
+AD-en	2812	18318	15506	Al amanecer, en una playa, hay una pareja paseando con su perro y un hombre corriendo. El perro olisquea algo en la arena y después sigue a sus amos.
+AD-en	22422	29693	7271	Un deportivo blanco aparca en la carretera al lado del paseo de la playa. Del coche se baja un hombre de mediana edad, trajeado y con maletín.
+AD-en	53048	58592	5544	El hombre saca con cuidado unas gafas de sol, de estilo aviador, de un bolsillo de su americana.
+AD-en	59854	63761	3907	Se pone las gafas y mira al frente.
+AD-en	64983	66881	1898	Es James, el empresario.
+AD-en	67560	71401	3841	James camina hacia la playa con una bolsa de tela a rayas echada al hombro.
+AD-en	92007	98410	6403	En la playa, sobre la arena, hay una toalla y un revoltijo de ropa. James se tumba sobre la toalla bocarriba.
+AD-en	100306	109738	9432	Se frota la cara con las manos y después acaricia la arena hundiendo las yemas de los dedos.
+AD-en	141509	144231	2722	James, nervioso, mira extrañado hacia los lados.
+AD-en	159581	168950	9369	Se levanta y camina hasta meter los pies en la orilla.
+AD-en	169891	178370	8479	Después se aleja del agua sin rumbo, mirando hacia los lados.
+AD-en	180468	189221	8753	Camina hacia atrás, girando sobre sí mismo y mirando hacia los lados como si buscase algo.
+AD-en	191234	195139	3905	Vuelve a acercarse a la orilla y se adentra un poco en el agua.
+AD-en	197662	205064	7402	James vuelve a alejarse de la marea buscando algo a su alrededor.
+AD-en	208178	214105	5927	Llega hasta sus cosas y comienza a ponerse la camisa.
+AD-en	218993	225807	6814	Más tarde, en una calle y rodeado de árboles, James camina a buen ritmo.
+AD-en	227106	233135	6029	Pasado un rato, está subiendo por un monte polvoriento salpicado de arbustos.
+AD-en	233867	237216	3349	En otro lugar, unas manos ajadas sostienen un café para llevar.
+AD-en	237336	243786	6450	Un hombre no demasiado mayor, con ojeras, barba y pelo desaliñado, contempla distraído lo que tiene en frente
+AD-en	248074	258636	10562	Toquetea la tapa del café, la quita y después de olerlo, lo mira con desgana y le pega un trago.
+AD-en	264764	266529	1765	Es Rick, el jubilado.
+AD-en	267717	281549	13832	Está sentado en el banco de un parque, solo. Viste un pantalón sencillo  y una camiseta de tirantes ajada. Rick contempla distraído el entorno mientras se termina su café y posa la taza  de cartón vacía en el banco de al lado.
+AD-en	285581	298722	13141	Rick saca el móvil de un bolsillo del pantalón, abre la agenda de contactos y se pone a buscar a alguien. Selecciona el contacto que buscaba y llama.
+AD-en	330654	332470	1816	Rick mira extrañado a su alrededor.
+AD-en	380223	382249	2026	Vuelve a mirar a su alrededor buscando algo.
+AD-en	398878	405557	6679	Rick se levanta y se aleja caminando distraído buscando algo y dejando atrás el café.
+AD-en	411430	415457	4027	En otra parte, una adolescente pelirroja, con rizos, está concentrada mirando algo.
+AD-en	417571	419477	1906	Es Jess, la estudiante.
+AD-en	425312	428789	3477	Está sentada frente a un escritorio y busca algo entre sus papales.
+AD-en	494932	501629	6697	Jess se pone el pelo detrás de la oreja y mira extrañada a su alrededor.
+AD-en	509713	510969	1256	Se levanta y se va.
+AD-en	511251	516943	5692	En una calle, junto a un muro de piedra, Jess camina en busca de algo.
+AD-en	517842	527979	10137	Más tarde, sube una colina, caminado entre la hierba alta. Se detiene, mira atrás desconcertada y se va corriendo hacia arriba.
+AD-en	529962	536780	6818	En un claro entre montañas, tres siluetas caminan al frente, como desconcertadas, en busca de algo bajo la cegadora luz del sol.
+AD-en	556569	560594	4025	Rick, James y Jess se juntan en medio de la explanada, mirando a su alrededor.
+AD-en	708350	710750	2400	Rick niega con la cabeza.
+AD-en	736786	740377	3591	James se aleja hacia los árboles que bordean el claro, seguido de Rick.
+AD-en	745229	756720	11491	Jess corre tras ellos. Los tres se pierden poco a poco en la distancia en dirección al bosque.
+AD-en	756880	765855	8975	No, no he terminado de tenderla. Tengo que darme prisa.
+AD-en	768154	771530	3376	No, ¿de qué me hablas? Sí, claro, las maletas están a punto....
+AD-en	771730	774558	2828	Al anochecer, en una azotea, un mujer mira nerviosa a su alrededor.
+AD-en	774875	777259	2384	Oye, ahora no puedo hablar. Tengo que dejarte.
+AD-en	779192	781146	1954	Es Zoé, la próxima.
+AD-en	783535	786672	3137	Sobre fondo blanco. ¿Qué pasa mientras...?
+AD-en	788983	791471	2488	Dirigido por Núria Nia.
+AD-en	793647	795427	1780	Director de fotografía, Albert Badia.
+AD-en	798798	800797	1999	Diseño de sonido por Enrique G. Bermejo.
+AD-en	803681	805909	2228	Maquilladora, Laia Teixidó.
+AD-en	808520	811714	3194	Asistente de dirección, Marta Aguadé Forrelad.
+AD-en	813359	815021	1662	Edición de Núria Nia.
+AD-en	818244	824025	5781	Producido por: Transmedia Catalonia y La Panorámica.  
+AD-en	827790	835784	7994	James Humber como James, Rick Zingale como Rick, Jessica Álvarez como Jess y Adeline Flaun como Zoé.
+AD-en	837282	852892	15610	Idea original de: Marçal Font y Nuria Nia. Guion de Nuria Nia. Estudio de sonido, Kamikaze Estudi. Música: Time Doesn't wait de The IMG. Estudio de edición, LaPanorámica.cat.
+AD-en	857064	862907	5843	Proyecto creado por Anna Matamala y financiado por el Ministerio de Economía y Competitividad.
+AD-en	862907	863907	1000	
+AD-en	872520	875985	3465	Sobre fondo blanco: ¡Disfrutad de vuestro tiempo!

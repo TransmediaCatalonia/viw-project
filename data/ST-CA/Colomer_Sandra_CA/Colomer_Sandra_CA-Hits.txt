@@ -1,0 +1,48 @@
+AD-en	3496	12559	9063	A l'alba. El cel està ennuvolat. Un descampat davant de la platja.  Hi ha gent corrent i altra passejant un gos.
+AD-en	22812	29606	6794	Davant del descampat un esportiu blanc s'atura. A dins hi ha una persona parlant pel telèfon.
+AD-en	38169	39509	1340	Va al maleter.
+AD-en	52539	61417	8878	Un home d'uns 40 anys, cabell curt, castany i barba.  Duu posat un vestit d'home. Es treu unes ulleres de sol de la butxaca interior i se les posa.
+AD-en	64921	71423	6502	Es diu James i és l'empresari.  Camina pel descampat mirant el mòbil. Duu una bossa gran.
+AD-en	92348	96336	3988	A la platja, en James s'estira sobre una tovallola.  
+AD-en	101310	103716	2406	Es frega els ulls cansat.  
+AD-en	130398	131950	1552	Mira al seu voltant.  
+AD-en	142213	144232	2019	Mira entre les seves coses.  
+AD-en	158779	160446	1667	S'aixeca.  
+AD-en	164425	168131	3706	Camina mirant al seu voltant.  
+AD-en	178692	182409	3717	S'atura i fa marxa enrere.  
+AD-en	186301	188605	2304	Gira el cap confós.  
+AD-en	201232	204286	3054	S'apropa a on hi ha les seves coses.  
+AD-en	208984	212862	3878	Es vesteix mirant al seu voltant.  
+AD-en	219658	222531	2873	Vestit, camina pel carrer.  
+AD-en	227412	231309	3897	Puja pel mig de la muntanya.  
+AD-en	234009	245256	11247	En un parc, un home d'uns 67 anys amb mitja melena gris despentinada i barba.  Vesteix una camisa sense tirans, una cadena al coll i té tatuatges al braç.
+AD-en	248310	252513	4203	Està assentant en un banc amb un cafè a les mans.  
+AD-en	258430	261161	2731	Beu una mica.  
+AD-en	262602	266837	4235	Es diu Rick i és el jubilat.  
+AD-en	271586	276490	4904	Té un tic nerviós en la cama dreta mentre fa glops al cafè.  
+AD-en	285299	287426	2127	Treu un mòbil del pantaló.  
+AD-en	289883	292337	2454	Es desplaça per la llista de contactes.  
+AD-en	295519	297437	1918	Marca un dels noms.  
+AD-en	329466	331557	2091	Mira al seu voltant.  
+AD-en	380048	381956	1908	Torna a mirar al seu voltant.
+AD-en	398262	401707	3445	S'aixeca i camina observant el seu entorn.
+AD-en	409644	415957	6313	En una habitació una noia d'uns 17 anys amb cabells llargs, arrissats i pèl-rojos mira una pantalla d'ordinador.
+AD-en	418263	420549	2286	Es diu Jess i és l'estudiant.
+AD-en	423093	425578	2485	Busca el mòbil per la taula.
+AD-en	494724	497280	2556	Mira el seu voltant.
+AD-en	503523	505407	1884	Es sorprèn.  
+AD-en	510524	513034	2510	S'aixeca i surt al carrer.  
+AD-en	517860	520202	2342	Camina per la muntanya.  
+AD-en	529369	538057	8688	En mig d'un descampat a la muntanya hi ha en James, en Rick. La Jess camina cap a ells.  
+AD-en	540115	542323	2208	Els tres miren el seu voltant.  
+AD-en	556420	558940	2520	Els tres miren confosos pel seu voltant.  
+AD-en	707443	709665	2222	Es miren entre ells.  
+AD-en	710684	712468	1784	Neguen amb el cap.  
+AD-en	738641	740913	2272	La Jess fa cara pensativa.  
+AD-en	747369	752102	4733	Els tres caminen junts parlant entre ells.  
+AD-en	755939	761493	5554	En el terrat d'una casa una dona de pell fosca parla per telèfon mentre estén la roba.  
+AD-en	765277	767795	2518	No, encara no l'he estès tota. M'he d'afanyar a acabar.  
+AD-en	771669	774447	2778	No, però de què hem parles? Sí, esclar, ja he fet les maletes.  
+AD-en	777039	779959	2920	Escolta, ara no puc parlar. T'he de deixar.  
+AD-en	780017	783104	3087	La dona es diu Zoe. Mira al seu voltant. És la següent.  
+AD-en	783848	788708	4860	Sobre fons blanc en lletres negres: Què passa mentre, seguit d'una línia.  

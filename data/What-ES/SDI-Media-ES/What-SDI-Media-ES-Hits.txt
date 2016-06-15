@@ -1,3 +1,4 @@
+
 AD-en	3370	9390	6020	Es un día nuboso en una playa. Una pareja pasea por la arena con su perro. Por la orilla pasa un hombre haciendo footing
 AD-en	10600	12200	1600	El perro se para a olisquear algo.
 AD-en	13630	16540	2910	En animal atiende al silbido del amo y prosigue su camino.

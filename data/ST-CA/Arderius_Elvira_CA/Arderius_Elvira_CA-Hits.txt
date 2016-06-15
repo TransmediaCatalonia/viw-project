@@ -1,3 +1,4 @@
+
 AD-en	2706	7803	5097	En un dia una mica ennuvolat, a la platja, un noi i una noia passegen un gos i un noi corre.
 AD-en	7982	12512	4530	El gos s'atura a ensumar el terra. El noi i la noia es creuen amb el corredor.
 AD-en	16769	18913	2144	Sobre un fons blanc, amb lletres negres:

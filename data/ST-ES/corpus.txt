@@ -1,457 +1,457 @@
-En una playa un hombre corre y una pareja pasea con su perro.	Castro_Aina_ES.eaf
-Un coche aparca delante de la playa.	Castro_Aina_ES.eaf
-El conductor es un hombre de unos treinta y tantos años que lleva un traje con corbata.  Se guarda el móvil en un bolsillo de la americana y saca unas gafas de sol del otro.  James, el empresario.	Castro_Aina_ES.eaf
-James va andando con una bolsa de playa de rayas al hombro y el teléfono a la oreja.	Castro_Aina_ES.eaf
-En la playa sobre la arena James se tumba en calzoncillos sobre la toalla.	Castro_Aina_ES.eaf
-Mira a los lados y revuelve sus cosas.	Castro_Aina_ES.eaf
-Se levanta y camina por la arena mirando hacia arriba.	Castro_Aina_ES.eaf
-Vuelve hacia sus cosas y sigue mirando a lo lejos.	Castro_Aina_ES.eaf
-Se viste.	Castro_Aina_ES.eaf
-Ahora vestido camina por un paseo con árboles.	Castro_Aina_ES.eaf
-En un camino de tierra rodeado de matorrales, James sube una cuesta.	Castro_Aina_ES.eaf
-Un hombre de unos sesenta años con el pelo y la barba canosos está sentado en un banco.	Castro_Aina_ES.eaf
-Lleva una camiseta sin mangas verde, bebe un café y mira los árboles.	Castro_Aina_ES.eaf
-Rick, el jubilado.	Castro_Aina_ES.eaf
-Inquieto, se bebe el café y mira la lejanía.	Castro_Aina_ES.eaf
-Deja el café en el banco de al lado. Saca el móvil y empieza a mirar sus contactos.	Castro_Aina_ES.eaf
-Llama a un amigo.	Castro_Aina_ES.eaf
-Frunce el ceño y mira a los lados.	Castro_Aina_ES.eaf
-Extrañado mira hacia arriba y a los lados.	Castro_Aina_ES.eaf
-Se va andando y deja el café.	Castro_Aina_ES.eaf
-Una chica de unos 18 años, con el pelo rizado, chaqueta y pañuelo.	Castro_Aina_ES.eaf
-Jess, la estudiante.	Castro_Aina_ES.eaf
-Mira a los lados sorprendida.	Castro_Aina_ES.eaf
-Fuera, con el abrigo puesto Jess va andando entre matorrales.	Castro_Aina_ES.eaf
-Llega a un campo donde están James y Rick.	Castro_Aina_ES.eaf
-Una voz salida de la nada habla.	Castro_Aina_ES.eaf
-Los tres miran hacia todos lados.	Castro_Aina_ES.eaf
-Se miran y niegan con la cabeza.	Castro_Aina_ES.eaf
-Rick se va con James.	Castro_Aina_ES.eaf
-Jess los sigue.	Castro_Aina_ES.eaf
-Una mujer negra tiende la ropa y habla por teléfono.	Castro_Aina_ES.eaf
-No, no he terminado de tenderla. Tengo que darme prisa.	Castro_Aina_ES.eaf
-No, ¿de qué me hablas? Sí, claro, las maletas están a punto…	Castro_Aina_ES.eaf
-Oye, ahora no puedo hablar. Tengo que dejarte.	Castro_Aina_ES.eaf
-Zoé, la próxima.	Castro_Aina_ES.eaf
-¿Qué pasa mientras…?	Castro_Aina_ES.eaf
-Al amanecer, en una playa, hay una pareja paseando con su perro y un hombre corriendo. El perro olisquea algo en la arena y después sigue a sus amos.	Fuente_Virginia_ES.eaf
-Un deportivo blanco aparca en la carretera al lado del paseo de la playa. Del coche se baja un hombre de mediana edad, trajeado y con maletín.	Fuente_Virginia_ES.eaf
-El hombre saca con cuidado unas gafas de sol, de estilo aviador, de un bolsillo de su americana.	Fuente_Virginia_ES.eaf
-Se pone las gafas y mira al frente.	Fuente_Virginia_ES.eaf
-Es James, el empresario.	Fuente_Virginia_ES.eaf
-James camina hacia la playa con una bolsa de tela a rayas echada al hombro.	Fuente_Virginia_ES.eaf
-En la playa, sobre la arena, hay una toalla y un revoltijo de ropa. James se tumba sobre la toalla bocarriba.	Fuente_Virginia_ES.eaf
-Se frota la cara con las manos y después acaricia la arena hundiendo las yemas de los dedos.	Fuente_Virginia_ES.eaf
-James, nervioso, mira extrañado hacia los lados.	Fuente_Virginia_ES.eaf
-Se levanta y camina hasta meter los pies en la orilla.	Fuente_Virginia_ES.eaf
-Después se aleja del agua sin rumbo, mirando hacia los lados.	Fuente_Virginia_ES.eaf
-Camina hacia atrás, girando sobre sí mismo y mirando hacia los lados como si buscase algo.	Fuente_Virginia_ES.eaf
-Vuelve a acercarse a la orilla y se adentra un poco en el agua.	Fuente_Virginia_ES.eaf
-James vuelve a alejarse de la marea buscando algo a su alrededor.	Fuente_Virginia_ES.eaf
-Llega hasta sus cosas y comienza a ponerse la camisa.	Fuente_Virginia_ES.eaf
-Más tarde, en una calle y rodeado de árboles, James camina a buen ritmo.	Fuente_Virginia_ES.eaf
-Pasado un rato, está subiendo por un monte polvoriento salpicado de arbustos.	Fuente_Virginia_ES.eaf
-En otro lugar, unas manos ajadas sostienen un café para llevar.	Fuente_Virginia_ES.eaf
-Un hombre no demasiado mayor, con ojeras, barba y pelo desaliñado, contempla distraído lo que tiene en frente	Fuente_Virginia_ES.eaf
-Toquetea la tapa del café, la quita y después de olerlo, lo mira con desgana y le pega un trago.	Fuente_Virginia_ES.eaf
-Es Rick, el jubilado.	Fuente_Virginia_ES.eaf
-Está sentado en el banco de un parque, solo. Viste un pantalón sencillo  y una camiseta de tirantes ajada. Rick contempla distraído el entorno mientras se termina su café y posa la taza  de cartón vacía en el banco de al lado.	Fuente_Virginia_ES.eaf
-Rick saca el móvil de un bolsillo del pantalón, abre la agenda de contactos y se pone a buscar a alguien. Selecciona el contacto que buscaba y llama.	Fuente_Virginia_ES.eaf
-Rick mira extrañado a su alrededor.	Fuente_Virginia_ES.eaf
-Vuelve a mirar a su alrededor buscando algo.	Fuente_Virginia_ES.eaf
-Rick se levanta y se aleja caminando distraído buscando algo y dejando atrás el café.	Fuente_Virginia_ES.eaf
-En otra parte, una adolescente pelirroja, con rizos, está concentrada mirando algo.	Fuente_Virginia_ES.eaf
-Es Jess, la estudiante.	Fuente_Virginia_ES.eaf
-Está sentada frente a un escritorio y busca algo entre sus papales.	Fuente_Virginia_ES.eaf
-Jess se pone el pelo detrás de la oreja y mira extrañada a su alrededor.	Fuente_Virginia_ES.eaf
-Se levanta y se va.	Fuente_Virginia_ES.eaf
-En una calle, junto a un muro de piedra, Jess camina en busca de algo.	Fuente_Virginia_ES.eaf
-Más tarde, sube una colina, caminado entre la hierba alta. Se detiene, mira atrás desconcertada y se va corriendo hacia arriba.	Fuente_Virginia_ES.eaf
-En un claro entre montañas, tres siluetas caminan al frente, como desconcertadas, en busca de algo bajo la cegadora luz del sol.	Fuente_Virginia_ES.eaf
-Rick, James y Jess se juntan en medio de la explanada, mirando a su alrededor.	Fuente_Virginia_ES.eaf
-Rick niega con la cabeza.	Fuente_Virginia_ES.eaf
-James se aleja hacia los árboles que bordean el claro, seguido de Rick.	Fuente_Virginia_ES.eaf
-Jess corre tras ellos. Los tres se pierden poco a poco en la distancia en dirección al bosque.	Fuente_Virginia_ES.eaf
-No, no he terminado de tenderla. Tengo que darme prisa.	Fuente_Virginia_ES.eaf
-No, ¿de qué me hablas? Sí, claro, las maletas están a punto....	Fuente_Virginia_ES.eaf
-Al anochecer, en una azotea, un mujer mira nerviosa a su alrededor.	Fuente_Virginia_ES.eaf
-Oye, ahora no puedo hablar. Tengo que dejarte.	Fuente_Virginia_ES.eaf
-Es Zoé, la próxima.	Fuente_Virginia_ES.eaf
-Sobre fondo blanco. ¿Qué pasa mientras...?	Fuente_Virginia_ES.eaf
-Dirigido por Núria Nia.	Fuente_Virginia_ES.eaf
-Director de fotografía, Albert Badia.	Fuente_Virginia_ES.eaf
-Diseño de sonido por Enrique G. Bermejo.	Fuente_Virginia_ES.eaf
-Maquilladora, Laia Teixidó.	Fuente_Virginia_ES.eaf
-Asistente de dirección, Marta Aguadé Forrelad.	Fuente_Virginia_ES.eaf
-Edición de Núria Nia.	Fuente_Virginia_ES.eaf
-Producido por: Transmedia Catalonia y La Panorámica.  	Fuente_Virginia_ES.eaf
-James Humber como James, Rick Zingale como Rick, Jessica Álvarez como Jess y Adeline Flaun como Zoé.	Fuente_Virginia_ES.eaf
-Idea original de: Marçal Font y Nuria Nia. Guion de Nuria Nia. Estudio de sonido, Kamikaze Estudi. Música: Time Doesn't wait de The IMG. Estudio de edición, LaPanorámica.cat.	Fuente_Virginia_ES.eaf
-Proyecto creado por Anna Matamala y financiado por el Ministerio de Economía y Competitividad.	Fuente_Virginia_ES.eaf
-	Fuente_Virginia_ES.eaf
-Sobre fondo blanco: ¡Disfrutad de vuestro tiempo!	Fuente_Virginia_ES.eaf
-De día, en el paseo marítimo de una playa, algunas personas pasean o hacen deporte. Junto a la playa hay una carretera.  	Garcia_Isabel_ES.eaf
-El cielo está algo nublado y gris.	Garcia_Isabel_ES.eaf
-Funde a blanco con la frase:	Garcia_Isabel_ES.eaf
-Un coche de alta gama aparca en la carretera junto a la playa.	Garcia_Isabel_ES.eaf
-Es un hombre trajeado de unos cuarenta años. Mira hacia la playa.	Garcia_Isabel_ES.eaf
-Se pone unas gafas de sol.	Garcia_Isabel_ES.eaf
-James, el empresario.	Garcia_Isabel_ES.eaf
-Camina con un bolso de playa y el móvil pegado a la oreja.	Garcia_Isabel_ES.eaf
-Después.	Garcia_Isabel_ES.eaf
-James, sin camiseta, se tumba en la arena bocarriba.	Garcia_Isabel_ES.eaf
-Se lleva las manos a la cara.	Garcia_Isabel_ES.eaf
-Con los ojos cerrados, hace surcos con los dedos en la arena.	Garcia_Isabel_ES.eaf
-Mira alrededor.	Garcia_Isabel_ES.eaf
-Frunce el ceño y mira de nuevo a su alrededor.	Garcia_Isabel_ES.eaf
-James, desconcertado, se levanta y anda unos pasos.	Garcia_Isabel_ES.eaf
-Camina despacio por la orilla.	Garcia_Isabel_ES.eaf
-Parece buscar con la vista y el oído de dónde proviene el sonido.	Garcia_Isabel_ES.eaf
-Ante el silencio, se detiene y se dispone a dar media vuelta. Pero se gira y mira de nuevo.	Garcia_Isabel_ES.eaf
-Regresa a por sus cosas. Camina rápido, sin dejar de mirar al frente, extrañado, con el ceño fruncido.	Garcia_Isabel_ES.eaf
-Se empieza a vestir.	Garcia_Isabel_ES.eaf
-No deja de mirar a todos lados.	Garcia_Isabel_ES.eaf
-Más tarde, ya vestido, James camina por un paseo con árboles con paso firme.	Garcia_Isabel_ES.eaf
-Sube por un sendero en una colina con vegetación, siguiendo el sonido.	Garcia_Isabel_ES.eaf
-En un parque, un hombre de unos sesenta años está sentado en un banco.	Garcia_Isabel_ES.eaf
-Tiene en las manos un vaso de café, al que da golpecitos. Observa los árboles.	Garcia_Isabel_ES.eaf
-Abre la tapa del café.	Garcia_Isabel_ES.eaf
-Se lo acerca a la boca.	Garcia_Isabel_ES.eaf
-Mira el café y bebe.	Garcia_Isabel_ES.eaf
-Rick, el jubilado.	Garcia_Isabel_ES.eaf
-Sentado en el banco, Rick mueve las piernas con nerviosismo mientras bebé el café.	Garcia_Isabel_ES.eaf
-Deja el café en el banco.	Garcia_Isabel_ES.eaf
-Da unas palmadas.	Garcia_Isabel_ES.eaf
-Se saca el móvil del bolsillo.	Garcia_Isabel_ES.eaf
-Ojea los contactos de la agenda.	Garcia_Isabel_ES.eaf
-No parece decidirse por ninguno.	Garcia_Isabel_ES.eaf
-Finalmente elige uno y llama.	Garcia_Isabel_ES.eaf
-Mira hacia arriba extrañado.	Garcia_Isabel_ES.eaf
-Vuelve a mirar hacia arriba.	Garcia_Isabel_ES.eaf
-Se aleja caminando rápido.	Garcia_Isabel_ES.eaf
-Mira para todos lados.	Garcia_Isabel_ES.eaf
-Se adentra en el parque.	Garcia_Isabel_ES.eaf
-En una biblioteca, una joven estudia.	Garcia_Isabel_ES.eaf
-Jess, la estudiante.	Garcia_Isabel_ES.eaf
-Busca el móvil bajo los apuntes.	Garcia_Isabel_ES.eaf
-Lo encuentra.	Garcia_Isabel_ES.eaf
-Mira extrañada.	Garcia_Isabel_ES.eaf
-Jess mira con asombro a derecha e izquierda, sin entender.	Garcia_Isabel_ES.eaf
-Más tarde en la calle.	Garcia_Isabel_ES.eaf
-Jess mira a derecha e izquierda, intentando localizar el origen del sonido.	Garcia_Isabel_ES.eaf
-Sube por una colina con vegetación frondosa.	Garcia_Isabel_ES.eaf
-Se detiene para escuchar.	Garcia_Isabel_ES.eaf
-Y sigue subiendo rápidamente.	Garcia_Isabel_ES.eaf
-Al final de la colina, Jess llega a una explanada donde están también James y Rick. El cielo está despejado.	Garcia_Isabel_ES.eaf
-Los tres se miran entre sí, asombrados, a la vez que miran a todos lados.	Garcia_Isabel_ES.eaf
-Miran al cielo. La voz parece provenir de ningún sitio y de todos lados.	Garcia_Isabel_ES.eaf
-Rick se lleva una mano a la cabeza.	Garcia_Isabel_ES.eaf
-Rick les mira serio.	Garcia_Isabel_ES.eaf
-Rick asiente.	Garcia_Isabel_ES.eaf
-Los tres se miran.	Garcia_Isabel_ES.eaf
-Se intercambian miradas. Rick se encoge de hombros y niega con la cabeza. Jess también.	Garcia_Isabel_ES.eaf
-Rick alza los brazos al cielo.	Garcia_Isabel_ES.eaf
-James sacude la cabeza.	Garcia_Isabel_ES.eaf
-Jess se encoge de hombros.	Garcia_Isabel_ES.eaf
-Asiente.	Garcia_Isabel_ES.eaf
-Los tres se alejan colina abajo, entre los árboles, hacia la playa.	Garcia_Isabel_ES.eaf
-Funde a negro.	Garcia_Isabel_ES.eaf
-En una azotea, una mujer tiende ropa.	Garcia_Isabel_ES.eaf
-No, no he terminado de tenderla. Tengo que darme prisa.	Garcia_Isabel_ES.eaf
-Mira al cielo.	Garcia_Isabel_ES.eaf
-No, ¿de qué hablas? Sí, las maletas están a punto.	Garcia_Isabel_ES.eaf
-Oye, ahora no puedo hablar. Tengo que dejarte.	Garcia_Isabel_ES.eaf
-Mira extrañada.	Garcia_Isabel_ES.eaf
-Zoé, la próxima.	Garcia_Isabel_ES.eaf
-Sobre fondo blanco, la frase Qué pasa mientras... seguida de una línea continua.	Garcia_Isabel_ES.eaf
-De día, en la playa, una pareja pasea a su perro mientras un corredor pasa por su lado.	Jimenez_Jose_ES.eaf
-Un lujoso coche blanco se detiene delante de la playa.	Jimenez_Jose_ES.eaf
-El conductor se apea.	Jimenez_Jose_ES.eaf
-Guarda un maletín en el maletero.	Jimenez_Jose_ES.eaf
-Saca unas gafas de sol y se las pone. Viste un traje gris y corbata.	Jimenez_Jose_ES.eaf
-James [Yéims], el empresario.	Jimenez_Jose_ES.eaf
-James, pelirrojo y de unos 40 años, pasea por la playa sujetando un móvil.	Jimenez_Jose_ES.eaf
-Ahora en bañador, James se tumba en una toalla y cierra los ojos.	Jimenez_Jose_ES.eaf
-Se frota los ojos con ambas manos, las estira y coge un poco de arena para luego dejarla caer entre sus dedos.	Jimenez_Jose_ES.eaf
-Mira a ambos lados.	Jimenez_Jose_ES.eaf
-Busca algo en su ropa.	Jimenez_Jose_ES.eaf
-James se levanta.	Jimenez_Jose_ES.eaf
-Camina por la playa en bañador mirando a su alrededor con gesto extrañado.	Jimenez_Jose_ES.eaf
-Sigue caminando sin rumbo fijo.	Jimenez_Jose_ES.eaf
-Se detiene y se dirige a donde está su toalla.	Jimenez_Jose_ES.eaf
-Vuelve a girar la vista extrañado y sigue caminando sin dejar de mirar a su alrededor.	Jimenez_Jose_ES.eaf
-Coge su ropa y comienza a vestirse.	Jimenez_Jose_ES.eaf
-Ya vestido con su traje de oficina, camina con paso firme y comienza a subir por una pequeña montaña llena de arbustos y matorrales.	Jimenez_Jose_ES.eaf
-En un parque, un hombre de unos 60 años descansa sentado en un banco.	Jimenez_Jose_ES.eaf
-De canoso pelo largo y una barba descuidada, observa con la mirada perdida.	Jimenez_Jose_ES.eaf
-Destapa el café que sujeta con una mano y le da un sorbo con desgana.	Jimenez_Jose_ES.eaf
-Rick [Ríc], el jubilado.	Jimenez_Jose_ES.eaf
-Ric da otro sorbo al café y lo deja en el banco de al lado.	Jimenez_Jose_ES.eaf
-Saca su teléfono móvil y busca entre los contactos.	Jimenez_Jose_ES.eaf
-Selecciona uno y llama.	Jimenez_Jose_ES.eaf
-Rick alza la mirada extrañado.	Jimenez_Jose_ES.eaf
-Vuelve a alzar la vista lentamente.	Jimenez_Jose_ES.eaf
-Se levanta, y sin coger su café, empieza a caminar mirando a su alrededor una y otra vez.	Jimenez_Jose_ES.eaf
-En su habitación una joven de melena pelirroja. 	Jimenez_Jose_ES.eaf
-Jess [Yés], la estudiante.	Jimenez_Jose_ES.eaf
-Jess busca su móvil entre una montaña de libros y apuntes.	Jimenez_Jose_ES.eaf
-Busca entre los papeles.	Jimenez_Jose_ES.eaf
-Jess mira a su alrededor con gesto confuso.	Jimenez_Jose_ES.eaf
-Sale a la calle y empieza a caminar.	Jimenez_Jose_ES.eaf
-Sube por una pequeña montaña llena de arbutos y matorrales.	Jimenez_Jose_ES.eaf
-En un descampado rodeado por montañas, Jess se acerca a James y Rick, quienes están de pie sin hacer nada.	Jimenez_Jose_ES.eaf
-Los tres no paran de mirar al cielo y a su alrededor.	Jimenez_Jose_ES.eaf
-Rick tiene los ojos llorosos.	Jimenez_Jose_ES.eaf
-James asiente con gesto irónico.	Jimenez_Jose_ES.eaf
-Rick niega con la cabeza.	Jimenez_Jose_ES.eaf
-Rick sigue a James.	Jimenez_Jose_ES.eaf
-Jess corre tras ellos y los tres juntos siguen caminando.	Jimenez_Jose_ES.eaf
-En una terraza, una mujer francesa de piel morena se queja por teléfono de lo ajetreada que está.	Jimenez_Jose_ES.eaf
-Mira a su alrededor extrañada.	Jimenez_Jose_ES.eaf
-Zoé [Zóe], la próxima.	Jimenez_Jose_ES.eaf
-¿Qué pasa mientras...?	Jimenez_Jose_ES.eaf
-El paisaje de una playa. El cielo está parcialmente nublado y teñido de un color rosado. De forma paralela al mar. una pareja pasea por la arena con su perro. En el sentido contrario al suyo un hombre hace footing.  	Marco_Carmes_ES.eaf
-Un coche deportivo blanco se acerca a la playa.  	Marco_Carmes_ES.eaf
-Es un hombre de unos cuarenta. pelirrojo. con barba y tez clara. Viste con traje y corbata. Saca del bolsillo de la chaqueta unas gafas de estilo aviador y se las pone.	Marco_Carmes_ES.eaf
-Se trata de James. el empresario.	Marco_Carmes_ES.eaf
-Camina por una zona arenosa con el móvil en la mano y un bolso playero.	Marco_Carmes_ES.eaf
-Ya no lleva traje. Se tumba sobre una toalla en la arena y suelta el móvil.	Marco_Carmes_ES.eaf
-Esta acostado boca arriba y con los ojos entornados. Se frota los ojos con las manos. estira los brazos en la arena y la acaricia suavemente con la mano izquierda.	Marco_Carmes_ES.eaf
-Se incorpora.	Marco_Carmes_ES.eaf
-Deja el teléfono y se levanta. Lleva solo los calzoncillos y deja las demás pertenencias en la arena. Está desorientado y camina con lentitud. Se acerca a la orilla del mar y segundos más tarde se aleja. Para sutilmente. observando el paisaje que le rodea y mirando hacia arriba.	Marco_Carmes_ES.eaf
-Pasea sin rumbo de un lado a otro y curiosea cuanto hay a su alrededor. Se desplaza torpemente. avanzando y retrocediendo sin decisión. Finalmente retoma el camino hacia el lugar donde dejó todas sus cosas.	Marco_Carmes_ES.eaf
-Sigue mirando a los lados. desconcertado. Recoge su ropa y se pone la camisa.	Marco_Carmes_ES.eaf
-James avanza entre un camino con árboles a los lados. Está vestido y con la camisa desabrochada. Llega a un montículo repleto de arbustos y hierbajos y lo sube por un camino de tierra.	Marco_Carmes_ES.eaf
-Una taza de café para llevar.	Marco_Carmes_ES.eaf
-La sujeta un señor de unos setenta años. Tiene el pelo largo y canoso a juego con una barba espesa.	Marco_Carmes_ES.eaf
-Recorre la tapa de café haciendo círculos.	Marco_Carmes_ES.eaf
-Lo destapa y sitúa el vaso cerca de sus labios. Inseguro. da un trago a la bebida.	Marco_Carmes_ES.eaf
-Él es Rick. el jubilado.	Marco_Carmes_ES.eaf
-A la sombra de una arboleda. hay tres bancos individuales. Rick está sentado en el de en medio. Deja la tapa de plástico en el banco a su izquierda. Mueve la pierna derecha con nerviosismo y deja el vaso junto a la tapa.	Marco_Carmes_ES.eaf
-Rick saca el móvil. Retira la funda y selecciona la pestaña de contactos en la pantalla táctil. Recorre con el dedo la agenda y pulsa el botón verde de llamada.	Marco_Carmes_ES.eaf
-Extrañado. eleva la vista.	Marco_Carmes_ES.eaf
-Algo capta su atención.	Marco_Carmes_ES.eaf
-Se levanta y abandona la taza de café en el asiento. Tambaleándose y echando un vistazo al cielo. se retira del banco en el que estaba. Se aleja caminando por un sendero.	Marco_Carmes_ES.eaf
-Una joven de unos veinte años está sentada en su escritorio.	Marco_Carmes_ES.eaf
-Es Jess. la estudiante.	Marco_Carmes_ES.eaf
-Busca entre los papeles.	Marco_Carmes_ES.eaf
-Se toca el cabello que es pelirrojo y muy rizado. Alza la vista. Mira hacia ambos lados de la habitación. como si estuviera buscando algo.	Marco_Carmes_ES.eaf
-Jess se levanta. coge su abrigo y sale a la calle. Se marcha con desconfianza y llega a una senda repleta de vegetación. Al principio. avanza por el camino con paso lentos. Se para un instante, estudia el entorno y continúa decidida.	Marco_Carmes_ES.eaf
-En una llanura rodeada por árboles. se encuentran James. Rick y Jess. Todos están absortos y giran sobre sí mismos mientras observan el cielo.	Marco_Carmes_ES.eaf
-Contemplan el cielo y se cubren los ojos para no deslumbrarse con el sol.	Marco_Carmes_ES.eaf
-Rick se emociona.	Marco_Carmes_ES.eaf
-Se miran tratando de buscar una respuesta. Rick y Jess niegan con la cabeza.	Marco_Carmes_ES.eaf
-El cielo está despejado y brilla el sol. Jess corretea tras James y Rick. Los alcanza y se marchan juntos del lugar.	Marco_Carmes_ES.eaf
-Una señora de unos treinta años tiende ropa y habla por teléfono.	Marco_Carmes_ES.eaf
-No he terminado de tender. tengo que darme prisa.	Marco_Carmes_ES.eaf
-No. ¿de qué hablas? Claro. las maletas están a punto.	Marco_Carmes_ES.eaf
-Eleva la vista.	Marco_Carmes_ES.eaf
-Oye. no puedo hablar. tengo que dejarte.	Marco_Carmes_ES.eaf
-Mira al horizonte con expresión de incertidumbre. Ella es Zoé... la próxima.	Marco_Carmes_ES.eaf
-Qué pasa mientras...	Marco_Carmes_ES.eaf
-A pleno día, por una playa algo nublada, pasean varias personas. Un hombre hace jogging y un perro olfatea la arena.	MartindelRio_Barbara_ES.eaf
-Un coche blanco aparca frente a la arena. Dentro, un hombre discute por el móvil.	MartindelRio_Barbara_ES.eaf
-El hombre ha salido del coche, ha sacado una bolsa del maletero y ha metido un maletín en él. Tiene unos 35 años. lleva traje y corbata. es rubio y tiene barba. Se pone unas gafas de sol.	MartindelRio_Barbara_ES.eaf
-James, el empresario.	MartindelRio_Barbara_ES.eaf
-Marca un teléfono en su móvil mientras camina por la playa con la bolsa al hombro.	MartindelRio_Barbara_ES.eaf
-Vestido únicamente con la ropa interior, James se tumba boca arriba en una toalla extendida sobre la arena.	MartindelRio_Barbara_ES.eaf
-Extiende los brazos y juega con la arena entre sus dedos.	MartindelRio_Barbara_ES.eaf
-Mira a ambos lados, confuso.	MartindelRio_Barbara_ES.eaf
-Deja el móvil en el suelo, se levanta de la toalla y empieza a caminar junto al agua, mirando a su alrededor en busca de la prodecencia del sonido.	MartindelRio_Barbara_ES.eaf
-Se detiene y se dispone a volver a la toalla.	MartindelRio_Barbara_ES.eaf
-Vuelve a mirar en todas direcciones.	MartindelRio_Barbara_ES.eaf
-Vuelve junto a la toalla para recoger su ropa y empieza a vestirse.	MartindelRio_Barbara_ES.eaf
-Camina por una acera rodeada de árboles con expresión seria.	MartindelRio_Barbara_ES.eaf
-Sube por un monte lleno de arbustos y matorrales.	MartindelRio_Barbara_ES.eaf
-Unas manos sujetan un vaso desechable de café. Son de un hombre de unos 60 años con una media melena alborotada y barba canosa. Tiene	MartindelRio_Barbara_ES.eaf
-Juguetea con la tapa del café.	MartindelRio_Barbara_ES.eaf
-Abre la tapa y da un sorbo.	MartindelRio_Barbara_ES.eaf
-Rick, el jubilado.	MartindelRio_Barbara_ES.eaf
-Rick lleva un chándal y una camiseta de tirantes. Está sentado en el banco de un parque. Sigue bebiendo su café con una expresión seria y de aburrimiento.	MartindelRio_Barbara_ES.eaf
-Deja el vaso en el banco de al lado.	MartindelRio_Barbara_ES.eaf
-Saca un móvil del bolsillo trasero del pantalón. Busca en su lista de contactos hasta encontrar el número de Craig Anderson.	MartindelRio_Barbara_ES.eaf
-Mira a su alrededor desconcertado.	MartindelRio_Barbara_ES.eaf
-Dejando atrás su vaso de café, se adentra por un sendero del parque, mirando en todas direcciones.	MartindelRio_Barbara_ES.eaf
-Una chica mira la pantalla de su ordenador.	MartindelRio_Barbara_ES.eaf
-Jess, la estudiante.	MartindelRio_Barbara_ES.eaf
-Rebusca entre sus apuntes.	MartindelRio_Barbara_ES.eaf
-Tiene unos 18 años, pelo rizado y cobrizo. Viste una chaqueta de lana blanca y un pañuelo. Mira confusa a su alrededor.	MartindelRio_Barbara_ES.eaf
-Con un abrigo color caqui sale a la calle y sube por un monte cubierto de hierbas altas.	MartindelRio_Barbara_ES.eaf
-Jess se encuentra con James y Rick en un claro y se acerca a ellos. Los tres siguen buscando con la mirada en todas direcciones.	MartindelRio_Barbara_ES.eaf
-Permanecen quietos, desconcertados.	MartindelRio_Barbara_ES.eaf
-James mira a Rick, quien se encoje de hombros y niega con la cabeza, al igual que Jess.	MartindelRio_Barbara_ES.eaf
-Rick sigue a James hacia los árboles. Jess hace un gesto de indiferencia.	MartindelRio_Barbara_ES.eaf
-Va corriendo hacia los dos hombres y se coloca entre ellos. Ambos le dan una palmada en la espalda mientras se alejan.	MartindelRio_Barbara_ES.eaf
-Una mujer negra de unos 30 años tiende la ropa en una azotea.	MartindelRio_Barbara_ES.eaf
-No, no he terminado de tenderla. Tengo que darme prisa.	MartindelRio_Barbara_ES.eaf
-No, ¿de qué me hablas? Sí, claro, las maletas están a punto.	MartindelRio_Barbara_ES.eaf
-Oye, ahora no puedo hablar. Tengo que dejarte.	MartindelRio_Barbara_ES.eaf
-Zoé, la próxima.	MartindelRio_Barbara_ES.eaf
-¿Qué pasa mientras...?	MartindelRio_Barbara_ES.eaf
-En una playa, en un día de grandes nubes grises, una mujer y un hombre pasean un gran perro marrón. Se cruzan con un hombre que va trotando en dirección opuesta. Visten todos ropa oscura, de manga larga. Junto a la playa, hay una calle asfaltada. 	Mateo_Antonio_ES.eaf
-Un coche blanco de alta gama aparca junto a la acera. El conductor, un hombre pelirrojo de unos cuarenta y cinco años, habla por teléfono.	Mateo_Antonio_ES.eaf
-Saca una bolsa del maletero.	Mateo_Antonio_ES.eaf
-Se queda mirando hacia el mar, pensativo.	Mateo_Antonio_ES.eaf
-Se pone unas gafas de sol. Va vestido con traje de chaqueta y corbata. Es James, el empresario.	Mateo_Antonio_ES.eaf
-Con una bolsa de playa al hombro, anda por un camino de tierra junto al mar mientras mira el móvil.	Mateo_Antonio_ES.eaf
-En la playa, James se ha quitado el traje y se deja caer bocarriba sobre una toalla amarilla.	Mateo_Antonio_ES.eaf
-Se frota levemente los ojos y estira los brazos hacia los lados para tocar la arena con los dedos.	Mateo_Antonio_ES.eaf
-Con un gesto de resignación, se incorpora.	Mateo_Antonio_ES.eaf
-Mira a los lados.	Mateo_Antonio_ES.eaf
-Mira hacia los lados con desconcierto. 	Mateo_Antonio_ES.eaf
-Se levanta y se dirige al mar. Solo lleva puestos unos boxers negros.  Mientras camina hacia el agua, algo le hace detenerse y darse la vuelta.	Mateo_Antonio_ES.eaf
-Se queda quieto en mitad de la arena y dirige la mirada hacia lo lejos, en dirección opuesta al mar. Vuelve a andar hacia el agua y se detiene de nuevo buscando con la mirada.	Mateo_Antonio_ES.eaf
-Tras titubear unos instantes acercándose y alejándose del agua, sin dejar de buscar con la mirada, se dirige a la toalla.	Mateo_Antonio_ES.eaf
-Coge la camisa y empieza a vestirse con expresión de desconcierto.	Mateo_Antonio_ES.eaf
-En una calle arbolada, ya vestido con el mismo traje pero sin corbata, James camina.	Mateo_Antonio_ES.eaf
-En un cerro repleto de arbustos, James avanza hacia la cima por un estrecho sendero.	Mateo_Antonio_ES.eaf
-En un parque, un hombre de unos cincuenta años, con barba y pelo largo, toquetea un vaso de cartón. Lleva una camiseta verde de tirantes y una cadena en el cuello. Mira hacia arriba y sonríe.	Mateo_Antonio_ES.eaf
-Pensativo, mira el vaso.	Mateo_Antonio_ES.eaf
-Le quita la tapa, se lo acerca a la boca y mira el café. Mientras mira pensativo hacia el frente, bebe un trago. 	Mateo_Antonio_ES.eaf
-Se trata de Rick, el jubilado.	Mateo_Antonio_ES.eaf
-La pierna derecha de Rick tiembla con nerviosismo mientras él apura los últimos tragos de café. 	Mateo_Antonio_ES.eaf
-Tras beber el último sorbo, deja el vaso de cartón en el banco contiguo. Da unas palmadas y se frota las manos pensativo. Se saca el móvil del bolsillo trasero del pantalón y busca a alguien en su lista de contactos.	Mateo_Antonio_ES.eaf
-Mira a su alrededor con desconcierto.	Mateo_Antonio_ES.eaf
-Vuelve a mirar a su alrededor.	Mateo_Antonio_ES.eaf
-Se marcha dejando atrás el vaso de cartón vacío. Mientras se aleja, guardándose el teléfono en el bolsillo, va dando vueltas y mirando hacia todas partes.	Mateo_Antonio_ES.eaf
-En una habitación, una joven de unos 25 años, pelirroja y con el pelo rizado, mordisquea nerviosa un bolígrafo frente al ordenador. Es Jess, la estudiante.	Mateo_Antonio_ES.eaf
-Jess rebusca entre los objetos del escritorio hasta que encuentra el móvil.	Mateo_Antonio_ES.eaf
-Sin moverse de su asiento, Jess busca por toda la habitación el origen del sonido y, al no encontrarlo, vuelve la vista a sus apuntes.	Mateo_Antonio_ES.eaf
-Sobresaltada, vuelve a mirar a los lados. 	Mateo_Antonio_ES.eaf
-Se levanta y sale a la calle. Vestida con un abrigo y una bufanda, camina a paso ligero buscando constantemente. Se adentra entre los matorrales del cerro al que James ha ascendido antes. Antes de seguir subiendo, se detiene un momento para mirar atrás.	Mateo_Antonio_ES.eaf
-Se pierde entre las plantas para seguir avanzando. En una explanada de tierra blanca, de pie, a un par de metros el uno del otro, se encuentran James y Rick, que siguen buscando con la mirada. Jess se acerca lentamente a ellos.	Mateo_Antonio_ES.eaf
-Los tres buscan con la mirada la procedencia de la voz.	Mateo_Antonio_ES.eaf
-Rick y Jessica se miran negando con la cabeza.	Mateo_Antonio_ES.eaf
-Rick se va detrás de James. Jessica mira al vacío, pensativa.	Mateo_Antonio_ES.eaf
-Echa a correr detrás de ellos. Cuando los alcanza, los tres se tocan amistosamente mientras se alejan hacia los árboles que hay al final de la explanada. 	Mateo_Antonio_ES.eaf
-Una mujer negra, de unos 40 años, tiende la ropa agobiada mientras habla por teléfono. "No he terminado. Debo darme prisa".	Mateo_Antonio_ES.eaf
-"¿Pero qué dices? ¡Claro que he hecho las maletas!" 	Mateo_Antonio_ES.eaf
-el origen del sonido. "Oye, no puedo hablar ahora. Tengo que colgar".	Mateo_Antonio_ES.eaf
-Mira hacia lo lejos con desconcierto. Es Zoé, la próxima.	Mateo_Antonio_ES.eaf
-Es un día nublado. En la playa, una pareja pasea a un perro y un hombre hace footing.	Palacios_Raquel_ES.eaf
-Es un hombre de unos 40 años.  Tiene pelo y barba castaños y viste de traje.	Palacios_Raquel_ES.eaf
-Saca unas gafas de sol de un bolsillo y se las pone.	Palacios_Raquel_ES.eaf
-Es James, el empresario.	Palacios_Raquel_ES.eaf
-James, en bañador, extiende una toalla en la arena y se tumba.	Palacios_Raquel_ES.eaf
-Se frota los ojos.	Palacios_Raquel_ES.eaf
-Luego extiende los brazos y acaricia la arena.	Palacios_Raquel_ES.eaf
-James busca entre sus cosas.	Palacios_Raquel_ES.eaf
-Se levanta y y se acerca a la orilla del mar.	Palacios_Raquel_ES.eaf
-Luego camina por la playa en busca del origen del pitido.	Palacios_Raquel_ES.eaf
-Se queda quieto un instante.	Palacios_Raquel_ES.eaf
-Camina hacia el lado contrario mientras escruta los alrededores.	Palacios_Raquel_ES.eaf
-Vuelve a la toalla con los ojos entornados y el ceño fruncido.	Palacios_Raquel_ES.eaf
-Recoge su camisa y se la pone.	Palacios_Raquel_ES.eaf
-Poco después camina por la calle, otra vez vestido con el traje.	Palacios_Raquel_ES.eaf
-Asciende por una ladera de tierra sembrada de arbustos.	Palacios_Raquel_ES.eaf
-Sentado en una silla hay un hombre de unos 50 años.  Tiene el pelo gris y revuelto y una barba descuidada.	Palacios_Raquel_ES.eaf
-Tiene un vaso en las manos y quita la tapa de plástico.	Palacios_Raquel_ES.eaf
-Bebe un trago de café.	Palacios_Raquel_ES.eaf
-Es Rick, el jubilado.	Palacios_Raquel_ES.eaf
-Está en un parque. Deja la tapa en la silla de al lado y toma otro trago.	Palacios_Raquel_ES.eaf
-Mueve una pierna con un tic nervioso y deja el vaso.	Palacios_Raquel_ES.eaf
-Saca el móvil del bolsillo, elige un contacto de la lista y llama.	Palacios_Raquel_ES.eaf
-Frunce el ceño y levanta la cabeza.  	Palacios_Raquel_ES.eaf
-Rick se aleja mientras intenta localizar la procedencia del pitido.  El vaso de café queda abandonado en la silla.	Palacios_Raquel_ES.eaf
-Jess, la estudiante, es una adolescente de rizos pelirrojos.	Palacios_Raquel_ES.eaf
-Jess pasea la mirada por la habitación.	Palacios_Raquel_ES.eaf
-Se pone el abrigo y sale a la calle.	Palacios_Raquel_ES.eaf
-Sube un camino cubierto de maleza y se pierde en la espesura.	Palacios_Raquel_ES.eaf
-Llega a una gran explanada de arena donde se encuentran James y Rick.	Palacios_Raquel_ES.eaf
-Los tres dan pasos vacilantes y dirigen la vista al cielo.	Palacios_Raquel_ES.eaf
-Todos examinan la explanada, pero no localizan la fuente de la voz.	Palacios_Raquel_ES.eaf
-Los tres niegan con la cabeza.	Palacios_Raquel_ES.eaf
-Jess corre tras ellos hasta alcanzarlos y se marchan juntos.	Palacios_Raquel_ES.eaf
-No, no he terminado de tenderla. Tengo que darme prisa.	Palacios_Raquel_ES.eaf
-No, ¿de qué me hablas? Sí, claro, las maletas están a punto.	Palacios_Raquel_ES.eaf
-Oye, ahora no puedo hablar. Tengo que dejarte.	Palacios_Raquel_ES.eaf
-Zoé. La próxima.	Palacios_Raquel_ES.eaf
-De día, en un paseo al lado de la playa, una pareja camina con su perro y un hombre corre por la arena.  	Roldan_Marina_ES.eaf
-Sobre fondo blanco en letras negras y en inglés:	Roldan_Marina_ES.eaf
-Un hombre en un deportivo blanco se detiene junto a la acera del paseo. El hombre, de unos 40 años, pelo corto y barba baja del coche mientras habla por teléfono.	Roldan_Marina_ES.eaf
-Tras guardar un maletín en el maletero y coger una bolsa de playa, el hombre, vestido de traje y corbata, se pone unas gafas de sol.	Roldan_Marina_ES.eaf
-Escrito en pantalla en letras blancas:	Roldan_Marina_ES.eaf
-James, el empresario.	Roldan_Marina_ES.eaf
-Camina por la arena y utiliza el móvil.	Roldan_Marina_ES.eaf
-Ahora, en ropa interior, se tumba en la arena sobre una toalla.	Roldan_Marina_ES.eaf
-Con los ojos cerrados y algo más relajado, James juguetea con la arena en las manos.	Roldan_Marina_ES.eaf
-Se incorpora.	Roldan_Marina_ES.eaf
-Mira a su alrededor.	Roldan_Marina_ES.eaf
-Rebusca entre sus cosas desconcertado.	Roldan_Marina_ES.eaf
-James se pone de pie y camina por la playa a paso lento.	Roldan_Marina_ES.eaf
-Mira extrañado hacia todos lados mientras deambula por la arena.	Roldan_Marina_ES.eaf
-Se detiene.	Roldan_Marina_ES.eaf
-Mira hacia atrás y se acerca a la orilla.	Roldan_Marina_ES.eaf
-Camina hacia la toalla mientras mira hacia arriba.	Roldan_Marina_ES.eaf
-Se viste sin dejar de prestar atención a su alrededor.	Roldan_Marina_ES.eaf
-Vestido de nuevo, James camina por la calle.	Roldan_Marina_ES.eaf
-Ahora camina por una ladera llena de arbustos y matorrales.	Roldan_Marina_ES.eaf
-En un parque, a la sombra de los árboles, un hombre de aspecto descuidado está sentado en un banco pensativo.	Roldan_Marina_ES.eaf
-Sonríe.	Roldan_Marina_ES.eaf
-El hombre, de unos 65 años, pelo largo y canoso y barba, abre la tapa del café que sostiene.	Roldan_Marina_ES.eaf
-Le da un sorbo.	Roldan_Marina_ES.eaf
-Escrito en pantalla en letras blancas: Rick, el jubilado.	Roldan_Marina_ES.eaf
-Algo nervioso, Rick le da otro sorbo al café.	Roldan_Marina_ES.eaf
-Contempla los árboles que le rodean.	Roldan_Marina_ES.eaf
-Deja el café en el banco de al lado y saca el móvil del bolsillo trasero del pantalón.	Roldan_Marina_ES.eaf
-Busca entre sus contactos y llama a Craig Anderson	Roldan_Marina_ES.eaf
-Frunce el ceño y mira a su alrededor.	Roldan_Marina_ES.eaf
-Observa perplejo el entorno.	Roldan_Marina_ES.eaf
-Se levanta y camina escudriñando el parque.	Roldan_Marina_ES.eaf
-En una vivienda, una chica de unos 18 años estudia delante del ordenador.	Roldan_Marina_ES.eaf
-Escrito en pantalla en letras blancas: Jess, la estudiante.	Roldan_Marina_ES.eaf
-Jess, de pelo largo y rizado, rebusca por la mesa.	Roldan_Marina_ES.eaf
-Con gesto serio, mira por la habitación.	Roldan_Marina_ES.eaf
-Jess se levanta.	Roldan_Marina_ES.eaf
-Fuera de la vivienda, Jess, con una chaqueta y un pañuelo alrededor del cuello, camina por el campo.	Roldan_Marina_ES.eaf
-Mira a su alrededor constantemente.	Roldan_Marina_ES.eaf
-Se detiene, mira hacia atrás y continúa.	Roldan_Marina_ES.eaf
-La joven llega a una planicie iluminada por el sol donde también se encuentran James y Rick.	Roldan_Marina_ES.eaf
-Se acerca a ellos en silencio.	Roldan_Marina_ES.eaf
-Los tres examinan el entorno perplejos.	Roldan_Marina_ES.eaf
-Rick y Jessica niegan con la cabeza.	Roldan_Marina_ES.eaf
-Rick va tras James.	Roldan_Marina_ES.eaf
-Jessica se queda pensativa.	Roldan_Marina_ES.eaf
-Los tres abandonan la planicie.	Roldan_Marina_ES.eaf
-En una azotea, una mujer negra de unos 35 años y media melena tiende la ropa mientras habla por teléfono.	Roldan_Marina_ES.eaf
-(Audiosubtítulos): No he terminado de tenderla.	Roldan_Marina_ES.eaf
-	Roldan_Marina_ES.eaf
-(Audiosubtítulos): No, ¿de qué me hablas?	Roldan_Marina_ES.eaf
-	Roldan_Marina_ES.eaf
-(Audiosubtítulos): Oye, ahora no puedo hablar.	Roldan_Marina_ES.eaf
-	Roldan_Marina_ES.eaf
-Escrito en pantalla en letras blancas: Zoé, la próxima.	Roldan_Marina_ES.eaf
-Sobre fondo blanco en letras negras y en inglés: Qué pasa mientras...	Roldan_Marina_ES.eaf
-En el paseo de la playa.	Rubio_Jennifer_ES.eaf
-Sobre fondo blanco, en letras negras:	Rubio_Jennifer_ES.eaf
-En el paseo aparca un coche de alta gama conducido por un ejecutivo con traje que habla por el móvil.	Rubio_Jennifer_ES.eaf
-El ejecutivo, de unos 40 años, cambia el maletín por una bolsa de playa.	Rubio_Jennifer_ES.eaf
-En letras blancas: James, el empresario.	Rubio_Jennifer_ES.eaf
-Llama por el móvil mientras camina por el paseo de la playa.	Rubio_Jennifer_ES.eaf
-Se queda en calzoncillos y se tumba en la arena.	Rubio_Jennifer_ES.eaf
-Relajado, juega con la arena entre sus dedos.	Rubio_Jennifer_ES.eaf
-Se levanta y busca el ruido extraño.	Rubio_Jennifer_ES.eaf
-Se mueve de un lado a otro desconcertado.	Rubio_Jennifer_ES.eaf
-Se viste para seguir el rastro del ruido fuera de la playa.	Rubio_Jennifer_ES.eaf
-Sube un pequeño monte.	Rubio_Jennifer_ES.eaf
-En un parque, unas manos sostienen un café para llevar. Un hombre de unos 55 años, desdeñado, está sentado en un banco. Mira al horizonte y sonríe. Hace un gesto de resignación.	Rubio_Jennifer_ES.eaf
-Bebe del café.	Rubio_Jennifer_ES.eaf
-En letras blancas: Rick, el jubilado.	Rubio_Jennifer_ES.eaf
-Mueve la pierna y da unas palmadas nervioso.	Rubio_Jennifer_ES.eaf
-Coge el móvil y hace una llamada.	Rubio_Jennifer_ES.eaf
-Mira extrañado y se levanta para buscar el ruido. Se aleja y se deja el café en el banco.	Rubio_Jennifer_ES.eaf
-En una habitación está sentada una chica de unos 18 años.	Rubio_Jennifer_ES.eaf
-En letras blancas, Jess, la estudiante. No encuentra el móvil entre el desorden.	Rubio_Jennifer_ES.eaf
-Jess mira a todos lados buscando el ruido.	Rubio_Jennifer_ES.eaf
-Sale de su casa en busca del ruido y sube un pequeño monte.	Rubio_Jennifer_ES.eaf
-Allí están James y Rick mirando a todos lados.	Rubio_Jennifer_ES.eaf
-Una voz desconocida les habla.	Rubio_Jennifer_ES.eaf
-Se miran los unos a los otros.	Rubio_Jennifer_ES.eaf
-Jess, extrañada, sonríe.	Rubio_Jennifer_ES.eaf
-Se alejan juntos.	Rubio_Jennifer_ES.eaf
-En la azotea de un edificio, una mujer de unos 35 años habla por el móvil mientras tiende la ropa.	Rubio_Jennifer_ES.eaf
-No, no he terminado de tender. Tengo que darme prisa.	Rubio_Jennifer_ES.eaf
-No, ¿de qué me hablas? Si, las maletas están hechas...	Rubio_Jennifer_ES.eaf
-Oye, ahora no puedo hablar. Tengo que colgar.	Rubio_Jennifer_ES.eaf
-El letras blancas: Zoé, la próxima.	Rubio_Jennifer_ES.eaf
-Sobre fondo blanco, en letras negras: ¿qué pasa mientras...?	Rubio_Jennifer_ES.eaf
+En una playa un hombre corre y una pareja pasea con su perro.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Un coche aparca delante de la playa.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+El conductor es un hombre de unos treinta y tantos años que lleva un traje con corbata.  Se guarda el móvil en un bolsillo de la americana y saca unas gafas de sol del otro.  James, el empresario.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+James va andando con una bolsa de playa de rayas al hombro y el teléfono a la oreja.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+En la playa sobre la arena James se tumba en calzoncillos sobre la toalla.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Mira a los lados y revuelve sus cosas.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Se levanta y camina por la arena mirando hacia arriba.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Vuelve hacia sus cosas y sigue mirando a lo lejos.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Se viste.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Ahora vestido camina por un paseo con árboles.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+En un camino de tierra rodeado de matorrales, James sube una cuesta.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Un hombre de unos sesenta años con el pelo y la barba canosos está sentado en un banco.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Lleva una camiseta sin mangas verde, bebe un café y mira los árboles.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Rick, el jubilado.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Inquieto, se bebe el café y mira la lejanía.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Deja el café en el banco de al lado. Saca el móvil y empieza a mirar sus contactos.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Llama a un amigo.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Frunce el ceño y mira a los lados.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Extrañado mira hacia arriba y a los lados.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Se va andando y deja el café.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Una chica de unos 18 años, con el pelo rizado, chaqueta y pañuelo.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Jess, la estudiante.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Mira a los lados sorprendida.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Fuera, con el abrigo puesto Jess va andando entre matorrales.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Llega a un campo donde están James y Rick.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Una voz salida de la nada habla.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Los tres miran hacia todos lados.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Se miran y niegan con la cabeza.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Rick se va con James.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Jess los sigue.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Una mujer negra tiende la ropa y habla por teléfono.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+No, no he terminado de tenderla. Tengo que darme prisa.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+No, ¿de qué me hablas? Sí, claro, las maletas están a punto…	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Oye, ahora no puedo hablar. Tengo que dejarte.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Zoé, la próxima.	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+¿Qué pasa mientras…?	ST-ES/Castro_Aina_ES/Castro_Aina_ES.eaf
+Al amanecer, en una playa, hay una pareja paseando con su perro y un hombre corriendo. El perro olisquea algo en la arena y después sigue a sus amos.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Un deportivo blanco aparca en la carretera al lado del paseo de la playa. Del coche se baja un hombre de mediana edad, trajeado y con maletín.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+El hombre saca con cuidado unas gafas de sol, de estilo aviador, de un bolsillo de su americana.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Se pone las gafas y mira al frente.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Es James, el empresario.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+James camina hacia la playa con una bolsa de tela a rayas echada al hombro.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+En la playa, sobre la arena, hay una toalla y un revoltijo de ropa. James se tumba sobre la toalla bocarriba.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Se frota la cara con las manos y después acaricia la arena hundiendo las yemas de los dedos.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+James, nervioso, mira extrañado hacia los lados.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Se levanta y camina hasta meter los pies en la orilla.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Después se aleja del agua sin rumbo, mirando hacia los lados.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Camina hacia atrás, girando sobre sí mismo y mirando hacia los lados como si buscase algo.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Vuelve a acercarse a la orilla y se adentra un poco en el agua.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+James vuelve a alejarse de la marea buscando algo a su alrededor.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Llega hasta sus cosas y comienza a ponerse la camisa.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Más tarde, en una calle y rodeado de árboles, James camina a buen ritmo.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Pasado un rato, está subiendo por un monte polvoriento salpicado de arbustos.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+En otro lugar, unas manos ajadas sostienen un café para llevar.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Un hombre no demasiado mayor, con ojeras, barba y pelo desaliñado, contempla distraído lo que tiene en frente	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Toquetea la tapa del café, la quita y después de olerlo, lo mira con desgana y le pega un trago.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Es Rick, el jubilado.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Está sentado en el banco de un parque, solo. Viste un pantalón sencillo  y una camiseta de tirantes ajada. Rick contempla distraído el entorno mientras se termina su café y posa la taza  de cartón vacía en el banco de al lado.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Rick saca el móvil de un bolsillo del pantalón, abre la agenda de contactos y se pone a buscar a alguien. Selecciona el contacto que buscaba y llama.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Rick mira extrañado a su alrededor.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Vuelve a mirar a su alrededor buscando algo.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Rick se levanta y se aleja caminando distraído buscando algo y dejando atrás el café.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+En otra parte, una adolescente pelirroja, con rizos, está concentrada mirando algo.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Es Jess, la estudiante.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Está sentada frente a un escritorio y busca algo entre sus papales.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Jess se pone el pelo detrás de la oreja y mira extrañada a su alrededor.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Se levanta y se va.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+En una calle, junto a un muro de piedra, Jess camina en busca de algo.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Más tarde, sube una colina, caminado entre la hierba alta. Se detiene, mira atrás desconcertada y se va corriendo hacia arriba.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+En un claro entre montañas, tres siluetas caminan al frente, como desconcertadas, en busca de algo bajo la cegadora luz del sol.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Rick, James y Jess se juntan en medio de la explanada, mirando a su alrededor.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Rick niega con la cabeza.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+James se aleja hacia los árboles que bordean el claro, seguido de Rick.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Jess corre tras ellos. Los tres se pierden poco a poco en la distancia en dirección al bosque.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+No, no he terminado de tenderla. Tengo que darme prisa.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+No, ¿de qué me hablas? Sí, claro, las maletas están a punto....	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Al anochecer, en una azotea, un mujer mira nerviosa a su alrededor.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Oye, ahora no puedo hablar. Tengo que dejarte.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Es Zoé, la próxima.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Sobre fondo blanco. ¿Qué pasa mientras...?	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Dirigido por Núria Nia.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Director de fotografía, Albert Badia.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Diseño de sonido por Enrique G. Bermejo.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Maquilladora, Laia Teixidó.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Asistente de dirección, Marta Aguadé Forrelad.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Edición de Núria Nia.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Producido por: Transmedia Catalonia y La Panorámica.  	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+James Humber como James, Rick Zingale como Rick, Jessica Álvarez como Jess y Adeline Flaun como Zoé.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Idea original de: Marçal Font y Nuria Nia. Guion de Nuria Nia. Estudio de sonido, Kamikaze Estudi. Música: Time Doesn't wait de The IMG. Estudio de edición, LaPanorámica.cat.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Proyecto creado por Anna Matamala y financiado por el Ministerio de Economía y Competitividad.	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+Sobre fondo blanco: ¡Disfrutad de vuestro tiempo!	ST-ES/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+De día, en el paseo marítimo de una playa, algunas personas pasean o hacen deporte. Junto a la playa hay una carretera.  	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+El cielo está algo nublado y gris.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Funde a blanco con la frase:	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Un coche de alta gama aparca en la carretera junto a la playa.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Es un hombre trajeado de unos cuarenta años. Mira hacia la playa.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Se pone unas gafas de sol.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+James, el empresario.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Camina con un bolso de playa y el móvil pegado a la oreja.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Después.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+James, sin camiseta, se tumba en la arena bocarriba.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Se lleva las manos a la cara.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Con los ojos cerrados, hace surcos con los dedos en la arena.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Mira alrededor.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Frunce el ceño y mira de nuevo a su alrededor.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+James, desconcertado, se levanta y anda unos pasos.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Camina despacio por la orilla.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Parece buscar con la vista y el oído de dónde proviene el sonido.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Ante el silencio, se detiene y se dispone a dar media vuelta. Pero se gira y mira de nuevo.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Regresa a por sus cosas. Camina rápido, sin dejar de mirar al frente, extrañado, con el ceño fruncido.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Se empieza a vestir.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+No deja de mirar a todos lados.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Más tarde, ya vestido, James camina por un paseo con árboles con paso firme.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Sube por un sendero en una colina con vegetación, siguiendo el sonido.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+En un parque, un hombre de unos sesenta años está sentado en un banco.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Tiene en las manos un vaso de café, al que da golpecitos. Observa los árboles.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Abre la tapa del café.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Se lo acerca a la boca.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Mira el café y bebe.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Rick, el jubilado.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Sentado en el banco, Rick mueve las piernas con nerviosismo mientras bebé el café.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Deja el café en el banco.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Da unas palmadas.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Se saca el móvil del bolsillo.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Ojea los contactos de la agenda.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+No parece decidirse por ninguno.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Finalmente elige uno y llama.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Mira hacia arriba extrañado.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Vuelve a mirar hacia arriba.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Se aleja caminando rápido.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Mira para todos lados.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Se adentra en el parque.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+En una biblioteca, una joven estudia.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Jess, la estudiante.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Busca el móvil bajo los apuntes.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Lo encuentra.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Mira extrañada.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Jess mira con asombro a derecha e izquierda, sin entender.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Más tarde en la calle.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Jess mira a derecha e izquierda, intentando localizar el origen del sonido.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Sube por una colina con vegetación frondosa.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Se detiene para escuchar.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Y sigue subiendo rápidamente.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Al final de la colina, Jess llega a una explanada donde están también James y Rick. El cielo está despejado.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Los tres se miran entre sí, asombrados, a la vez que miran a todos lados.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Miran al cielo. La voz parece provenir de ningún sitio y de todos lados.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Rick se lleva una mano a la cabeza.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Rick les mira serio.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Rick asiente.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Los tres se miran.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Se intercambian miradas. Rick se encoge de hombros y niega con la cabeza. Jess también.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Rick alza los brazos al cielo.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+James sacude la cabeza.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Jess se encoge de hombros.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Asiente.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Los tres se alejan colina abajo, entre los árboles, hacia la playa.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Funde a negro.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+En una azotea, una mujer tiende ropa.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+No, no he terminado de tenderla. Tengo que darme prisa.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Mira al cielo.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+No, ¿de qué hablas? Sí, las maletas están a punto.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Oye, ahora no puedo hablar. Tengo que dejarte.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Mira extrañada.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Zoé, la próxima.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+Sobre fondo blanco, la frase Qué pasa mientras... seguida de una línea continua.	ST-ES/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+De día, en la playa, una pareja pasea a su perro mientras un corredor pasa por su lado.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Un lujoso coche blanco se detiene delante de la playa.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+El conductor se apea.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Guarda un maletín en el maletero.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Saca unas gafas de sol y se las pone. Viste un traje gris y corbata.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+James [Yéims], el empresario.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+James, pelirrojo y de unos 40 años, pasea por la playa sujetando un móvil.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Ahora en bañador, James se tumba en una toalla y cierra los ojos.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Se frota los ojos con ambas manos, las estira y coge un poco de arena para luego dejarla caer entre sus dedos.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Mira a ambos lados.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Busca algo en su ropa.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+James se levanta.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Camina por la playa en bañador mirando a su alrededor con gesto extrañado.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Sigue caminando sin rumbo fijo.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Se detiene y se dirige a donde está su toalla.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Vuelve a girar la vista extrañado y sigue caminando sin dejar de mirar a su alrededor.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Coge su ropa y comienza a vestirse.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Ya vestido con su traje de oficina, camina con paso firme y comienza a subir por una pequeña montaña llena de arbustos y matorrales.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+En un parque, un hombre de unos 60 años descansa sentado en un banco.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+De canoso pelo largo y una barba descuidada, observa con la mirada perdida.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Destapa el café que sujeta con una mano y le da un sorbo con desgana.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Rick [Ríc], el jubilado.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Ric da otro sorbo al café y lo deja en el banco de al lado.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Saca su teléfono móvil y busca entre los contactos.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Selecciona uno y llama.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Rick alza la mirada extrañado.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Vuelve a alzar la vista lentamente.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Se levanta, y sin coger su café, empieza a caminar mirando a su alrededor una y otra vez.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+En su habitación una joven de melena pelirroja. 	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Jess [Yés], la estudiante.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Jess busca su móvil entre una montaña de libros y apuntes.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Busca entre los papeles.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Jess mira a su alrededor con gesto confuso.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Sale a la calle y empieza a caminar.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Sube por una pequeña montaña llena de arbutos y matorrales.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+En un descampado rodeado por montañas, Jess se acerca a James y Rick, quienes están de pie sin hacer nada.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Los tres no paran de mirar al cielo y a su alrededor.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Rick tiene los ojos llorosos.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+James asiente con gesto irónico.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Rick niega con la cabeza.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Rick sigue a James.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Jess corre tras ellos y los tres juntos siguen caminando.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+En una terraza, una mujer francesa de piel morena se queja por teléfono de lo ajetreada que está.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Mira a su alrededor extrañada.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+Zoé [Zóe], la próxima.	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+¿Qué pasa mientras...?	ST-ES/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+El paisaje de una playa. El cielo está parcialmente nublado y teñido de un color rosado. De forma paralela al mar. una pareja pasea por la arena con su perro. En el sentido contrario al suyo un hombre hace footing.  	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Un coche deportivo blanco se acerca a la playa.  	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Es un hombre de unos cuarenta. pelirrojo. con barba y tez clara. Viste con traje y corbata. Saca del bolsillo de la chaqueta unas gafas de estilo aviador y se las pone.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Se trata de James. el empresario.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Camina por una zona arenosa con el móvil en la mano y un bolso playero.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Ya no lleva traje. Se tumba sobre una toalla en la arena y suelta el móvil.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Esta acostado boca arriba y con los ojos entornados. Se frota los ojos con las manos. estira los brazos en la arena y la acaricia suavemente con la mano izquierda.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Se incorpora.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Deja el teléfono y se levanta. Lleva solo los calzoncillos y deja las demás pertenencias en la arena. Está desorientado y camina con lentitud. Se acerca a la orilla del mar y segundos más tarde se aleja. Para sutilmente. observando el paisaje que le rodea y mirando hacia arriba.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Pasea sin rumbo de un lado a otro y curiosea cuanto hay a su alrededor. Se desplaza torpemente. avanzando y retrocediendo sin decisión. Finalmente retoma el camino hacia el lugar donde dejó todas sus cosas.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Sigue mirando a los lados. desconcertado. Recoge su ropa y se pone la camisa.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+James avanza entre un camino con árboles a los lados. Está vestido y con la camisa desabrochada. Llega a un montículo repleto de arbustos y hierbajos y lo sube por un camino de tierra.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Una taza de café para llevar.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+La sujeta un señor de unos setenta años. Tiene el pelo largo y canoso a juego con una barba espesa.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Recorre la tapa de café haciendo círculos.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Lo destapa y sitúa el vaso cerca de sus labios. Inseguro. da un trago a la bebida.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Él es Rick. el jubilado.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+A la sombra de una arboleda. hay tres bancos individuales. Rick está sentado en el de en medio. Deja la tapa de plástico en el banco a su izquierda. Mueve la pierna derecha con nerviosismo y deja el vaso junto a la tapa.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Rick saca el móvil. Retira la funda y selecciona la pestaña de contactos en la pantalla táctil. Recorre con el dedo la agenda y pulsa el botón verde de llamada.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Extrañado. eleva la vista.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Algo capta su atención.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Se levanta y abandona la taza de café en el asiento. Tambaleándose y echando un vistazo al cielo. se retira del banco en el que estaba. Se aleja caminando por un sendero.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Una joven de unos veinte años está sentada en su escritorio.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Es Jess. la estudiante.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Busca entre los papeles.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Se toca el cabello que es pelirrojo y muy rizado. Alza la vista. Mira hacia ambos lados de la habitación. como si estuviera buscando algo.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Jess se levanta. coge su abrigo y sale a la calle. Se marcha con desconfianza y llega a una senda repleta de vegetación. Al principio. avanza por el camino con paso lentos. Se para un instante, estudia el entorno y continúa decidida.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+En una llanura rodeada por árboles. se encuentran James. Rick y Jess. Todos están absortos y giran sobre sí mismos mientras observan el cielo.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Contemplan el cielo y se cubren los ojos para no deslumbrarse con el sol.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Rick se emociona.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Se miran tratando de buscar una respuesta. Rick y Jess niegan con la cabeza.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+El cielo está despejado y brilla el sol. Jess corretea tras James y Rick. Los alcanza y se marchan juntos del lugar.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Una señora de unos treinta años tiende ropa y habla por teléfono.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+No he terminado de tender. tengo que darme prisa.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+No. ¿de qué hablas? Claro. las maletas están a punto.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Eleva la vista.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Oye. no puedo hablar. tengo que dejarte.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Mira al horizonte con expresión de incertidumbre. Ella es Zoé... la próxima.	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+Qué pasa mientras...	ST-ES/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+A pleno día, por una playa algo nublada, pasean varias personas. Un hombre hace jogging y un perro olfatea la arena.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Un coche blanco aparca frente a la arena. Dentro, un hombre discute por el móvil.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+El hombre ha salido del coche, ha sacado una bolsa del maletero y ha metido un maletín en él. Tiene unos 35 años. lleva traje y corbata. es rubio y tiene barba. Se pone unas gafas de sol.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+James, el empresario.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Marca un teléfono en su móvil mientras camina por la playa con la bolsa al hombro.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Vestido únicamente con la ropa interior, James se tumba boca arriba en una toalla extendida sobre la arena.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Extiende los brazos y juega con la arena entre sus dedos.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Mira a ambos lados, confuso.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Deja el móvil en el suelo, se levanta de la toalla y empieza a caminar junto al agua, mirando a su alrededor en busca de la prodecencia del sonido.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Se detiene y se dispone a volver a la toalla.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Vuelve a mirar en todas direcciones.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Vuelve junto a la toalla para recoger su ropa y empieza a vestirse.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Camina por una acera rodeada de árboles con expresión seria.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Sube por un monte lleno de arbustos y matorrales.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Unas manos sujetan un vaso desechable de café. Son de un hombre de unos 60 años con una media melena alborotada y barba canosa. Tiene	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Juguetea con la tapa del café.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Abre la tapa y da un sorbo.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Rick, el jubilado.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Rick lleva un chándal y una camiseta de tirantes. Está sentado en el banco de un parque. Sigue bebiendo su café con una expresión seria y de aburrimiento.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Deja el vaso en el banco de al lado.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Saca un móvil del bolsillo trasero del pantalón. Busca en su lista de contactos hasta encontrar el número de Craig Anderson.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Mira a su alrededor desconcertado.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Dejando atrás su vaso de café, se adentra por un sendero del parque, mirando en todas direcciones.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Una chica mira la pantalla de su ordenador.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Jess, la estudiante.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Rebusca entre sus apuntes.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Tiene unos 18 años, pelo rizado y cobrizo. Viste una chaqueta de lana blanca y un pañuelo. Mira confusa a su alrededor.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Con un abrigo color caqui sale a la calle y sube por un monte cubierto de hierbas altas.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Jess se encuentra con James y Rick en un claro y se acerca a ellos. Los tres siguen buscando con la mirada en todas direcciones.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Permanecen quietos, desconcertados.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+James mira a Rick, quien se encoje de hombros y niega con la cabeza, al igual que Jess.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Rick sigue a James hacia los árboles. Jess hace un gesto de indiferencia.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Va corriendo hacia los dos hombres y se coloca entre ellos. Ambos le dan una palmada en la espalda mientras se alejan.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Una mujer negra de unos 30 años tiende la ropa en una azotea.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+No, no he terminado de tenderla. Tengo que darme prisa.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+No, ¿de qué me hablas? Sí, claro, las maletas están a punto.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Oye, ahora no puedo hablar. Tengo que dejarte.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+Zoé, la próxima.	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+¿Qué pasa mientras...?	ST-ES/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+En una playa, en un día de grandes nubes grises, una mujer y un hombre pasean un gran perro marrón. Se cruzan con un hombre que va trotando en dirección opuesta. Visten todos ropa oscura, de manga larga. Junto a la playa, hay una calle asfaltada. 	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Un coche blanco de alta gama aparca junto a la acera. El conductor, un hombre pelirrojo de unos cuarenta y cinco años, habla por teléfono.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Saca una bolsa del maletero.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Se queda mirando hacia el mar, pensativo.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Se pone unas gafas de sol. Va vestido con traje de chaqueta y corbata. Es James, el empresario.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Con una bolsa de playa al hombro, anda por un camino de tierra junto al mar mientras mira el móvil.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+En la playa, James se ha quitado el traje y se deja caer bocarriba sobre una toalla amarilla.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Se frota levemente los ojos y estira los brazos hacia los lados para tocar la arena con los dedos.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Con un gesto de resignación, se incorpora.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Mira a los lados.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Mira hacia los lados con desconcierto. 	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Se levanta y se dirige al mar. Solo lleva puestos unos boxers negros.  Mientras camina hacia el agua, algo le hace detenerse y darse la vuelta.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Se queda quieto en mitad de la arena y dirige la mirada hacia lo lejos, en dirección opuesta al mar. Vuelve a andar hacia el agua y se detiene de nuevo buscando con la mirada.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Tras titubear unos instantes acercándose y alejándose del agua, sin dejar de buscar con la mirada, se dirige a la toalla.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Coge la camisa y empieza a vestirse con expresión de desconcierto.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+En una calle arbolada, ya vestido con el mismo traje pero sin corbata, James camina.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+En un cerro repleto de arbustos, James avanza hacia la cima por un estrecho sendero.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+En un parque, un hombre de unos cincuenta años, con barba y pelo largo, toquetea un vaso de cartón. Lleva una camiseta verde de tirantes y una cadena en el cuello. Mira hacia arriba y sonríe.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Pensativo, mira el vaso.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Le quita la tapa, se lo acerca a la boca y mira el café. Mientras mira pensativo hacia el frente, bebe un trago. 	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Se trata de Rick, el jubilado.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+La pierna derecha de Rick tiembla con nerviosismo mientras él apura los últimos tragos de café. 	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Tras beber el último sorbo, deja el vaso de cartón en el banco contiguo. Da unas palmadas y se frota las manos pensativo. Se saca el móvil del bolsillo trasero del pantalón y busca a alguien en su lista de contactos.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Mira a su alrededor con desconcierto.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Vuelve a mirar a su alrededor.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Se marcha dejando atrás el vaso de cartón vacío. Mientras se aleja, guardándose el teléfono en el bolsillo, va dando vueltas y mirando hacia todas partes.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+En una habitación, una joven de unos 25 años, pelirroja y con el pelo rizado, mordisquea nerviosa un bolígrafo frente al ordenador. Es Jess, la estudiante.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Jess rebusca entre los objetos del escritorio hasta que encuentra el móvil.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Sin moverse de su asiento, Jess busca por toda la habitación el origen del sonido y, al no encontrarlo, vuelve la vista a sus apuntes.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Sobresaltada, vuelve a mirar a los lados. 	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Se levanta y sale a la calle. Vestida con un abrigo y una bufanda, camina a paso ligero buscando constantemente. Se adentra entre los matorrales del cerro al que James ha ascendido antes. Antes de seguir subiendo, se detiene un momento para mirar atrás.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Se pierde entre las plantas para seguir avanzando. En una explanada de tierra blanca, de pie, a un par de metros el uno del otro, se encuentran James y Rick, que siguen buscando con la mirada. Jess se acerca lentamente a ellos.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Los tres buscan con la mirada la procedencia de la voz.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Rick y Jessica se miran negando con la cabeza.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Rick se va detrás de James. Jessica mira al vacío, pensativa.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Echa a correr detrás de ellos. Cuando los alcanza, los tres se tocan amistosamente mientras se alejan hacia los árboles que hay al final de la explanada. 	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Una mujer negra, de unos 40 años, tiende la ropa agobiada mientras habla por teléfono. "No he terminado. Debo darme prisa".	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+"¿Pero qué dices? ¡Claro que he hecho las maletas!" 	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+el origen del sonido. "Oye, no puedo hablar ahora. Tengo que colgar".	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Mira hacia lo lejos con desconcierto. Es Zoé, la próxima.	ST-ES/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+Es un día nublado. En la playa, una pareja pasea a un perro y un hombre hace footing.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Es un hombre de unos 40 años.  Tiene pelo y barba castaños y viste de traje.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Saca unas gafas de sol de un bolsillo y se las pone.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Es James, el empresario.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+James, en bañador, extiende una toalla en la arena y se tumba.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Se frota los ojos.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Luego extiende los brazos y acaricia la arena.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+James busca entre sus cosas.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Se levanta y y se acerca a la orilla del mar.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Luego camina por la playa en busca del origen del pitido.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Se queda quieto un instante.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Camina hacia el lado contrario mientras escruta los alrededores.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Vuelve a la toalla con los ojos entornados y el ceño fruncido.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Recoge su camisa y se la pone.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Poco después camina por la calle, otra vez vestido con el traje.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Asciende por una ladera de tierra sembrada de arbustos.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Sentado en una silla hay un hombre de unos 50 años.  Tiene el pelo gris y revuelto y una barba descuidada.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Tiene un vaso en las manos y quita la tapa de plástico.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Bebe un trago de café.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Es Rick, el jubilado.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Está en un parque. Deja la tapa en la silla de al lado y toma otro trago.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Mueve una pierna con un tic nervioso y deja el vaso.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Saca el móvil del bolsillo, elige un contacto de la lista y llama.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Frunce el ceño y levanta la cabeza.  	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Rick se aleja mientras intenta localizar la procedencia del pitido.  El vaso de café queda abandonado en la silla.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Jess, la estudiante, es una adolescente de rizos pelirrojos.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Jess pasea la mirada por la habitación.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Se pone el abrigo y sale a la calle.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Sube un camino cubierto de maleza y se pierde en la espesura.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Llega a una gran explanada de arena donde se encuentran James y Rick.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Los tres dan pasos vacilantes y dirigen la vista al cielo.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Todos examinan la explanada, pero no localizan la fuente de la voz.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Los tres niegan con la cabeza.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Jess corre tras ellos hasta alcanzarlos y se marchan juntos.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+No, no he terminado de tenderla. Tengo que darme prisa.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+No, ¿de qué me hablas? Sí, claro, las maletas están a punto.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Oye, ahora no puedo hablar. Tengo que dejarte.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+Zoé. La próxima.	ST-ES/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+De día, en un paseo al lado de la playa, una pareja camina con su perro y un hombre corre por la arena.  	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Sobre fondo blanco en letras negras y en inglés:	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Un hombre en un deportivo blanco se detiene junto a la acera del paseo. El hombre, de unos 40 años, pelo corto y barba baja del coche mientras habla por teléfono.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Tras guardar un maletín en el maletero y coger una bolsa de playa, el hombre, vestido de traje y corbata, se pone unas gafas de sol.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Escrito en pantalla en letras blancas:	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+James, el empresario.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Camina por la arena y utiliza el móvil.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Ahora, en ropa interior, se tumba en la arena sobre una toalla.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Con los ojos cerrados y algo más relajado, James juguetea con la arena en las manos.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Se incorpora.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Mira a su alrededor.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Rebusca entre sus cosas desconcertado.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+James se pone de pie y camina por la playa a paso lento.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Mira extrañado hacia todos lados mientras deambula por la arena.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Se detiene.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Mira hacia atrás y se acerca a la orilla.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Camina hacia la toalla mientras mira hacia arriba.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Se viste sin dejar de prestar atención a su alrededor.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Vestido de nuevo, James camina por la calle.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Ahora camina por una ladera llena de arbustos y matorrales.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+En un parque, a la sombra de los árboles, un hombre de aspecto descuidado está sentado en un banco pensativo.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Sonríe.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+El hombre, de unos 65 años, pelo largo y canoso y barba, abre la tapa del café que sostiene.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Le da un sorbo.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Escrito en pantalla en letras blancas: Rick, el jubilado.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Algo nervioso, Rick le da otro sorbo al café.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Contempla los árboles que le rodean.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Deja el café en el banco de al lado y saca el móvil del bolsillo trasero del pantalón.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Busca entre sus contactos y llama a Craig Anderson	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Frunce el ceño y mira a su alrededor.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Observa perplejo el entorno.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Se levanta y camina escudriñando el parque.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+En una vivienda, una chica de unos 18 años estudia delante del ordenador.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Escrito en pantalla en letras blancas: Jess, la estudiante.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Jess, de pelo largo y rizado, rebusca por la mesa.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Con gesto serio, mira por la habitación.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Jess se levanta.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Fuera de la vivienda, Jess, con una chaqueta y un pañuelo alrededor del cuello, camina por el campo.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Mira a su alrededor constantemente.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Se detiene, mira hacia atrás y continúa.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+La joven llega a una planicie iluminada por el sol donde también se encuentran James y Rick.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Se acerca a ellos en silencio.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Los tres examinan el entorno perplejos.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Rick y Jessica niegan con la cabeza.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Rick va tras James.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Jessica se queda pensativa.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Los tres abandonan la planicie.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+En una azotea, una mujer negra de unos 35 años y media melena tiende la ropa mientras habla por teléfono.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+(Audiosubtítulos): No he terminado de tenderla.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+(Audiosubtítulos): No, ¿de qué me hablas?	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+(Audiosubtítulos): Oye, ahora no puedo hablar.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Escrito en pantalla en letras blancas: Zoé, la próxima.	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+Sobre fondo blanco en letras negras y en inglés: Qué pasa mientras...	ST-ES/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+En el paseo de la playa.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Sobre fondo blanco, en letras negras:	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+En el paseo aparca un coche de alta gama conducido por un ejecutivo con traje que habla por el móvil.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+El ejecutivo, de unos 40 años, cambia el maletín por una bolsa de playa.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+En letras blancas: James, el empresario.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Llama por el móvil mientras camina por el paseo de la playa.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Se queda en calzoncillos y se tumba en la arena.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Relajado, juega con la arena entre sus dedos.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Se levanta y busca el ruido extraño.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Se mueve de un lado a otro desconcertado.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Se viste para seguir el rastro del ruido fuera de la playa.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Sube un pequeño monte.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+En un parque, unas manos sostienen un café para llevar. Un hombre de unos 55 años, desdeñado, está sentado en un banco. Mira al horizonte y sonríe. Hace un gesto de resignación.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Bebe del café.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+En letras blancas: Rick, el jubilado.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Mueve la pierna y da unas palmadas nervioso.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Coge el móvil y hace una llamada.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Mira extrañado y se levanta para buscar el ruido. Se aleja y se deja el café en el banco.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+En una habitación está sentada una chica de unos 18 años.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+En letras blancas, Jess, la estudiante. No encuentra el móvil entre el desorden.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Jess mira a todos lados buscando el ruido.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Sale de su casa en busca del ruido y sube un pequeño monte.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Allí están James y Rick mirando a todos lados.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Una voz desconocida les habla.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Se miran los unos a los otros.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Jess, extrañada, sonríe.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Se alejan juntos.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+En la azotea de un edificio, una mujer de unos 35 años habla por el móvil mientras tiende la ropa.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+No, no he terminado de tender. Tengo que darme prisa.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+No, ¿de qué me hablas? Si, las maletas están hechas...	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Oye, ahora no puedo hablar. Tengo que colgar.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+El letras blancas: Zoé, la próxima.	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+Sobre fondo blanco, en letras negras: ¿qué pasa mientras...?	ST-ES/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf

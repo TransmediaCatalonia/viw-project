@@ -110,10 +110,10 @@ class SearchController extends Controller
 			$dir = explode("/",$id); 
 			$titles = $result->getElementsByTagName( "title" );
   			$title = $titles->item(0)->nodeValue;
-			$descriptions = $result->getElementsByTagName( "description" );
-  			$description = $descriptions->item(0)->nodeValue;
+			#$descriptions = $result->getElementsByTagName( "description" );
+  			#$description = $descriptions->item(0)->nodeValue;
 			$selectedFields = array();
-			array_push($selectedFields, $title, $description, $dir[0], $dir[1]);
+			array_push($selectedFields, $title,  $dir[0], $dir[1]);
 			array_push($files, $selectedFields);
 		}
 //$xpath = new DOMXPath($dom);

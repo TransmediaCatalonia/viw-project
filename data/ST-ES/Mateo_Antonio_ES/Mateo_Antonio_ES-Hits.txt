@@ -1,3 +1,4 @@
+
 AD-en	2000	15000	13000	En una playa, en un día de grandes nubes grises, una mujer y un hombre pasean un gran perro marrón. Se cruzan con un hombre que va trotando en dirección opuesta. Visten todos ropa oscura, de manga larga. Junto a la playa, hay una calle asfaltada. 
 AD-en	22000	30000	8000	Un coche blanco de alta gama aparca junto a la acera. El conductor, un hombre pelirrojo de unos cuarenta y cinco años, habla por teléfono.
 AD-en	43000	45000	2000	Saca una bolsa del maletero.

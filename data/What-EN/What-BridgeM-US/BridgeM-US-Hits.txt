@@ -1,3 +1,4 @@
+
 AD-en	370	6680	6310	A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.
 AD-en	7350	14330	6980	A male runner jogs past. The dog trots and sniffs the sand. It follows its owner along the coast.
 AD-en	15830	20200	4370	Words appear: What Happens While… with a long, blank line at the end.

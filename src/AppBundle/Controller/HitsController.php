@@ -266,15 +266,19 @@ class HitsController extends Controller
 	foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
-		$sentence = explode(" ", $data[4]);
-		$c = count($sentence);
+		#$sentence = explode(" ", $data[4]);
+		$vowels = array(" ", ",", ".", ";", "!", ":", "-");
+		$sentence = str_replace($vowels, "", $data[4]);
+
+		$c = strlen(utf8_decode($sentence));
 		$t = $data[1] / 60000;
 
 		#$x = $data[3] / str_word_count($data[4]);
-		$x = $data[3] / $c;
+		$time = $data[3] / 1000;
+		$x = $c / $time ; 
 		array_push($duration,$x);
             	$row = "";
-		$text = "'time/words: " . $x . "'" ;
+		$text = "'characters/second: " . $x . "'" ;
             	$row = '[' . $t . ',' . $x . ',' . $text .']';
 	    	array_push($rows,$row);
 		array_push($lastTime,$t); #to get last time
@@ -307,7 +311,7 @@ class HitsController extends Controller
     
         $html = $this->container->get('templating')->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $file_id, 'type' => 'time/words',
+            array('key' => $data, 'title' => $file_id, 'type' => 'character/second',
                   'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
 		  'maxValue' => $maxValue)
         );

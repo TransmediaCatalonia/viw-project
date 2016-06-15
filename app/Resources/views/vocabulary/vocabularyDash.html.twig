@@ -8,7 +8,8 @@
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
-  <a href="{{ app.request.baseUrl }}/corpus/{{ corpus }}">Back to {{ corpus }}</a>
+  <a href="{{ app.request.baseUrl }}/{{path}}/{{ corpus }}">Back to {{ corpus }}</a>
+
   <h3>Counting {{ pos }} by {{ message }} in the '{{ corpus }}' corpus</h3>
   <p>Use the 'Filter by frequency' control to remove less frequent words. You can choose a {{ message }}.</p>
   <table style="width: 100%; display: table-cell;"  >

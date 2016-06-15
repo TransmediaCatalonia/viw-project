@@ -1,3 +1,4 @@
+
 AD-en	3000	9000	6000	De bon matí, en una platja gairebé deserta, una parella passeja un gos i un home corre. Està ennuvolat. 
 AD-en	22000	30000	8000	Un cotxe blanc de gamma alta aparca davant de la platja. De dins surt un home d’uns 40 anys vestit d’etiqueta parlant per telèfon. Guarda el maletí que duu al maleter i agafa una bossa de platja.
 AD-en	53000	58000	5000	L’home és pèl-roig i duu barba i bigoti. Preocupat, mira cap al mar i es posa unes ulleres de sol. 

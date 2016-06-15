@@ -7,41 +7,37 @@
 
         <div id="container">
 
+		<div id="status">
+		<h3>The VIW project</h3>
+
+		<p><b>VIW (Visuals Into Words)</b> is a project funded by the Spanish “Ministerio de Economía y
+		Competitividad” (FFI2015-62522- ERC) that aims to research audio description (AD) from a multilingual
+		and multimodal corpus perspective.</p>
+
+		<p>The VIW corpus is built upon the short movie “What Happens While”, available in English and dubbed
+		into Catalan and Spanish. It contains audio descriptions in English, Catalan, and Spanish by both
+		professionals and students, and follows an open access policy.</p>
+
+		<p>This website provides access to the corpus and allows for different types of searches and visualizations on
+		the AD scripts (excluding final credits for the reasons set forth in the technical documentation).</p>
+                <p>
+                    For more information about the project, please visit the project website <a href="http://pagines.uab.cat/viw/">here</a>
+                </p>
+            </div>
+
             <div id="status">
 
-		<h2>List of available Corpus
-		<span style="float:right">
-			<!--<a href="#help"><img src="question-mark.jpg"  height="42" width="42"></a>-->
-		</span>
-		</h2>
-
+		<h3>List of available Corpora</h3>
 
 		<p>You can also use the <a href="search">BROWSE facility</a> to look for a specific file</p>
                 <ul>
 		{% for key, value in corpus %}
-			<li><b>{{ key }}</b>: {{ value}} <a href="corpus/{{ key }}">more</a></li><hr/>
+			<li><b>{{ key }}</b>: {{ value}} <a href="corpus/{{ key }}">access</a></li><hr/>
 		{% endfor %}
 		</ul>
             </div>
 
-            <div id="status">
-                <a name="help"></a>
-		<h2>What's this?</h2>
-		<p>
-		    This web app contains different Audio Descriptions and related materials for the short movie 
-		    "What Happens While" by Núnia Nia
-                </p>
-		<p>
-		    The film, orginally in English, was dubbed into Spanish and Catalan and sent to professional studios to
-		    get the corresponding audiodescriptions.
-                </p>
-		<p>
-		    Additionally, you'll find audiodescriptions made by students (volunteers) for Spanish and Catalan.
-                </p>
-                <p>
-                    You can find more info about the Visuals Into Words Project (ViW) <a href="http://pagines.uab.cat/viw/">here</a>
-                </p>
-            </div>
+            
 
         </div>
  

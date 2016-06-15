@@ -1,3 +1,4 @@
+
 AD-en	5000	11000	6000	A l'alba, vista d'un passeig terrós vora el mar. Un home hi passa corrent i una parella hi passeja un gos.
 AD-en	14400	16830	2430	Sobre fons blanc, les lletres del títol.
 AD-en	22000	30120	8120	Un esportiu luxós s'atura davant del passeig. Un home elegant en baixa parlant pel mòbil i desa un maletí al maleter, d'on en treu una bossa de mà grossa.

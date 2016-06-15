@@ -1,3 +1,4 @@
+
 AD-en	5649	11631	5982	De día, en la playa, una pareja pasea a su perro mientras un corredor pasa por su lado.
 AD-en	24747	30399	5652	Un lujoso coche blanco se detiene delante de la playa.
 AD-en	32281	32720	439	El conductor se apea.

@@ -5,13 +5,16 @@
 
         <div id="container">
 		<div id="status">	
-			<h3>Verbs' countings for {{ title }}:</h3>
+  		<a href="{{ app.request.baseUrl }}/corpus/{{ title }}">Back to {{ title }}</a>
+			<h3>Words' countings for {{ title }} (tokens, types):</h3>
 		
     		<div id="columnchart" style="width: 800px; height: 400px;"></div>	
 		
 		<div id="columnchart2" style="width: 800px; height: 400px;"></div>	
 		
-		<div id="columnchart3" style="width: 800px; height: 400px;"></div>	
+		<div id="columnchart3" style="width: 800px; height: 400px;"></div>
+
+		<div id="columnchart4" style="width: 800px; height: 400px;"></div>	
 		
 	</div>
 </div>
@@ -31,7 +34,6 @@
       	var options = {
 	
         title: 'Number of verbs per provider',
-        subtitle: 'Given as total number of occurrences and number of unique verbs',
         width: 800,
         height: 400,
         bar: {groupWidth: '30%'},
@@ -45,12 +47,11 @@
       
       	var options2 = {
 	
-        title: "Verbs' frequency (for the 20 most frequent verbs)",
-        subtitle: 'Given as total number of occurrences and number of unique verbs',
+        title: 'Number of nouns per provider',
         width: 800,
         height: 400,
-        legend: {position: 'none'},
-	colors: ['#336699','#FF9900'],
+        bar: {groupWidth: '30%'},
+        colors: ['#336699','#FF9900'],
       	};
       	var chart2 = new google.visualization.ColumnChart(document.getElementById('columnchart2'));
       	chart2.draw(data2, options2);
@@ -60,15 +61,27 @@
       
       	var options3 = {
 	
-        title: "Semantic class frequency (for the 20 most frequent verbs)",
-        subtitle: 'Given as total number of occurrences and number of unique verbs',
+        title: 'Number of adjectives per provider',
         width: 800,
         height: 400,
-        legend: {position: 'none'},
-	colors: ['#336699','#FF9900'],
+        bar: {groupWidth: '30%'},
+        colors: ['#336699','#FF9900'],
       	};
       	var chart3 = new google.visualization.ColumnChart(document.getElementById('columnchart3'));
       	chart3.draw(data3, options3);
+
+	var data4 = google.visualization.arrayToDataTable([ {{ key4|raw }} ]);
+      
+      	var options4 = {
+	
+        title: 'Number of adverbs per provider',
+        width: 800,
+        height: 400,
+        bar: {groupWidth: '30%'},
+        colors: ['#336699','#FF9900'],
+      	};
+      	var chart3 = new google.visualization.ColumnChart(document.getElementById('columnchart4'));
+      	chart3.draw(data4, options4);
   }
   </script>
 

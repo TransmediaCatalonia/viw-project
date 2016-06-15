@@ -23,35 +23,37 @@
 	
 	{% if corpusfile is not null %}
 	<li><b>Simple string search:</b> this allows simple string searches on the entire {{ corpus }} corpus 
-	<a href="../../kwic/{{ corpus }}/{{ corpusfile }}">access</a> </li><hr/>
+	<a href="../../kwic/{{ corpus }}">access</a> </li><hr/>
+	{% endif %}
+
+
+	{% if words is not null %}
+	<li><b>AD units, sentences and words' countings:</b> this provides some figures about AD units, sentences and words in the {{ corpus }} corpus 
+    	<a href="../../words/corpus/{{ corpus }}/{{ words }}">access</a></li><hr/>
 	{% endif %}
 
 	{% if hits_timeline is not null %}
-	<li><b>Corpus in timeline:</b> see how all audiodescriptions distribute in the timeline  
+	<li><b>AD distribution in timeline:</b> audio description distribution along the timeline 
 	<a href="../../hits/timeline/{{ corpus }}">access</a> </li><hr/>
 	{% endif %}
 
 	{% if similarity is not null %}
-	<li><b>Text-similarity:</b> see text similarity among files in the corpus 
+	<li><b>AD similarity:</b> see text similarity among files in the corpus 
 	<a href="../../similarity/{{ corpus }}">access</a> </li><hr/>
 	{% endif %}
 	
-	{% if words is not null %}
-	<li><b>Paragraphs, sentences and words' countings:</b> this provides some figures about paragraphs, sentences and words in the the {{ corpus }} corpus 
-    	<a href="../../words/corpus/{{ corpus }}/{{ words }}">access</a></li><hr/>
-	{% endif %}
+	<li><b>Word frequency by part of speech:</b> you can see words' frequency by part of speech tag
+	 <a href="../../vocabulary/posdash/{{ corpus }}"> access</a></li><hr/>
 
-	
+
 	{% if sem is not null %}
-	<li><b>Verbs's distribution by provider:</b> this gives the number of verbs per provider and lists the 20 top most frequent verbs & semantic 
-	classes. <a href="../../vocabulary/verbs/{{ corpus }}"> access</a></li><hr/>
+	<li><b>Words's frequency by provider:</b> this gives the number of verbs, nouns, adjectives and adverbs per provider. 
+	<a href="../../vocabulary/pos/{{ corpus }}"> access</a></li><hr/>
 
 	<li><b>Verbs in the time line:</b> you can choose a verbal semantic class and see its 
 	distribution in the time line.
 	 <a href="../../vocabulary/verbssem/{{ corpus }}"> access</a></li><hr/>
 
-	<li><b>Counting words by PoS tag:</b> you can see words' frequency by part of speech tag
-	 <a href="../../vocabulary/posdash/{{ corpus }}"> access</a></li><hr/>
 
 	<li><b>Verbs & semantics classes:</b> you can inspect verbal semantic classes
 	 <a href="../../vocabulary/verbsdash/{{ corpus }}"> access</a></li><hr/>

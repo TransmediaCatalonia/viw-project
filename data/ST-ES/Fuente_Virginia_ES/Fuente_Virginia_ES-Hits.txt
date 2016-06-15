@@ -1,3 +1,4 @@
+
 AD-en	2812	18318	15506	Al amanecer, en una playa, hay una pareja paseando con su perro y un hombre corriendo. El perro olisquea algo en la arena y después sigue a sus amos.
 AD-en	22422	29693	7271	Un deportivo blanco aparca en la carretera al lado del paseo de la playa. Del coche se baja un hombre de mediana edad, trajeado y con maletín.
 AD-en	53048	58592	5544	El hombre saca con cuidado unas gafas de sol, de estilo aviador, de un bolsillo de su americana.

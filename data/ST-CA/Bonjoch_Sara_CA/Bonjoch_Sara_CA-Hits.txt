@@ -1,3 +1,4 @@
+
 AD-en	5016	14508	9492	A primera hora del matí, fa un dia clar, tot i que està una mica ennuvolat.  Una parella i un gos caminen per un passeig de terra vora el mar i es creuen amb un noi que fa esport.
 AD-en	21660	25648	3988	Al costat del passeig hi ha un carrer asfaltat i un cotxe blanc s'atura.
 AD-en	29915	32149	2234	L'home que el condueix parla pel mòbil.

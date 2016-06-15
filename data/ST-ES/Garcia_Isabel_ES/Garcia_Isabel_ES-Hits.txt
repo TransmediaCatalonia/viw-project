@@ -1,3 +1,4 @@
+
 AD-en	4848	11848	7000	De día, en el paseo marítimo de una playa, algunas personas pasean o hacen deporte. Junto a la playa hay una carretera.  
 AD-en	12448	14448	2000	El cielo está algo nublado y gris.
 AD-en	17167	18849	1682	Funde a blanco con la frase:

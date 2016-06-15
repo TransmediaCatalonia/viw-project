@@ -10,7 +10,7 @@
                     {% for file in files %}
                         <li>
 			
-    				 {{ file[0] }}: {{ file[1] }} <a href="{{ url('_metadata', {'dir_id': file[2] ,'file_id': file[3] }) }}"> more</a>
+    				 {{ file[0] }}: <a href="{{ url('_metadata', {'dir_id': file[1] ,'file_id': file[2] }) }}"> more</a>
 			
 			</li>
 			<hr/>

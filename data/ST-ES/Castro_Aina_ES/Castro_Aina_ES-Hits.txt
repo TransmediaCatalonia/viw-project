@@ -1,3 +1,4 @@
+
 AD-en	4010	8029	4019	En una playa un hombre corre y una pareja pasea con su perro.
 AD-en	29210	31040	1830	Un coche aparca delante de la playa.
 AD-en	53000	66220	13220	El conductor es un hombre de unos treinta y tantos años que lleva un traje con corbata.  Se guarda el móvil en un bolsillo de la americana y saca unas gafas de sol del otro.  James, el empresario.

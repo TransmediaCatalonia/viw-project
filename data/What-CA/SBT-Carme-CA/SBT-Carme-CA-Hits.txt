@@ -1,3 +1,4 @@
+
 AD-en	3340	16360	13020	En un pla estàtic, de cara al mar, mig carrer, la vorera, un passeig ampli de terra, una tanca i el mar, sota un cel de color perla, mig ennuvolat. Un home passa corrent de dreta a esquerra, i es creua amb una parella que passeja un gos, un gran danès.
 AD-en	24660	29230	4570	Un cotxe esportiu blanc s'atura arran de vorera. El conductor parla pel mòbil.
 AD-en	38110	39990	1880	Amb un maletí, va cap al maleter.

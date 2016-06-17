@@ -1213,7 +1213,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Able-NZ.eaf">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Able-NZ.eaf">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts20">
                 <ANNOTATION_VALUE>On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog pauses to sniff the ground and trots onwards.</ANNOTATION_VALUE>
@@ -1400,7 +1400,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="BridgeM-US.eaf">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Bridge-US.eaf">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts12">
                 <ANNOTATION_VALUE>A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.</ANNOTATION_VALUE>
@@ -1757,7 +1757,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Deluxe-UK.eaf">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Deluxe-UK.eaf">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts17">
                 <ANNOTATION_VALUE>A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.</ANNOTATION_VALUE>
@@ -1934,7 +1934,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Ericsson-AU.eaf">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Ericsson-AU.eaf">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a188" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts18">
                 <ANNOTATION_VALUE>A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which stops to sniff at something in the sand before trotting onwards.</ANNOTATION_VALUE>
@@ -2111,7 +2111,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Ericsson-UK.eaf">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Ericsson-UK.eaf">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts16">
                 <ANNOTATION_VALUE>Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.</ANNOTATION_VALUE>
@@ -2268,7 +2268,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Mennell-CA.eaf">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Mennell-CA.eaf">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a254" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts23">
                 <ANNOTATION_VALUE>It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant.</ANNOTATION_VALUE>
@@ -2530,7 +2530,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-MindsEye-UK.eaf">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="MindsEye-UK.eaf">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts25">
                 <ANNOTATION_VALUE>A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them. She chews on a pencil.  Caption: Jess the student.  She puts down her pencil, searches for her phone on her desk, beside her Macbook laptop. The screen goes black.  A young woman, her mobile phone pressed to her ear.  Subtitle : No I couldn’t . I have to finish, really.  She hangs washing on a line title: No! What are you talking about? Of course yes, our luggage is ready.  She turns at the high-pitched sound.  title: Listen, I can’t talk right now. I have to leave you.  She ends the call , looks around her frowning.  Caption: Zoe, the next one.  Caption: What happens while – blank.</ANNOTATION_VALUE>
@@ -2757,7 +2757,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-SDI-Media-UK.eaf">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="SDI-Media-UK.eaf">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a351" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts24">
                 <ANNOTATION_VALUE>A film shot mostly in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past. </ANNOTATION_VALUE>
@@ -2974,7 +2974,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Snyder-US.eaf">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Snyder-US.eaf">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a394" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts15">
                 <ANNOTATION_VALUE>Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.</ANNOTATION_VALUE>

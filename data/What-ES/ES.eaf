@@ -1103,7 +1103,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts1095" TIME_VALUE="788055"/>
         <TIME_SLOT TIME_SLOT_ID="ts1096" TIME_VALUE="788975"/>
     </TIME_ORDER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Aptent-ES">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Aptent-ES">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts18">
                 <ANNOTATION_VALUE>En una playa, y bajo un cielo parcialmente nublado, se cruzan por la arena una pareja que pasea a un perro de gran tamaño y un hombre haciendo footing.</ANNOTATION_VALUE>
@@ -1727,7 +1727,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-CEIAF-ES">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="CEIAF-ES">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts12">
                 <ANNOTATION_VALUE>Al amanecer, una pareja pasea con su perro por la playa.</ANNOTATION_VALUE>
@@ -1984,7 +1984,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-CineAccesibleNavarra-ES">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="NavarradeCine-ES">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts31">
                 <ANNOTATION_VALUE>De día. Frente a un paseo marítimo... El cielo, luminoso, está cubierto de nubes blancas. Un hombre hace "footing". Una pareja pasea con un gran perro. Sobre fondo blanco.</ANNOTATION_VALUE>
@@ -2211,7 +2211,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-EdSol-ES">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="EdSol-ES">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts15">
                 <ANNOTATION_VALUE>Amanece un día fresco y nublado en la playa. Una persona hace footing mientras una pareja pasea a su perro.</ANNOTATION_VALUE>
@@ -2433,7 +2433,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Ericsson-ES">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Ericsson-ES">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a265" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts27">
                 <ANNOTATION_VALUE>Una pareja camina junto a su perro por un paseo marítimo. Se cruzan con un hombre que hace footing. Todos visten ropa de abrigo. La playa está desierta y el cielo cubierto de nubes grises.</ANNOTATION_VALUE>
@@ -2665,7 +2665,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-K-Gala-ES">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Kaleidoscope-ES">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a311" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts17">
                 <ANNOTATION_VALUE>Audiodescripción Kaleidoscope 2016. Amanece en un paseo marítimo con la playa al fondo. Una pareja pasea con un perro. Un hombre hace footing.</ANNOTATION_VALUE>
@@ -2877,7 +2877,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-SDI-Media-ES">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="SDI-Media-ES">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a353" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts14">
                 <ANNOTATION_VALUE>Es un día nuboso en una playa. Una pareja pasea por la arena con su perro. Por la orilla pasa un hombre haciendo footing</ANNOTATION_VALUE>
@@ -3184,7 +3184,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Tragora-ES">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Tragora-ES">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a414" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts28">
                 <ANNOTATION_VALUE>Por la mañana, en una playa, una pareja pasea con su perro, mientras un hombre que corre se cruza con ellos. El perro, un gran danés, se entretiene en unos hierbajos y olfatea la zona. Su dueño, al darse cuenta de que se queda atrás, lo llama. El perro obedece y se va con ellos.</ANNOTATION_VALUE>
@@ -3371,7 +3371,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Sonidos-ES">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Sonidos-ES">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a451" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts24">
                 <ANNOTATION_VALUE>En una playa casi vacía una pareja pasea un perro y un hombre hace footing. La pareja lleva ropa de abrigo y el cielo está nublado.</ANNOTATION_VALUE>

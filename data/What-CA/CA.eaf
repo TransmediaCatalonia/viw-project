@@ -1047,7 +1047,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts1039" TIME_VALUE="788520"/>
         <TIME_SLOT TIME_SLOT_ID="ts1040" TIME_VALUE="791000"/>
     </TIME_ORDER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-AccessFriendly-CA">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="AccessFriendly-CA">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts21">
                 <ANNOTATION_VALUE>Dia gris i ennuvolat. davant el mar. des de la carretera, un passeig sense arbres i, al fons, la línia de l’horitzó. Una parella passeja amb un gos, i una altre persona corre.</ANNOTATION_VALUE>
@@ -1199,7 +1199,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-Aptent-CA">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Aptent-CA">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts14">
                 <ANNOTATION_VALUE>A una platja, i sota un cel parcialment ennuvolat, es creuen per la sorra una parella que passeja un gos de mida gran i un home que fa fúting. El gos ensuma.</ANNOTATION_VALUE>
@@ -1541,7 +1541,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-DescriptiveFerrer-CA">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Descriptik-CA">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
                 <ANNOTATION_VALUE>A l'alba, vista d'un passeig terrós vora el mar. Un home hi passa corrent i una parella hi passeja un gos.</ANNOTATION_VALUE>
@@ -1753,7 +1753,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="What-LlorencBlasi-CA">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="LB-CA">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts17">
                 <ANNOTATION_VALUE>Un matí de cel gris cendra amb núvols baixos plana sobre el mar i el passeig marítim. Una parella que passeja un gran danés per la sorra es creua amb un home que practica running. El gos s’atura a ensumar el terra i la parella el crida.</ANNOTATION_VALUE>
@@ -2070,7 +2070,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Multi-Signes-CA">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="MultiSignes-CA">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a204" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts22">
                 <ANNOTATION_VALUE>Un matí ennuvolat, prop del mar, per un passeig marítim urbà sense asfaltar, un noi i una noia passegen un gos i un home amb xandall corre. El gos s'atura un instant, ensuma en un petit clot i després segueix la parella.</ANNOTATION_VALUE>

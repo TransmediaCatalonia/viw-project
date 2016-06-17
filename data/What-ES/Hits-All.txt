@@ -1,70 +1,70 @@
-What-Aptent-ES	2830	10500	En una playa, y bajo un cielo parcialmente nublado, se cruzan por la arena una pareja que pasea a un perro de gran tamaño y un hombre haciendo footing.
-What-Aptent-ES	11060	12290	El perro olisquea.
-What-Aptent-ES	13300	17150	Al oír el silbido corre con sus amos. Sobreimpreso con fondo blanco:
-What-Aptent-ES	21260	30300	Junto a la playa se detiene un coche blanco de alta gama. Saldrá el conductor hablando por el móvil, guardará su maletín en el maletero y cogerá un bolso de playa azul y blanco.
-What-Aptent-ES	52500	56240	Cuelga y guarda el móvil. Se lleva la mano al bolsillo interior del traje.
-What-Aptent-ES	59140	62330	Se pone unas gafas de sol de aviador doradas y mira al frente.
-What-Aptent-ES	65420	70350	Sobreimpreso: James, el empresario. Caminando por la playa se lleva el móvil a la oreja.
-What-Aptent-ES	92060	97120	Se tiende boca arriba y en bañador sobre una toalla. Deja el móvil junto a sus pertenencias.
-What-Aptent-ES	99420	109240	Permanece unos segundos con los ojos cerrados. Se lleva las manos a la cara y luego extiende los brazos sobre la arena. Con la mano recoge unos granos y los deja caer lentamente.
-What-Aptent-ES	114700	116140	Se incorpora y coge el móvil.
-What-Aptent-ES	141540	144100	Preocupado busca algo entre sus pertenencias.
-What-Aptent-ES	157500	159740	Deja el móvil a un lado y se levanta.
-What-Aptent-ES	163140	167490	Se aleja unos metros de la toalla mirando a lo lejos, en dirección al paseo marítimo.
-What-Aptent-ES	169400	175920	Se detiene y centra su atención en un punto fijo. Una gaviota vuela a unos metros de él agitando las alas con ímpetu.
-What-Aptent-ES	179820	183780	Dirige la mirada de un lado a otro de la playa, como desorientado.
-What-Aptent-ES	187420	191580	Da media vuelta y sin dejar de mirar en todas direcciones se acerca a la orilla.
-What-Aptent-ES	197780	205660	Su rostro denota cierta inquietud. Camina de vuelta hacia la toalla sin prestar atención a sus pasos. Dos yates surcan el mar.
-What-Aptent-ES	208500	217700	Se inclina ligeramente para recoger la camisa y vuelve a alzar la mirada mientras se la pone. Después se agacha para recoger el resto de la ropa y seguir vistiéndose.
-What-Aptent-ES	218800	225610	Camina por un largo paseo rodeado de árboles de abundante follaje. Tiene el cuello de la camisa desabrochado y ya no lleva corbata.
-What-Aptent-ES	227220	230590	Sube por una montaña a través de un estrecho sendero pedregoso.
-What-Aptent-ES	233940	245650	Un hombre de mediana edad con barba canosa y ligeramente descuidada está sentado en un banco individual rodeado de vegetación. Sostiene un vaso de plástico con tapa y tamborilea sobre él con el dedo índice de la mano izquierda.
-What-Aptent-ES	248700	255800	Sonríe y dice que no con la cabeza. Continúa tocando el vaso como nervioso y finalmente quita la tapa. Contiene café solo.
-What-Aptent-ES	257700	260810	Mira el interior del vaso, bebe un trago y lo saborea.
-What-Aptent-ES	265660	276040	Sobreimpreso: Rick, el jubilado. Deja la tapa en uno de los dos bancos individuales que tiene a cada lado. Después bebe otro trago de café sin dejar de mover la pierna derecha nervioso.
-What-Aptent-ES	278000	280690	Deja el vaso junto a la tapa y da unas palmadas.
-What-Aptent-ES	284940	293120	Saca el móvil del bolsillo trasero del pantalón. Accede a la sección "contactos" y desliza el dedo por la pantalla hasta detenerse en Craig Anderson.
-What-Aptent-ES	296980	299060	Pulsa llamar con gesto de fastidio.
-What-Aptent-ES	325460	326700	Gesto de impotencia.
-What-Aptent-ES	329620	332100	De repente frunce el ceño y alza la mirada.
-What-Aptent-ES	336060	336930	Extrañado.
-What-Aptent-ES	351940	353900	Mueve la mano intentando explicarse.
-What-Aptent-ES	380100	382180	Vuelve a alzar la mirada extrañado.
-What-Aptent-ES	387020	388780	Esboza una pequeña sonrisa.
-What-Aptent-ES	398180	412580	El vaso de plástico reposa sobre el banco con la tapa puesta. Él se aleja mirando inquieto en todas direcciones y se adentra en un sendero. Una joven pelirroja con rizos está sentada frente a un ordenador portátil rodeada de apuntes.  Muerde el lápiz con hastío.
-What-Aptent-ES	418220	420580	Sobreimpreso: Jess, la estudiante.
-What-Aptent-ES	423020	424000	Busca el móvil.
-What-Aptent-ES	425660	429860	Finalmente lo encuentra entre los papeles. Descuelga y se lo lleva a la oreja.
-What-Aptent-ES	455620	456940	Arquea las cejas.
-What-Aptent-ES	464060	465580	Mueve la mano alterada.
-What-Aptent-ES	494300	501550	Mira hacia ambos lados, con gesto de extrañeza y temor. Ligeramente aliviada por el cese del ruido, baja la mirada para seguir estudiando.
-What-Aptent-ES	506620	507900	Se levanta de la silla.
-What-Aptent-ES	512780	519340	Ha salido a la calle con un abrigo marrón y un fular negro con estampado blanco. Sube una pendiente llena de vegetación.
-What-Aptent-ES	522220	527460	De repente gira la cabeza como intentando averiguar de dónde viene el sonido y prosigue su camino.
-What-Aptent-ES	530700	541060	Llega a una explanada y camina lentamente hacia James y Rick, que también están allí. Los tres dan vueltas sobre sí mismos moviendo la cabeza desconcertados. Les sorprende una voz.
-What-Aptent-ES	556540	560580	James mira a lo lejos haciendo visera con la mano para evitar el intenso sol.
-What-Aptent-ES	576260	577660	James da un paso adelante.
-What-Aptent-ES	586460	587540	Buscan.
-What-Aptent-ES	594940	596000	Gesto angustiado.
-What-Aptent-ES	642180	643410	Los mira fijamente.
-What-Aptent-ES	652140	653620	Jess escucha atenta.
-What-Aptent-ES	681100	681760	Serio.
-What-Aptent-ES	684700	686060	James reflexivo.
-What-Aptent-ES	700460	701680	Gestos de inquietud.
-What-Aptent-ES	707580	711340	James mira a Rick que parece dudar y Jess niega con la cabeza.
-What-Aptent-ES	715300	716810	Se mantiene expectante.
-What-Aptent-ES	717940	720100	De repente Rick abre los brazos.
-What-Aptent-ES	721060	721780	Sonríe.
-What-Aptent-ES	723400	724500	Mirando al cielo.
-What-Aptent-ES	725420	727260	James retrocede unos pasos.
-What-Aptent-ES	736580	741060	James se marcha con las manos en los bolsillos. Rick se apresura a alcanzarlo.
-What-Aptent-ES	744940	753080	Jess corre con ellos. Cuando los alcanza, James le da unas palmadas en la espalda. Mientras hablan se van alejando poco a poco en dirección a la vegetación.
-What-Aptent-ES	755900	760780	Una mujer negra tiende la ropa con el móvil sujeto entre la cabeza y el hombro izquierdo.
-What-Aptent-ES	762340	765220	No, no he terminado de tenderla. Tengo que darme prisa.
-What-Aptent-ES	767700	771620	No, ¿de qué me hablas? Sí, claro, las maletas están a punto...
-What-Aptent-ES	772420	774170	Mira extrañada a su alrededor.
-What-Aptent-ES	774700	777090	Oye, ahora no puedo hablar. Tengo que dejarte.
-What-Aptent-ES	777700	785430	Asustada y con la mirada perdida. Sobreimpreso: Zoé, la próxima. En negro y sobre fondo blanco: ¿qué pasa mientras...?
+Aptent-ES	2830	10500	En una playa, y bajo un cielo parcialmente nublado, se cruzan por la arena una pareja que pasea a un perro de gran tamaño y un hombre haciendo footing.
+Aptent-ES	11060	12290	El perro olisquea.
+Aptent-ES	13300	17150	Al oír el silbido corre con sus amos. Sobreimpreso con fondo blanco:
+Aptent-ES	21260	30300	Junto a la playa se detiene un coche blanco de alta gama. Saldrá el conductor hablando por el móvil, guardará su maletín en el maletero y cogerá un bolso de playa azul y blanco.
+Aptent-ES	52500	56240	Cuelga y guarda el móvil. Se lleva la mano al bolsillo interior del traje.
+Aptent-ES	59140	62330	Se pone unas gafas de sol de aviador doradas y mira al frente.
+Aptent-ES	65420	70350	Sobreimpreso: James, el empresario. Caminando por la playa se lleva el móvil a la oreja.
+Aptent-ES	92060	97120	Se tiende boca arriba y en bañador sobre una toalla. Deja el móvil junto a sus pertenencias.
+Aptent-ES	99420	109240	Permanece unos segundos con los ojos cerrados. Se lleva las manos a la cara y luego extiende los brazos sobre la arena. Con la mano recoge unos granos y los deja caer lentamente.
+Aptent-ES	114700	116140	Se incorpora y coge el móvil.
+Aptent-ES	141540	144100	Preocupado busca algo entre sus pertenencias.
+Aptent-ES	157500	159740	Deja el móvil a un lado y se levanta.
+Aptent-ES	163140	167490	Se aleja unos metros de la toalla mirando a lo lejos, en dirección al paseo marítimo.
+Aptent-ES	169400	175920	Se detiene y centra su atención en un punto fijo. Una gaviota vuela a unos metros de él agitando las alas con ímpetu.
+Aptent-ES	179820	183780	Dirige la mirada de un lado a otro de la playa, como desorientado.
+Aptent-ES	187420	191580	Da media vuelta y sin dejar de mirar en todas direcciones se acerca a la orilla.
+Aptent-ES	197780	205660	Su rostro denota cierta inquietud. Camina de vuelta hacia la toalla sin prestar atención a sus pasos. Dos yates surcan el mar.
+Aptent-ES	208500	217700	Se inclina ligeramente para recoger la camisa y vuelve a alzar la mirada mientras se la pone. Después se agacha para recoger el resto de la ropa y seguir vistiéndose.
+Aptent-ES	218800	225610	Camina por un largo paseo rodeado de árboles de abundante follaje. Tiene el cuello de la camisa desabrochado y ya no lleva corbata.
+Aptent-ES	227220	230590	Sube por una montaña a través de un estrecho sendero pedregoso.
+Aptent-ES	233940	245650	Un hombre de mediana edad con barba canosa y ligeramente descuidada está sentado en un banco individual rodeado de vegetación. Sostiene un vaso de plástico con tapa y tamborilea sobre él con el dedo índice de la mano izquierda.
+Aptent-ES	248700	255800	Sonríe y dice que no con la cabeza. Continúa tocando el vaso como nervioso y finalmente quita la tapa. Contiene café solo.
+Aptent-ES	257700	260810	Mira el interior del vaso, bebe un trago y lo saborea.
+Aptent-ES	265660	276040	Sobreimpreso: Rick, el jubilado. Deja la tapa en uno de los dos bancos individuales que tiene a cada lado. Después bebe otro trago de café sin dejar de mover la pierna derecha nervioso.
+Aptent-ES	278000	280690	Deja el vaso junto a la tapa y da unas palmadas.
+Aptent-ES	284940	293120	Saca el móvil del bolsillo trasero del pantalón. Accede a la sección "contactos" y desliza el dedo por la pantalla hasta detenerse en Craig Anderson.
+Aptent-ES	296980	299060	Pulsa llamar con gesto de fastidio.
+Aptent-ES	325460	326700	Gesto de impotencia.
+Aptent-ES	329620	332100	De repente frunce el ceño y alza la mirada.
+Aptent-ES	336060	336930	Extrañado.
+Aptent-ES	351940	353900	Mueve la mano intentando explicarse.
+Aptent-ES	380100	382180	Vuelve a alzar la mirada extrañado.
+Aptent-ES	387020	388780	Esboza una pequeña sonrisa.
+Aptent-ES	398180	412580	El vaso de plástico reposa sobre el banco con la tapa puesta. Él se aleja mirando inquieto en todas direcciones y se adentra en un sendero. Una joven pelirroja con rizos está sentada frente a un ordenador portátil rodeada de apuntes.  Muerde el lápiz con hastío.
+Aptent-ES	418220	420580	Sobreimpreso: Jess, la estudiante.
+Aptent-ES	423020	424000	Busca el móvil.
+Aptent-ES	425660	429860	Finalmente lo encuentra entre los papeles. Descuelga y se lo lleva a la oreja.
+Aptent-ES	455620	456940	Arquea las cejas.
+Aptent-ES	464060	465580	Mueve la mano alterada.
+Aptent-ES	494300	501550	Mira hacia ambos lados, con gesto de extrañeza y temor. Ligeramente aliviada por el cese del ruido, baja la mirada para seguir estudiando.
+Aptent-ES	506620	507900	Se levanta de la silla.
+Aptent-ES	512780	519340	Ha salido a la calle con un abrigo marrón y un fular negro con estampado blanco. Sube una pendiente llena de vegetación.
+Aptent-ES	522220	527460	De repente gira la cabeza como intentando averiguar de dónde viene el sonido y prosigue su camino.
+Aptent-ES	530700	541060	Llega a una explanada y camina lentamente hacia James y Rick, que también están allí. Los tres dan vueltas sobre sí mismos moviendo la cabeza desconcertados. Les sorprende una voz.
+Aptent-ES	556540	560580	James mira a lo lejos haciendo visera con la mano para evitar el intenso sol.
+Aptent-ES	576260	577660	James da un paso adelante.
+Aptent-ES	586460	587540	Buscan.
+Aptent-ES	594940	596000	Gesto angustiado.
+Aptent-ES	642180	643410	Los mira fijamente.
+Aptent-ES	652140	653620	Jess escucha atenta.
+Aptent-ES	681100	681760	Serio.
+Aptent-ES	684700	686060	James reflexivo.
+Aptent-ES	700460	701680	Gestos de inquietud.
+Aptent-ES	707580	711340	James mira a Rick que parece dudar y Jess niega con la cabeza.
+Aptent-ES	715300	716810	Se mantiene expectante.
+Aptent-ES	717940	720100	De repente Rick abre los brazos.
+Aptent-ES	721060	721780	Sonríe.
+Aptent-ES	723400	724500	Mirando al cielo.
+Aptent-ES	725420	727260	James retrocede unos pasos.
+Aptent-ES	736580	741060	James se marcha con las manos en los bolsillos. Rick se apresura a alcanzarlo.
+Aptent-ES	744940	753080	Jess corre con ellos. Cuando los alcanza, James le da unas palmadas en la espalda. Mientras hablan se van alejando poco a poco en dirección a la vegetación.
+Aptent-ES	755900	760780	Una mujer negra tiende la ropa con el móvil sujeto entre la cabeza y el hombro izquierdo.
+Aptent-ES	762340	765220	No, no he terminado de tenderla. Tengo que darme prisa.
+Aptent-ES	767700	771620	No, ¿de qué me hablas? Sí, claro, las maletas están a punto...
+Aptent-ES	772420	774170	Mira extrañada a su alrededor.
+Aptent-ES	774700	777090	Oye, ahora no puedo hablar. Tengo que dejarte.
+Aptent-ES	777700	785430	Asustada y con la mirada perdida. Sobreimpreso: Zoé, la próxima. En negro y sobre fondo blanco: ¿qué pasa mientras...?
 Aristia-ES	2630	10240	Una pareja con un gran danés camina por la playa. Se cruzan con un corredor que va en sentido contrario. El día es gris y van abrigados.
 Aristia-ES	17000	19000	Rótulo sobre la pantalla blanca.
 Aristia-ES	22040	26780	Un BMW blanco se detiene frente a la playa. El conductor habla por el móvil. 
@@ -122,377 +122,377 @@ Aristia-ES	772340	774350	Mira intrigada a su alrededor.
 Aristia-ES	775630	779280	Oye, ahora no puedo hablar. Tengo que dejarte. Guarda el móvil.
 Aristia-ES	779660	782310	Zoé, la próxima. Es negra y ronda los veinte. 
 Aristia-ES	784020	785240	¿Qué pasa mientras…?
-What-CEIAF-ES	2660	5920	Al amanecer, una pareja pasea con su perro por la playa.
-What-CEIAF-ES	8170	11000	Se cruzan con un hombre que va corriendo en chándal.
-What-CEIAF-ES	22900	26150	Un BMW de color blanco se detiene en el paseo marítimo
-What-CEIAF-ES	27800	30100	El conductor baja hablando por un teléfono móvil.
-What-CEIAF-ES	53000	55200	Se guarda el teléfono en el pantalón.
-What-CEIAF-ES	57360	61250	A continuación saca del bolsillo de la camisa unas gafas de sol y se las pone.
-What-CEIAF-ES	63460	66200	Sobreimpreso: JAMES, el empresario.
-What-CEIAF-ES	68280	71390	Poco después, deambula con una bolsa de playa al hombro.
-What-CEIAF-ES	92270	97150	Minutos más tarde, en la playa, James se tumba sobre una toalla con el torso desnudo.
-What-CEIAF-ES	99440	102040	Cierra los ojos y se lleva las manos a la cara
-What-CEIAF-ES	105780	109180	Luego extiende los brazos palpando suavemente la arena.
-What-CEIAF-ES	113100	116000	Se recuesta y coge el teléfono móvil.
-What-CEIAF-ES	142050	144100	James mira inquieto a su alrededor.
-What-CEIAF-ES	157510	160350	Suelta el teléfono móvil en la toalla y se incorpora
-What-CEIAF-ES	164080	166340	Camina descalzo por la orilla, mirando a su alrededor.
-What-CEIAF-ES	167410	169530	La playa está totalmente desierta
-What-CEIAF-ES	187100	191100	Se aproxima a la orilla, mostrando cierto recelo.
-What-CEIAF-ES	193150	198150	Es un hombre rubio con barba, de estatura media y complexión fuerte.
-What-CEIAF-ES	201150	205150	El extraño sonido que percibe lo mantiene alerta.
-What-CEIAF-ES	208100	214200	Regresa adonde tiene la toalla. Comienza a ponerse la camisa sin dejar de mirar alrededor.
-What-CEIAF-ES	218000	221120	Ya vestido, avanza solo por una arboleda.
-What-CEIAF-ES	226050	230150	Continúa la marcha subiendo por una ladera salpicada de arbustos.
-What-CEIAF-ES	233150	240050	En otro lugar, un hombre con barba cana y el pelo alborotado descansa con un vaso de plástico entre las manos.
-What-CEIAF-ES	241200	246140	Lleva una cadena plateada al cuello y viste una camiseta verde de tirantes.
-What-CEIAF-ES	249150	257000	Se distrae pasando un dedo sobre la tapa que cubre el envase. Lo abre y se lleva la bebida a los labios.
-What-CEIAF-ES	259000	260200	Prueba un poco.
-What-CEIAF-ES	265050	280000	Sobreimpreso: RICK, el jubilado. Su atuendo lo completan un pantalón vaquero y unas zapatillas deportivas. Rick está sentado solo en un banco de un parque, tomando café y moviendo con nerviosismo una pierna.
-What-CEIAF-ES	285100	293120	Saca de un bolsillo del pantalón un teléfono móvil. Desliza un dedo por la pantalla, revisando la lista de contactos.
-What-CEIAF-ES	296100	299050	Selecciona uno y marca llamada.
-What-CEIAF-ES	329100	332100	Rick alza la mirada al notar algo extraño.
-What-CEIAF-ES	380000	382050	Percibe el extraño sonido.
-What-CEIAF-ES	398000	403050	Rick se levanta y comienza a alejarse del parque, intentando localizar el sonido.
-What-CEIAF-ES	406050	411120	Ha dejado el vaso de plástico sobre uno de los bancos. Mientras, en una habitación.
-What-CEIAF-ES	417000	423050	Sobreimpreso: JESS, la estudiante. Es una adolescente con el pelo rizado.
-What-CEIAF-ES	425220	429630	Busca el teléfono móvil bajo un montón de papeles que tiene sobre la mesa.
-What-CEIAF-ES	494050	498880	Jess también percibe el extraño sonido en la habitación donde está estudiando.
-What-CEIAF-ES	509590	521049	Se levanta y se marcha. Segundos después, deambula por una zona boscosa percibiendo con mayor intensidad el extraño sonido. Se detiene un instante al llegar a una elevación.
-What-CEIAF-ES	527900	532450	Continúa caminando hacia una pradera donde se encuentran Rick y James.
-What-CEIAF-ES	536660	541510	Los tres miran con perplejidad a su alrededor, sin reparar en la presencia de los demás.
-What-CEIAF-ES	556040	560460	La chica y los dos hombres tratan de localizar con la mirada el lugar de donde procede la voz.
-What-CEIAF-ES	707000	712530	El jubilado niega con la cabeza mirando al empresario y a la estudiante, que reaccionan de igual modo.
-What-CEIAF-ES	715130	716930	Rick abre los brazos y sonríe.
-What-CEIAF-ES	736340	741480	El empresario y el jubilado se marchan del lugar mientras la estudiante se muestra pensativa.
-What-CEIAF-ES	745460	747780	Corre unos metros hasta darles alcance.
-What-CEIAF-ES	750580	752770	Los tres se marchan juntos del paraje.
-What-CEIAF-ES	756460	762050	En otro momento, una mujer negra habla por un teléfono móvil mientras tiende ropa en una azotea.
-What-CEIAF-ES	763800	766250	No, no he terminado de tenderla. Tengo que darme prisa.
-What-CEIAF-ES	767990	771050	No, ¿de qué hablas? Sí, claro, las maletas están a punto.
-What-CEIAF-ES	774990	777390	Oye, ahora no puedo hablar. Tengo que dejarte.
-What-CEIAF-ES	778660	781100	Sobreimpreso: ZOÉ, la próxima.
-What-CEIAF-ES	784010	785430	¿QUÉ OCURRE MIENTRAS.?
-What-CineAccesibleNavarra-ES	3040	16690	De día. Frente a un paseo marítimo... El cielo, luminoso, está cubierto de nubes blancas. Un hombre hace "footing". Una pareja pasea con un gran perro. Sobre fondo blanco.
-What-CineAccesibleNavarra-ES	22020	26040	Un coche blanco, de gama alta, se detiene frente al paseo marítimo.
-What-CineAccesibleNavarra-ES	27070	30810	El conductor se baja con un maletín, mientras habla con su móvil.
-What-CineAccesibleNavarra-ES	43790	44820	Abre el maletero.
-What-CineAccesibleNavarra-ES	52920	58760	Cuelga. Ha dejado el maletín y ha cogido una bolsa de playa. Se pone unas gafas de sol.
-What-CineAccesibleNavarra-ES	65670	68130	Sobreimpreso: James el empresario
-What-CineAccesibleNavarra-ES	69000	69880	Llama con su móvil.
-What-CineAccesibleNavarra-ES	93190	98370	Se ha quitado el traje y solo lleva un bañador. Se tumba sobre una toalla en la arena.
-What-CineAccesibleNavarra-ES	100820	103970	Se lleva las manos a los ojos... con gesto cansado...
-What-CineAccesibleNavarra-ES	112400	113590	Se incorpora y contesta 00:02:22
-What-CineAccesibleNavarra-ES	142050	143170	Mira a su alrededor.
-What-CineAccesibleNavarra-ES	157820	169620	Se levanta... y camina por la arena. Está sólo en la playa. James tiene unos 40 años, cabello corto pelirrojo y barba, también corta, del mismo color.
-What-CineAccesibleNavarra-ES	179110	183810	Extrañado, mira en todas direcciones buscando el origen del enigmático sonido.
-What-CineAccesibleNavarra-ES	187080	196840	Se aproxima hacia la orilla... gira... y regresa hacia sus pertenencias... Coge su ropa y vuelve a vestirse con su traje, ahora sin corbata.
-What-CineAccesibleNavarra-ES	215110	216510	Camina bajo una arboleda.
-What-CineAccesibleNavarra-ES	222940	225990	Sube por un camino de tierra hacia lo alto de un pequeño monte.
-What-CineAccesibleNavarra-ES	231800	237440	En otro lugar, un hombre de unos sesenta años está sentado con un vaso entre las manos.
-What-CineAccesibleNavarra-ES	239560	242390	Mira al cielo... y esboza una sonrisa.
-What-CineAccesibleNavarra-ES	248160	251780	Con gesto pensativo, mira el vaso, abre la tapa que lo cubre...
-What-CineAccesibleNavarra-ES	253720	255420	... y da un pequeño sorbo de café.
-What-CineAccesibleNavarra-ES	286000	287000	Tiene el cabello largo, canoso y despeinado. Luce barba del mismo color y grandes ojeras. Su aspecto general es bastante desaliñado. Viste pantalones azules y camiseta de tirantes verde. Está sentado en un parque público.
-What-CineAccesibleNavarra-ES	291000	295000	Saca su teléfono móvil... y busca un nombre entre los contactos del mismo.
-What-CineAccesibleNavarra-ES	295610	297040	Llama a Craig Anderson.
-What-CineAccesibleNavarra-ES	380530	380960	Alza la vista.
-What-CineAccesibleNavarra-ES	398160	403260	Cuelga... Se levanta, deja el café sobre el banco y comienza a caminar.
-What-CineAccesibleNavarra-ES	407970	415530	En una casa. Una joven de unos 20 años, luce melena pelirroja, larga y rizada. Sentada frente a un portátil.
-What-CineAccesibleNavarra-ES	418200	420820	Sobreimpreso: JESS, LA ESTUDIANTE.
-What-CineAccesibleNavarra-ES	422920	424040	Rebusca sobre la mesa.
-What-CineAccesibleNavarra-ES	428050	429040	Contesta a su móvil.
-What-CineAccesibleNavarra-ES	494570	496800	Cuelga y mira sorprendida hacia las paredes.
-What-CineAccesibleNavarra-ES	506910	507560	Se levanta...
-What-CineAccesibleNavarra-ES	510060	515430	...y sale de la casa... Camina entre maleza subiendo hacia lo alto del pequeño monte.
-What-CineAccesibleNavarra-ES	521050	522820	Llega hasta una gran explanada.
-What-CineAccesibleNavarra-ES	528980	534450	Los otros dos hombres ya están allí... Todos miran hacia el cielo desconcertados.
-What-CineAccesibleNavarra-ES	556690	559176	Los tres siguen mirando extrañados.
-What-CineAccesibleNavarra-ES	707566	710244	Los tres se miran entre sí, negando con la cabeza.
-What-CineAccesibleNavarra-ES	737266	743788	Rick sigue a James... Jess sonríe pensativa... y va tras ellos.
-What-CineAccesibleNavarra-ES	746633	752544	Los tres juntos caminando se alejan de la explanada... La imagen corta a negro.
-What-CineAccesibleNavarra-ES	755388	761233	En una terraza. Una mujer de unos 30 años de raza negra tiende la ropa mientras habla por móvil.
-What-CineAccesibleNavarra-ES	762700	765477	"NO, NO HE TERMINADO DE TENDERLA. TENGO QUE DARME PRISA." 
-What-CineAccesibleNavarra-ES	768588	772066	"NO, ¿DE QUÉ ME HABLAS? SÍ, CLARO. LAS MALETAS ESTÁN A PUNTO..." 
-What-CineAccesibleNavarra-ES	775300	777255	"OYE, AHORA NO PUEDO HABLAR. TENGO QUE DEJARTE." 
-What-CineAccesibleNavarra-ES	780066	782650	Sobreimpreso: ZOÉ, LA PRÓXIMA.
-What-CineAccesibleNavarra-ES	784871	787478	La imagen se congela. Sobre fondo blanco: 
-What-CineAccesibleNavarra-ES	788055	788975	¿QUÉ PASA MIENTRAS...?
-What-EdSol-ES	3550	9810	Amanece un día fresco y nublado en la playa. Una persona hace footing mientras una pareja pasea a su perro.
-What-EdSol-ES	22450	29930	En  la misma playa un ejecutivo de mediana edad, con traje y corbata, aparca su choche de alta gama mientras habla por el móvil.
-What-EdSol-ES	43390	45000	Cambia el maletín por una bolsa de playa.
-What-EdSol-ES	52650	54570	Cuelga el móvil con gesto de desagrado. 
-What-EdSol-ES	56490	61320	Saca las gafas de sol del bolsillo de su chaqueta y mientras se las pone trata de serenarse.
-What-EdSol-ES	65270	66690	James, el empresario.
-What-EdSol-ES	67380	71380	Camina por el acceso a la playa con su bolsa colgada mientras habla por el móvil.
-What-EdSol-ES	92000	98000	Ya en la playa, despojado de su traje y en bañador, James  se tumba sobre su toalla mientras trata de relajarse.
-What-EdSol-ES	113000	116000	Se incorpora, con gesto incómodo, para atender la llamada.
-What-EdSol-ES	129820	132000	Gira la cabeza al oír un ruido desconocido.
-What-EdSol-ES	140930	144380	Extrañado, trata de localizar el origen del sonido agudo que le perturba.
-What-EdSol-ES	161700	166360	Se pone en pie y camina por la playa intentando localizar la procedencia del sonido.
-What-EdSol-ES	206200	211470	Habiendo encontrado la dirección desde donde parece que se produce el sonido, decide vestirse para llegar hasta su origen.
-What-EdSol-ES	220000	226660	Ya alejado de la playa, con el traje y sin la corbata va siguiendo a pie el sonido perturbador que le dirige hacia un monte cercano.
-What-EdSol-ES	233700	244000	En un parque de la ciudad, un personaje masculino de mayor edad que el anterior, con barba y pelo canoso, camiseta de tirantes y aspecto descuidado sujeta un vaso de plástico entre sus manos.
-What-EdSol-ES	252380	255900	Destapa el vaso de café y le da un trago sin mucha gana.
-What-EdSol-ES	265320	266780	Rick, el jubilado.
-What-EdSol-ES	269280	277000	Mientras Rick está bebiendo su café sentado en un banco del parque, inconscientemente mueve su pierna derecha de forma repetitiva, mostrando su inquietud.
-What-EdSol-ES	279190	281190	Posa el vaso de café en el banco de al lado, 
-What-EdSol-ES	285890	287250	saca el móvil del bolsillo,
-What-EdSol-ES	289800	291360	busca entre sus contactos,
-What-EdSol-ES	296230	297110	y hace una llamada.
-What-EdSol-ES	329130	331300	Gira la cabeza al oír un ruido desconocido.
-What-EdSol-ES	380000	382000	Intenta localizar el sonido perturbador.
-What-EdSol-ES	398200	400840	Se pone en pie y camina para localizar el sonido. 
-What-EdSol-ES	410570	415900	En otro lugar, una joven de pelo rizado está sentada en su escritorio delante de un ordenador portátil.
-What-EdSol-ES	418180	419760	Jess, la estudiante.
-What-EdSol-ES	422880	424470	Busca el móvil entre sus apuntes.
-What-EdSol-ES	481900	483790	Gira la cabeza para  localizar el sonido.
-What-EdSol-ES	495720	497440	Preocupada, mira a ambos lados.
-What-EdSol-ES	509490	513690	Se pone en pie y sale al exterior en busca del origen del sonido perturbador.
-What-EdSol-ES	517230	520000	Se interna en el monte y avanza hacia la dirección del sonido.
-What-EdSol-ES	529280	532460	El sonido ha guiado a los tres protagonistas hacia un claro del monte.
-What-EdSol-ES	533770	537160	Desde direcciones han llegado andando hasta un mismo punto.
-What-EdSol-ES	538350	540230	Están desorientados y extrañados.
-What-EdSol-ES	556610	560000	Los tres miran en todas direcciones intentando localizar quien les habla.
-What-EdSol-ES	707570	708490	Se miran entre sí.
-What-EdSol-ES	736610	739230	James y Rick comienzan a andar de vuelta  hacia el monte,
-What-EdSol-ES	741270	746190	Jess duda por un segundo, sonríe y se une a ellos en una breve carrera.
-What-EdSol-ES	749230	753230	Los tres juntos caminan alegres de nuevo hacia el monte en dirección a la playa.
-What-EdSol-ES	757660	767350	En otro lugar, una mujer de color habla por el móvil mientras tiende la colada en la azotea. No, no he terminado de tenderla. Tengo que darme prisa. Gira la cabeza ante un ruido desconocido.
-What-EdSol-ES	768430	778000	No, de qué me hablas? Si claro, las maletas están a punto…. Extrañada trata de localizar el sonido perturbador Oye, ahora no puedo hablar. Tengo que dejarte.
-What-EdSol-ES	779000	781000	Zoé, la próxima
-What-EdSol-ES	783550	785030	Qué pasa mientras…
-What-Ericsson-ES	4040	14750	Una pareja camina junto a su perro por un paseo marítimo. Se cruzan con un hombre que hace footing. Todos visten ropa de abrigo. La playa está desierta y el cielo cubierto de nubes grises.
-What-Ericsson-ES	21810	24500	Un automóvil tipo coupé se detiene junto a la acera.
-What-Ericsson-ES	26700	30730	Dentro, un hombre de unos 45 años gesticula hablando por el móvil.
-What-Ericsson-ES	53200	63430	Tras sacar una bolsa del maletero, echa un vistazo a la playa y se coloca unas gafas de sol. Viste un elegante traje de chaqueta. Lleva el primer botón de la camisa desabrochado y la corbata floja.
-What-Ericsson-ES	65610	71850	Es James, el empresario. Minutos después, camina con la bolsa de playa al hombro mientras hace una llamada.
-What-Ericsson-ES	92310	98280	Poco después, con el torso desnudo, se deja caer pesadamente sobre una toalla extendida en la arena.
-What-Ericsson-ES	99860	109070	James, rubio y de piel clara, luce una barba recortada que empieza a poblarse de canas. Extiende los brazos y acaricia la arena con la yema de los dedos.
-What-Ericsson-ES	113220	114500	Se incorpora de mala gana.
-What-Ericsson-ES	141960	143420	Mira a su alrededor extrañado.
-What-Ericsson-ES	159610	162710	Se incorpora y se aleja unos metros examinando los alrededores. 
-What-Ericsson-ES	167000	171830	Viste unos calzoncillos tipo bóxer, el resto de su ropa está amontonada sobre la arena. 
-What-Ericsson-ES	179580	182160	Confuso, decide volver sobre sus pasos
-What-Ericsson-ES	187010	189420	Se detiene y vuelve a mirar intrigado a su alrededor.
-What-Ericsson-ES	195560	198330	Cada vez más inquieto,  se dirige hacia sus pertenencias.
-What-Ericsson-ES	206930	210660	Recoge la camisa del suelo y se la pone sin dejar de escudriñar el entorno. 
-What-Ericsson-ES	218610	221610	Minutos después, camina decidido bajo unos árboles. 
-What-Ericsson-ES	227040	230320	Luego, sube por un escarpado sendero entre la maleza. 
-What-Ericsson-ES	234680	243410	En un banco de un parque, con un vaso desechable entre las manos, un hombre de unos 65 años se agita disgustado. Sonríe levemente alzando la vista.
-What-Ericsson-ES	248480	251370	Niega con la cabeza mientras juguetea con la tapa del vaso. 
-What-Ericsson-ES	253300	261270	Echa un vistazo al líquido oscuro del interior y toma un sorbo. Tiene el pelo descuidado y canoso, barba de varios días y viste camiseta de tirantes.
-What-Ericsson-ES	265850	267350	Es Rick, el jubilado. 
-What-Ericsson-ES	270260	274970	Junto a él hay dos bancos vacíos. Rick, inquieto, agita su pierna sin parar.
-What-Ericsson-ES	278000	282130	Suelta el vaso y da unas palmadas dejándose caer sobre el respaldo del banco.
-What-Ericsson-ES	285520	290380	Hastiado, saca un Smartphone del bolsillo, lo abre y revisa la lista de contactos.
-What-Ericsson-ES	293870	296480	Se detiene en Craig Anderson y pulsa llamada.
-What-Ericsson-ES	380140	381610	Alza la mirada confundido.
-What-Ericsson-ES	398000	403710	Se aleja entusiasmado sin dejar de buscar con la mirada alrededor de sí. Ha dejado el vaso sobre el banco.
-What-Ericsson-ES	406660	413760	En una habitación, una joven de unos 20 años, de abundante melena pelirroja, trata de concentrarse frente a un portátil.
-What-Ericsson-ES	418740	420250	Es Jess, la estudiante.
-What-Ericsson-ES	422610	424530	Rebusca entre las cosas del escritorio 
-What-Ericsson-ES	425920	427890	Al fin, encuentra su teléfono móvil.
-What-Ericsson-ES	494310	498640	La joven, que removía nerviosa los papeles de su mesa, se detiene y mira a su alrededor. 
-What-Ericsson-ES	510460	512900	Intrigada, se levanta y sale a la calle.
-What-Ericsson-ES	515540	521370	Lleva un abrigo y un pañuelo en el cuello. Camina decidida y se adentra en una zona de abundante vegetación.
-What-Ericsson-ES	528340	532390	Al poco, llega a una amplia y soleada explanada donde están James y Rick.
-What-Ericsson-ES	533890	537140	Los hombres están de pie, mirando desconcertados a su alrededor.
-What-Ericsson-ES	540190	541790	La chica se dirige hacia ellos.
-What-Ericsson-ES	556130	559450	Extrañados, tratan de localizar la procedencia de la voz.
-What-Ericsson-ES	707550	709620	Se miran y niegan con la cabeza.
-What-Ericsson-ES	737040	739430	Jessica, pensativa, se ha quedado inmóvil.
-What-Ericsson-ES	745360	746100	Corre tras ellos.
-What-Ericsson-ES	748630	753030	James echa el brazo por el hombro de la chica y los tres se alejan satisfechos del descampado.
-What-Ericsson-ES	754340	761780	En una azotea, una mujer de mediana edad tiende la colada mientras habla por el móvil. Dice que tiene que darse prisa y que las maletas están a punto.
-What-Ericsson-ES	771000	772000	Confusa, dice que no puede hablar y corta la llamada.
-What-Ericsson-ES	779240	781000	Es Zoé, la próxima.
-What-Ericsson-ES	784000	785000	What happens while…
-What-K-Gala-ES	1300	10400	Audiodescripción Kaleidoscope 2016. Amanece en un paseo marítimo con la playa al fondo. Una pareja pasea con un perro. Un hombre hace footing.
-What-K-Gala-ES	16000	17270	Sobre fondo blanco.
-What-K-Gala-ES	22430	27960	Un hombre trajeado y con corbata aparca un coche deportivo blanco y sale hablando por teléfono.
-What-K-Gala-ES	52580	59490	Cuelga. Guardó un maletín y sacó una bolsa de rayas del maletero. Mira la playa, suspira y se pone unas gafas de sol.
-What-K-Gala-ES	64350	65890	James, el empresario.
-What-K-Gala-ES	67940	70000	Camina por el paseo llamando por el móvil.
-What-K-Gala-ES	92280	95720	Después, sin ropa, se tumba sobre una toalla en la arena.
-What-K-Gala-ES	101860	104080	Se frota los ojos y extiende sus brazos.
-What-K-Gala-ES	141650	142740	Mira a su alrededor
-What-K-Gala-ES	157720	164090	Cuelga y se levanta extrañado por el ruido. Camina por la orilla y la arena mirando, desconcertado, en todas direcciones.
-What-K-Gala-ES	169330	174420	Lleva un bóxer negro. Se para y anda sobre sus propios pasos preocupado por el ruido.
-What-K-Gala-ES	211110	212280	Comienza a vestirse.
-What-K-Gala-ES	219320	223620	Después, vestido con el traje, pero sin la corbata, camina por una arboleda.
-What-K-Gala-ES	227120	228670	Sube por un sendero empinado.
-What-K-Gala-ES	233990	243410	Un hombre de pelo rizado y canoso, barba desaliñada, cadena de plata al cuello, camiseta de tirantes y tatuajes tamborilea sus dedos en un vaso de plástico.
-What-K-Gala-ES	250320	253320	Quita la tapa al vaso y bebe café con gesto resignado.
-What-K-Gala-ES	259700	260770	Suspira inquieto.
-What-K-Gala-ES	265490	266840	Rick, el jubilado.
-What-K-Gala-ES	268890	276080	Es de día. Está sentado en unos bancos individuales en un parque rodeado de árboles. Mueve una pierna intranquilo y bebe el café.
-What-K-Gala-ES	278660	283010	Deja el vaso en un banco contiguo. Saca su smartphone y busca entre los contactos. 
-What-K-Gala-ES	295460	296980	Llama a Craig Anderson.
-What-K-Gala-ES	330030	331000	Mira a su alrededor.
-What-K-Gala-ES	380340	382430	Extrañado, mira en todas direcciones.
-What-K-Gala-ES	399170	401500	Cuelga y se aleja mirando hacia arriba y a los lados.
-What-K-Gala-ES	411550	415550	En una habitación, una chica de pelo rizado estudia frente a un ordenador. 
-What-K-Gala-ES	418330	419810	Jess, la estudiante.
-What-K-Gala-ES	423240	424750	Busca el móvil entre los apuntes.
-What-K-Gala-ES	428430	429200	Descuelga.
-What-K-Gala-ES	494240	496070	Cuelga y mira extrañada a su alrededor.
-What-K-Gala-ES	509650	512650	Se levanta. Después anda inquieta por la calle.
-What-K-Gala-ES	517790	519950	Sube una pendiente rodeada de vegetación. 
-What-K-Gala-ES	524960	527960	Se para, mira en todas direcciones y continua.
-What-K-Gala-ES	530900	537590	Llega a un claro soleado en el que están Rick y James. Se acerca poco a poco a ellos. Todos miran en todas direcciones.
-What-K-Gala-ES	541530	542150	Voz en off.
-What-K-Gala-ES	556270	558710	Sorprendidos, todos miran hacia arriba y a los lados.
-What-K-Gala-ES	594920	595880	Se encoje de hombros.
-What-K-Gala-ES	707820	709720	Se miran. Rick y Jessica niegan.
-What-K-Gala-ES	736540	740580	James se va, Rick le sigue. Jessica queda cabizbaja.
-What-K-Gala-ES	745170	750790	Se une. James le pasa el brazo por el hombro, Rick le extiende su mano y los tres caminan juntos.
-What-K-Gala-ES	754480	759710	La imagen funde a negro. Una mujer negra tiende ropa en una azotea mientras habla por el móvil.
-What-K-Gala-ES	762960	765860	No, no he terminado de tenderla. Tengo que darme prisa.
-What-K-Gala-ES	768380	785990	No, ¿de qué me hablas? Sí, claro, las maletas están a punto. Mira a su alrededor extrañada.Oye, ahora no puedo hablar. Tengo que dejarte. Cuelga. Zoé, la próxima. La imagen funde a negro. Sobre fondo blanco el título Qué pasa mientras.
-What-SDI-Media-ES	3370	9390	Es un día nuboso en una playa. Una pareja pasea por la arena con su perro. Por la orilla pasa un hombre haciendo footing
-What-SDI-Media-ES	10600	12200	El perro se para a olisquear algo.
-What-SDI-Media-ES	13630	16540	En animal atiende al silbido del amo y prosigue su camino.
-What-SDI-Media-ES	23150	30080	Un coche blanco circula junto al paseo marítimo. El conductor aparca mientras habla por el móvil. Se quita el cinturón y abre.
-What-SDI-Media-ES	52590	62800	Se trata de un hombre de unos cuarenta años con barba y piel clara. Viste traje de chaqueta y corbata. Cuelga el teléfono y mira hacia la playa. Saca del bolsillo unas gafas de sol y se las pone. 
-What-SDI-Media-ES	65740	67500	JAMES. EL EMPRESARIO.
-What-SDI-Media-ES	68020	71410	James camina con una bolsa de playa al hombro. Marca en su teléfono.
-What-SDI-Media-ES	92760	96580	Más tarde, en la playa, James se tumba boca arriba sobre una toalla.
-What-SDI-Media-ES	100150	108790	Tiene el torso desnudo y los ojos cerrados.  Se pasa las manos por la cara y extiende los brazos dejándolos caer a cada lado. Revuelve la arena con los dedos.
-What-SDI-Media-ES	141820	144000	Frunce el ceño y mira entre sus cosas.
-What-SDI-Media-ES	157820	159520	Suelta el teléfono y se pone en pie. 
-What-SDI-Media-ES	163420	165830	Camina hacia la orilla, está en calzoncillos. 
-What-SDI-Media-ES	170620	175190	Da algunos pasos sin rumbo mirando extrañado a su alrededor, como si buscara algo. 
-What-SDI-Media-ES	178330	180790	Queda quieto unos segundos y vuelve hacia su toalla.
-What-SDI-Media-ES	184350	190420	Se para y da media vuelta alarmado. Retoma el paso dibujando pisadas inconexas en la arena. 
-What-SDI-Media-ES	198500	202400	James vuelve hacia su toalla mirando hacia el cielo con cara de desconcierto.
-What-SDI-Media-ES	209079	211590	Coge la camisa y se la pone sin relajar el ceño.
-What-SDI-Media-ES	219490	226150	Más tarde, James ha abandonado la playa. Lleva puesto de nuevo el traje de chaqueta sin la corbata. Camina por una arboleda.
-What-SDI-Media-ES	227580	232190	Llega hasta una colina llena de arbustos y cactus. Comienza a subir por una senda de tierra.
-What-SDI-Media-ES	234020	237030	En otro lugar, alguien sostiene un vaso térmico con tapadera.
-What-SDI-Media-ES	238030	245800	Se trata de un hombre de unos sesenta años con barbas, ojos saltones y pelo largo desaliñado. Viste camiseta de tirantes y lleva una cadena de eslabones al cuello.
-What-SDI-Media-ES	248100	250000	Toquetea aburrido la tapadera del vaso
-What-SDI-Media-ES	252890	254530	La abre, está lleno de café.
-What-SDI-Media-ES	257850	259190	El hombre observa el café y bebe. 
-What-SDI-Media-ES	260590	262650	Mira hacia el frente con desencanto en sus ojos. 
-What-SDI-Media-ES	265550	267000	RICK. EL JUBILADO.
-What-SDI-Media-ES	268870	274930	Rick está sentado en un banco individual en un parque. Bebe un trago más de café mientras mueve nervioso una pierna.
-What-SDI-Media-ES	278890	282390	Deja el vaso en el banco de al lado y se recuesta en el respaldo del suyo.
-What-SDI-Media-ES	285530	290160	Saca el teléfono móvil del bolsillo trasero del pantalón y busca en la agenda de contactos.
-What-SDI-Media-ES	296380	298160	Marca GRAIG ANDERSON.
-What-SDI-Media-ES	380470	382090	Mira extrañado hacia el cielo.
-What-SDI-Media-ES	398630	403540	Rick sonríe y cuelga. Se pone en pie y se aleja del banco dejando olvidado el vaso de café.
-What-SDI-Media-ES	404940	408580	Abandona el parque dando pasos de un lado a otro y mirando hacia el cielo.
-What-SDI-Media-ES	411380	412360	En otra parte. 
-What-SDI-Media-ES	413650	415360	Una chica frente a un ordenador.
-What-SDI-Media-ES	418320	419990	JESS. LA ESTUDIANTE.
-What-SDI-Media-ES	422490	424060	Tiene el pelo rizado y rojo. 
-What-SDI-Media-ES	425990	428620	Rebusca entre unos papeles, encuentra el móvil.
-What-SDI-Media-ES	482700	483600	Se rasca el oído.
-What-SDI-Media-ES	495620	498170	Cuelga y mira de lado a lado con gesto extrañado.
-What-SDI-Media-ES	503980	505640	Se sobresalta y mira hacia el techo.
-What-SDI-Media-ES	511630	515500	Jess está en la calle. Se ha puesto el abrigo. Camina aturdida en busca de algo.
-What-SDI-Media-ES	518440	520740	Sube por un montículo lleno de arbustos y maleza. 
-What-SDI-Media-ES	522990	525220	Se para y mira desconfiada a su alrededor.
-What-SDI-Media-ES	526580	528680	Continúa y se pierde entre la vegetación.
-What-SDI-Media-ES	531160	536520	Jess llega a un descampado donde también están Rick y James. La luz del sol brilla con fuerza.
-What-SDI-Media-ES	537840	540220	Los tres miran desconcertados de lado a lado.
-What-SDI-Media-ES	556760	560150	Giran sobre sí mismos con cara de asombro y mirando hacia el cielo.
-What-SDI-Media-ES	595000	596170	Él se encoge de hombros.
-What-SDI-Media-ES	708640	711190	Rick niega con la cabeza, Jess también. 
-What-SDI-Media-ES	718900	720120	Rick alza los brazos.
-What-SDI-Media-ES	736770	741350	James camina hacia los arbustos, Rick le sigue. Jess queda pensativa.
-What-SDI-Media-ES	746130	753010	Corre hacia ellos y James le rodea los hombros con el brazo. Los tres caminan hacia el bosque de matorrales y abandonan el descampado.
-What-SDI-Media-ES	758290	762070	Fundido a negro. Una mujer tiende la ropa mientras habla por teléfono.
-What-SDI-Media-ES	762660	766400	En subtítulos. No, no he terminado de tenderla. Tengo que darme prisa.
-What-SDI-Media-ES	767080	771340	No, ¿de qué me hablas? Sí, claro las maletas están a punto...
-What-SDI-Media-ES	772990	774220	Se gira con gesto confuso.
-What-SDI-Media-ES	775430	777710	Oye, ahora no puedo hablar. Tengo que dejarte.
-What-SDI-Media-ES	778030	779200	Cuelga y frunce el ceño.
-What-SDI-Media-ES	780000	781450	ZOé. LA PRÓXIMA.
-What-SDI-Media-ES	782900	787830	Fundido a negro. Sobre un fondo blanco surge el rótulo: ¿QUé PASA MIENTRAS…?
-What-Tragora-ES	1300	15400	Por la mañana, en una playa, una pareja pasea con su perro, mientras un hombre que corre se cruza con ellos. El perro, un gran danés, se entretiene en unos hierbajos y olfatea la zona. Su dueño, al darse cuenta de que se queda atrás, lo llama. El perro obedece y se va con ellos.
-What-Tragora-ES	17000	18710	0Sobreimpreso en pantalla…
-What-Tragora-ES	22000	30530	Un deportivo blanco de alta gama se detiene junto a la avenida de la playa. En su interior, un hombre de unos 50 años habla por el móvil y sale del vehículo.
-What-Tragora-ES	53000	71000	Enfadado, cuelga y suspira. El hombre, alto y apuesto, con barba, lleva traje y corbata. Introduce la mano en el bolsillo izquierdo de la chaqueta, saca unas gafas de sol de estilo aviador y se las pone. Sobreimpreso en pantalla: James, el empresario. Poco después, pasea con el móvil en la oreja y un bolso de rayas en el hombro.
-What-Tragora-ES	93000	98220	Minutos más tarde, algo cansado, se tumba en la playa sobre una toalla y toma el sol tranquilamente.
-What-Tragora-ES	99050	108300	James se lleva las manos a la cara y se restriega un poco los ojos. A continuación, deja caer las manos sobre la arena y juguetea con ella cogiendo un puñado y soltándolo.
-What-Tragora-ES	112000	113000	Se incorpora.
-What-Tragora-ES	141790	143140	Mira a su alrededor.
-What-Tragora-ES	158000	167000	Cuelga el teléfono y lo lanza a un lado. Extrañado por el sonido, se levanta y empieza a caminar junto a la orilla del mar. Lleva un bañador de tipo bóxer negro.
-What-Tragora-ES	169000	177000	El ruido le llama la atención e intenta averiguar de dónde procede. Camina alrededor y centra la mirada en varios puntos distintos.
-What-Tragora-ES	180000	183210	Da unos pequeños pasos hacia atrás y de repente…
-What-Tragora-ES	190000	199750	De nuevo, da unos pasos más alrededor mientras intenta descubrir de dónde proviene el sonido. A continuación, sigue caminando y, ahora, fija su mirada en un punto superior.
-What-Tragora-ES	204210	212000	Se acerca al lugar donde había dejado la ropa y se pone la camisa. Mientras se va vistiendo, continúa mirando un punto en lo alto. Se agacha para recoger el resto de sus cosas y se va.
-What-Tragora-ES	218020	232130	Poco más tarde, vestido ya con el traje pero sin corbata, sigue caminando absorto en el ruido. Abandona la playa, llega a la avenida y sube por una montaña siguiendo un camino. Decisivo y con cuidado, consigue subir el empinado sendero.
-What-Tragora-ES	233000	239470	Mientras tanto, sentado en el banco de un parque, un hombre de unos 60 años sostiene un café en un vaso de plástico cerrado.
-What-Tragora-ES	240920	247090	 Tiene barba y el pelo largo, con un aspecto desaliñado. Pensativo, niega con la cabeza.
-What-Tragora-ES	250290	262000	Indeciso, hace un círculo con el dedo en la tapa del café y la retira. Cuando se lo lleva a la boca, se detiene y mira el contenido fijamente. Segundos más tarde, toma un sorbo y lo saborea.
-What-Tragora-ES	264270	301160	Sobreimpreso en pantalla: Rick, el jubilado. Va vestido con una camiseta de tirantes, un pantalón vaquero y unas zapatillas deportivas. Sentado a la sombra de unos árboles, toma el café al tiempo que mueve incesantemente la pierda derecha. A continuación, lo deposita en un banco que tiene al lado. Nervioso, da unas palmadas, se frota las manos e, inclinándose, saca el teléfono móvil que tiene en el bolsillo trasero. Levanta la funda y empieza a mirar entre su lista de contactos. Al llegar al nombre de Craig Anderson, pulsa el botón de llamada y se lleva el móvil a la oreja. Con semblante serio, espera respuesta.
-What-Tragora-ES	329460	332000	Extrañado por el ruido, mira a su alrededor.
-What-Tragora-ES	380120	382000	El ruido le llama la atención.
-What-Tragora-ES	398560	413750	Rick se levanta del banco, cuelga y vuelve a poner el móvil en el bolsillo. Sorprendido por el sonido, empieza a caminar mirando de un lado para otro. Deja olvidado el café. Mientras tanto, una chica pelirroja de unos 20 años estudia en su casa. Parece agobiada.
-What-Tragora-ES	417000	420000	Sobreimpreso en pantalla: Jess, la estudiante.
-What-Tragora-ES	420920	423090	Jess busca el móvil en el escritorio,
-What-Tragora-ES	425000	427460	hasta que lo encuentra debajo de unos apuntes.
-What-Tragora-ES	494410	503000	Muy extrañada, cuelga la llamada y mira alrededor de su habitación intentando averiguar de dónde procede el sonido. Cuando se dispone a mirar sus apuntes…
-What-Tragora-ES	506520	508000	De repente, se levanta.
-What-Tragora-ES	510530	530330	Jess sale de su casa y comienza a caminar atraída por el sonido. Lleva una cazadora y un pañuelo alrededor del cuello. Con decisión, empieza a subir por una montaña. De repente, se detiene, mira a un lado y a otro e identifica finalmente desde dónde viene el sonido. A continuación, avanza rápidamente hacia este.
-What-Tragora-ES	533000	542000	Jess ha llegado a una explanada donde también se encuentran James y Rick. Estos, mediante señas, se preguntan si también escuchan el mismo sonido.
-What-Tragora-ES	556170	560870	James, Rick y Jess, sorprendidos por la voz que escuchan, miran en todas direcciones.
-What-Tragora-ES	595000	596400	Rick se emociona.
-What-Tragora-ES	700000	702000	Rick se ríe tímidamente.
-What-Tragora-ES	707000	712000	Los tres se cruzan las miradas. Rick, dubitativo, niega con la cabeza, al igual que Jess.
-What-Tragora-ES	717450	720310	Rick mira al cielo, con los brazos abiertos.
-What-Tragora-ES	736720	743760	James empieza a caminar y, tranquilo, mete las manos en los bolsillos. Rick le sigue. Jess se ha quedado pensativa, pero…
-What-Tragora-ES	745000	761870	Jess da unas pocas zancadas y los alcanza enseguida. Ellos miran atrás y, cariñosamente, James le pone la mano por encima y Rick hace lo mismo. Poco a poco se van alejando de la explanada y vuelven al mismo lugar por el que subieron. En otro lugar, una mujer habla por teléfono mientras tiende la ropa.
-What-Tragora-ES	772000	774000	Sorprendida, mira a su alrededor.
-What-Tragora-ES	778000	787000	Cuelga el teléfono, extrañada. Sobreimpreso en pantalla: Zoé, la próxima. Fundido en negro. Sobre un fondo blanco con letras negras: "Qué pasa mientras…"
-What-Sonidos-ES	3980	13020	En una playa casi vacía una pareja pasea un perro y un hombre hace footing. La pareja lleva ropa de abrigo y el cielo está nublado.
-What-Sonidos-ES	17600	19130	Sobreescrito en pantalla.
-What-Sonidos-ES	22242	30630	Un coche de alta gama aparca frente a la playa. Un hombre trajeado se baja, abre el maletero y cambia su maletín por una bolsa de playa.
-What-Sonidos-ES	53390	59930	El hombre, de unos cincuenta años y con barba, saca unas gafas de sol del bolsillo de su chaqueta y se las pone.
-What-Sonidos-ES	64570	67650	Sobreescrito en pantalla: JAMES. EL EMPRESARIO.
-What-Sonidos-ES	68180	71360	James camina con la bolsa de playa al hombro y llama.
-What-Sonidos-ES	92580	97200	Sobre la arena, el traje oscuro de James reposa hecho un revoltillo.
-What-Sonidos-ES	99970	108620	James se tumba a su lado, boca arriba, y se queda tendido. Después se frota los ojos, abre los brazos y juguetea con la arena.
-What-Sonidos-ES	141890	143660	Mira extrañado a su alrededor
-What-Sonidos-ES	157890	164050	Deja el móvil, se levanta y camina hasta el agua mirando al rededor. Sólo lleva los slips.
-What-Sonidos-ES	168110	170580	Camina sin rumbo fijo, titubeando.
-What-Sonidos-ES	175560	181290	Se da la vuelta, se para un momento y otea con los ojos entornados y frunciendo el ceño.
-What-Sonidos-ES	193230	197440	Camina hacia el agua mirando alrededor y después vuelve a su ropa.
-What-Sonidos-ES	208720	211440	Se pone la camisa sin dejar de mirar al rededor.
-What-Sonidos-ES	219590	223990	Por una calle flanqueada por grandes árboles, James camina ya vestido.
-What-Sonidos-ES	227990	232530	Más tarde asciende por un sendero entre matorrales la ladera de un monte.
-What-Sonidos-ES	234480	237110	Unas manos sostienen un vaso de plástico blanco
-What-Sonidos-ES	237770	243930	Un hombre de unos sesenta años, con pelo desaliñado y barba canosa mira a su alrededor desde el banco de un parque.
-What-Sonidos-ES	249510	251640	Acaricia la tapa del vaso de plástico.
-What-Sonidos-ES	253320	257200	Lo abre y bebe un trago. Tiene tatuajes, collar y pulsera.
-What-Sonidos-ES	265290	268470	Sobreescrito en pantalla: RICK. EL JUBILADO.
-What-Sonidos-ES	269380	278850	Rick deja la tapa en el banco de al lado. Está sentado. Lleva una camiseta verde de tirantes por dentro del pantalón y mueve sin parar la pierna derecha.
-What-Sonidos-ES	286296	291130	Saca el móvil del bolsillo trasero de su pantalón y busca entre sus contactos.
-What-Sonidos-ES	296637	299280	Selecciona a Craig  Anderson. Llama.
-What-Sonidos-ES	331470	332420	Mira al rededor
-What-Sonidos-ES	380920	382090	Mira hacia arriba
-What-Sonidos-ES	399430	405060	El vaso queda sobre el banco y Rick se aleja, sin dejar de mirar hacia arriba y a los lados.
-What-Sonidos-ES	411480	413440	Una adolescente muerde un lápiz.
-What-Sonidos-ES	418250	421400	Sobreescrito en pantalla. JESS. LA ESTUDIANTE.
-What-Sonidos-ES	426550	429720	Rebusca por su mesa, entre papeles y su ordenador.
-What-Sonidos-ES	495430	500520	Jess mira hacia el techo y las paredes. Tiene larga melena pelirroja y rizada.
-What-Sonidos-ES	512460	521630	De día, asciende por una ladera entre hierbas y arbustos. Lleva abrigo y cada poco se para y mira alrededor. Luego sale corriendo.
-What-Sonidos-ES	531510	540320	En una explanada, James, Rick y Jess miran alrededor. Rick y James están frente a frente, Jess está detrás de  Rick.
-What-Sonidos-ES	557480	560960	Miran a su alrededor, James usa la mano como visera.
-What-Sonidos-ES	708460	711910	Se miran entre ellos. Rick y Jess niegan.
-What-Sonidos-ES	737330	741680	Rick sigue a James, Jess se queda parada y levanta una ceja
-What-Sonidos-ES	745640	750080	Corre tras ellos, se sitúa entre los dos y James le pone una mano en el hombro.
-What-Sonidos-ES	752450	754460	Los tres se alejan caminando.
-What-Sonidos-ES	759000	762170	Una mujer tiende la ropa mientras habla por el móvil.
-What-Sonidos-ES	762657	765510	No, no he terminado de tenderla. Tengo que darme prisa.
-What-Sonidos-ES	768720	772026	No, ¿de qué me hablas? Si, claro, las maletas están a punto...
-What-Sonidos-ES	773270	774380	Mira a su alrededor
-What-Sonidos-ES	774840	776850	Oye no puedo hablar. Tengo que dejarte.
-What-Sonidos-ES	779540	782350	Sobreescrito en pantalla. ZOE. LA PRÓXIMA.
-What-Sonidos-ES	783370	786400	Sobreescrito en pantalla. Qué pasa mientras....
+CEIAF-ES	2660	5920	Al amanecer, una pareja pasea con su perro por la playa.
+CEIAF-ES	8170	11000	Se cruzan con un hombre que va corriendo en chándal.
+CEIAF-ES	22900	26150	Un BMW de color blanco se detiene en el paseo marítimo
+CEIAF-ES	27800	30100	El conductor baja hablando por un teléfono móvil.
+CEIAF-ES	53000	55200	Se guarda el teléfono en el pantalón.
+CEIAF-ES	57360	61250	A continuación saca del bolsillo de la camisa unas gafas de sol y se las pone.
+CEIAF-ES	63460	66200	Sobreimpreso: JAMES, el empresario.
+CEIAF-ES	68280	71390	Poco después, deambula con una bolsa de playa al hombro.
+CEIAF-ES	92270	97150	Minutos más tarde, en la playa, James se tumba sobre una toalla con el torso desnudo.
+CEIAF-ES	99440	102040	Cierra los ojos y se lleva las manos a la cara
+CEIAF-ES	105780	109180	Luego extiende los brazos palpando suavemente la arena.
+CEIAF-ES	113100	116000	Se recuesta y coge el teléfono móvil.
+CEIAF-ES	142050	144100	James mira inquieto a su alrededor.
+CEIAF-ES	157510	160350	Suelta el teléfono móvil en la toalla y se incorpora
+CEIAF-ES	164080	166340	Camina descalzo por la orilla, mirando a su alrededor.
+CEIAF-ES	167410	169530	La playa está totalmente desierta
+CEIAF-ES	187100	191100	Se aproxima a la orilla, mostrando cierto recelo.
+CEIAF-ES	193150	198150	Es un hombre rubio con barba, de estatura media y complexión fuerte.
+CEIAF-ES	201150	205150	El extraño sonido que percibe lo mantiene alerta.
+CEIAF-ES	208100	214200	Regresa adonde tiene la toalla. Comienza a ponerse la camisa sin dejar de mirar alrededor.
+CEIAF-ES	218000	221120	Ya vestido, avanza solo por una arboleda.
+CEIAF-ES	226050	230150	Continúa la marcha subiendo por una ladera salpicada de arbustos.
+CEIAF-ES	233150	240050	En otro lugar, un hombre con barba cana y el pelo alborotado descansa con un vaso de plástico entre las manos.
+CEIAF-ES	241200	246140	Lleva una cadena plateada al cuello y viste una camiseta verde de tirantes.
+CEIAF-ES	249150	257000	Se distrae pasando un dedo sobre la tapa que cubre el envase. Lo abre y se lleva la bebida a los labios.
+CEIAF-ES	259000	260200	Prueba un poco.
+CEIAF-ES	265050	280000	Sobreimpreso: RICK, el jubilado. Su atuendo lo completan un pantalón vaquero y unas zapatillas deportivas. Rick está sentado solo en un banco de un parque, tomando café y moviendo con nerviosismo una pierna.
+CEIAF-ES	285100	293120	Saca de un bolsillo del pantalón un teléfono móvil. Desliza un dedo por la pantalla, revisando la lista de contactos.
+CEIAF-ES	296100	299050	Selecciona uno y marca llamada.
+CEIAF-ES	329100	332100	Rick alza la mirada al notar algo extraño.
+CEIAF-ES	380000	382050	Percibe el extraño sonido.
+CEIAF-ES	398000	403050	Rick se levanta y comienza a alejarse del parque, intentando localizar el sonido.
+CEIAF-ES	406050	411120	Ha dejado el vaso de plástico sobre uno de los bancos. Mientras, en una habitación.
+CEIAF-ES	417000	423050	Sobreimpreso: JESS, la estudiante. Es una adolescente con el pelo rizado.
+CEIAF-ES	425220	429630	Busca el teléfono móvil bajo un montón de papeles que tiene sobre la mesa.
+CEIAF-ES	494050	498880	Jess también percibe el extraño sonido en la habitación donde está estudiando.
+CEIAF-ES	509590	521049	Se levanta y se marcha. Segundos después, deambula por una zona boscosa percibiendo con mayor intensidad el extraño sonido. Se detiene un instante al llegar a una elevación.
+CEIAF-ES	527900	532450	Continúa caminando hacia una pradera donde se encuentran Rick y James.
+CEIAF-ES	536660	541510	Los tres miran con perplejidad a su alrededor, sin reparar en la presencia de los demás.
+CEIAF-ES	556040	560460	La chica y los dos hombres tratan de localizar con la mirada el lugar de donde procede la voz.
+CEIAF-ES	707000	712530	El jubilado niega con la cabeza mirando al empresario y a la estudiante, que reaccionan de igual modo.
+CEIAF-ES	715130	716930	Rick abre los brazos y sonríe.
+CEIAF-ES	736340	741480	El empresario y el jubilado se marchan del lugar mientras la estudiante se muestra pensativa.
+CEIAF-ES	745460	747780	Corre unos metros hasta darles alcance.
+CEIAF-ES	750580	752770	Los tres se marchan juntos del paraje.
+CEIAF-ES	756460	762050	En otro momento, una mujer negra habla por un teléfono móvil mientras tiende ropa en una azotea.
+CEIAF-ES	763800	766250	No, no he terminado de tenderla. Tengo que darme prisa.
+CEIAF-ES	767990	771050	No, ¿de qué hablas? Sí, claro, las maletas están a punto.
+CEIAF-ES	774990	777390	Oye, ahora no puedo hablar. Tengo que dejarte.
+CEIAF-ES	778660	781100	Sobreimpreso: ZOÉ, la próxima.
+CEIAF-ES	784010	785430	¿QUÉ OCURRE MIENTRAS.?
+NavarradeCine-ES	3040	16690	De día. Frente a un paseo marítimo... El cielo, luminoso, está cubierto de nubes blancas. Un hombre hace "footing". Una pareja pasea con un gran perro. Sobre fondo blanco.
+NavarradeCine-ES	22020	26040	Un coche blanco, de gama alta, se detiene frente al paseo marítimo.
+NavarradeCine-ES	27070	30810	El conductor se baja con un maletín, mientras habla con su móvil.
+NavarradeCine-ES	43790	44820	Abre el maletero.
+NavarradeCine-ES	52920	58760	Cuelga. Ha dejado el maletín y ha cogido una bolsa de playa. Se pone unas gafas de sol.
+NavarradeCine-ES	65670	68130	Sobreimpreso: James el empresario
+NavarradeCine-ES	69000	69880	Llama con su móvil.
+NavarradeCine-ES	93190	98370	Se ha quitado el traje y solo lleva un bañador. Se tumba sobre una toalla en la arena.
+NavarradeCine-ES	100820	103970	Se lleva las manos a los ojos... con gesto cansado...
+NavarradeCine-ES	112400	113590	Se incorpora y contesta 00:02:22
+NavarradeCine-ES	142050	143170	Mira a su alrededor.
+NavarradeCine-ES	157820	169620	Se levanta... y camina por la arena. Está sólo en la playa. James tiene unos 40 años, cabello corto pelirrojo y barba, también corta, del mismo color.
+NavarradeCine-ES	179110	183810	Extrañado, mira en todas direcciones buscando el origen del enigmático sonido.
+NavarradeCine-ES	187080	196840	Se aproxima hacia la orilla... gira... y regresa hacia sus pertenencias... Coge su ropa y vuelve a vestirse con su traje, ahora sin corbata.
+NavarradeCine-ES	215110	216510	Camina bajo una arboleda.
+NavarradeCine-ES	222940	225990	Sube por un camino de tierra hacia lo alto de un pequeño monte.
+NavarradeCine-ES	231800	237440	En otro lugar, un hombre de unos sesenta años está sentado con un vaso entre las manos.
+NavarradeCine-ES	239560	242390	Mira al cielo... y esboza una sonrisa.
+NavarradeCine-ES	248160	251780	Con gesto pensativo, mira el vaso, abre la tapa que lo cubre...
+NavarradeCine-ES	253720	255420	... y da un pequeño sorbo de café.
+NavarradeCine-ES	286000	287000	Tiene el cabello largo, canoso y despeinado. Luce barba del mismo color y grandes ojeras. Su aspecto general es bastante desaliñado. Viste pantalones azules y camiseta de tirantes verde. Está sentado en un parque público.
+NavarradeCine-ES	291000	295000	Saca su teléfono móvil... y busca un nombre entre los contactos del mismo.
+NavarradeCine-ES	295610	297040	Llama a Craig Anderson.
+NavarradeCine-ES	380530	380960	Alza la vista.
+NavarradeCine-ES	398160	403260	Cuelga... Se levanta, deja el café sobre el banco y comienza a caminar.
+NavarradeCine-ES	407970	415530	En una casa. Una joven de unos 20 años, luce melena pelirroja, larga y rizada. Sentada frente a un portátil.
+NavarradeCine-ES	418200	420820	Sobreimpreso: JESS, LA ESTUDIANTE.
+NavarradeCine-ES	422920	424040	Rebusca sobre la mesa.
+NavarradeCine-ES	428050	429040	Contesta a su móvil.
+NavarradeCine-ES	494570	496800	Cuelga y mira sorprendida hacia las paredes.
+NavarradeCine-ES	506910	507560	Se levanta...
+NavarradeCine-ES	510060	515430	...y sale de la casa... Camina entre maleza subiendo hacia lo alto del pequeño monte.
+NavarradeCine-ES	521050	522820	Llega hasta una gran explanada.
+NavarradeCine-ES	528980	534450	Los otros dos hombres ya están allí... Todos miran hacia el cielo desconcertados.
+NavarradeCine-ES	556690	559176	Los tres siguen mirando extrañados.
+NavarradeCine-ES	707566	710244	Los tres se miran entre sí, negando con la cabeza.
+NavarradeCine-ES	737266	743788	Rick sigue a James... Jess sonríe pensativa... y va tras ellos.
+NavarradeCine-ES	746633	752544	Los tres juntos caminando se alejan de la explanada... La imagen corta a negro.
+NavarradeCine-ES	755388	761233	En una terraza. Una mujer de unos 30 años de raza negra tiende la ropa mientras habla por móvil.
+NavarradeCine-ES	762700	765477	"NO, NO HE TERMINADO DE TENDERLA. TENGO QUE DARME PRISA." 
+NavarradeCine-ES	768588	772066	"NO, ¿DE QUÉ ME HABLAS? SÍ, CLARO. LAS MALETAS ESTÁN A PUNTO..." 
+NavarradeCine-ES	775300	777255	"OYE, AHORA NO PUEDO HABLAR. TENGO QUE DEJARTE." 
+NavarradeCine-ES	780066	782650	Sobreimpreso: ZOÉ, LA PRÓXIMA.
+NavarradeCine-ES	784871	787478	La imagen se congela. Sobre fondo blanco: 
+NavarradeCine-ES	788055	788975	¿QUÉ PASA MIENTRAS...?
+EdSol-ES	3550	9810	Amanece un día fresco y nublado en la playa. Una persona hace footing mientras una pareja pasea a su perro.
+EdSol-ES	22450	29930	En  la misma playa un ejecutivo de mediana edad, con traje y corbata, aparca su choche de alta gama mientras habla por el móvil.
+EdSol-ES	43390	45000	Cambia el maletín por una bolsa de playa.
+EdSol-ES	52650	54570	Cuelga el móvil con gesto de desagrado. 
+EdSol-ES	56490	61320	Saca las gafas de sol del bolsillo de su chaqueta y mientras se las pone trata de serenarse.
+EdSol-ES	65270	66690	James, el empresario.
+EdSol-ES	67380	71380	Camina por el acceso a la playa con su bolsa colgada mientras habla por el móvil.
+EdSol-ES	92000	98000	Ya en la playa, despojado de su traje y en bañador, James  se tumba sobre su toalla mientras trata de relajarse.
+EdSol-ES	113000	116000	Se incorpora, con gesto incómodo, para atender la llamada.
+EdSol-ES	129820	132000	Gira la cabeza al oír un ruido desconocido.
+EdSol-ES	140930	144380	Extrañado, trata de localizar el origen del sonido agudo que le perturba.
+EdSol-ES	161700	166360	Se pone en pie y camina por la playa intentando localizar la procedencia del sonido.
+EdSol-ES	206200	211470	Habiendo encontrado la dirección desde donde parece que se produce el sonido, decide vestirse para llegar hasta su origen.
+EdSol-ES	220000	226660	Ya alejado de la playa, con el traje y sin la corbata va siguiendo a pie el sonido perturbador que le dirige hacia un monte cercano.
+EdSol-ES	233700	244000	En un parque de la ciudad, un personaje masculino de mayor edad que el anterior, con barba y pelo canoso, camiseta de tirantes y aspecto descuidado sujeta un vaso de plástico entre sus manos.
+EdSol-ES	252380	255900	Destapa el vaso de café y le da un trago sin mucha gana.
+EdSol-ES	265320	266780	Rick, el jubilado.
+EdSol-ES	269280	277000	Mientras Rick está bebiendo su café sentado en un banco del parque, inconscientemente mueve su pierna derecha de forma repetitiva, mostrando su inquietud.
+EdSol-ES	279190	281190	Posa el vaso de café en el banco de al lado, 
+EdSol-ES	285890	287250	saca el móvil del bolsillo,
+EdSol-ES	289800	291360	busca entre sus contactos,
+EdSol-ES	296230	297110	y hace una llamada.
+EdSol-ES	329130	331300	Gira la cabeza al oír un ruido desconocido.
+EdSol-ES	380000	382000	Intenta localizar el sonido perturbador.
+EdSol-ES	398200	400840	Se pone en pie y camina para localizar el sonido. 
+EdSol-ES	410570	415900	En otro lugar, una joven de pelo rizado está sentada en su escritorio delante de un ordenador portátil.
+EdSol-ES	418180	419760	Jess, la estudiante.
+EdSol-ES	422880	424470	Busca el móvil entre sus apuntes.
+EdSol-ES	481900	483790	Gira la cabeza para  localizar el sonido.
+EdSol-ES	495720	497440	Preocupada, mira a ambos lados.
+EdSol-ES	509490	513690	Se pone en pie y sale al exterior en busca del origen del sonido perturbador.
+EdSol-ES	517230	520000	Se interna en el monte y avanza hacia la dirección del sonido.
+EdSol-ES	529280	532460	El sonido ha guiado a los tres protagonistas hacia un claro del monte.
+EdSol-ES	533770	537160	Desde direcciones han llegado andando hasta un mismo punto.
+EdSol-ES	538350	540230	Están desorientados y extrañados.
+EdSol-ES	556610	560000	Los tres miran en todas direcciones intentando localizar quien les habla.
+EdSol-ES	707570	708490	Se miran entre sí.
+EdSol-ES	736610	739230	James y Rick comienzan a andar de vuelta  hacia el monte,
+EdSol-ES	741270	746190	Jess duda por un segundo, sonríe y se une a ellos en una breve carrera.
+EdSol-ES	749230	753230	Los tres juntos caminan alegres de nuevo hacia el monte en dirección a la playa.
+EdSol-ES	757660	767350	En otro lugar, una mujer de color habla por el móvil mientras tiende la colada en la azotea. No, no he terminado de tenderla. Tengo que darme prisa. Gira la cabeza ante un ruido desconocido.
+EdSol-ES	768430	778000	No, de qué me hablas? Si claro, las maletas están a punto…. Extrañada trata de localizar el sonido perturbador Oye, ahora no puedo hablar. Tengo que dejarte.
+EdSol-ES	779000	781000	Zoé, la próxima
+EdSol-ES	783550	785030	Qué pasa mientras…
+Ericsson-ES	4040	14750	Una pareja camina junto a su perro por un paseo marítimo. Se cruzan con un hombre que hace footing. Todos visten ropa de abrigo. La playa está desierta y el cielo cubierto de nubes grises.
+Ericsson-ES	21810	24500	Un automóvil tipo coupé se detiene junto a la acera.
+Ericsson-ES	26700	30730	Dentro, un hombre de unos 45 años gesticula hablando por el móvil.
+Ericsson-ES	53200	63430	Tras sacar una bolsa del maletero, echa un vistazo a la playa y se coloca unas gafas de sol. Viste un elegante traje de chaqueta. Lleva el primer botón de la camisa desabrochado y la corbata floja.
+Ericsson-ES	65610	71850	Es James, el empresario. Minutos después, camina con la bolsa de playa al hombro mientras hace una llamada.
+Ericsson-ES	92310	98280	Poco después, con el torso desnudo, se deja caer pesadamente sobre una toalla extendida en la arena.
+Ericsson-ES	99860	109070	James, rubio y de piel clara, luce una barba recortada que empieza a poblarse de canas. Extiende los brazos y acaricia la arena con la yema de los dedos.
+Ericsson-ES	113220	114500	Se incorpora de mala gana.
+Ericsson-ES	141960	143420	Mira a su alrededor extrañado.
+Ericsson-ES	159610	162710	Se incorpora y se aleja unos metros examinando los alrededores. 
+Ericsson-ES	167000	171830	Viste unos calzoncillos tipo bóxer, el resto de su ropa está amontonada sobre la arena. 
+Ericsson-ES	179580	182160	Confuso, decide volver sobre sus pasos
+Ericsson-ES	187010	189420	Se detiene y vuelve a mirar intrigado a su alrededor.
+Ericsson-ES	195560	198330	Cada vez más inquieto,  se dirige hacia sus pertenencias.
+Ericsson-ES	206930	210660	Recoge la camisa del suelo y se la pone sin dejar de escudriñar el entorno. 
+Ericsson-ES	218610	221610	Minutos después, camina decidido bajo unos árboles. 
+Ericsson-ES	227040	230320	Luego, sube por un escarpado sendero entre la maleza. 
+Ericsson-ES	234680	243410	En un banco de un parque, con un vaso desechable entre las manos, un hombre de unos 65 años se agita disgustado. Sonríe levemente alzando la vista.
+Ericsson-ES	248480	251370	Niega con la cabeza mientras juguetea con la tapa del vaso. 
+Ericsson-ES	253300	261270	Echa un vistazo al líquido oscuro del interior y toma un sorbo. Tiene el pelo descuidado y canoso, barba de varios días y viste camiseta de tirantes.
+Ericsson-ES	265850	267350	Es Rick, el jubilado. 
+Ericsson-ES	270260	274970	Junto a él hay dos bancos vacíos. Rick, inquieto, agita su pierna sin parar.
+Ericsson-ES	278000	282130	Suelta el vaso y da unas palmadas dejándose caer sobre el respaldo del banco.
+Ericsson-ES	285520	290380	Hastiado, saca un Smartphone del bolsillo, lo abre y revisa la lista de contactos.
+Ericsson-ES	293870	296480	Se detiene en Craig Anderson y pulsa llamada.
+Ericsson-ES	380140	381610	Alza la mirada confundido.
+Ericsson-ES	398000	403710	Se aleja entusiasmado sin dejar de buscar con la mirada alrededor de sí. Ha dejado el vaso sobre el banco.
+Ericsson-ES	406660	413760	En una habitación, una joven de unos 20 años, de abundante melena pelirroja, trata de concentrarse frente a un portátil.
+Ericsson-ES	418740	420250	Es Jess, la estudiante.
+Ericsson-ES	422610	424530	Rebusca entre las cosas del escritorio 
+Ericsson-ES	425920	427890	Al fin, encuentra su teléfono móvil.
+Ericsson-ES	494310	498640	La joven, que removía nerviosa los papeles de su mesa, se detiene y mira a su alrededor. 
+Ericsson-ES	510460	512900	Intrigada, se levanta y sale a la calle.
+Ericsson-ES	515540	521370	Lleva un abrigo y un pañuelo en el cuello. Camina decidida y se adentra en una zona de abundante vegetación.
+Ericsson-ES	528340	532390	Al poco, llega a una amplia y soleada explanada donde están James y Rick.
+Ericsson-ES	533890	537140	Los hombres están de pie, mirando desconcertados a su alrededor.
+Ericsson-ES	540190	541790	La chica se dirige hacia ellos.
+Ericsson-ES	556130	559450	Extrañados, tratan de localizar la procedencia de la voz.
+Ericsson-ES	707550	709620	Se miran y niegan con la cabeza.
+Ericsson-ES	737040	739430	Jessica, pensativa, se ha quedado inmóvil.
+Ericsson-ES	745360	746100	Corre tras ellos.
+Ericsson-ES	748630	753030	James echa el brazo por el hombro de la chica y los tres se alejan satisfechos del descampado.
+Ericsson-ES	754340	761780	En una azotea, una mujer de mediana edad tiende la colada mientras habla por el móvil. Dice que tiene que darse prisa y que las maletas están a punto.
+Ericsson-ES	771000	772000	Confusa, dice que no puede hablar y corta la llamada.
+Ericsson-ES	779240	781000	Es Zoé, la próxima.
+Ericsson-ES	784000	785000	What happens while…
+Kaleidoscope-ES	1300	10400	Audiodescripción Kaleidoscope 2016. Amanece en un paseo marítimo con la playa al fondo. Una pareja pasea con un perro. Un hombre hace footing.
+Kaleidoscope-ES	16000	17270	Sobre fondo blanco.
+Kaleidoscope-ES	22430	27960	Un hombre trajeado y con corbata aparca un coche deportivo blanco y sale hablando por teléfono.
+Kaleidoscope-ES	52580	59490	Cuelga. Guardó un maletín y sacó una bolsa de rayas del maletero. Mira la playa, suspira y se pone unas gafas de sol.
+Kaleidoscope-ES	64350	65890	James, el empresario.
+Kaleidoscope-ES	67940	70000	Camina por el paseo llamando por el móvil.
+Kaleidoscope-ES	92280	95720	Después, sin ropa, se tumba sobre una toalla en la arena.
+Kaleidoscope-ES	101860	104080	Se frota los ojos y extiende sus brazos.
+Kaleidoscope-ES	141650	142740	Mira a su alrededor
+Kaleidoscope-ES	157720	164090	Cuelga y se levanta extrañado por el ruido. Camina por la orilla y la arena mirando, desconcertado, en todas direcciones.
+Kaleidoscope-ES	169330	174420	Lleva un bóxer negro. Se para y anda sobre sus propios pasos preocupado por el ruido.
+Kaleidoscope-ES	211110	212280	Comienza a vestirse.
+Kaleidoscope-ES	219320	223620	Después, vestido con el traje, pero sin la corbata, camina por una arboleda.
+Kaleidoscope-ES	227120	228670	Sube por un sendero empinado.
+Kaleidoscope-ES	233990	243410	Un hombre de pelo rizado y canoso, barba desaliñada, cadena de plata al cuello, camiseta de tirantes y tatuajes tamborilea sus dedos en un vaso de plástico.
+Kaleidoscope-ES	250320	253320	Quita la tapa al vaso y bebe café con gesto resignado.
+Kaleidoscope-ES	259700	260770	Suspira inquieto.
+Kaleidoscope-ES	265490	266840	Rick, el jubilado.
+Kaleidoscope-ES	268890	276080	Es de día. Está sentado en unos bancos individuales en un parque rodeado de árboles. Mueve una pierna intranquilo y bebe el café.
+Kaleidoscope-ES	278660	283010	Deja el vaso en un banco contiguo. Saca su smartphone y busca entre los contactos. 
+Kaleidoscope-ES	295460	296980	Llama a Craig Anderson.
+Kaleidoscope-ES	330030	331000	Mira a su alrededor.
+Kaleidoscope-ES	380340	382430	Extrañado, mira en todas direcciones.
+Kaleidoscope-ES	399170	401500	Cuelga y se aleja mirando hacia arriba y a los lados.
+Kaleidoscope-ES	411550	415550	En una habitación, una chica de pelo rizado estudia frente a un ordenador. 
+Kaleidoscope-ES	418330	419810	Jess, la estudiante.
+Kaleidoscope-ES	423240	424750	Busca el móvil entre los apuntes.
+Kaleidoscope-ES	428430	429200	Descuelga.
+Kaleidoscope-ES	494240	496070	Cuelga y mira extrañada a su alrededor.
+Kaleidoscope-ES	509650	512650	Se levanta. Después anda inquieta por la calle.
+Kaleidoscope-ES	517790	519950	Sube una pendiente rodeada de vegetación. 
+Kaleidoscope-ES	524960	527960	Se para, mira en todas direcciones y continua.
+Kaleidoscope-ES	530900	537590	Llega a un claro soleado en el que están Rick y James. Se acerca poco a poco a ellos. Todos miran en todas direcciones.
+Kaleidoscope-ES	541530	542150	Voz en off.
+Kaleidoscope-ES	556270	558710	Sorprendidos, todos miran hacia arriba y a los lados.
+Kaleidoscope-ES	594920	595880	Se encoje de hombros.
+Kaleidoscope-ES	707820	709720	Se miran. Rick y Jessica niegan.
+Kaleidoscope-ES	736540	740580	James se va, Rick le sigue. Jessica queda cabizbaja.
+Kaleidoscope-ES	745170	750790	Se une. James le pasa el brazo por el hombro, Rick le extiende su mano y los tres caminan juntos.
+Kaleidoscope-ES	754480	759710	La imagen funde a negro. Una mujer negra tiende ropa en una azotea mientras habla por el móvil.
+Kaleidoscope-ES	762960	765860	No, no he terminado de tenderla. Tengo que darme prisa.
+Kaleidoscope-ES	768380	785990	No, ¿de qué me hablas? Sí, claro, las maletas están a punto. Mira a su alrededor extrañada.Oye, ahora no puedo hablar. Tengo que dejarte. Cuelga. Zoé, la próxima. La imagen funde a negro. Sobre fondo blanco el título Qué pasa mientras.
+SDI-Media-ES	3370	9390	Es un día nuboso en una playa. Una pareja pasea por la arena con su perro. Por la orilla pasa un hombre haciendo footing
+SDI-Media-ES	10600	12200	El perro se para a olisquear algo.
+SDI-Media-ES	13630	16540	En animal atiende al silbido del amo y prosigue su camino.
+SDI-Media-ES	23150	30080	Un coche blanco circula junto al paseo marítimo. El conductor aparca mientras habla por el móvil. Se quita el cinturón y abre.
+SDI-Media-ES	52590	62800	Se trata de un hombre de unos cuarenta años con barba y piel clara. Viste traje de chaqueta y corbata. Cuelga el teléfono y mira hacia la playa. Saca del bolsillo unas gafas de sol y se las pone. 
+SDI-Media-ES	65740	67500	JAMES. EL EMPRESARIO.
+SDI-Media-ES	68020	71410	James camina con una bolsa de playa al hombro. Marca en su teléfono.
+SDI-Media-ES	92760	96580	Más tarde, en la playa, James se tumba boca arriba sobre una toalla.
+SDI-Media-ES	100150	108790	Tiene el torso desnudo y los ojos cerrados.  Se pasa las manos por la cara y extiende los brazos dejándolos caer a cada lado. Revuelve la arena con los dedos.
+SDI-Media-ES	141820	144000	Frunce el ceño y mira entre sus cosas.
+SDI-Media-ES	157820	159520	Suelta el teléfono y se pone en pie. 
+SDI-Media-ES	163420	165830	Camina hacia la orilla, está en calzoncillos. 
+SDI-Media-ES	170620	175190	Da algunos pasos sin rumbo mirando extrañado a su alrededor, como si buscara algo. 
+SDI-Media-ES	178330	180790	Queda quieto unos segundos y vuelve hacia su toalla.
+SDI-Media-ES	184350	190420	Se para y da media vuelta alarmado. Retoma el paso dibujando pisadas inconexas en la arena. 
+SDI-Media-ES	198500	202400	James vuelve hacia su toalla mirando hacia el cielo con cara de desconcierto.
+SDI-Media-ES	209079	211590	Coge la camisa y se la pone sin relajar el ceño.
+SDI-Media-ES	219490	226150	Más tarde, James ha abandonado la playa. Lleva puesto de nuevo el traje de chaqueta sin la corbata. Camina por una arboleda.
+SDI-Media-ES	227580	232190	Llega hasta una colina llena de arbustos y cactus. Comienza a subir por una senda de tierra.
+SDI-Media-ES	234020	237030	En otro lugar, alguien sostiene un vaso térmico con tapadera.
+SDI-Media-ES	238030	245800	Se trata de un hombre de unos sesenta años con barbas, ojos saltones y pelo largo desaliñado. Viste camiseta de tirantes y lleva una cadena de eslabones al cuello.
+SDI-Media-ES	248100	250000	Toquetea aburrido la tapadera del vaso
+SDI-Media-ES	252890	254530	La abre, está lleno de café.
+SDI-Media-ES	257850	259190	El hombre observa el café y bebe. 
+SDI-Media-ES	260590	262650	Mira hacia el frente con desencanto en sus ojos. 
+SDI-Media-ES	265550	267000	RICK. EL JUBILADO.
+SDI-Media-ES	268870	274930	Rick está sentado en un banco individual en un parque. Bebe un trago más de café mientras mueve nervioso una pierna.
+SDI-Media-ES	278890	282390	Deja el vaso en el banco de al lado y se recuesta en el respaldo del suyo.
+SDI-Media-ES	285530	290160	Saca el teléfono móvil del bolsillo trasero del pantalón y busca en la agenda de contactos.
+SDI-Media-ES	296380	298160	Marca GRAIG ANDERSON.
+SDI-Media-ES	380470	382090	Mira extrañado hacia el cielo.
+SDI-Media-ES	398630	403540	Rick sonríe y cuelga. Se pone en pie y se aleja del banco dejando olvidado el vaso de café.
+SDI-Media-ES	404940	408580	Abandona el parque dando pasos de un lado a otro y mirando hacia el cielo.
+SDI-Media-ES	411380	412360	En otra parte. 
+SDI-Media-ES	413650	415360	Una chica frente a un ordenador.
+SDI-Media-ES	418320	419990	JESS. LA ESTUDIANTE.
+SDI-Media-ES	422490	424060	Tiene el pelo rizado y rojo. 
+SDI-Media-ES	425990	428620	Rebusca entre unos papeles, encuentra el móvil.
+SDI-Media-ES	482700	483600	Se rasca el oído.
+SDI-Media-ES	495620	498170	Cuelga y mira de lado a lado con gesto extrañado.
+SDI-Media-ES	503980	505640	Se sobresalta y mira hacia el techo.
+SDI-Media-ES	511630	515500	Jess está en la calle. Se ha puesto el abrigo. Camina aturdida en busca de algo.
+SDI-Media-ES	518440	520740	Sube por un montículo lleno de arbustos y maleza. 
+SDI-Media-ES	522990	525220	Se para y mira desconfiada a su alrededor.
+SDI-Media-ES	526580	528680	Continúa y se pierde entre la vegetación.
+SDI-Media-ES	531160	536520	Jess llega a un descampado donde también están Rick y James. La luz del sol brilla con fuerza.
+SDI-Media-ES	537840	540220	Los tres miran desconcertados de lado a lado.
+SDI-Media-ES	556760	560150	Giran sobre sí mismos con cara de asombro y mirando hacia el cielo.
+SDI-Media-ES	595000	596170	Él se encoge de hombros.
+SDI-Media-ES	708640	711190	Rick niega con la cabeza, Jess también. 
+SDI-Media-ES	718900	720120	Rick alza los brazos.
+SDI-Media-ES	736770	741350	James camina hacia los arbustos, Rick le sigue. Jess queda pensativa.
+SDI-Media-ES	746130	753010	Corre hacia ellos y James le rodea los hombros con el brazo. Los tres caminan hacia el bosque de matorrales y abandonan el descampado.
+SDI-Media-ES	758290	762070	Fundido a negro. Una mujer tiende la ropa mientras habla por teléfono.
+SDI-Media-ES	762660	766400	En subtítulos. No, no he terminado de tenderla. Tengo que darme prisa.
+SDI-Media-ES	767080	771340	No, ¿de qué me hablas? Sí, claro las maletas están a punto...
+SDI-Media-ES	772990	774220	Se gira con gesto confuso.
+SDI-Media-ES	775430	777710	Oye, ahora no puedo hablar. Tengo que dejarte.
+SDI-Media-ES	778030	779200	Cuelga y frunce el ceño.
+SDI-Media-ES	780000	781450	ZOé. LA PRÓXIMA.
+SDI-Media-ES	782900	787830	Fundido a negro. Sobre un fondo blanco surge el rótulo: ¿QUé PASA MIENTRAS…?
+Tragora-ES	1300	15400	Por la mañana, en una playa, una pareja pasea con su perro, mientras un hombre que corre se cruza con ellos. El perro, un gran danés, se entretiene en unos hierbajos y olfatea la zona. Su dueño, al darse cuenta de que se queda atrás, lo llama. El perro obedece y se va con ellos.
+Tragora-ES	17000	18710	0Sobreimpreso en pantalla…
+Tragora-ES	22000	30530	Un deportivo blanco de alta gama se detiene junto a la avenida de la playa. En su interior, un hombre de unos 50 años habla por el móvil y sale del vehículo.
+Tragora-ES	53000	71000	Enfadado, cuelga y suspira. El hombre, alto y apuesto, con barba, lleva traje y corbata. Introduce la mano en el bolsillo izquierdo de la chaqueta, saca unas gafas de sol de estilo aviador y se las pone. Sobreimpreso en pantalla: James, el empresario. Poco después, pasea con el móvil en la oreja y un bolso de rayas en el hombro.
+Tragora-ES	93000	98220	Minutos más tarde, algo cansado, se tumba en la playa sobre una toalla y toma el sol tranquilamente.
+Tragora-ES	99050	108300	James se lleva las manos a la cara y se restriega un poco los ojos. A continuación, deja caer las manos sobre la arena y juguetea con ella cogiendo un puñado y soltándolo.
+Tragora-ES	112000	113000	Se incorpora.
+Tragora-ES	141790	143140	Mira a su alrededor.
+Tragora-ES	158000	167000	Cuelga el teléfono y lo lanza a un lado. Extrañado por el sonido, se levanta y empieza a caminar junto a la orilla del mar. Lleva un bañador de tipo bóxer negro.
+Tragora-ES	169000	177000	El ruido le llama la atención e intenta averiguar de dónde procede. Camina alrededor y centra la mirada en varios puntos distintos.
+Tragora-ES	180000	183210	Da unos pequeños pasos hacia atrás y de repente…
+Tragora-ES	190000	199750	De nuevo, da unos pasos más alrededor mientras intenta descubrir de dónde proviene el sonido. A continuación, sigue caminando y, ahora, fija su mirada en un punto superior.
+Tragora-ES	204210	212000	Se acerca al lugar donde había dejado la ropa y se pone la camisa. Mientras se va vistiendo, continúa mirando un punto en lo alto. Se agacha para recoger el resto de sus cosas y se va.
+Tragora-ES	218020	232130	Poco más tarde, vestido ya con el traje pero sin corbata, sigue caminando absorto en el ruido. Abandona la playa, llega a la avenida y sube por una montaña siguiendo un camino. Decisivo y con cuidado, consigue subir el empinado sendero.
+Tragora-ES	233000	239470	Mientras tanto, sentado en el banco de un parque, un hombre de unos 60 años sostiene un café en un vaso de plástico cerrado.
+Tragora-ES	240920	247090	 Tiene barba y el pelo largo, con un aspecto desaliñado. Pensativo, niega con la cabeza.
+Tragora-ES	250290	262000	Indeciso, hace un círculo con el dedo en la tapa del café y la retira. Cuando se lo lleva a la boca, se detiene y mira el contenido fijamente. Segundos más tarde, toma un sorbo y lo saborea.
+Tragora-ES	264270	301160	Sobreimpreso en pantalla: Rick, el jubilado. Va vestido con una camiseta de tirantes, un pantalón vaquero y unas zapatillas deportivas. Sentado a la sombra de unos árboles, toma el café al tiempo que mueve incesantemente la pierda derecha. A continuación, lo deposita en un banco que tiene al lado. Nervioso, da unas palmadas, se frota las manos e, inclinándose, saca el teléfono móvil que tiene en el bolsillo trasero. Levanta la funda y empieza a mirar entre su lista de contactos. Al llegar al nombre de Craig Anderson, pulsa el botón de llamada y se lleva el móvil a la oreja. Con semblante serio, espera respuesta.
+Tragora-ES	329460	332000	Extrañado por el ruido, mira a su alrededor.
+Tragora-ES	380120	382000	El ruido le llama la atención.
+Tragora-ES	398560	413750	Rick se levanta del banco, cuelga y vuelve a poner el móvil en el bolsillo. Sorprendido por el sonido, empieza a caminar mirando de un lado para otro. Deja olvidado el café. Mientras tanto, una chica pelirroja de unos 20 años estudia en su casa. Parece agobiada.
+Tragora-ES	417000	420000	Sobreimpreso en pantalla: Jess, la estudiante.
+Tragora-ES	420920	423090	Jess busca el móvil en el escritorio,
+Tragora-ES	425000	427460	hasta que lo encuentra debajo de unos apuntes.
+Tragora-ES	494410	503000	Muy extrañada, cuelga la llamada y mira alrededor de su habitación intentando averiguar de dónde procede el sonido. Cuando se dispone a mirar sus apuntes…
+Tragora-ES	506520	508000	De repente, se levanta.
+Tragora-ES	510530	530330	Jess sale de su casa y comienza a caminar atraída por el sonido. Lleva una cazadora y un pañuelo alrededor del cuello. Con decisión, empieza a subir por una montaña. De repente, se detiene, mira a un lado y a otro e identifica finalmente desde dónde viene el sonido. A continuación, avanza rápidamente hacia este.
+Tragora-ES	533000	542000	Jess ha llegado a una explanada donde también se encuentran James y Rick. Estos, mediante señas, se preguntan si también escuchan el mismo sonido.
+Tragora-ES	556170	560870	James, Rick y Jess, sorprendidos por la voz que escuchan, miran en todas direcciones.
+Tragora-ES	595000	596400	Rick se emociona.
+Tragora-ES	700000	702000	Rick se ríe tímidamente.
+Tragora-ES	707000	712000	Los tres se cruzan las miradas. Rick, dubitativo, niega con la cabeza, al igual que Jess.
+Tragora-ES	717450	720310	Rick mira al cielo, con los brazos abiertos.
+Tragora-ES	736720	743760	James empieza a caminar y, tranquilo, mete las manos en los bolsillos. Rick le sigue. Jess se ha quedado pensativa, pero…
+Tragora-ES	745000	761870	Jess da unas pocas zancadas y los alcanza enseguida. Ellos miran atrás y, cariñosamente, James le pone la mano por encima y Rick hace lo mismo. Poco a poco se van alejando de la explanada y vuelven al mismo lugar por el que subieron. En otro lugar, una mujer habla por teléfono mientras tiende la ropa.
+Tragora-ES	772000	774000	Sorprendida, mira a su alrededor.
+Tragora-ES	778000	787000	Cuelga el teléfono, extrañada. Sobreimpreso en pantalla: Zoé, la próxima. Fundido en negro. Sobre un fondo blanco con letras negras: "Qué pasa mientras…"
+Sonidos-ES	3980	13020	En una playa casi vacía una pareja pasea un perro y un hombre hace footing. La pareja lleva ropa de abrigo y el cielo está nublado.
+Sonidos-ES	17600	19130	Sobreescrito en pantalla.
+Sonidos-ES	22242	30630	Un coche de alta gama aparca frente a la playa. Un hombre trajeado se baja, abre el maletero y cambia su maletín por una bolsa de playa.
+Sonidos-ES	53390	59930	El hombre, de unos cincuenta años y con barba, saca unas gafas de sol del bolsillo de su chaqueta y se las pone.
+Sonidos-ES	64570	67650	Sobreescrito en pantalla: JAMES. EL EMPRESARIO.
+Sonidos-ES	68180	71360	James camina con la bolsa de playa al hombro y llama.
+Sonidos-ES	92580	97200	Sobre la arena, el traje oscuro de James reposa hecho un revoltillo.
+Sonidos-ES	99970	108620	James se tumba a su lado, boca arriba, y se queda tendido. Después se frota los ojos, abre los brazos y juguetea con la arena.
+Sonidos-ES	141890	143660	Mira extrañado a su alrededor
+Sonidos-ES	157890	164050	Deja el móvil, se levanta y camina hasta el agua mirando al rededor. Sólo lleva los slips.
+Sonidos-ES	168110	170580	Camina sin rumbo fijo, titubeando.
+Sonidos-ES	175560	181290	Se da la vuelta, se para un momento y otea con los ojos entornados y frunciendo el ceño.
+Sonidos-ES	193230	197440	Camina hacia el agua mirando alrededor y después vuelve a su ropa.
+Sonidos-ES	208720	211440	Se pone la camisa sin dejar de mirar al rededor.
+Sonidos-ES	219590	223990	Por una calle flanqueada por grandes árboles, James camina ya vestido.
+Sonidos-ES	227990	232530	Más tarde asciende por un sendero entre matorrales la ladera de un monte.
+Sonidos-ES	234480	237110	Unas manos sostienen un vaso de plástico blanco
+Sonidos-ES	237770	243930	Un hombre de unos sesenta años, con pelo desaliñado y barba canosa mira a su alrededor desde el banco de un parque.
+Sonidos-ES	249510	251640	Acaricia la tapa del vaso de plástico.
+Sonidos-ES	253320	257200	Lo abre y bebe un trago. Tiene tatuajes, collar y pulsera.
+Sonidos-ES	265290	268470	Sobreescrito en pantalla: RICK. EL JUBILADO.
+Sonidos-ES	269380	278850	Rick deja la tapa en el banco de al lado. Está sentado. Lleva una camiseta verde de tirantes por dentro del pantalón y mueve sin parar la pierna derecha.
+Sonidos-ES	286296	291130	Saca el móvil del bolsillo trasero de su pantalón y busca entre sus contactos.
+Sonidos-ES	296637	299280	Selecciona a Craig  Anderson. Llama.
+Sonidos-ES	331470	332420	Mira al rededor
+Sonidos-ES	380920	382090	Mira hacia arriba
+Sonidos-ES	399430	405060	El vaso queda sobre el banco y Rick se aleja, sin dejar de mirar hacia arriba y a los lados.
+Sonidos-ES	411480	413440	Una adolescente muerde un lápiz.
+Sonidos-ES	418250	421400	Sobreescrito en pantalla. JESS. LA ESTUDIANTE.
+Sonidos-ES	426550	429720	Rebusca por su mesa, entre papeles y su ordenador.
+Sonidos-ES	495430	500520	Jess mira hacia el techo y las paredes. Tiene larga melena pelirroja y rizada.
+Sonidos-ES	512460	521630	De día, asciende por una ladera entre hierbas y arbustos. Lleva abrigo y cada poco se para y mira alrededor. Luego sale corriendo.
+Sonidos-ES	531510	540320	En una explanada, James, Rick y Jess miran alrededor. Rick y James están frente a frente, Jess está detrás de  Rick.
+Sonidos-ES	557480	560960	Miran a su alrededor, James usa la mano como visera.
+Sonidos-ES	708460	711910	Se miran entre ellos. Rick y Jess niegan.
+Sonidos-ES	737330	741680	Rick sigue a James, Jess se queda parada y levanta una ceja
+Sonidos-ES	745640	750080	Corre tras ellos, se sitúa entre los dos y James le pone una mano en el hombro.
+Sonidos-ES	752450	754460	Los tres se alejan caminando.
+Sonidos-ES	759000	762170	Una mujer tiende la ropa mientras habla por el móvil.
+Sonidos-ES	762657	765510	No, no he terminado de tenderla. Tengo que darme prisa.
+Sonidos-ES	768720	772026	No, ¿de qué me hablas? Si, claro, las maletas están a punto...
+Sonidos-ES	773270	774380	Mira a su alrededor
+Sonidos-ES	774840	776850	Oye no puedo hablar. Tengo que dejarte.
+Sonidos-ES	779540	782350	Sobreescrito en pantalla. ZOE. LA PRÓXIMA.
+Sonidos-ES	783370	786400	Sobreescrito en pantalla. Qué pasa mientras....
 Visual	190	18500	shoot landscape
 Visual	18530	22070	letters
 Visual	22310	44530	lanscape character

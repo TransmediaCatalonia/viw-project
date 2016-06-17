@@ -25,15 +25,20 @@
          	
 	<ul>
 	{% if html is not null %}
-	<li>Get the HTML version of the 'eaf' file <a href="../../show/{{ subdir }}/{{ html }}">{{ html }} </a> go...</li><hr/>
+	<li>HTML version of the .eaf file <a href="../../show/{{ subdir }}/{{ html }}">{{ html }} </a> </li><hr/>
 	{% endif %}
 
 	{% if eaf is not null %}
-	<li>Get the source 'eaf' (XML) file <a href="../../show/{{ subdir }}/{{ eaf }}"> go...</a> </li><hr/>
+	<li>.eaf (XML) file which can be imported in ELAN <a href="../../show/{{ subdir }}/{{ eaf }}"> go...</a> </li><hr/>
 	{% endif %}
 
 	{% if sentences is not null %}
-	<li>See the AD file (you can make some simple searches) <a href="../../kwic/corpus/{{ subdir }}"> go...</a></li><hr/>
+	<li><b>Simple string search</b> <a href="../../kwic/corpus/{{ subdir }}"> go...</a></li><hr/>
+	{% endif %}
+
+	{% if words is not null %}
+	<li><b>AD units, sentences and words' countings:</b> this provides some figures about AD units, 
+	sentences and words in the file <a href="../../words/{{ subdir }}/{{ words }}"> go...</a></li><hr/>
 	{% endif %}
 
 	{% if hits is not null %}
@@ -43,10 +48,7 @@
 	<li><b>ADs' density in the Timeline</b> (density: characters/second) <a href="../../hits/timewords/{{ subdir }}/{{ hits }}"> go...</a></li><hr/>
 	{% endif %}
 
-	{% if words is not null %}
-	<li><b>AD units, sentences and words' countings counting figures:</b> this provides some figures about AD units, 
-	sentences and words in the file <a href="../../words/{{ subdir }}/{{ words }}"> go...</a></li><hr/>
-	{% endif %}
+	
 	
 	{% if verbs is not null %}
 	<li>20 top most frequent verbs/semclass <a href="../../vocabulary/verbs/{{ langdir }}/{{ eaf }}"> go...</a></li><hr/>

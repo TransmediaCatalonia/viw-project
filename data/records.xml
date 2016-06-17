@@ -6,161 +6,164 @@
   <title>What-EN</title>
   <description>The What-EN corpus contains professional audio descriptions in English for the short movie "What Happens While".</description>
   <language>EN</language>
-  <movie_url>https://ddd.uab.cat/record/147267</movie_url>
+  <identifier>https://ddd.uab.cat/record/147267</identifier>
 </corpus>
 
 <corpus id="What-ES">
   <title>What-ES</title>
   <description>The What-ES corpus contains professional audio descriptions in Spanish for the short movie "What Happens While".</description>
   <language>ES</language>
-  <movie_url>https://ddd.uab.cat/record/147267</movie_url>
+  <identifier>https://ddd.uab.cat/record/147267</identifier>
 </corpus>
 
 <corpus id="What-CA">
   <title>What-CA</title>
   <description>The What-CA corpus contains professional audio descriptions in Catalan for the short movie "What Happens While".</description>
   <language>CA</language>
-  <movie_url>https://ddd.uab.cat/record/147267</movie_url>
+  <identifier>https://ddd.uab.cat/record/147267</identifier>
 </corpus>
 
 <corpus id="ST-ES">
   <title>ST-ES</title>
   <description>The ST-ES corpus contains audio descriptions in Spanish for the short movie "What Happens While" made by students.</description>
   <language>ES</language>
-  <movie_url>https://ddd.uab.cat/record/147267</movie_url>
+  <identifier>https://ddd.uab.cat/record/147267</identifier>
 </corpus>
 
 <corpus id="ST-CA">
   <title>ST-CA</title>
   <description>The ST-CA corpus contains audio descriptions in Catalan for the short movie "What Happens While" made by students.</description>
   <language>CA</language>
-  <movie_url>https://ddd.uab.cat/record/147267</movie_url>
+  <identifier>https://ddd.uab.cat/record/147267</identifier>
 </corpus>
 
-<record id="What-BTI-UK">
+/***********************************/
+
+
+<record id="BTI-UK">
   <title>BTI-UK version of What Happens While</title>
   <creator>BTI</creator>
   <language>EN-UK</language>
   <language>EN</language>
-  <source>What-EN/What-BTI-UK</source>
+  <source>What-EN/BTI-UK</source>
   <movie>What Happens While</movie>
   <corpus>What-EN</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4812.mp4</identifier>
 </record>
 
 
-<record id="What-Able-NZ">
+<record id="Able-NZ">
   <title>Able-NZ version of What Happens While</title>
   <creator>Able</creator>
   <language>EN-NZ</language>
   <language>EN</language>
-  <source>What-EN/What-Able-NZ</source>
+  <source>What-EN/Able-NZ</source>
   <movie>What Happens While</movie>
   <corpus>What-EN</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4808.mp4</identifier>
 </record>
 
-<record id="What-BridgeM-US">
-  <title>BridgeM-US version of What Happens While</title>
-  <creator>BridgeM-US</creator>
+<record id="Bridge-US">
+  <title>Bridge version of What Happens While</title>
+  <creator>Bridge</creator>
   <language>EN-US</language>
   <language>EN</language>
-  <source>What-EN/What-BridgeM-US</source>
+  <source>What-EN/Bridge-US</source>
   <movie>What Happens While</movie>
   <corpus>What-EN</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4810.mp4</identifier>
 </record>
 
 
-<record id="What-Deluxe-UK">
+<record id="Deluxe-UK">
   <title>Deluxe-UK version of What Happens While</title>
   <creator>Deluxe</creator>
   <language>EN-UK</language>
   <language>EN</language>
-  <source>What-EN/What-Deluxe-UK</source>
+  <source>What-EN/Deluxe-UK</source>
   <movie>What Happens While</movie>
   <corpus>What-EN</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier> http://videosdigitals.uab.es/almacen/downloads/625/4814.mp4</identifier>
 </record>
 
-<record id="What-Ericsson-AU">
+<record id="Ericsson-AU">
   <title>Ericsson-AU version What Happens While</title>
   <creator>Ericsson</creator>
   <language>EN-AU</language>
   <language>EN</language>
-  <source>What-EN/What-Ericsson-AU</source>
+  <source>What-EN/Ericsson-AU</source>
   <movie>What Happens While</movie>
   <corpus>What-EN</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4816.mp4</identifier>
 </record>
 
 
-<record id="What-Ericsson-UK">
+<record id="Ericsson-UK">
   <title>Ericsson-UK version What Happens While</title>
   <creator>Ericsson</creator>
   <language>EN-UK</language>
   <language>EN</language>
-  <source>What-EN/What-Ericsson-UK</source>
+  <source>What-EN/Ericsson-UK</source>
   <movie>What Happens While</movie>
   <corpus>What-EN</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier> http://videosdigitals.uab.es/almacen/downloads/625/4818.mp4</identifier>
 </record>
 
-<record id="What-Mennell-CA">
+<record id="Mennell-CA">
   <title>Mennell-CA version of What Happens While</title>
   <creator>Mennell</creator>
   <language>EN-CA</language>
   <language>EN</language>
-  <source>What-EN/What-Mennell-CA</source>
+  <source>What-EN/Mennell-CA</source>
   <movie>What Happens While</movie>
   <corpus>What-EN</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4820.mp4</identifier>
 </record>
 
-<record id="What-MindsEye-UK">
+<record id="MindsEye-UK">
   <title>MindsEye version of What Happens While</title>
   <creator>MindsEye</creator>
   <language>EN-UK</language>
   <language>EN</language>
-  <source>What-EN/What-MindsEye-UK</source>
+  <source>What-EN/MindsEye-UK</source>
   <movie>What Happens While</movie>
   <corpus>What-EN</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4822.mp4</identifier>
 </record>
 
-<record id="What-SDI-Media-UK">
+<record id="SDI-Media-UK">
   <title>SDI-Media-UK version of What Happens While</title>
-  <creator>SDI-Media-UK</creator>
+  <creator>SDI-Media</creator>
   <language>EN-UK</language>
   <language>EN</language>
-  <source>What-EN/What-SDI-Media-UK</source>
+  <source>What-EN/SDI-Media-UK</source>
   <movie>What Happens While</movie>
   <corpus>What-EN</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4824.mp4</identifier>
 </record>
 
 
-<record id="What-Snyder-US">
-  <title>Snyder-US version of What Happens While</title>
-  <creator>Snyder</creator>
+<record id="ADAssociates-US">
+  <title>ADAssociates version of What Happens While</title>
+  <creator>ADAssociates</creator>
   <language>EN-US</language>
   <language>EN</language>
-  <source>What-EN/What-Snyder-US</source>
+  <source>What-EN/ADAssociates-US</source>
   <movie>What Happens While</movie>
   <corpus>What-EN</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4826.mp4</identifier>
 </record>
 
 
 
-<record id="What-Aptent-ES">
+<record id="Aptent-ES">
   <title>Aptent version of What Happens While</title>
   <creator>Aptent</creator>
   <language>ES</language>
   <source>What-ES/Aptent-ES</source>
   <movie>What Happens While</movie>
   <corpus>What-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4938.mp4</identifier>
 </record>
 
 <record id="Aristia-ES">
@@ -170,138 +173,138 @@
   <source>What-ES/Aristia-ES</source>
   <movie>What Happens While</movie>
   <corpus>What-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4940.mp4</identifier>
 </record>
 
-<record id="What-CEIAF-ES">
+<record id="CEIAF-ES">
   <title>CEIAF version of What Happens While</title>
   <creator>CEIAF</creator>
   <language>ES</language>
   <source>What-ES/CEIAF-ES</source>
   <movie>What Happens While</movie>
   <corpus>What-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4982.mp4</identifier>
 </record>
 
-<record id="What-CineAccesibleNavarra-ES">
-  <title>CineAccesibleNavarra version of What Happens While</title>
-  <creator>CineAccesibleNavarra</creator>
+<record id="NavarradeCine-ES">
+  <title>Navarra de Cine version of What Happens While</title>
+  <creator>Navarra de Cine</creator>
   <language>ES</language>
-  <source>What-ES/CineAccesibleNavarra-ES</source>
+  <source>What-ES/NavarradeCine-ES</source>
   <movie>What Happens While</movie>
   <corpus>What-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4972.mp4</identifier>
 </record>
 
-<record id="What-EdSol-ES">
+<record id="EdSol-ES">
   <title>EdSolProducciones version of What Happens While</title>
   <creator>EdSolProducciones</creator>
   <language>ES</language>
   <source>What-ES/EdSolProducciones-ES</source>
   <movie>What Happens While</movie>
   <corpus>What-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4974.mp4</identifier>
 </record>
 
-<record id="What-Ericsson-ES">
+<record id="Ericsson-ES">
   <title>Ericsson version of What Happens While</title>
   <creator>Ericsson</creator>
   <language>ES</language>
   <source>What-ES/Ericsson-ES</source>
   <movie>What Happens While</movie>
   <corpus>What-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4976.mp4</identifier>
 </record>
 
-<record id="What-K-Gala-ES">
-  <title>K-Gala version of What Happens While</title>
-  <creator>K-Gala</creator>
+<record id="Kaleidoscope-ES">
+  <title>Kaleidoscope version of What Happens While</title>
+  <creator>Kaleidoscope</creator>
   <language>ES</language>
-  <source>What-ES/K-Gala-ES</source>
+  <source>What-ES/Kaleidoscope-ES</source>
   <movie>What Happens While</movie>
   <corpus>What-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads</identifier>
 </record>
 
-<record id="What-SDI-Media-ES">
-  <title>SDI-Media- version of What Happens While</title>
-  <creator>SDI-Media-</creator>
+<record id="SDI-Media-ES">
+  <title>SDI-Media version of What Happens While</title>
+  <creator>SDI-Media</creator>
   <language>ES</language>
   <source>What-ES/SDI-Media-ES</source>
   <movie>What Happens While</movie>
   <corpus>What-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4986.mp4</identifier>
 </record>
 
-<record id="What-Sonidos-ES">
+<record id="Sonidos-ES">
   <title>Sonidos version of What Happens While</title>
   <creator>Sonidos</creator>
   <language>ES</language>
   <source>What-ES/Sonidos-ES</source>
   <movie>What Happens While</movie>
   <corpus>What-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4978.mp4</identifier>
 </record>
 
-<record id="What-Tragora-ES">
+<record id="Tragora-ES">
   <title>Tragora version of What Happens While</title>
-  <creator>Tragora</creator>
+  <creator>Trágora</creator>
   <language>ES</language>
   <source>What-ES/Tragora-ES</source>
   <movie>What Happens While</movie>
   <corpus>What-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4980.mp4</identifier>
 </record>
 
 
-<record id="What-AccessFriendly-CA">
+<record id="AccessFriendly-CA">
   <title>AccessFriendly Catalan version of What Happens While</title>
-  <creator>AccessFriednly</creator>
+  <creator>AccessFriendly</creator>
   <language>CA</language>
   <source>What-CA/AccessFriendly-CA</source>
   <movie>What Happens While</movie>
   <corpus>What-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4800.mp4</identifier>
 </record>
 
-<record id="What-Aptent-CA">
+<record id="Aptent-CA">
   <title>Aptent Catalan version of What Happens While</title>
   <creator>Aptent</creator>
   <language>CA</language>
   <source>What-CA/Aptent-CA</source>
   <movie>What Happens While</movie>
   <corpus>What-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4790.mp4</identifier>
 </record>
 
-<record id="What-DescriptiveFerrer-CA">
-  <title>DescriptiveFerrer Catalan version of What Happens While</title>
-  <creator>DescriptiveFerrer</creator>
+<record id="Descriptik-CA">
+  <title>Descriptik Catalan version of What Happens While</title>
+  <creator>Descriptik</creator>
   <language>CA</language>
-  <source>What-CA/DescriptiveFerrer-CA</source>
+  <source>What-CA/Descriptik-CA</source>
   <movie>What Happens While</movie>
   <corpus>What-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4792.mp4</identifier>
 </record>
 
-<record id="What-LlorencBlasi-CA">
-  <title>LlorencBlasi Catalan version of What Happens While</title>
-  <creator>Llorenç Blasi</creator>
+<record id="LB-CA">
+  <title>LB Catalan version of What Happens While</title>
+  <creator>LB</creator>
   <language>CA</language>
-  <source>What-CA/LlorencBlasi-CA</source>
+  <source>What-CA/LB-CA</source>
   <movie>What Happens While</movie>
   <corpus>What-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads</identifier>
 </record>
 
-<record id="What-Multi-Signes-CA">
-  <title>Multi-Signes Catalan version of What Happens While</title>
-  <creator>Multi Signes</creator>
+<record id="MultiSignes-CA">
+  <title>MultiSignes Catalan version of What Happens While</title>
+  <creator>MultiSignes</creator>
   <language>CA</language>
   <source>What-CA/MultiSignes-CA</source>
   <movie>What Happens While</movie>
   <corpus>What-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4796.mp4</identifier>
 </record>
 
 <record id="Plurals-CA">
@@ -311,8 +314,51 @@
   <source>What-CA/Plurals-CA</source>
   <movie>What Happens While</movie>
   <corpus>What-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4798.mp4</identifier>
 </record>
+
+<record id="SBT-Carme-CA">
+  <title>SBT-Carme Catalan version of What Happens While</title>
+  <creator>SBT-Carme</creator>
+  <language>CA</language>
+  <source>What-CA/SBT-Carme-CA</source>
+  <movie>What Happens While</movie>
+  <corpus>What-CA</corpus>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4802.mp4</identifier>
+</record>
+
+<record id="SDI-Media-CA">
+  <title>SDIMedia Catalan version of What Happens While</title>
+  <creator>SDIMedia</creator>
+  <language>CA</language>
+  <source>What-CA/SDI-Media-CA</source>
+  <movie>What Happens While</movie>
+  <corpus>What-CA</corpus>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4802.mp4</identifier>
+</record>
+
+<record id="Sonidos-CA">
+  <title>Sonidos Catalan version of What Happens While</title>
+  <creator>Subtil. Comunicació i Accessibilitat</creator>
+  <language>CA</language>
+  <source>What-CA/Sonidos-CA</source>
+  <movie>What Happens While</movie>
+  <corpus>What-CA</corpus>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4804.mp4</identifier>
+</record>
+
+<record id="Subtil-CA">
+  <title>Subtil Catalan version of What Happens While</title>
+  <creator>Subtil</creator>
+  <language>CA</language>
+  <source>What-CA/Subtil-CA</source>
+  <movie>What Happens While</movie>
+  <corpus>What-CA</corpus>
+  <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4806.mp4</identifier>
+</record>
+
+/***********************************/
+
 
 <record id="Castro_Aina_ES">
   <title>Aina Castro's audiodescription of What Happens While</title>
@@ -321,17 +367,17 @@
   <source>ST-ES/Castro_Aina_ES</source>
   <movie>What Happens While</movie>
   <corpus>ST-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Castro_Aina_ES.pdf</identifier>
 </record>
 
 <record id="Fuente_Virginia_ES">
-  <title>Virginia Fuente's audiodescription of What Happens While</title>
-  <creator>Virginia Fuente</creator>
+  <title>Virginia de la Fuente's audiodescription of What Happens While</title>
+  <creator>Virginia de la Fuente</creator>
   <language>ES</language>
   <source>ST-ES/Fuente_Virginia_ES</source>
   <movie>What Happens While</movie>
   <corpus>ST-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Fuente_Virginia_ES.pdf</identifier>
 </record>
 
 <record id="Garcia_Isabel_ES">
@@ -341,12 +387,12 @@
   <source>ST-ES/Garcia_Isabel_ES</source>
   <movie>What Happens While</movie>
   <corpus>ST-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Garcia_Arias_Isabel_ES.pdf</identifier>
 </record>
 
 <record id="Jimenez_Jose_ES">
   <title>José Jiménez' audiodescription of What Happens While</title>
-  <creator>Jose Jimenez</creator>
+  <creator>José Jiménez</creator>
   <language>ES</language>
   <source>ST-ES/Jimenez_Jose_ES</source>
   <movie>What Happens While</movie>
@@ -361,7 +407,7 @@
   <source>ST-ES/Marco_Carmen_ES</source>
   <movie>What Happens While</movie>
   <corpus>ST-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Jimenez_Jose_ES.pdf</identifier>
 </record>
 
 <record id="MartindelRio_Barbara_ES">
@@ -371,7 +417,7 @@
   <source>ST-ES/MartindelRio_Barbara_ES</source>
   <movie>What Happens While</movie>
   <corpus>ST-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/MartindelRio_Barbara_ES.pdf</identifier>
 </record>
 
 <record id="Mateo_Antonio_ES">
@@ -381,7 +427,7 @@
   <source>ST-ES/Mateo_Antonio_ES</source>
   <movie>What Happens While</movie>
   <corpus>ST-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Mateo_Antonio_ES.pdf</identifier>
 </record>
 
 <record id="Palacios_Raquel_ES">
@@ -401,7 +447,7 @@
   <source>ST-ES/Roldan_Marina_ES</source>
   <movie>What Happens While</movie>
   <corpus>ST-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Palacios_Raquel_ES.pdf</identifier>
 </record>
 
 <record id="Rubio_Jennifer_ES">
@@ -411,7 +457,7 @@
   <source>ST-ES/Rubio_Jennifer_ES</source>
   <movie>What Happens While</movie>
   <corpus>ST-ES</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Rubio_Jennifer_ES.pdf</identifier>
 </record>
 
 
@@ -423,7 +469,7 @@
   <source>ST-CA/Altadill_Judit_CA</source>
   <movie>What Happens While</movie>
   <corpus>ST-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Altadill_Judit_CAT_SRT.pdf</identifier>
 </record>
 
 <record id="Arderius_Elvira_CA">
@@ -433,7 +479,7 @@
   <source>ST-CA/Arderius_Elvira_CA</source>
   <movie>What Happens While</movie>
   <corpus>ST-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Arderius_Elvira_CAT.pdf</identifier>
 </record>
 
 <record id="Beneito_Satorres_CA">
@@ -443,7 +489,7 @@
   <source>ST-CA/Beneito_Satorres_CA</source>
   <movie>What Happens While</movie>
   <corpus>ST-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/beneito_satorres_CAT.pdf</identifier>
 </record>
 
 <record id="Bonjoch_Sara_CA">
@@ -453,7 +499,7 @@
   <source>ST-CA/Bonjoch_Sara_CA</source>
   <movie>What Happens While</movie>
   <corpus>ST-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Bonjoch_Sara_CAT.pdf</identifier>
 </record>
 
 <record id="Colomer_Sandra_CA">
@@ -463,7 +509,7 @@
   <source>ST-CA/Colomer_Sandra_CA</source>
   <movie>What Happens While</movie>
   <corpus>ST-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Colomer_Sandra_CAT.pdf</identifier>
 </record>
 
 <record id="Juan_Magdalena_CA">
@@ -473,17 +519,17 @@
   <source>ST-CA/Juan_Magdalena_CA</source>
   <movie>What Happens While</movie>
   <corpus>ST-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Juan_Magdalena_CAT.pdf</identifier>
 </record>
 
 <record id="Mor_Polo_CA">
-  <title>Polo Mor's audiodescription of What Happens While</title>
-  <creator>Polo Mor</creator>
+  <title>Laura Mor Polo's audiodescription of What Happens While</title>
+  <creator>Laura Mor Polo</creator>
   <language>CA</language>
   <source>ST-CA/Mor_Polo_CA</source>
   <movie>What Happens While</movie>
   <corpus>ST-CA</corpus>
-  <identifier>http://www.uab...</identifier>
+  <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Mor_Polo_CAT.pdf</identifier>
 </record>
 
 </records>

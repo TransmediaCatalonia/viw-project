@@ -79,77 +79,77 @@ What-Able-NZ.eaf	753300	762240	The trio head off the plateau and towards the scr
 What-Able-NZ.eaf	763170	766400	Subtitles read: No, I couldn't. I have to finish, really.
 What-Able-NZ.eaf	768080	772080	No! What are you talking about? Of course, yes, our luggage is ready.
 What-Able-NZ.eaf	775360	782040	Listen, I cannot talk right now. I have to leave you. White text reads: Zoe, The next one.
-BridgeM-US.eaf	370	6680	A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.
-BridgeM-US.eaf	7350	14330	A male runner jogs past. The dog trots and sniffs the sand. It follows its owner along the coast.
-BridgeM-US.eaf	15830	20200	Words appear: What Happens While… with a long, blank line at the end.
-BridgeM-US.eaf	22000	29690	A slick, white car approaches, driving on the grey asphalt. The male driver sits alone inside and speaks on his cell phone.
-BridgeM-US.eaf	31120	37950	He looks aggressive as he bangs the steering wheel. He gets out. He wears a business suit.
-BridgeM-US.eaf	39630	41330	He grabs items from the trunk.
-BridgeM-US.eaf	43490	47120	He mutters and stares disdainfully at the phone as he hangs up.
-BridgeM-US.eaf	52010	55310	His pale skin looks cool and soft in the muted sunlight.
-BridgeM-US.eaf	56510	59060	He puts on dark aviator, sunglasses.
-BridgeM-US.eaf	61410	64200	Words appear: James, the Businessman
-BridgeM-US.eaf	65990	70830	He walks along the nearly empty beach carrying a beach bag. He makes a call.
-BridgeM-US.eaf	91230	99610	Now, James lies back, bare-chested, on a towel in the sand. His brownish, stubbly beard and chest hair almost match the ground.
-BridgeM-US.eaf	100270	108740	He exhales hard, then rubs his closed eyes. He stays up by the setled sunlight and gently moves his fingrers through the sand.
-BridgeM-US.eaf	112000	112700	He sits up.
-BridgeM-US.eaf	126670	128670	He looks left...and right.
-BridgeM-US.eaf	139000	140790	He looks at the sand around him.
-BridgeM-US.eaf	156000	162730	James gazes around, looking confused. He stands up, wearing his boxer shorts on the secluded beach. 
-BridgeM-US.eaf	163420	165240	He walks along the water's edge.
-BridgeM-US.eaf	166660	174320	He suddenly turns to the left and looks as if he's following the sound. A city's skyscrapers rise in the distant coast.
-BridgeM-US.eaf	176620	180350	He pauses, then starts back toward his towel in the sand.
-BridgeM-US.eaf	182430	184230	He turns again toward the sound.
-BridgeM-US.eaf	186740	192890	He wanders closer to the waves along the shore. James looks puzzled, and peers around the beach.
-BridgeM-US.eaf	195620	205340	The sky is hazy-white, without distinguishable clouds or sun. James walks away from the water, scanning around with his eyes, as if trying to locate the mysterious sound.
-BridgeM-US.eaf	206560	214340	Standing at his towel in the sand, he grabs his shirt and begins to put it on. He furrows his brow, looking inquisitively at the air.
-BridgeM-US.eaf	216000	220500	Now, James wears his suit and walks under large, leafy trees.
-BridgeM-US.eaf	221000	223920	His unsmiling, serious face stares forward.
-BridgeM-US.eaf	224480	229560	James climbs a dirt trail, up a mountain covered in short, dense bushes and cactuses.
-BridgeM-US.eaf	233000	235950	Now, fingers lightly tap on a to-go coffee cup.
-BridgeM-US.eaf	237330	242730	An unshaven older man with messy, longish, grey hair gazes around, looking bored.
-BridgeM-US.eaf	245000	249700	He stares down at his hands and the coffee cup, circling his fingers around the plastic lid.
-BridgeM-US.eaf	250690	254050	He removes the lid and raises the black coffee to his mouth.
-BridgeM-US.eaf	254930	257730	The man hesitates, then gulps from the small cup.
-BridgeM-US.eaf	258380	260380	His eyes look moist and glassy.
-BridgeM-US.eaf	261240	263840	Words appear: Rick, the Retiree.
-BridgeM-US.eaf	264660	270650	Rick sits at a park bench. His right leg twitches, bouncing up and down in tiny movements.
-BridgeM-US.eaf	271230	274070	He sits alone and takes another sip of his coffee.
-BridgeM-US.eaf	275550	277290	He sets his cup on another bench.
-BridgeM-US.eaf	278400	282010	He stares up at the trees and looks restless as he claps his hands.
-BridgeM-US.eaf	285200	288480	Rick scrolls through the many contacts on his smart phone.
-BridgeM-US.eaf	290240	292090	He pauses on the ""C"" names.
-BridgeM-US.eaf	294360	297570	He selects a contact named ""Craig Anderson.""
-BridgeM-US.eaf	327470	329430	He darts his eyes up curiously.
-BridgeM-US.eaf	377280	379360	Rick stares around, looking pensive.
-BridgeM-US.eaf	395000	399110	Rick wanders off along a park trail, leaving his coffee cup on a bench.
-BridgeM-US.eaf	400220	406920	Rick wears a loose, green tank-top and jeans. He looks up and turns around, as if he's scanning for the sound.
-BridgeM-US.eaf	408720	412480	Now, a young woman looks tired and gazes at an open laptop.
-BridgeM-US.eaf	413000	417190	She bites on the end of a pencil. Words appear: Jess, the Student.
-BridgeM-US.eaf	419000	421980	She fumbles around the desk, searching for her phone.
-BridgeM-US.eaf	423860	426010	She lifts papers and find the phone.
-BridgeM-US.eaf	427140	428010	Jess answers.
-BridgeM-US.eaf	492150	499790	Jess glances around the room. She peers left...and right. She touches her thick, curly, brown hair.
-BridgeM-US.eaf	500220	502740	She stares into the silence, looking puzzled.
-BridgeM-US.eaf	506000	506900	She jolts up.
-BridgeM-US.eaf	509000	525070	Now, outside, Jess hikes up a hill. Tall grass and plants cover the ground. Jess wears a coat and walks around, scanning with her eyes. The sun shines off the greenery. She stops and stares. Then, she continues hiking up.
-BridgeM-US.eaf	527790	532390	Now, Rick, James, and Jess gather together in a bright, sandy clearing.
-BridgeM-US.eaf	534190	535830	Rick points to his ear.
-BridgeM-US.eaf	537000	540770	The three stand on the empty, sun-bleached ground, looking bewildered.
-BridgeM-US.eaf	554000	558020	They look everywhere, as if trying to find the source of the voice.
-BridgeM-US.eaf	573300	574880	James' face looks panicked.
-BridgeM-US.eaf	592000	594250	Rick grips his head with one hand.
-BridgeM-US.eaf	694000	695000	Rick nods.
-BridgeM-US.eaf	704000	709220	James quickly peers at Rick. Rick shrugs and shakes his head. Rick looks at Jess.
-BridgeM-US.eaf	722180	724270	James smiles with closed lips.
-BridgeM-US.eaf	733520	736020	Rick follows James across the pebbly ground.
-BridgeM-US.eaf	736920	756080	Jess looks down and smiles thoughtfully. She glances at the other two, then quickly runs to them. She walks between James and Rick. James softly places his arm around her shoulder. The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain. The image disappears to a black screen.
-BridgeM-US.eaf	757000	758960	Now, a woman speaks on a cell.
-BridgeM-US.eaf	759370	762790	Subtitles: No, I couldn't. I have to finish, really.
-BridgeM-US.eaf	764000	769300	She gazes up. No! What are you talking about? Of course yes, our luggage is ready…
-BridgeM-US.eaf	769640	775380	The woman furrows her brow. She looks around again. Listen, I cannot talk right now. I have to leave you.
-BridgeM-US.eaf	776000	778920	Words appear: Zoé, the Next One.
-BridgeM-US.eaf	780000	784570	A title: What Happens While... with a long, blank line at the end.
+Bridge-US.eaf	370	6680	A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.
+Bridge-US.eaf	7350	14330	A male runner jogs past. The dog trots and sniffs the sand. It follows its owner along the coast.
+Bridge-US.eaf	15830	20200	Words appear: What Happens While… with a long, blank line at the end.
+Bridge-US.eaf	22000	29690	A slick, white car approaches, driving on the grey asphalt. The male driver sits alone inside and speaks on his cell phone.
+Bridge-US.eaf	31120	37950	He looks aggressive as he bangs the steering wheel. He gets out. He wears a business suit.
+Bridge-US.eaf	39630	41330	He grabs items from the trunk.
+Bridge-US.eaf	43490	47120	He mutters and stares disdainfully at the phone as he hangs up.
+Bridge-US.eaf	52010	55310	His pale skin looks cool and soft in the muted sunlight.
+Bridge-US.eaf	56510	59060	He puts on dark aviator, sunglasses.
+Bridge-US.eaf	61410	64200	Words appear: James, the Businessman
+Bridge-US.eaf	65990	70830	He walks along the nearly empty beach carrying a beach bag. He makes a call.
+Bridge-US.eaf	91230	99610	Now, James lies back, bare-chested, on a towel in the sand. His brownish, stubbly beard and chest hair almost match the ground.
+Bridge-US.eaf	100270	108740	He exhales hard, then rubs his closed eyes. He stays up by the setled sunlight and gently moves his fingrers through the sand.
+Bridge-US.eaf	112000	112700	He sits up.
+Bridge-US.eaf	126670	128670	He looks left...and right.
+Bridge-US.eaf	139000	140790	He looks at the sand around him.
+Bridge-US.eaf	156000	162730	James gazes around, looking confused. He stands up, wearing his boxer shorts on the secluded beach. 
+Bridge-US.eaf	163420	165240	He walks along the water's edge.
+Bridge-US.eaf	166660	174320	He suddenly turns to the left and looks as if he's following the sound. A city's skyscrapers rise in the distant coast.
+Bridge-US.eaf	176620	180350	He pauses, then starts back toward his towel in the sand.
+Bridge-US.eaf	182430	184230	He turns again toward the sound.
+Bridge-US.eaf	186740	192890	He wanders closer to the waves along the shore. James looks puzzled, and peers around the beach.
+Bridge-US.eaf	195620	205340	The sky is hazy-white, without distinguishable clouds or sun. James walks away from the water, scanning around with his eyes, as if trying to locate the mysterious sound.
+Bridge-US.eaf	206560	214340	Standing at his towel in the sand, he grabs his shirt and begins to put it on. He furrows his brow, looking inquisitively at the air.
+Bridge-US.eaf	216000	220500	Now, James wears his suit and walks under large, leafy trees.
+Bridge-US.eaf	221000	223920	His unsmiling, serious face stares forward.
+Bridge-US.eaf	224480	229560	James climbs a dirt trail, up a mountain covered in short, dense bushes and cactuses.
+Bridge-US.eaf	233000	235950	Now, fingers lightly tap on a to-go coffee cup.
+Bridge-US.eaf	237330	242730	An unshaven older man with messy, longish, grey hair gazes around, looking bored.
+Bridge-US.eaf	245000	249700	He stares down at his hands and the coffee cup, circling his fingers around the plastic lid.
+Bridge-US.eaf	250690	254050	He removes the lid and raises the black coffee to his mouth.
+Bridge-US.eaf	254930	257730	The man hesitates, then gulps from the small cup.
+Bridge-US.eaf	258380	260380	His eyes look moist and glassy.
+Bridge-US.eaf	261240	263840	Words appear: Rick, the Retiree.
+Bridge-US.eaf	264660	270650	Rick sits at a park bench. His right leg twitches, bouncing up and down in tiny movements.
+Bridge-US.eaf	271230	274070	He sits alone and takes another sip of his coffee.
+Bridge-US.eaf	275550	277290	He sets his cup on another bench.
+Bridge-US.eaf	278400	282010	He stares up at the trees and looks restless as he claps his hands.
+Bridge-US.eaf	285200	288480	Rick scrolls through the many contacts on his smart phone.
+Bridge-US.eaf	290240	292090	He pauses on the ""C"" names.
+Bridge-US.eaf	294360	297570	He selects a contact named ""Craig Anderson.""
+Bridge-US.eaf	327470	329430	He darts his eyes up curiously.
+Bridge-US.eaf	377280	379360	Rick stares around, looking pensive.
+Bridge-US.eaf	395000	399110	Rick wanders off along a park trail, leaving his coffee cup on a bench.
+Bridge-US.eaf	400220	406920	Rick wears a loose, green tank-top and jeans. He looks up and turns around, as if he's scanning for the sound.
+Bridge-US.eaf	408720	412480	Now, a young woman looks tired and gazes at an open laptop.
+Bridge-US.eaf	413000	417190	She bites on the end of a pencil. Words appear: Jess, the Student.
+Bridge-US.eaf	419000	421980	She fumbles around the desk, searching for her phone.
+Bridge-US.eaf	423860	426010	She lifts papers and find the phone.
+Bridge-US.eaf	427140	428010	Jess answers.
+Bridge-US.eaf	492150	499790	Jess glances around the room. She peers left...and right. She touches her thick, curly, brown hair.
+Bridge-US.eaf	500220	502740	She stares into the silence, looking puzzled.
+Bridge-US.eaf	506000	506900	She jolts up.
+Bridge-US.eaf	509000	525070	Now, outside, Jess hikes up a hill. Tall grass and plants cover the ground. Jess wears a coat and walks around, scanning with her eyes. The sun shines off the greenery. She stops and stares. Then, she continues hiking up.
+Bridge-US.eaf	527790	532390	Now, Rick, James, and Jess gather together in a bright, sandy clearing.
+Bridge-US.eaf	534190	535830	Rick points to his ear.
+Bridge-US.eaf	537000	540770	The three stand on the empty, sun-bleached ground, looking bewildered.
+Bridge-US.eaf	554000	558020	They look everywhere, as if trying to find the source of the voice.
+Bridge-US.eaf	573300	574880	James' face looks panicked.
+Bridge-US.eaf	592000	594250	Rick grips his head with one hand.
+Bridge-US.eaf	694000	695000	Rick nods.
+Bridge-US.eaf	704000	709220	James quickly peers at Rick. Rick shrugs and shakes his head. Rick looks at Jess.
+Bridge-US.eaf	722180	724270	James smiles with closed lips.
+Bridge-US.eaf	733520	736020	Rick follows James across the pebbly ground.
+Bridge-US.eaf	736920	756080	Jess looks down and smiles thoughtfully. She glances at the other two, then quickly runs to them. She walks between James and Rick. James softly places his arm around her shoulder. The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain. The image disappears to a black screen.
+Bridge-US.eaf	757000	758960	Now, a woman speaks on a cell.
+Bridge-US.eaf	759370	762790	Subtitles: No, I couldn't. I have to finish, really.
+Bridge-US.eaf	764000	769300	She gazes up. No! What are you talking about? Of course yes, our luggage is ready…
+Bridge-US.eaf	769640	775380	The woman furrows her brow. She looks around again. Listen, I cannot talk right now. I have to leave you.
+Bridge-US.eaf	776000	778920	Words appear: Zoé, the Next One.
+Bridge-US.eaf	780000	784570	A title: What Happens While... with a long, blank line at the end.
 What-Deluxe-UK.eaf	4000	13120	A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.
 What-Deluxe-UK.eaf	18550	29210	What happens while. The title ends with just a line. A man parks a sleek white BMW on the road by the sea. Talking on his mobile phone he gets out of the car and opens the boot.
 What-Deluxe-UK.eaf	52490	62670	The man put a brief case in the boot of the car and took out a stripy cotton bag. He's wearing a suit. He has short light brown hair and a beard. He puts on a pair of aviator style sunglasses.

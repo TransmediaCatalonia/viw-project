@@ -40,6 +40,7 @@ que	que	PR0CN000	0.595375	165	168
 fa	fer	VMIP3S0	0.992188	169	171	Process
 esport	esport	NCMS000	1	172	178	
 .	.	Fp	1	178	179	
+
 A	a	SPS00	1	181	182	
 el	el	DA0MS0	1	182	183	
 costat	costat	NCMS000	0.892857	184	190	Location
@@ -57,7 +58,8 @@ cotxe	cotxe	NCMS000	1	233	238
 blanc	blanc	AQ0MS0	0.25	239	244	A-ColorAttribute
 s'	es	P0300000	0.999069	245	247	
 atura	aturar	VMIP3S0	0.098141	247	252	Motion
-.	.	Fp	1	252	253	
+.	.	Fp	1	252	253	-
+
 L'	el	DA0CS0	0.987894	255	257	
 home	home	NCMS000	0.679205	257	261	Human
 que	que	PR0CN000	0.595375	262	265	
@@ -67,12 +69,14 @@ parla	parlar	VMIP3S0	0.833333	278	283	Communication
 per	per	SPS00	1	284	285	
 el	el	DA0MS0	1	286	287	
 mòbil	mòbil	NCMS000	0.375	288	293	Object
-.	.	Fp	1	293	294	
+.	.	Fp	1	293	294	-
+
 Va	anar	VAIP3S0	0.996043	296	298	Motion
 cap_a	cap_a	SPS00	0.29057	299	302	Location
 el	el	DA0MS0	1	304	305	
 maleter	maleter	NCMS000	1	306	313	Location
-.	.	Fp	1	313	314	
+.	.	Fp	1	313	314	-
+
 L'	el	DA0CS0	0.987894	316	318	
 home	home	NCMS000	0.679205	318	322	Human
 ,	,	Fc	1	322	323	
@@ -86,7 +90,8 @@ pèl-roig	pèl-roig	AQ0MS0	1	353	361	A-ColorAttribute
 i	i	CC	0.999806	362	363	
 duu	dur	VMIP3S0	0.75	364	367		Dressing
 barba	barba	NCFS000	0.339322	368	373	BodyPart
-.	.	Fp	1	373	374	
+.	.	Fp	1	373	374	-
+
 Es	es	P0300000	0.999062	376	378	
 posa	posar	VMIP3S0	0.904762	379	383	Putting
 unes	un	DI0FP0	0.987179	384	388	
@@ -97,12 +102,14 @@ cap_a	cap_a	SPS00	0.29057	411	414	Location
 l'	el	DA0CS0	0.987894	417	419	
 horitzó	horitzó	NCMS000	1	419	426	Location
 pensarós	pensarós	AQ0MS0	1	427	435	A-StateOfMind
-.	.	Fp	1	435	436	
+.	.	Fp	1	435	436	-
+
 James	james	NP00000	1	438	443	
 ,	,	Fc	1	443	444	
 l'	el	DA0CS0	0.987894	445	447	
 empresari	empresari	NCMS000	1	447	456	Human
-.	.	Fp	1	456	457	
+.	.	Fp	1	456	457	-
+
 En	en	SPS00	0.993046	459	461	
 James	james	NP00000	1	462	467	
 camina	caminar	VMIP3S0	0.998606	468	474	Walking
@@ -117,7 +124,8 @@ vesteix	vestir	VMIP3S0	0.998606	500	507		Dressing
 americana	americana	NCFS001	0.333655	508	517	Clothing
 i	i	CC	0.999806	518	519	
 corbata	corbata	NCFS000	1	520	527	Clothing
-.	.	Fp	1	527	528	
+.	.	Fp	1	527	528	-
+
 En	en	SPS00	0.993046	530	532	
 James	james	NP00000	1	533	538	
 ,	,	Fc	1	538	539	
@@ -138,14 +146,16 @@ tancats	tancar	VMP00PM	0.5	606	613	A-PositionalAttribute
 ,	,	Fc	1	613	614	
 intenta	intentar	VMIP3S0	0.875	615	622	Aux
 relaxar-se	relaxar	VMN0000	1	623	630	IntentionalPsychologicalProcess
-.	.	Fp	1	633	634	
+.	.	Fp	1	633	634	-
+
 Mira	mirar	VMIP3S0	0.262796	636	640	Seeing
 a	a	SPS00	1	641	642	
 el	el	DA0MS0	1	642	643	
 seu	seu	PX3MS0C0	0.87963	644	647	
 voltant	voltant	NCMS000	0.875	648	655	Location
 confós	confondre	VMP00SM	1	656	662	A-StateOfMind
-.	.	Fp	1	662	663	
+.	.	Fp	1	662	663	-
+
 Està	estar	VSIP3S0	0.998606	665	669	Aux
 a	a	SPS00	0.999827	670	671	
 una	un	DI0FS0	0.95792	672	675	
@@ -155,7 +165,8 @@ i	i	CC	0.999806	693	694
 va	anar	VAIP3S0	0.996163	695	697	Motion
 amb	amb	SPS00	1	698	701	
 vestit_de_bany	vestit_de_bany	NCMS000	1	702	716	Clothing
-.	.	Fp	1	716	717	
+.	.	Fp	1	716	717	-
+
 S'	es	P0300000	0.999069	719	721	
 aixeca	aixecar	VMIP3S0	0.998605	721	727	BodyMotion
 i	i	CC	0.999806	728	729	
@@ -174,7 +185,8 @@ el	el	DA0MS0	1	788	789
 seu	seu	PX3MS0C0	0.87963	790	793	
 voltant	voltant	NCMS000	0.875	794	801	Location
 desconcertat	desconcertar	VMP00SM	1	802	814	A-StateOfMind
-.	.	Fp	1	814	815	
+.	.	Fp	1	814	815	-
+
 Torna	tornar	VMIP3S0	0.75	817	822	Motion
 cap_a	cap_a	SPS00	0.29057	823	826	Location
 les	el	DA0FP0	0.990158	829	832	
@@ -183,14 +195,16 @@ coses	cosa	NCFP000	1	839	844
 a	a	SPS00	0.999827	845	846	
 la	el	DA0FS0	0.992966	847	849	
 sorra	sorra	NCFS000	0.901204	850	855	Location
-.	.	Fp	1	855	856	
+.	.	Fp	1	855	856	-
+
 Però	però	CC	0.106061	858	862	
 continua	continuar	VAIP3S0	0.916667	863	871	Aux
 mirant	mirar	VMG0000	0.474985	872	878	Seeing
 a_banda_i_banda	a_banda_i_banda	RG	1	879	894	Location
 ,	,	Fc	1	894	895	
 estranyat	estranyar	VMP00SM	1	896	905	A-StateOfMind
-.	.	Fp	1	905	906	
+.	.	Fp	1	905	906	-
+
 Agafa	agafar	VMIP3S0	0.998606	908	913		Touching
 la	el	DA0FS0	0.992966	914	916	
 seva	seu	PX3FS0C0	1	917	921	
@@ -198,7 +212,8 @@ roba	roba	NCFS000	0.666667	922	926	Clothing
 i	i	CC	0.999806	927	928	
 es	es	P0300000	0.999062	929	931	
 vesteix	vestir	VMIP3S0	0.998606	932	939		Dressing
-.	.	Fp	1	939	940	
+.	.	Fp	1	939	940	-
+
 Es	es	P0300000	0.999062	941	943	
 posa	posar	VMIP3S0	0.904762	944	948	Putting
 la	el	DA0FS0	0.992966	949	951	
@@ -213,7 +228,8 @@ fa	fer	VMIP3S0	0.992188	984	986	BodyMotion
 cara	cara	NCFS000	0.875	987	991	BodyPart
 d'	de	SPS00	1	992	994	
 amoïnat	amoïnar	VMP00SM	1	994	1001	A-StateOfMind
-.	.	Fp	1	1001	1002	
+.	.	Fp	1	1001	1002	-
+
 En	en	SPS00	0.993046	1004	1006	
 James	james	NP00000	1	1007	1012	
 ,	,	Fc	1	1012	1013	
@@ -231,7 +247,8 @@ camí	camí	NCMS000	1	1059	1063	Location
 de	de	SPS00	0.999931	1064	1066	
 terra	terra	NCFS000	0.564329	1067	1072	Location
 escarpat	escarpat	AQ0MS0	1	1073	1081	A-SubjectiveAssessmentAttribute
-.	.	Fp	1	1081	1082	
+.	.	Fp	1	1081	1082	-
+
 Un	un	DI0MS0	0.958241	1084	1086	
 home	home	NCMS000	0.679205	1087	1091	Human
 d'	de	SPS00	1	1092	1094	
@@ -251,7 +268,8 @@ mentre	mentre	CS	1	1150	1156	TimeInterval
 mira	mirar	VMIP3S0	0.15815	1157	1161	Seeing
 amunt	amunt	RG	0.653604	1162	1167	Location
 pensatiu	pensatiu	AQ0MS0	1	1168	1176	A-StateOfMind
-.	.	Fp	1	1176	1177	
+.	.	Fp	1	1176	1177	-
+
 L'	el	DA0CS0	0.987894	1179	1181	
 ensuma	ensumar	VMIP3S0	0.998606	1181	1187	Smelling
 ,	,	Fc	1	1187	1188	
@@ -264,12 +282,14 @@ i	i	CC	0.999806	1217	1218
 fa	fer	VMIP3S0	0.992188	1219	1221	BodyMotion
 un	un	DI0MS0	0.958241	1222	1224	
 glop	glop	NCMS000	1	1225	1229	Drinking
-.	.	Fp	1	1229	1230	
+.	.	Fp	1	1229	1230	-
+
 Rick	rick	NP00000	1	1232	1236	
 ,	,	Fc	1	1236	1237	
 el	el	DA0MS0	0.991214	1238	1240	
 jubilat	jubilat	NCMS000	0.75564	1241	1248	Human
-.	.	Fp	1	1248	1249	
+.	.	Fp	1	1248	1249	-
+
 Té	tenir	VMIP3S0	0.993506	1251	1253	possesses
 els	el	DA0MP0	0.981944	1254	1257	
 cabells	cabell	NCMP000	1	1258	1265	BodyPart
@@ -283,7 +303,8 @@ duu	dur	VMIP3S0	0.75	1298	1301		Dressing
 barba	barba	NCFS000	0.339322	1302	1307	BodyPart
 i	i	CC	0.999806	1308	1309	
 bigoti	bigoti	NCMS000	1	1310	1316	BodyPart
-.	.	Fp	1	1316	1317	
+.	.	Fp	1	1316	1317	-
+
 Porta	portar	VMIP3S0	0.72619	1319	1324	Dressing
 una	un	DI0FS0	0.95792	1325	1328	
 samarreta	samarreta	NCFS000	1	1329	1338	Clothing
@@ -302,7 +323,8 @@ mou	moure	VMIP3S0	0.25	1383	1386	BodyMotion
 la	el	DA0FS0	0.992966	1387	1389	
 cama	cama	NCFS000	1	1390	1394	BodyPart
 nerviós	nerviós	AQ0MS0	0.75	1395	1402	A-StateOfMind
-.	.	Fp	1	1402	1403	
+.	.	Fp	1	1402	1403	-
+
 Deixa	deixar	VMIP3S0	0.75	1405	1410		Putting
 el	el	DA0MS0	0.991214	1411	1413	
 cafè	cafè	NCMS000	1	1414	1418	
@@ -313,7 +335,8 @@ mòbil	mòbil	NCMS000	0.375	1429	1434	Object
 de	de	SPS00	0.999931	1435	1437	
 la	el	DA0FS0	0.992966	1438	1440	
 butxaca	butxaca	NCFS000	1	1441	1448	Clothing
-.	.	Fp	1	1448	1449	
+.	.	Fp	1	1448	1449	-
+
 Mira	mirar	VMIP3S0	0.262796	1451	1455	Seeing
 la	el	DA0FS0	0.992966	1456	1458	
 llista	llista	NCFS000	0.933333	1459	1465	
@@ -323,19 +346,22 @@ i	i	CC	0.999806	1479	1480
 en	en	SPS00	0.993046	1481	1483	
 marca	marcar	VMIP3S0	0.703704	1484	1489	Touching
 un	un	PI0MS000	0.0402809	1490	1492	
-.	.	Fp	1	1492	1493	
+.	.	Fp	1	1492	1493	-
+
 Mira	mirar	VMIP3S0	0.262796	1495	1499	Seeing
 enlaire	enlaire	RG	0.441171	1500	1507	Location
 amb	amb	SPS00	1	1508	1511	
 confusió	confusió	NCFS000	1	1512	1520	StateOfMind
-.	.	Fp	1	1520	1521	
+.	.	Fp	1	1520	1521	-
+
 Mira	mirar	VMIP3S0	0.262796	1523	1527	Seeing
 a	a	SPS00	1	1528	1529	
 el	el	DA0MS0	1	1529	1530	
 seu	seu	PX3MS0C0	0.87963	1531	1534	Location
 voltant	voltant	NCMS000	0.875	1535	1542	Location
 desconcertat	desconcertar	VMP00SM	1	1543	1555	A-StateOfMind
-.	.	Fp	1	1555	1556	
+.	.	Fp	1	1555	1556	-
+
 S'	es	P0300000	0.999069	1558	1560	
 allunya	allunyar	VMIP3S0	0.998606	1560	1567	Motion
 de	de	SPS00	1	1568	1569	
@@ -358,12 +384,14 @@ mirant	mirar	VMG0000	0.525015	1636	1642	Seeing
 amunt	amunt	RG	0.653604	1643	1648	Location
 i	i	CC	0.999806	1649	1650	
 a_banda_i_banda	a_banda_i_banda	RG	1	1651	1666	Location
-.	.	Fp	1	1666	1667	
+.	.	Fp	1	1666	1667	-
+
 Jess	jess	NP00000	1	1669	1673	
 ,	,	Fc	1	1673	1674	
 l'	el	DA0CS0	0.987894	1675	1677	
 estudiant	estudiant	NCCS000	0.333333	1677	1686	Human
-.	.	Fp	1	1686	1687	
+.	.	Fp	1	1686	1687	-
+
 La	el	DA0FS0	0.992966	1689	1691	
 Jess	jess	NP00000	1	1692	1696	
 té	tenir	VMIP3S0	0.993506	1697	1699	possesses
@@ -375,7 +403,8 @@ els	el	DA0MP0	0.981944	1718	1721
 cabells	cabell	NCMP000	1	1722	1729	BodyPart
 llargs	llarg	AQ0MP0	0.833333	1730	1736	A-SubjectiveAssessmentAttribute
 arrissats	arrissar	VMP00PM	1	1737	1746	A-SubjectiveAssessmentAttribute
-.	.	Fp	1	1746	1747	
+.	.	Fp	1	1746	1747	-
+
 Amb	amb	SPS00	1	1749	1752	
 cara	cara	NCFS000	0.875	1753	1757	BodyPart
 de	de	SPS00	0.999931	1758	1760	
@@ -399,7 +428,8 @@ altra	altre	PI0FS000	0.975	1821	1826
 una	un	DI0FS0	0.95792	1828	1831	
 mica	mica	NCFS000	0.75	1832	1836	
 espantada	espantar	VMP00SF	1	1837	1846	A-StateOfMind
-.	.	Fp	1	1846	1847	
+.	.	Fp	1	1846	1847	-
+
 Surt	sortir	VMIP3S0	0.4	1849	1853	Motion
 de	de	SPS00	0.999931	1854	1856	
 la	el	DA0FS0	0.992966	1857	1859	
@@ -416,7 +446,8 @@ camí	camí	NCMS000	1	1903	1907	Location
 costerut	costerut	AQ0MS0	1	1908	1916	A-SubjectiveAssessmentAttribute
 entre	entre	SPS00	0.995876	1917	1922	
 matolls	matoll	NCMP000	1	1923	1930	Vegetable
-.	.	Fp	1	1930	1931	
+.	.	Fp	1	1930	1931	-
+
 Mira	mirar	VMIP3S0	0.262796	1933	1937	Seeing
 enrere	enrere	RG	1	1938	1944	Location
 ,	,	Fc	1	1944	1945	
@@ -466,7 +497,8 @@ a	a	SPS00	1	2136	2137
 el	el	DA0MS0	1	2137	2138	
 seu	seu	PX3MS0C0	0.87963	2139	2142	
 voltant	voltant	NCMS000	0.875	2143	2150	Location
-.	.	Fp	1	2150	2151	
+.	.	Fp	1	2150	2151	-
+
 Tots	tot	DI0MP0	0.953586	2153	2157	
 tres	3	Z	0.75	2158	2162	
 resten	restar	VMIP3P0	0.890625	2163	2169	Motion
@@ -480,13 +512,15 @@ mirar	mirar	VMN0000	1	2205	2210	Seeing
 amunt	amunt	RG	0.653604	2211	2216	Location
 i	i	CC	0.999806	2217	2218	
 a_banda_i_banda	a_banda_i_banda	RG	1	2219	2234	Location
-.	.	Fp	1	2234	2235	
+.	.	Fp	1	2234	2235	-
+
 En	en	SPS00	0.993046	2237	2239	
 Rick	rick	NP00000	1	2240	2244	
 encongeix_les_espatlles	encongir_les_espatlles	VMIP3S0	0.998606	2245	2254	Gesture
 i	i	CC	0.999806	2269	2270	
 fa_que_no_amb_el_cap	fer_que_no_amb_el_cap	VMIP3S0	0.992188	2271	2273	Gesture
-.	.	Fp	1	2291	2292	
+.	.	Fp	1	2291	2292	-
+
 Tots	tot	DI0MP0	0.953586	2294	2298	
 tres	3	Z	0.75	2299	2303	
 marxen	marxar	VMIP3P0	0.890625	2304	2310	Motion
@@ -497,7 +531,8 @@ endinsen	endinsar	VMIP3P0	0.890625	2323	2331	Motion
 a	a	SPS00	1	2332	2333	
 el	el	DA0MS0	1	2333	2334	
 bosc	bosc	NCMS000	0.885104	2335	2339	Location
-.	.	Fp	1	2339	2340	
+.	.	Fp	1	2339	2340	-
+
 Una	un	DI0FS0	0.95792	2342	2345	
 noia	noi	NCFS000	1	2346	2350	Human
 negra	negre	AQ0FS0	0.666344	2351	2356	A-ColorAttribute
@@ -518,14 +553,16 @@ parla	parlar	VMIP3S0	0.833333	2415	2420	Communication
 per	per	SPS00	1	2421	2422	
 el	el	DA0MS0	1	2423	2424	
 mòbil	mòbil	NCMS000	0.375	2425	2430	Object
-.	.	Fp	1	2430	2431	
+.	.	Fp	1	2430	2431	-
+
 M'	jo	PP1CS000	0.944444	2433	2435	
 he	haver	VAIP1S0	1	2435	2437	Aux
 d'	de	SPS00	1	2438	2440	
 afanyar	afanyar	VMN0000	1	2440	2447	Process
 per	per	SPS00	0.999664	2448	2451	
 acabar	acabar	VMN0000	1	2452	2458	Process
-.	.	Fp	1	2458	2459	
+.	.	Fp	1	2458	2459	-
+
 Sí	sí	RG	0.888889	2461	2463	
 ,	,	Fc	1	2463	2464	
 ja	ja	RG	0.994118	2465	2467	TimeInterval
@@ -533,7 +570,8 @@ he	haver	VAIP1S0	1	2468	2470	Aux
 fet	fer	VMP00SM	0.52451	2471	2474	Process
 les	el	DA0FP0	0.990158	2475	2478	
 maletes	maleta	NCFP000	1	2479	2486	Object
-.	.	Fp	1	2486	2487	
+.	.	Fp	1	2486	2487	-
+
 Ara	ara	RG	0.989418	2488	2491	TimeInterval
 no	no	RN	0.981618	2492	2494	
 puc	poder	VMIP1S0	1	2495	2498		Aux
@@ -542,7 +580,8 @@ parlar	parlar	VMN0000	0.875	2499	2505	Communication
 he	haver	VAIP1S0	1	2507	2509	Aux
 de	de	SPS00	0.999931	2510	2512	
 penjar	penjar	VMN0000	1	2513	2519	Process
-.	.	Fp	1	2519	2520	
+.	.	Fp	1	2519	2520	-
+
 Mira	mirar	VMIP3S0	0.262796	2522	2526	Seeing
 cap_a	cap_a	SPS00	0.29057	2527	2530	Location
 l'	el	DA0CS0	0.987894	2533	2535	
@@ -553,12 +592,14 @@ amb	amb	SPS00	1	2559	2562
 cara	cara	NCFS000	0.875	2563	2567	BodyPart
 de	de	SPS00	0.999931	2568	2570	
 confusió	confusió	NCFS000	1	2571	2579	StateOfMind
-.	.	Fp	1	2579	2580	
+.	.	Fp	1	2579	2580	-
+
 Zoe	zoe	NP00000	1	2582	2585	
 ,	,	Fc	1	2585	2586	
 la	el	DA0FS0	0.992966	2587	2589	
 següent	següent	AQ0CS0	1	2590	2597	A-PositionalAttribute
-.	.	Fp	1	2597	2598	
+.	.	Fp	1	2597	2598	-
+
 En	en	SPS00	0.993046	2600	2602	
 lletres	lletra	NCFP000	1	2603	2610	FilmLanguage
 negres	negre	AQ0CP0	0.666667	2611	2617	A-ColorAttribute
@@ -578,23 +619,27 @@ i	i	CC	0.999806	2673	2674
 edició	edició	NCFS000	1	2675	2681	FilmLanguage
 ,	,	Fc	1	2681	2682	
 Núria_Nia	núria_nia	NP00000	1	2683	2692	FilmLanguage
-.	.	Fp	1	2692	2693	
+.	.	Fp	1	2692	2693	-
+
 Director	director	NCMS000	0.983333	2694	2702	
 de	de	SPS00	0.999931	2703	2705	FilmLanguage
 fotografia	fotografia	NCFS000	0.925926	2706	2716	
 ,	,	Fc	1	2716	2717	
 Albert_Badia	albert_badia	NP00000	1	2718	2730	-
-.	.	Fp	1	2730	2731	FilmLanguage
+.	.	Fp	1	2730	2731	-
+
 So	es	DA0MS0	0.25	2732	2734	
 ,	,	Fc	1	2734	2735	
 Enrique_Bermejo	enrique_bermejo	NP00000	1	2736	2751	
-.	.	Fp	1	2751	2752	
+.	.	Fp	1	2751	2752	.
+
 Produït	produir	VMP00SM	1	2754	2761	FilmLanguage
 per	per	SPS00	0.999664	2762	2765	
 Transmedia_Catalonia	transmedia_catalonia	NP00000	1	2766	2786	
 i	i	CC	0.999806	2787	2788	
 La_Panoràmica	la_panoràmica	NP00000	1	2789	2802	FilmLanguage
-.	.	Fp	1	2802	2803	
+.	.	Fp	1	2802	2803	.
+
 Actors	actors	NP00000	0.288224	2805	2811	-
 per	per	SPS00	0.999664	2812	2815	
 ordre	ordre	NCFS000	0.62	2816	2821	
@@ -608,7 +653,8 @@ Rick_Zingale	rick_zingale	NP00000	1	2848	2860
 Jessica_Álvarez	jessica_álvarez	NP00000	1	2862	2877	
 i	i	CC	0.999806	2878	2879	
 Adeline_Flaun	adeline_flaun	NP00000	1	2880	2893	-
-.	.	Fp	1	2893	2894	
+.	.	Fp	1	2893	2894	.
+
 En	en	SPS00	0.993046	2896	2898	
 lletres	lletra	NCFP000	1	2899	2906	FilmLanguage
 negres	negre	AQ0CP0	0.666667	2907	2913	A-ColorAttribute

@@ -47,16 +47,7 @@ class DensityController extends Controller
 	$defaultData = array();
     	$form = $this->createFormBuilder($defaultData)
 	->add('chooseTwoFiles', 'Symfony\Component\Form\Extension\Core\Type\ChoiceType',  array(
-    	'choices' => [
-        'Main Statuses' => [
-            'Yes' ,
-            'No' ,
-        ],
-        'Out of Stock Statuses' => [
-            'Backordered' ,
-            'Discontinued' ,
-        ]
-    ],
+    	'choices' => array($files0),
 	'multiple' => true,
         'expanded' => true,
     	'choices_as_values' => true))

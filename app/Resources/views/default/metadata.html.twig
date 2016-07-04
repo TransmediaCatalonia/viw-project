@@ -18,10 +18,12 @@
 	
 
 	
-        <h3>What's else?</h3>
+        <h3>Files and visualizations</h3>
 
-	<p>For each AU we provide the 'eaf' file together with a number of additional files. These can be downloaded 
-	and may be used in different ...</p>
+	<p>For each AD, the .eaf file plus a number of additional files and visualizations are provided.
+	Please notice that in the html file the video corresponds to the short film without the AD. To access the 
+	corresponding AD, please go to the <a href="http://pagines.uab.cat/viw/content/corpus"> project website</a>
+	</p>
          	
 	<ul>
 	{% if html is not null %}
@@ -42,10 +44,10 @@
 	{% endif %}
 
 	{% if hits is not null %}
-	<li><b>ADs' duration in the Timeline</b> (duration: time in miliseconds) <a href="../../hits/time/{{ subdir }}/{{ hits }}"> go...</a></li><hr/>
-	<li><b>ADs' length in the Timeline</b> (length: number of words) <a href="../../hits/words/{{ subdir }}/{{ hits }}"> go...</a></li><hr/>
-	<li><b>ADs' length and shoot information in the Timeline</b> (length: number of words) <a href="../../hits/wordsvisual/{{ subdir }}/{{ hits }}">go...</a></li><hr/>
-	<li><b>ADs' density in the Timeline</b> (density: characters/second) <a href="../../hits/timewords/{{ subdir }}/{{ hits }}"> go...</a></li><hr/>
+	<li><b>ADs' duration in the Timeline</b> (duration: time in miliseconds) <a href="../../hits/time/{{ subdir }}"> go...</a></li><hr/>
+	<li><b>ADs' length in the Timeline</b> (length: number of words) <a href="../../hits/words/{{ subdir }}"> go...</a></li><hr/>
+	<li><b>ADs' length and shoot information in the Timeline</b> (length: number of words) <a href="../../hits/wordsvisual/{{ subdir }}">go...</a></li><hr/>
+	<li><b>ADs' density in the Timeline</b> (density: characters/second) <a href="../../hits/timewords/{{ subdir }}"> go...</a></li><hr/>
 	{% endif %}
 
 	

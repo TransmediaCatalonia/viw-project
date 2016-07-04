@@ -1,492 +1,439 @@
-BTI-UK.eaf	3070	11160	In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog stops to sniff at something on the sand.
-BTI-UK.eaf	15070	22630	Responding to the whistle, he pads after his owners.  Words in black letters on a white background. what happens while, followed by a long black line.
-BTI-UK.eaf	23100	28430	A white saloon pulls up alongside the beach wall. The male driver is on his mobile.
-BTI-UK.eaf	53200	57530	The man in his mid 30's with a sandy beard, sighs with annoyance.
-BTI-UK.eaf	59110	63770	Wearing a work suit, his tie loosened at the collar, he puts on a pair of sunglasses.
-BTI-UK.eaf	65010	71220	In white letters, JAMES,the business man. James walks along the promenade with a beach bag over his shoulder.
-BTI-UK.eaf	92210	96380	Having taken off his suit, James lies back on a thin towel on the sand.
-BTI-UK.eaf	98020	103540	He runs his hands across his eyes, then lets them drop by his side.
-BTI-UK.eaf	107070	109750	He lets the sand trickle through his fingers.
-BTI-UK.eaf	113610	115770	He sits up to answer the phone.
-BTI-UK.eaf	141030	143060	He looks round for the source of the sound.
-BTI-UK.eaf	162120	170150	He gets to his feet and walks along the sand in his trunks. In the distance, the city of Barcelona is a hazy outline.
-BTI-UK.eaf	178079	185000	He looks towards the top of the beach and then turns to face the sea, puzzled by the high pitched whine.
-BTI-UK.eaf	191050	197150	He walks down to the edge of the water, then turns back up the beach to where he left his clothes,
-BTI-UK.eaf	208120	213220	He puts on his blue shirt, his eyes scouring the sky for the source of the sound.
-BTI-UK.eaf	219170	225850	With his suit back on, but no tie, he walks under a canopy of trees still looking puzzled.
-BTI-UK.eaf	228040	232020	He clambers up a sandy pathway to the top of a steep rocky slope
-BTI-UK.eaf	233110	252870	A middle aged man with unkempt grey hair, heavy brows and a bristly beard taps his coffee cup in his fingers. He wears a green vest and a chain around his neck. His eyes follow a flight of birds and a smile comes to his lips.  He has a tatoo on his upper arm and a chain bracelet on one wrist. He taps the lid of the cup and lifts it. 
-BTI-UK.eaf	254140	258570	He peers at the half full cup of coffee and takes a sip.
-BTI-UK.eaf	265030	282070	In white letters: RICK, the retiree. He is sitting on a bench beneath some trees in full leaf. He puts the lid on the seat next to him and stares at the coffee, his right knee jigging up and down. He drinks up, then puts the cup next to the lid and leans back, clapping his hands.
-BTI-UK.eaf	285040	289490	He reaches in the the back pocket of his trousers and pulls out his mobile phone.
-BTI-UK.eaf	292000	294010	He scrolls through his contact list.
-BTI-UK.eaf	295130	300050	He finds one, taps on the green ring icon and puts the phone to his ear.
-BTI-UK.eaf	330030	332000	He hears the high pitched sound.
-BTI-UK.eaf	398010	412170	Rick gets up, pockets his phone and wanders off leaving the coffee cup on the park seat. He looks up at the sky, trying to locate the source of the sound as he goes.  A girl with ringletted auburn hair, heaves a sigh and chews on her pencil.
-BTI-UK.eaf	417170	420090	In white letters: JESS, the student.
-BTI-UK.eaf	422060	425160	Sitting at her apple laptop, Jess fishes about for her phone.
-BTI-UK.eaf	493230	496470	She rings off, perplexed by the sound,
-BTI-UK.eaf	498450	500830	She looks about her.
-BTI-UK.eaf	512030	515020	Wearing a hooded jacket, she goes outside.
-BTI-UK.eaf	517190	523190	She climbs an overgrown slope, the sunlight reflected on her long ringlets
-BTI-UK.eaf	527120	529070	She scampers off out of view
-BTI-UK.eaf	529190	536010	She runs out onto a sun-bleached beach, where Rick and James are looking about them, in puzzlement.
-BTI-UK.eaf	540050	541640	A disembodied voice.
-BTI-UK.eaf	707220	712000	Rick shrugs his shoulder and shakes his head. Jess shakes HER head
-BTI-UK.eaf	725000	726690	James smiles doubtfully.
-BTI-UK.eaf	736210	740620	As James strolls off, Rick catches up with him. Jess considers,
-BTI-UK.eaf	743150	748220	With a smile, she follows them and all three walk off together.
-BTI-UK.eaf	758230	762070	A young black woman is on the phone as she sorts through her washing.
-BTI-UK.eaf	762190	769000	No I coudn't, I have to finish, really. No, what are you talking about? Ofcourse yes, our luggage is ready.
-BTI-UK.eaf	771000	773160	She looks up towards the sound.,
-BTI-UK.eaf	774080	777450	Listen, I can't talk right now, I have to leave you.
-BTI-UK.eaf	778170	781100	In white capitals, Zoe, the next one,
-BTI-UK.eaf	782090	790170	cut to black.  The title again, in white letters on a black background: what happens while, followed by a long black line. Directed by Nuria Nia
-What-Able-NZ.eaf	3630	14630	On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog pauses to sniff the ground and trots onwards.
-What-Able-NZ.eaf	18850	29580	Black text on a white screen appears, reading: 'What happens while', followed by a long black line. A man in a suit and tie and talking on a cellphone pulls up by the seaside in a white BMW.
-What-Able-NZ.eaf	52940	59470	Pocketing his cellphone, the bearded man chucks his briefcase in the boot of his car and dons a pair of aviator sunglasses.
-What-Able-NZ.eaf	65640	71030	White text reads: James, The businessman. Later, James makes another call.
-What-Able-NZ.eaf	92680	96770	Later, a shirtless James lies back on his beach towel on the sand.
-What-Able-NZ.eaf	99690	106170	Looking weary, he places his hands on his eyes, then trails his fingers through the pale sand.
-What-Able-NZ.eaf	112620	114630	Frowning, James sits up.
-What-Able-NZ.eaf	142020	143450	He looks distracted.
-What-Able-NZ.eaf	157990	164790	James hangs up, then with his brow furrowed, he stands, wearing only his boxer briefs, on the seemingly deserted beach.
-What-Able-NZ.eaf	165590	168830	He walks near the calm water's edge, scanning the horizon.
-What-Able-NZ.eaf	200290	208980	Looking pertured, James continues looking away from the water, his eyes darting. He ambles back to his pile of clothes and puts on his grey business shirt.
-What-Able-NZ.eaf	218990	223600	Later, now fully clothed, James marches down a street lined with leafy trees.
-What-Able-NZ.eaf	227200	236340	He slowly makes his way up a steep, craggy slope with dry vegetation. A man taps his finger on a takeaway coffee cup.
-What-Able-NZ.eaf	237420	243410	Wearing a singlet, the man has a greying beard and frizzy hair. He gives a wry smile and looks down.
-What-Able-NZ.eaf	248220	259590	He traces his finger around the white plastic lid, then removes it. Examining the dark liquid contents, he holds the cup to his mouth, pauses, then takes a sip.
-What-Able-NZ.eaf	265120	279540	White text reads: Rick, The retiree. Rick sits on a wooden chair in a leafy urban park. Hejiggles his knee as he continues sipping his drink. With a shake of his head, he places the cup on a seat next to him then claps his hands together.
-What-Able-NZ.eaf	287560	298090	Taking his phone from his back trouser pocket, Rick scrolls through his contact list. He presses the screen to call Craig Anderson and holds the phone to his ear.
-What-Able-NZ.eaf	330470	332320	Rick looks up, confused.
-What-Able-NZ.eaf	380400	381350	Rick frowns.
-What-Able-NZ.eaf	398590	405880	Pocketing his phone, Rick gets up and leaves his takeaway cup on the seat. He casts his eyes skyward as he walks away. A woman with tightly curled brunette hair holds a penci!to her mouth.
-What-Able-NZ.eaf	412600	417360	A woman with tightly curled brunette hair holds a penci!to her mouth.
-What-Able-NZ.eaf	418050	421020	White text reads: Jess, The student.
-What-Able-NZ.eaf	423810	427675	Checking behind her laptop, Jess locates her phone under a pile of papers.
-What-Able-NZ.eaf	494030	498959	Jess disconnects the call and looks around, her eyes roving.
-What-Able-NZ.eaf	518189	525621	Later, Jess is outside, making her way through the grassy foliage on a slope before trotting out of sight.
-What-Able-NZ.eaf	528216	536189	Jess emerges on to a dry plateau under a cloudless sky where Rick and James stand. James gives a small shrug, and Rick gestures to his ear.
-What-Able-NZ.eaf	539162	542540	James nods. Jess' eyes widen.
-What-Able-NZ.eaf	557108	561175	James shields his eyes as he looks up into the harsh sunlight.
-What-Able-NZ.eaf	707820	711300	The trio glances at each other, and Rick and Jess shake their heads.
-What-Able-NZ.eaf	718200	719780	Rick raises his arms.
-What-Able-NZ.eaf	725360	726980	James shakes his palms.
-What-Able-NZ.eaf	737080	742000	Rick follows him. After a moment's thought, Jess also follows.
-What-Able-NZ.eaf	743860	748940	She jogs to catch up and falls in line between Rick and James, who put an arm around her shoulders.
-What-Able-NZ.eaf	753300	762240	The trio head off the plateau and towards the scrub. Cut to black. A woman is on the phone while pegging out washing.
-What-Able-NZ.eaf	763170	766400	Subtitles read: No, I couldn't. I have to finish, really.
-What-Able-NZ.eaf	768080	772080	No! What are you talking about? Of course, yes, our luggage is ready.
-What-Able-NZ.eaf	775360	782040	Listen, I cannot talk right now. I have to leave you. White text reads: Zoe, The next one.
-Bridge-US.eaf	370	6680	A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.
-Bridge-US.eaf	7350	14330	A male runner jogs past. The dog trots and sniffs the sand. It follows its owner along the coast.
-Bridge-US.eaf	15830	20200	Words appear: What Happens While… with a long, blank line at the end.
-Bridge-US.eaf	22000	29690	A slick, white car approaches, driving on the grey asphalt. The male driver sits alone inside and speaks on his cell phone.
-Bridge-US.eaf	31120	37950	He looks aggressive as he bangs the steering wheel. He gets out. He wears a business suit.
-Bridge-US.eaf	39630	41330	He grabs items from the trunk.
-Bridge-US.eaf	43490	47120	He mutters and stares disdainfully at the phone as he hangs up.
-Bridge-US.eaf	52010	55310	His pale skin looks cool and soft in the muted sunlight.
-Bridge-US.eaf	56510	59060	He puts on dark aviator, sunglasses.
-Bridge-US.eaf	61410	64200	Words appear: James, the Businessman
-Bridge-US.eaf	65990	70830	He walks along the nearly empty beach carrying a beach bag. He makes a call.
-Bridge-US.eaf	91230	99610	Now, James lies back, bare-chested, on a towel in the sand. His brownish, stubbly beard and chest hair almost match the ground.
-Bridge-US.eaf	100270	108740	He exhales hard, then rubs his closed eyes. He stays up by the setled sunlight and gently moves his fingrers through the sand.
-Bridge-US.eaf	112000	112700	He sits up.
-Bridge-US.eaf	126670	128670	He looks left...and right.
-Bridge-US.eaf	139000	140790	He looks at the sand around him.
-Bridge-US.eaf	156000	162730	James gazes around, looking confused. He stands up, wearing his boxer shorts on the secluded beach. 
-Bridge-US.eaf	163420	165240	He walks along the water's edge.
-Bridge-US.eaf	166660	174320	He suddenly turns to the left and looks as if he's following the sound. A city's skyscrapers rise in the distant coast.
-Bridge-US.eaf	176620	180350	He pauses, then starts back toward his towel in the sand.
-Bridge-US.eaf	182430	184230	He turns again toward the sound.
-Bridge-US.eaf	186740	192890	He wanders closer to the waves along the shore. James looks puzzled, and peers around the beach.
-Bridge-US.eaf	195620	205340	The sky is hazy-white, without distinguishable clouds or sun. James walks away from the water, scanning around with his eyes, as if trying to locate the mysterious sound.
-Bridge-US.eaf	206560	214340	Standing at his towel in the sand, he grabs his shirt and begins to put it on. He furrows his brow, looking inquisitively at the air.
-Bridge-US.eaf	216000	220500	Now, James wears his suit and walks under large, leafy trees.
-Bridge-US.eaf	221000	223920	His unsmiling, serious face stares forward.
-Bridge-US.eaf	224480	229560	James climbs a dirt trail, up a mountain covered in short, dense bushes and cactuses.
-Bridge-US.eaf	233000	235950	Now, fingers lightly tap on a to-go coffee cup.
-Bridge-US.eaf	237330	242730	An unshaven older man with messy, longish, grey hair gazes around, looking bored.
-Bridge-US.eaf	245000	249700	He stares down at his hands and the coffee cup, circling his fingers around the plastic lid.
-Bridge-US.eaf	250690	254050	He removes the lid and raises the black coffee to his mouth.
-Bridge-US.eaf	254930	257730	The man hesitates, then gulps from the small cup.
-Bridge-US.eaf	258380	260380	His eyes look moist and glassy.
-Bridge-US.eaf	261240	263840	Words appear: Rick, the Retiree.
-Bridge-US.eaf	264660	270650	Rick sits at a park bench. His right leg twitches, bouncing up and down in tiny movements.
-Bridge-US.eaf	271230	274070	He sits alone and takes another sip of his coffee.
-Bridge-US.eaf	275550	277290	He sets his cup on another bench.
-Bridge-US.eaf	278400	282010	He stares up at the trees and looks restless as he claps his hands.
-Bridge-US.eaf	285200	288480	Rick scrolls through the many contacts on his smart phone.
-Bridge-US.eaf	290240	292090	He pauses on the ""C"" names.
-Bridge-US.eaf	294360	297570	He selects a contact named ""Craig Anderson.""
-Bridge-US.eaf	327470	329430	He darts his eyes up curiously.
-Bridge-US.eaf	377280	379360	Rick stares around, looking pensive.
-Bridge-US.eaf	395000	399110	Rick wanders off along a park trail, leaving his coffee cup on a bench.
-Bridge-US.eaf	400220	406920	Rick wears a loose, green tank-top and jeans. He looks up and turns around, as if he's scanning for the sound.
-Bridge-US.eaf	408720	412480	Now, a young woman looks tired and gazes at an open laptop.
-Bridge-US.eaf	413000	417190	She bites on the end of a pencil. Words appear: Jess, the Student.
-Bridge-US.eaf	419000	421980	She fumbles around the desk, searching for her phone.
-Bridge-US.eaf	423860	426010	She lifts papers and find the phone.
-Bridge-US.eaf	427140	428010	Jess answers.
-Bridge-US.eaf	492150	499790	Jess glances around the room. She peers left...and right. She touches her thick, curly, brown hair.
-Bridge-US.eaf	500220	502740	She stares into the silence, looking puzzled.
-Bridge-US.eaf	506000	506900	She jolts up.
-Bridge-US.eaf	509000	525070	Now, outside, Jess hikes up a hill. Tall grass and plants cover the ground. Jess wears a coat and walks around, scanning with her eyes. The sun shines off the greenery. She stops and stares. Then, she continues hiking up.
-Bridge-US.eaf	527790	532390	Now, Rick, James, and Jess gather together in a bright, sandy clearing.
-Bridge-US.eaf	534190	535830	Rick points to his ear.
-Bridge-US.eaf	537000	540770	The three stand on the empty, sun-bleached ground, looking bewildered.
-Bridge-US.eaf	554000	558020	They look everywhere, as if trying to find the source of the voice.
-Bridge-US.eaf	573300	574880	James' face looks panicked.
-Bridge-US.eaf	592000	594250	Rick grips his head with one hand.
-Bridge-US.eaf	694000	695000	Rick nods.
-Bridge-US.eaf	704000	709220	James quickly peers at Rick. Rick shrugs and shakes his head. Rick looks at Jess.
-Bridge-US.eaf	722180	724270	James smiles with closed lips.
-Bridge-US.eaf	733520	736020	Rick follows James across the pebbly ground.
-Bridge-US.eaf	736920	756080	Jess looks down and smiles thoughtfully. She glances at the other two, then quickly runs to them. She walks between James and Rick. James softly places his arm around her shoulder. The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain. The image disappears to a black screen.
-Bridge-US.eaf	757000	758960	Now, a woman speaks on a cell.
-Bridge-US.eaf	759370	762790	Subtitles: No, I couldn't. I have to finish, really.
-Bridge-US.eaf	764000	769300	She gazes up. No! What are you talking about? Of course yes, our luggage is ready…
-Bridge-US.eaf	769640	775380	The woman furrows her brow. She looks around again. Listen, I cannot talk right now. I have to leave you.
-Bridge-US.eaf	776000	778920	Words appear: Zoé, the Next One.
-Bridge-US.eaf	780000	784570	A title: What Happens While... with a long, blank line at the end.
-What-Deluxe-UK.eaf	4000	13120	A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.
-What-Deluxe-UK.eaf	18550	29210	What happens while. The title ends with just a line. A man parks a sleek white BMW on the road by the sea. Talking on his mobile phone he gets out of the car and opens the boot.
-What-Deluxe-UK.eaf	52490	62670	The man put a brief case in the boot of the car and took out a stripy cotton bag. He's wearing a suit. He has short light brown hair and a beard. He puts on a pair of aviator style sunglasses.
-What-Deluxe-UK.eaf	65110	70610	James: The businessman. He walks along with the bag on his shoulder and makes a phone call.
-What-Deluxe-UK.eaf	93500	97240	Wearing swimming trunks James lies down on a towel on the sandy beach.
-What-Deluxe-UK.eaf	100050	108530	He relaxes, rubs his eyes and lets his arms flop out to his sides. He gently caresses the sand with his fingers.
-What-Deluxe-UK.eaf	111680	114240	He sits up and answers his phone.
-What-Deluxe-UK.eaf	141540	143410	He looks around frowning
-What-Deluxe-UK.eaf	158140	180580	James hangs up and tosses his phone aside. He's a craggy faced man in his late forties with a slight paunch. He stands up and walks along the sand as waves gently roll in. The coast curves round in the distance with industrial buildings running along it. James stops walking and turns in the other direction. As the strange sound begins again he stops and looks around.
-What-Deluxe-UK.eaf	192120	199770	Heavy browed James frowns and steps towards the water's edge, he continues to look around as he walks along the sand.
-What-Deluxe-UK.eaf	207840	211670	James goes back to his things. He picks up his shirt and puts it on.
-What-Deluxe-UK.eaf	220500	231650	Fully dressed in his suit and with his shirt open James walks along by some trees. He tramps along a track running up a hill between scrubby bushes. Further up are craggy white rocks.
-What-Deluxe-UK.eaf	235060	256970	A man sits tapping a lidded takeaway coffee cup with his fingers. He wears jeans and a dark green vest. He's about 60 with fine shaggy grey hair and a beard. He shakes his head and lets out a long weary breath. He runs his finger round the coffee cup lid then pulls it off. He holds up the half full cup of black coffee and has a drink.
-What-Deluxe-UK.eaf	265190	280470	Rick: The Retiree. Rick wears a chain necklace around his neck. He's sitting in the middle of three chairs in a park. He nervously jiggles his right leg up and down, puts the cup on the chair beside him and restlessly claps his hands together.
-What-Deluxe-UK.eaf	286159	297750	Rick looks agitated. He takes his mobile phone from his back pocket, opens the cover and scans through his contacts. He stops at Craig Anderson, and makes a call.
-What-Deluxe-UK.eaf	329500	331780	At the sound he looks up and frowns.
-What-Deluxe-UK.eaf	380260	382000	He looks up again, frowning.
-What-Deluxe-UK.eaf	399420	411080	Rick leaves the coffee cup on the seat, gets up and walks away, looking around as he goes. A young woman of about twenty sits at a desk typing. She has long red hair that hangs loose in ringlets.
-What-Deluxe-UK.eaf	412900	414940	She restlessly chews a pencil.
-What-Deluxe-UK.eaf	417900	419860	Jess: The Student.
-What-Deluxe-UK.eaf	422540	424260	She searches for her phone.
-What-Deluxe-UK.eaf	425450	428890	Jess finds her phone under some papers and answers it.
-What-Deluxe-UK.eaf	494780	498740	Frowning she hangs up and looks around, puzzled by the sound.
-What-Deluxe-UK.eaf	510120	520600	She gets up and grabs a coat. Wearing her brown parka she walks up a hill. Tall grass and bushes surround her. She keeps looking around as she goes.
-What-Deluxe-UK.eaf	525950	534920	Jess hurries away. Rick, James and Jess stand in a sandy clearing at the edge of scrubland. They look around in confusion. Rick talks on his phone.
-What-Deluxe-UK.eaf	556030	560230	Under bright sunshine they all look up, puzzled. A breeze blows around them.
-What-Deluxe-UK.eaf	594840	596910	Grasping his forehead he shrugs.
-What-Deluxe-UK.eaf	641700	643140	Rick points at them.
-What-Deluxe-UK.eaf	696000	697050	Rick nods.
-What-Deluxe-UK.eaf	700540	701680	James smiles.
-What-Deluxe-UK.eaf	707190	710930	They consider. Rick shrugs and Jess shakes her head.
-What-Deluxe-UK.eaf	737010	741160	Rick follows James. Jess thinks for a moment andsmiles to her self.
-What-Deluxe-UK.eaf	742850	748050	Jess runs over and joins the other two. They walk off together towards the scrubland.
-What-Deluxe-UK.eaf	758040	759230	The screen cuts to black.
-What-Deluxe-UK.eaf	763220	782140	A woman talks on her phone as she hangs out washing. She frowns, at the sound. She says: 'No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready. Listen, I cannot talk right now. I have to leave you.' She looks increasingly disturbed by the sound: Zoe: The Next One.
-What-Ericsson-AU.eaf	4530	13890	A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which stops to sniff at something in the sand before trotting onwards.
-What-Ericsson-AU.eaf	19030	21880	A title on screen. What Happens While...
-What-Ericsson-AU.eaf	24120	29080	A bearded man in a suit parks his expensive car by the promenade and gets out while on the phone.
-What-Ericsson-AU.eaf	52910	58870	Putting his phone away, he takes his sunglasses from his chest pocket and sighs wearily as he puts them on.
-What-Ericsson-AU.eaf	65710	70710	Onscreen. James - the businessman. He's carrying a stripy beach bag.
-What-Ericsson-AU.eaf	94090	97150	Bare-chested down on the beach, he flops onto a towel.
-What-Ericsson-AU.eaf	100030	106850	Closing his eyes, he rubs his face wearily, then runs his left hand over the sand, letting some of it trickle through his fingers.
-What-Ericsson-AU.eaf	141850	143340	He looks around in confusion.
-What-Ericsson-AU.eaf	158120	169450	Dropping his phone, he gets up and walks along the seashore in his swimming trunks, scanning his surroundings for the source of the sound. Behind him, city buildings across the water blur against the hazy horizon.
-What-Ericsson-AU.eaf	179000	181200	James turns back towards his towel.
-What-Ericsson-AU.eaf	188100	193380	Walking back towards the ocean, he looks around him again with an increasingly puzzled expression.
-What-Ericsson-AU.eaf	199230	207890	Heading back up the beach, he returns to his belongings and picks up his grey business shirt, still looking around in confusion as he pulls the sleeves over his arms.
-What-Ericsson-AU.eaf	219560	227500	Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.
-What-Ericsson-AU.eaf	234010	242040	Two hands holding a takeaway coffee cup. They belong to a thick-set man with a greying beard and fuzzy grey hair. His large eyes look about him.
-What-Ericsson-AU.eaf	250140	256160	He taps the lid of his coffee cup before taking it off and smelling the black coffee. He sips it with a look of resignation.
-What-Ericsson-AU.eaf	266190	282260	Rick - the retiree. He's sitting on a park bench in dappled shade, wearing an olive-green vest that exposes the chain around his neck and the tattoos on his arm. He taps his right leg restlessly as he takes another sip of coffee, then he puts the cup aside and claps his hands aimlessly.
-What-Ericsson-AU.eaf	287000	293540	Taking a phone from his back pocket, he searches his list of contacts before choosing the number of someone called Craig Anderson.
-What-Ericsson-AU.eaf	329880	331110	Rick frowns at the sky.
-What-Ericsson-AU.eaf	380270	381280	He frowns again.
-What-Ericsson-AU.eaf	398010	403270	He leaves his coffee behind as he pockets his phone and walks through the park, scanning the air above his head.
-What-Ericsson-AU.eaf	411130	416580	A young woman with springy red-brown curls is studying at her laptop. Jess - the student.
-What-Ericsson-AU.eaf	422710	424370	She searches her cluttered desk.
-What-Ericsson-AU.eaf	428600	429740	She finds her phone.
-What-Ericsson-AU.eaf	494650	497220	Jess looks around her with a puzzled expression.
-What-Ericsson-AU.eaf	511530	531070	Outside, dressed in a warm jacket, jeans and a scarf, Jess scans her surroundings, then climbs up an overgrown hillside with the sun glinting on her long, springy hair. She pauses to look around, then hurries onward. At the top of the ridge is a clearing, where James and Rick are standing on an expanse of sandy dirt. Jess joins them.
-What-Ericsson-AU.eaf	540260	541650	They all look mystified.
-What-Ericsson-AU.eaf	556140	558650	They all look baffled by the disembodied voice.
-What-Ericsson-AU.eaf	594910	595540	He shrugs.
-What-Ericsson-AU.eaf	708140	710090	With a shrug, Rick shakes his head.
-What-Ericsson-AU.eaf	725390	726140	James smiles.
-What-Ericsson-AU.eaf	737630	741010	Rick follows James, but Jess lingers behind, looking pensive.
-What-Ericsson-AU.eaf	743610	751540	She jogs after the others, and James puts his arm around her as she walks between him and Rick back to the overgrown ridge at the edge of the clearing.
-What-Ericsson-AU.eaf	758640	773630	Blackout, then a woman with black dreadlocks hanging washing on a rooftop. She says into her phone, "No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready..."
-What-Ericsson-AU.eaf	774000	782230	Looking about with a frown she says, "Listen, I cannot talk right now. I have to leave you." Onscreen: Zoe, the next one.
-What-Ericsson-AU.eaf	784110	785700	'What Happens While...'
-What-Ericsson-UK.eaf	3190	13060	Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.
-What-Ericsson-UK.eaf	18130	21050	What happens while.
-What-Ericsson-UK.eaf	24020	31210	A white saloon car pulls up on the seafront and the driver, who is having an animated conversation on his mobile phone, gets out.
-What-Ericsson-UK.eaf	53020	69840	The man looks exasperated then reaches into his inside jacket pocket and pulls out a pair of sunglasses, which he puts on. He's around fifty and has a short trimmed beard. James - the businessman. Now, he's walking along the promenade with a striped bag slung over his shoulder.
-What-Ericsson-UK.eaf	94610	109120	Having taken off his suit James, who is now bare chested, lies down on his back on a towel he has spread out on the beach. He covers his face with his hands, then holds one arm out to his side and trails his fingers across the sand, allowing it to trickle through them.
-What-Ericsson-UK.eaf	158850	166160	James hangs up then stands and walks a little way across the sand, trying to find the source of the pulsing ringing sound.
-What-Ericsson-UK.eaf	170510	179180	He walks away from the shore, but as the sound seems to die out, he turns to head back to his towel and belongings, his suit lying in a crumpled heap.
-What-Ericsson-UK.eaf	186040	192090	When the volume of the sound increases he looks about, perturbed by the strange trilling.
-What-Ericsson-UK.eaf	197730	204680	He heads back to his spot, a frown furrowing his brow, then picks up his work shirt and starts to put it on.
-What-Ericsson-UK.eaf	209600	218740	He keeps a wary eye on his surroundings. Later he is fully dressed and walking along a pavement with trees arcing over it.
-What-Ericsson-UK.eaf	221660	227200	He heads up a steep, rugged slope, trying to track down the source of the sound.
-What-Ericsson-UK.eaf	231820	248740	An unkempt man is holding a takeaway coffee cup in his hands.  He taps the side of the cup then narrows his eyes pensively before smiling and shaking his head. He's in his sixties, has unruly collar length hair tinged grey at the temples and a salt and pepper beard.
-What-Ericsson-UK.eaf	252300	260040	He lifts the plastic lid off the cup and peers at the dark liquid inside, hesitates then takes a sip.
-What-Ericsson-UK.eaf	262070	265020	Rick - the retiree.
-What-Ericsson-UK.eaf	267650	277159	Rick, who is sitting on a wooden chair in the shade of trees with mishapen trunks, sets down the lid of his cup and jiggles one leg at the knee.
-What-Ericsson-UK.eaf	280050	290220	He puts down his cup then claps his hands before rubbing them together. He takes a smartphone out of his back pocket and starts scrolling down the list of contacts.
-What-Ericsson-UK.eaf	293690	298170	He selects a name, Craig Anderson, then holds his phone to his ear.
-What-Ericsson-UK.eaf	398850	407050	Rick sets off, wearing baggy jeans and a vest, looking intrigued by the strange sound. He leaves his coffee cup behind.
-What-Ericsson-UK.eaf	409960	415900	A curly haired woman sighs and bites the end of a pencil. Jess - the student.
-What-Ericsson-UK.eaf	419000	426100	Distracted by her mobile phone buzzing she searches for it in among the papers scattered around her laptop.
-What-Ericsson-UK.eaf	495810	500170	Jess looks about curiously, then lowers her gaze to her books.
-What-Ericsson-UK.eaf	511160	518169	Giving up on her studies she heads outside to track down the source of the sound, heading up a grassy slope.
-What-Ericsson-UK.eaf	521860	533090	She pauses, then as the shrill sound becomes louder she heads off. She joins James and Rick on an arid patch of land bordered by parched vegetation.
-What-Ericsson-UK.eaf	538940	540910	Jess looks confused.
-What-Ericsson-UK.eaf	556920	560040	The trio can't locate the exact source of the voice.
-What-Ericsson-UK.eaf	708690	711100	Rick shrugs and Jess shakes her head.
-What-Ericsson-UK.eaf	740940	748210	Rick heads after James but Jess lingers for a moment, looking thoughtful, then chuckles to herself before joining them. 
-What-Ericsson-UK.eaf	751250	756100	James puts his arm around her shoulders for a brief moment, then rubs her back.
-What-Ericsson-UK.eaf	758700	764150	A woman talking on a mobile phone while hanging out washing is distracted by the shrill sound.
-What-Ericsson-UK.eaf	766580	773150	"No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready..."
-What-Ericsson-UK.eaf	776410	781160	"Listen, I cannot talk right now. I have to leave you." Zoe  - the next one...
-What-Mennell-CA.eaf	4530	15850	It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant.
-What-Mennell-CA.eaf	19280	21530	A title reads: What happens while BLANK.
-What-Mennell-CA.eaf	24090	32530	A white two-door coupe pulls up in front of the sidewalk. It's driven by a man in his forties who wears a business suit. Talking on his cell phone, he gets out holding a briefcase.
-What-Mennell-CA.eaf	43540	44620	He opens his trunk.
-What-Mennell-CA.eaf	53280	55380	Hanging up, he looks towards the sea.
-What-Mennell-CA.eaf	59760	62920	He dons aviator sunglasses and his shoulders relax.
-What-Mennell-CA.eaf	65300	67410	A title reads: James. The Businessman.
-What-Mennell-CA.eaf	68120	70980	Moments later he strolls with a beach bag as he makes a call.
-What-Mennell-CA.eaf	94150	97360	Still later his suit is balled up beside a towel laid out on the sand.  01:34.17
-What-Mennell-CA.eaf	99020	108480	James lies back with his shirt off . He closes his eyes then rubs them. Relaxing his arms to his sides, he runs his fingers through the sand and squints up at the sky.
-What-Mennell-CA.eaf	115090	115770	 He sits up.
-What-Mennell-CA.eaf	130170	131350	He glances over his shoulders.
-What-Mennell-CA.eaf	141870	143590	Then he searches the ground around him.
-What-Mennell-CA.eaf	158090	174800	He looks inquisitively around his towel then stands and walks towards the water in his black boxer briefs. On the opposite side of the bay, a smokestack looms over a city blurred by the haze. With his back to the cityscape, James walks barefoot in the sand scanning the area.
-What-Mennell-CA.eaf	180580	183270	Giving up he turns back towards his clothes.
-What-Mennell-CA.eaf	185320	190310	He pauses then looks searchingly in the direction of the city as he ambles back to the water.
-What-Mennell-CA.eaf	196230	202470	Then he makes his way to his clothes, still scanning the landscape around him in search of the source of the sound.
-What-Mennell-CA.eaf	209840	212310	He pulls on his light blue button down shirt.
-What-Mennell-CA.eaf	219940	223250	Later, with his suit jacket open, he strolls beneath tall trees.
-What-Mennell-CA.eaf	227110	231200	Then he climbs a well worn dirt path up a slope of cactuses and brush.
-What-Mennell-CA.eaf	233510	235880	Elsewhere, hands tap a take out coffee cup.
-What-Mennell-CA.eaf	238690	243560	A man in his sixties has unruly grey hair and a thick beard. He has tired green eyes.
-What-Mennell-CA.eaf	245270	246270	He shakes his head.
-What-Mennell-CA.eaf	249580	251690	He taps his coffee lid before removing it.
-What-Mennell-CA.eaf	256170	259230	He swirls the dark liquid then takes a swig.
-What-Mennell-CA.eaf	265260	287440	A title reads: 'Rick: the retiree'.  He places the lid on the park bench beside him then blows on his coffee. His right leg twitches impatiently. Sitting in the shade he wears an army green tank top that exposes his black tattoos on his upper arms. He sets down his coffee then claps his hands impatiently. He grabs a smart phone from his back pocket.
-What-Mennell-CA.eaf	289850	291040	He scrolls through his contacts.
-What-Mennell-CA.eaf	294970	298030	Then, settling on "Craig Anderson", he makes a call.
-What-Mennell-CA.eaf	330260	331440	He squints toward the sky.
-What-Mennell-CA.eaf	380700	382150	He squints upwards again.
-What-Mennell-CA.eaf	397390	402330	Leaving his coffee on the bench he scans the sky  before heading off down a gravel path.
-What-Mennell-CA.eaf	412560	419750	Elsewhere a girl in her early twenties with thick curly red hair sits before a laptop. A title reads: 'Jess, the student.'
-What-Mennell-CA.eaf	426520	429630	She searches for her phone beneath a pile of papers on her desk.
-What-Mennell-CA.eaf	493220	495800	Hanging up she surveys the room around her.
-What-Mennell-CA.eaf	506360	508350	Hearing the noise again she stands.
-What-Mennell-CA.eaf	511550	513820	Later outside, she wears a jacket and scarf.
-What-Mennell-CA.eaf	517900	520250	She hikes up an overgrown grassy slope.
-What-Mennell-CA.eaf	524780	528810	Her head turns sharply at the sound and she rushes off behind some tall grasses.
-What-Mennell-CA.eaf	530150	534430	Moments later she joins James and Rick on a sandy plateau atop the hill.
-What-Mennell-CA.eaf	537440	540530	Standing apart from each other they look around in confusion.
-What-Mennell-CA.eaf	556000	561470	Searching for the voice; Rick makes a questioning gesture and James shields his eyes from the sun.
-What-Mennell-CA.eaf	696580	697580	Rick nods.
-What-Mennell-CA.eaf	708470	710360	Rick shrugs and shakes his head.
-What-Mennell-CA.eaf	736820	739030	Rick follows James towards the trees.
-What-Mennell-CA.eaf	740520	743330	Jessica raises her eyebrow then grins.
-What-Mennell-CA.eaf	744620	749730	She chases after the men and James puts his arm around her as they fall into step with each other.
-What-Mennell-CA.eaf	758160	759200	All goes black.
-What-Mennell-CA.eaf	761470	765730	A woman's on her phone and a subtitle reads, 'No, I couldn't. I have to finish, really.'
-What-Mennell-CA.eaf	767020	771570	'No!' she says, 'What are you talking about? Of course yes, our luggage is ready.'
-What-Mennell-CA.eaf	772320	777450	She looks for the sound, then says, 'Listen, I cannot talk right now. I have to leave you'.
-What-Mennell-CA.eaf	778550	780750	A title reads, 'Zoe, the next one.'
-What-Mennell-CA.eaf	782570	786660	all goes black then words on a screen read; What happens while BLANK.
-What-MindsEye-UK.eaf	3640	16180	A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them. She chews on a pencil.  Caption: Jess the student.  She puts down her pencil, searches for her phone on her desk, beside her Macbook laptop. The screen goes black.  A young woman, her mobile phone pressed to her ear.  Subtitle : No I couldn’t . I have to finish, really.  She hangs washing on a line title: No! What are you talking about? Of course yes, our luggage is ready.  She turns at the high-pitched sound.  title: Listen, I can’t talk right now. I have to leave you.  She ends the call , looks around her frowning.  Caption: Zoe, the next one.  Caption: What happens while – blank.
-What-MindsEye-UK.eaf	17070	17650	Caption.
-What-MindsEye-UK.eaf	18930	20310	 What happens while. 
-What-MindsEye-UK.eaf	21030	21550	blank.
-What-MindsEye-UK.eaf	22730	28900	A car pulls up by the beach, silver with sporty wheels. Inside the driver is on his mobile phone.
-What-MindsEye-UK.eaf	30140	34140	He undoes his seat belt. Opens the door. Gets out with his briefcase.
-What-MindsEye-UK.eaf	43130	46000	He puts his case in the boot, gets out a striped bag.
-What-MindsEye-UK.eaf	52210	57390	He ends the call. Puts his phone away. Looks out towards the sea.  Takes a deep breath.
-What-MindsEye-UK.eaf	60000	63190	Puts on his sunglasses. He has ginger hair and a beard.
-What-MindsEye-UK.eaf	64890	67410	Caption: James, the businessman.
-What-MindsEye-UK.eaf	68420	71540	James walks near the beach, talking on his phone
-What-MindsEye-UK.eaf	92450	95690	James lies back on the beach, barechested.
-What-MindsEye-UK.eaf	100020	103320	He rubs his eyes, no longer wearing his sunglasses.
-What-MindsEye-UK.eaf	105420	107910	He trickles the sand through his fingers.
-What-MindsEye-UK.eaf	112530	115740	He sits up and answers.
-What-MindsEye-UK.eaf	130210	131650	he looks round at the sound.
-What-MindsEye-UK.eaf	141490	143080	again, he looks around.
-What-MindsEye-UK.eaf	157300	179210	He ends the call, looks round, frowning deeply.  He stands, in his trunks, walks out towards the sea.  In the distance are the buildings of a town.  Back out onto the sand, frowning as if trying to determine what the sound is and where it is coming from.
-What-MindsEye-UK.eaf	181990	185990	Beyond him the buildings are silhouetted against a hazy sky.
-What-MindsEye-UK.eaf	187430	189880	Waves break onto rocks on the shore.
-What-MindsEye-UK.eaf	192020	193700	He heads towards the water.
-What-MindsEye-UK.eaf	197670	202000	He turns.  He has pale skin, greying hairs on his chest.
-What-MindsEye-UK.eaf	203340	214790	He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on. 
-What-MindsEye-UK.eaf	227390	256160	He climbs a winding path up a cliffside, picking his way, in his business shoes.  A takeaway coffee cup in a man’s hands; fingers tap.  A bearded grey haired man with heavy green eyes.  He has a chain around his neck, tattoos on his shoulder, wears a vest.  He shakes his head.  He runs his finger round the lid, removes it, and sips the black coffee.
-What-MindsEye-UK.eaf	265000	274150	Caption: Rick, the retiree.  Rick sits on a park bench, in the sunshine.  He drinks the coffee, tapping his foot.
-What-MindsEye-UK.eaf	278950	298600	He puts the cup down, rubs his hands, claps them, takes his mobile phone from his back trouser pocket, scrolls through the contacts. He selects a Craig Anderson and presses call icon.
-What-MindsEye-UK.eaf	330570	332230	He frowns at the sound.
-What-MindsEye-UK.eaf	383000	384260	He looks up, listening.
-What-MindsEye-UK.eaf	397000	405200	He stands; he sets off, leaving his coffee cup on the bench. He walks towards the trees looking around him.
-What-MindsEye-UK.eaf	493900	494970	She ends the call.
-What-MindsEye-UK.eaf	497150	501530	She looks around, frowning, listening.
-What-MindsEye-UK.eaf	508690	524700	She gets up, goes outside.  She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.  She climbs up the hillside, past trees and long grasses, pausing to look around her.
-What-MindsEye-UK.eaf	528800	538280	She arrives on a plateau on the hillside, near to James and Rick The sun shines down brightly on the three small figures.
-What-MindsEye-UK.eaf	541660	543420	The speaker can’tt be seen.
-What-MindsEye-UK.eaf	555770	560250	The three stand there, blinking in the sunshine, peering to see who is speaking.
-What-MindsEye-UK.eaf	568000	569520	James frowns.
-What-MindsEye-UK.eaf	575800	577720	Their shadows are cast long.
-What-MindsEye-UK.eaf	594430	596750	Rick shrugs, hand to his head.
-What-MindsEye-UK.eaf	639840	640380	Rick.
-What-MindsEye-UK.eaf	645330	647450	The wind blows his wiry hair.
-What-MindsEye-UK.eaf	707190	712000	Each of them shakes their head, James, Rick Jess.
-What-MindsEye-UK.eaf	716600	717930	They look around.
-What-MindsEye-UK.eaf	720340	722000	Rick laughs.
-What-MindsEye-UK.eaf	725000	727000	James waves his hands dismissively.
-What-MindsEye-UK.eaf	737360	750470	Rick sets off with James.  Jessica thinks for a moment, gives a “why not” smile and runs to join them.  They walk away from us towards the path through the trees, the men’s arms around Jessica’s shoulders.
-What-SDI-Media-UK.eaf	4640	15970	A film shot mostly in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past. 
-What-SDI-Media-UK.eaf	18890	21500	On a white background: What Happens While.
-What-SDI-Media-UK.eaf	23940	30500	A BMW coupe pulls up beside the beach and a forty-something guy gets out, speaking on his phone.
-What-SDI-Media-UK.eaf	53000	56690	He ends the call, then reaches into in his inside jacket pocket.
-What-SDI-Media-UK.eaf	59940	62660	He takes out sunglasses and puts them on.
-What-SDI-Media-UK.eaf	65420	71460	James. The businessman. Wearing a suit and carrying a beach bag, James makes a call as he walks.
-What-SDI-Media-UK.eaf	92390	96380	Now bare chested,James sits on a towel on the beach, then lies back.
-What-SDI-Media-UK.eaf	100080	108890	Slender,with short, sandy-coloured hair and a neat beard, James rubs his eyes, then , keeping them closed, picks up sand and lets it fall from his fingers.
-What-SDI-Media-UK.eaf	114700	115570	He sits up.
-What-SDI-Media-UK.eaf	142450	143590	He scans about.
-What-SDI-Media-UK.eaf	159670	161650	He throws down his phone and gets up.
-What-SDI-Media-UK.eaf	166240	172930	Wearing dark-coloured swimming trunks, James walks to the water's edge, then turns back, as if trying to locate the sound. 
-What-SDI-Media-UK.eaf	176200	181790	He walks through the soft sand, stops and scans about, then returns to the water's edge.
-What-SDI-Media-UK.eaf	186800	195040	Looking perplexed by the sound, he checks about him. Further round the coast, in the background, the towers and buildings of a power plant fringe the shore.
-What-SDI-Media-UK.eaf	204680	212650	James' brow is furrowed as he walks back to his belongings on the beach and puts on his shirt. Two small boats bob about in the water behind him.
-What-SDI-Media-UK.eaf	220680	224970	Dressed again, but minus his tie, James walks past leafy trees.
-What-SDI-Media-UK.eaf	229620	233020	Walking through scrubland,he climbs a steep, dusty track.
-What-SDI-Media-UK.eaf	235510	242940	A man holding a plastic cup taps the sides and sniffs. He's in late middle-age with strong features and a grizzled beard. 
-What-SDI-Media-UK.eaf	248980	261410	Looking bored,the man who has wild, wiry, greying hair runs an index finger around the lid of the cup, then removes it. The cup is half full of clear dark liquid, which he studies before taking a sip.
-What-SDI-Media-UK.eaf	265760	276350	Rick. The Retiree. Rick, who wears a vest top and a heavy chain around his neck,is sitting on a chair in a sun-dappled area of a park. He jiggles one knee up and down, edgily.
-What-SDI-Media-UK.eaf	278590	281070	He puts his cup aside and claps his hands.
-What-SDI-Media-UK.eaf	286180	290120	He takes his phone from a back pocket of his trousers and opens the cover.
-What-SDI-Media-UK.eaf	294190	299650	Using his index finger, he scrolls through his contacts list to Craig Anderson and calls him.
-What-SDI-Media-UK.eaf	330760	332570	Hearing the noise, he scans about.
-What-SDI-Media-UK.eaf	399220	406310	Leaving his cup on a chair, Rick hurries away along a sandy path, scanning above him and about him, following the noise
-What-SDI-Media-UK.eaf	412870	413950	A young woman.
-What-SDI-Media-UK.eaf	418290	426970	Jess. The Student. Jess sits chewing a pencil, which she puts down to search for her phone beneath papers on her desk, on which there's also a laptop.
-What-SDI-Media-UK.eaf	496100	500760	Jess who has long, curly auburn hair scans about her and looks puzzled.
-What-SDI-Media-UK.eaf	512490	523080	Baffled by the sound,Jess gets up from her desk. Outside,wearing a Parka with a fur-trimmed hood, she looks about her then heads up a slope of tall grasses and scrubby bushes.
-What-SDI-Media-UK.eaf	526179	529460	She pauses to listen,then disappears into the vegetation.
-What-SDI-Media-UK.eaf	532770	535410	Jess, Rick and James are standing together.
-What-SDI-Media-UK.eaf	540280	542240	They're in a sunny, sandy clearing. 
-What-SDI-Media-UK.eaf	556670	560390	A wind is blowing as they all scan about for the owner of the voice. 
-What-SDI-Media-UK.eaf	594920	596540	He claps a hand to his head.
-What-SDI-Media-UK.eaf	700830	702530	They're all standing well apart.
-What-SDI-Media-UK.eaf	708070	711520	They glance at each other. Rick shrugs and shakes his head.
-What-SDI-Media-UK.eaf	737830	741560	Rick follows James.Jessica stares down and considers. 
-What-SDI-Media-UK.eaf	744910	747680	She smiles and runs after them in the sunshine.
-What-SDI-Media-UK.eaf	750790	754280	They walk off merrily towards trees beneath a clear blue sky.
-What-SDI-Media-UK.eaf	759230	759960	Blackness.
-What-SDI-Media-UK.eaf	763620	775180	A woman hangs out washing as she talks on her mobile: No, I couldn't. I have to finish,really. No! What are you talking about? Of course yes, our luggage is ready. Listen, I cannot talk right now. I have to leave you. 
-What-SDI-Media-UK.eaf	778660	780050	Zoe. The next one
-What-SDI-Media-UK.eaf	783420	785960	On a white background:what happens while.
-What-Snyder-US.eaf	3760	12910	Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.
-What-Snyder-US.eaf	18820	21410	A title: What happens While
-What-Snyder-US.eaf	27670	34930	Emerging from a white sedan, a man with a trim, reddish-brown beard holds a phone to his ear and pulls a briefcase out of the car.
-What-Snyder-US.eaf	52000	58000	Wearing a dark suit, his tie loose at the collar, he exchanges his briefcase for a striped cloth bag from the trunk.
-What-Snyder-US.eaf	60000	64900	He glances toward the beach, pulls sunglasses from his coat’s vest pocket, and puts them on.
-What-Snyder-US.eaf	66000	71240	A title: James, The Businessman. Now, looking at his phone, he steps along the beachfront.
-What-Snyder-US.eaf	93420	101510	A piece of clothing and a towel lie in the sand. James lies back, naked from the waist up. He rubs his eyes then fingers the sand.
-What-Snyder-US.eaf	130250	131540	He looks side to side.
-What-Snyder-US.eaf	141830	143140	He looks around himself.
-What-Snyder-US.eaf	157580	168540	James stands, and wearing gray swim trunks, strolls toward the water but turns away and trudges on the sand several paces. Finally, he turns back.
-What-Snyder-US.eaf	185030	187460	He looks to both sides then moves on.
-What-Snyder-US.eaf	211230	212450	He dons his shirt.
-What-Snyder-US.eaf	218640	229900	Next, in his suit but without the tie, James strolls a tree-lined walkway. Then, he climbs up a hill along a sandy path bordered by bushes and dry scrub.
-What-Snyder-US.eaf	234000	236510	Now, a man taps the side of a coffee cup.
-What-Snyder-US.eaf	240000	241800	He looks up and grins.
-What-Snyder-US.eaf	245160	246160	He shakes his head.
-What-Snyder-US.eaf	247960	257360	he traces the lid of his cup with a finger. In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair.
-What-Snyder-US.eaf	258770	261530	Removing the coffee cup lid, he sips from his coffee.
-What-Snyder-US.eaf	266300	267410	Rick, The retiree.
-What-Snyder-US.eaf	268830	276570	Seated in a chair between two other chairs, he puts down the lid while tapping his right foot swiftly. Behind him, foliage and tall trees.
-What-Snyder-US.eaf	278550	283150	He puts down the cup and claps his hands before retrieving a phone from his pocket.
-What-Snyder-US.eaf	289020	293360	He scrolls through contacts and selects "Craig Anderson".
-What-Snyder-US.eaf	325210	326210	Shakes his head.
-What-Snyder-US.eaf	329310	332390	Looks up and side to side. Knits his eyebrows.
-What-Snyder-US.eaf	355400	357250	Moves his right hand back and forth.
-What-Snyder-US.eaf	380400	381400	He looks around.
-What-Snyder-US.eaf	398030	403730	Glancing to each side, Rick strolls along a concrete walkway, his coffee cup still on a bench.
-What-Snyder-US.eaf	407340	417860	Next, with foliage in the background, a young woman with long, curly, red hair sits at a laptop and papers. She brings a pencil end to her lips.
-What-Snyder-US.eaf	419000	420000	Jess, The student.
-What-Snyder-US.eaf	422000	424110	She rummages through her papers.
-What-Snyder-US.eaf	493750	495630	Jess looks to both sides and up.
-What-Snyder-US.eaf	506660	508310	Jess gathers her things.
-What-Snyder-US.eaf	512000	519730	In a jacket and scarf, Jess steps up an embankment past tall grasses. Turns abruptly, then continues on.
-What-Snyder-US.eaf	530960	537470	Now, Jess, Rick, and James, all looking to the sky and around, meet on a stretch of sand.
-What-Snyder-US.eaf	556020	559420	All three glance up and about, quizzical looks on their faces.
-What-Snyder-US.eaf	621500	622500	James nods.
-What-Snyder-US.eaf	662430	664210	His finger sways like a metronome.
-What-Snyder-US.eaf	696450	697450	Rick nods.
-What-Snyder-US.eaf	707000	710590	Rick shrugs and shakes his head. Jess shakes her head.
-What-Snyder-US.eaf	720390	721390	Arms outspread.
-What-Snyder-US.eaf	737000	739440	James and Rick turn and step away.
-What-Snyder-US.eaf	743540	748730	Jess joins them. Their figures are tiny against the stretch of sand and foliage beyond.
-What-Snyder-US.eaf	759350	761610	A woman on a phone, hanging laundry.
-What-Snyder-US.eaf	762870	774250	No, I couldn’t. I have to finish, really. She looks up. No! What are you talking about? Of cours yes, our luggage is ready. She looks arround.
-What-Snyder-US.eaf	775690	778550	Listen, I cannot talk right now. I have to leave you.
-What-Snyder-US.eaf	780290	781750	Zoe, the next one.
-Visual	190	18500	shoot landscape
-Visual	18530	22070	letters
-Visual	22310	44530	lanscape character
-Visual	44770	67460	zoom-in character
-Visual	67530	91510	shoot lanscape character
-Visual	91760	162960	shoot character
-Visual	163210	218840	zoom-out character 
-Visual	219110	226590	shoot lanscape
-Visual	226830	233180	shoot lanscape
-Visual	233450	267400	shoot zoom-in character
-Visual	267670	286770	zoom-out charatcer
-Visual	287080	298160	zoom-in mobile
-Visual	298470	395430	zoom-in character
-Visual	395720	411310	zoom-out character
-Visual	411573	511080	shoot zomm-in character
-Visual	511368	529680	shoot lanscape character
-Visual	529912	541770	shoot lanscape zoom-out
-Visual	542018	547120	zomm-in character
-Visual	547352	551700	zomm-in character
-Visual	551936	556300	zomm-in character
-Visual	556600	563530	zoom-out characters
-Visual	563804	567410	zomm-in character
-Visual	567718	576060	zomm-in character
-Visual	576322	578810	zoom-out characters
-Visual	579096	587080	zomm-in character
-Visual	587339	591980	zoom-out characters
-Visual	592263	601850	zomm-in character
-Visual	602127	603180	zomm-in character
-Visual	603340	607250	zomm-in character
-Visual	607515	610110	zomm-in character
-Visual	610339	621140	zomm-in character
-Visual	621383	622770	zomm-in character
-Visual	623067	630000	zomm-in character
-Visual	630291	639200	zomm-in character
-Visual	639475	645930	zomm-in character
-Visual	646330	673640	zomm-in character
-Visual	673969	675330	zomm-in character
-Visual	675595	685310	zomm-in character
-Visual	685545	686470	zomm-in character
-Visual	686735	687970	zomm-in character
-Visual	688255	696290	zomm-in character
-Visual	696565	698270	zomm-in character
-Visual	698545	700190	zomm-in character
-Visual	700400	704660	zoom-out characters
-Visual	704840	707940	zomm-in character
-Visual	708230	710750	zomm-in character
-Visual	711080	716160	zomm-in character
-Visual	716430	721220	zoom-out characters
-Visual	721470	724790	zomm-in character
-Visual	725020	740280	zomm-in character
-Visual	740530	743360	zomm-in character
-Visual	743650	758230	zoom-out characters
-Visual	758510	782920	shoot character
+3630	14630	11000	On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog pauses to sniff the ground and trots onwards.	Able-NZ.eaf
+18850	29580	10730	Black text on a white screen appears, reading: 'What happens while', followed by a long black line. A man in a suit and tie and talking on a cellphone pulls up by the seaside in a white BMW.	Able-NZ.eaf
+52940	59470	6530	Pocketing his cellphone, the bearded man chucks his briefcase in the boot of his car and dons a pair of aviator sunglasses.	Able-NZ.eaf
+65640	71030	5390	White text reads: James, The businessman. Later, James makes another call.	Able-NZ.eaf
+92680	96770	4090	Later, a shirtless James lies back on his beach towel on the sand.	Able-NZ.eaf
+99690	106170	6480	Looking weary, he places his hands on his eyes, then trails his fingers through the pale sand.	Able-NZ.eaf
+112620	114630	2010	Frowning, James sits up.	Able-NZ.eaf
+142020	143450	1430	He looks distracted.	Able-NZ.eaf
+157990	164790	6800	James hangs up, then with his brow furrowed, he stands, wearing only his boxer briefs, on the seemingly deserted beach.	Able-NZ.eaf
+165590	168830	3240	He walks near the calm water's edge, scanning the horizon.	Able-NZ.eaf
+200290	208980	8690	Looking pertured, James continues looking away from the water, his eyes darting. He ambles back to his pile of clothes and puts on his grey business shirt.	Able-NZ.eaf
+218990	223600	4610	Later, now fully clothed, James marches down a street lined with leafy trees.	Able-NZ.eaf
+227200	236340	9140	He slowly makes his way up a steep, craggy slope with dry vegetation. A man taps his finger on a takeaway coffee cup.	Able-NZ.eaf
+237420	243410	5990	Wearing a singlet, the man has a greying beard and frizzy hair. He gives a wry smile and looks down.	Able-NZ.eaf
+248220	259590	11370	He traces his finger around the white plastic lid, then removes it. Examining the dark liquid contents, he holds the cup to his mouth, pauses, then takes a sip.	Able-NZ.eaf
+265120	279540	14420	White text reads: Rick, The retiree. Rick sits on a wooden chair in a leafy urban park. Hejiggles his knee as he continues sipping his drink. With a shake of his head, he places the cup on a seat next to him then claps his hands together.	Able-NZ.eaf
+287560	298090	10530	Taking his phone from his back trouser pocket, Rick scrolls through his contact list. He presses the screen to call Craig Anderson and holds the phone to his ear.	Able-NZ.eaf
+330470	332320	1850	Rick looks up, confused.	Able-NZ.eaf
+380400	381350	950	Rick frowns.	Able-NZ.eaf
+398590	405880	7290	Pocketing his phone, Rick gets up and leaves his takeaway cup on the seat. He casts his eyes skyward as he walks away. A woman with tightly curled brunette hair holds a penci!to her mouth.	Able-NZ.eaf
+412600	417360	4760	A woman with tightly curled brunette hair holds a penci!to her mouth.	Able-NZ.eaf
+418050	421020	2970	White text reads: Jess, The student.	Able-NZ.eaf
+423810	427675	3865	Checking behind her laptop, Jess locates her phone under a pile of papers.	Able-NZ.eaf
+494030	498959	4929	Jess disconnects the call and looks around, her eyes roving.	Able-NZ.eaf
+518189	525621	7432	Later, Jess is outside, making her way through the grassy foliage on a slope before trotting out of sight.	Able-NZ.eaf
+528216	536189	7973	Jess emerges on to a dry plateau under a cloudless sky where Rick and James stand. James gives a small shrug, and Rick gestures to his ear.	Able-NZ.eaf
+539162	542540	3378	James nods. Jess' eyes widen.	Able-NZ.eaf
+557108	561175	4067	James shields his eyes as he looks up into the harsh sunlight.	Able-NZ.eaf
+707820	711300	3480	The trio glances at each other, and Rick and Jess shake their heads.	Able-NZ.eaf
+718200	719780	1580	Rick raises his arms.	Able-NZ.eaf
+725360	726980	1620	James shakes his palms.	Able-NZ.eaf
+737080	742000	4920	Rick follows him. After a moment's thought, Jess also follows.	Able-NZ.eaf
+743860	748940	5080	She jogs to catch up and falls in line between Rick and James, who put an arm around her shoulders.	Able-NZ.eaf
+753300	762240	8940	The trio head off the plateau and towards the scrub. Cut to black. A woman is on the phone while pegging out washing.	Able-NZ.eaf
+763170	766400	3230	Subtitles read: No, I couldn't. I have to finish, really.	Able-NZ.eaf
+768080	772080	4000	No! What are you talking about? Of course, yes, our luggage is ready.	Able-NZ.eaf
+775360	782040	6680	Listen, I cannot talk right now. I have to leave you. White text reads: Zoe, The next one.	Able-NZ.eaf
+3760	12910	9150	Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.	ADAssociates-US.eaf
+18820	21410	2590	A title: What happens While	ADAssociates-US.eaf
+27670	34930	7260	Emerging from a white sedan, a man with a trim, reddish-brown beard holds a phone to his ear and pulls a briefcase out of the car.	ADAssociates-US.eaf
+52000	58000	6000	Wearing a dark suit, his tie loose at the collar, he exchanges his briefcase for a striped cloth bag from the trunk.	ADAssociates-US.eaf
+60000	64900	4900	He glances toward the beach, pulls sunglasses from his coat’s vest pocket, and puts them on.	ADAssociates-US.eaf
+66000	71240	5240	A title: James, The Businessman. Now, looking at his phone, he steps along the beachfront.	ADAssociates-US.eaf
+93420	101510	8090	A piece of clothing and a towel lie in the sand. James lies back, naked from the waist up. He rubs his eyes then fingers the sand.	ADAssociates-US.eaf
+130250	131540	1290	He looks side to side.	ADAssociates-US.eaf
+141830	143140	1310	He looks around himself.	ADAssociates-US.eaf
+157580	168540	10960	James stands, and wearing gray swim trunks, strolls toward the water but turns away and trudges on the sand several paces. Finally, he turns back.	ADAssociates-US.eaf
+185030	187460	2430	He looks to both sides then moves on.	ADAssociates-US.eaf
+211230	212450	1220	He dons his shirt.	ADAssociates-US.eaf
+218640	229900	11260	Next, in his suit but without the tie, James strolls a tree-lined walkway. Then, he climbs up a hill along a sandy path bordered by bushes and dry scrub.	ADAssociates-US.eaf
+234000	236510	2510	Now, a man taps the side of a coffee cup.	ADAssociates-US.eaf
+240000	241800	1800	He looks up and grins.	ADAssociates-US.eaf
+245160	246160	1000	He shakes his head.	ADAssociates-US.eaf
+247960	257360	9400	he traces the lid of his cup with a finger. In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair.	ADAssociates-US.eaf
+258770	261530	2760	Removing the coffee cup lid, he sips from his coffee.	ADAssociates-US.eaf
+266300	267410	1110	Rick, The retiree.	ADAssociates-US.eaf
+268830	276570	7740	Seated in a chair between two other chairs, he puts down the lid while tapping his right foot swiftly. Behind him, foliage and tall trees.	ADAssociates-US.eaf
+278550	283150	4600	He puts down the cup and claps his hands before retrieving a phone from his pocket.	ADAssociates-US.eaf
+289020	293360	4340	He scrolls through contacts and selects "Craig Anderson".	ADAssociates-US.eaf
+325210	326210	1000	Shakes his head.	ADAssociates-US.eaf
+329310	332390	3080	Looks up and side to side. Knits his eyebrows.	ADAssociates-US.eaf
+355400	357250	1850	Moves his right hand back and forth.	ADAssociates-US.eaf
+380400	381400	1000	He looks around.	ADAssociates-US.eaf
+398030	403730	5700	Glancing to each side, Rick strolls along a concrete walkway, his coffee cup still on a bench.	ADAssociates-US.eaf
+407340	417860	10520	Next, with foliage in the background, a young woman with long, curly, red hair sits at a laptop and papers. She brings a pencil end to her lips.	ADAssociates-US.eaf
+419000	420000	1000	Jess, The student.	ADAssociates-US.eaf
+422000	424110	2110	She rummages through her papers.	ADAssociates-US.eaf
+493750	495630	1880	Jess looks to both sides and up.	ADAssociates-US.eaf
+506660	508310	1650	Jess gathers her things.	ADAssociates-US.eaf
+512000	519730	7730	In a jacket and scarf, Jess steps up an embankment past tall grasses. Turns abruptly, then continues on.	ADAssociates-US.eaf
+530960	537470	6510	Now, Jess, Rick, and James, all looking to the sky and around, meet on a stretch of sand.	ADAssociates-US.eaf
+556020	559420	3400	All three glance up and about, quizzical looks on their faces.	ADAssociates-US.eaf
+621500	622500	1000	James nods.	ADAssociates-US.eaf
+662430	664210	1780	His finger sways like a metronome.	ADAssociates-US.eaf
+696450	697450	1000	Rick nods.	ADAssociates-US.eaf
+707000	710590	3590	Rick shrugs and shakes his head. Jess shakes her head.	ADAssociates-US.eaf
+720390	721390	1000	Arms outspread.	ADAssociates-US.eaf
+737000	739440	2440	James and Rick turn and step away.	ADAssociates-US.eaf
+743540	748730	5190	Jess joins them. Their figures are tiny against the stretch of sand and foliage beyond.	ADAssociates-US.eaf
+759350	761610	2260	A woman on a phone, hanging laundry.	ADAssociates-US.eaf
+762870	774250	11380	No, I couldn’t. I have to finish, really. She looks up. No! What are you talking about? Of cours yes, our luggage is ready. She looks arround.	ADAssociates-US.eaf
+775690	778550	2860	Listen, I cannot talk right now. I have to leave you.	ADAssociates-US.eaf
+780290	781750	1460	Zoe, the next one.	ADAssociates-US.eaf
+370	6680	6310	A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.	Bridge-US.eaf
+7350	14330	6980	A male runner jogs past. The dog trots and sniffs the sand. It follows its owner along the coast.	Bridge-US.eaf
+15830	20200	4370	Words appear: What Happens While… with a long, blank line at the end.	Bridge-US.eaf
+22000	29690	7690	A slick, white car approaches, driving on the grey asphalt. The male driver sits alone inside and speaks on his cell phone.	Bridge-US.eaf
+31120	37950	6830	He looks aggressive as he bangs the steering wheel. He gets out. He wears a business suit.	Bridge-US.eaf
+39630	41330	1700	He grabs items from the trunk.	Bridge-US.eaf
+43490	47120	3630	He mutters and stares disdainfully at the phone as he hangs up.	Bridge-US.eaf
+52010	55310	3300	His pale skin looks cool and soft in the muted sunlight.	Bridge-US.eaf
+56510	59060	2550	He puts on dark aviator, sunglasses.	Bridge-US.eaf
+61410	64200	2790	Words appear: James, the Businessman	Bridge-US.eaf
+65990	70830	4840	He walks along the nearly empty beach carrying a beach bag. He makes a call.	Bridge-US.eaf
+91230	99610	8380	Now, James lies back, bare-chested, on a towel in the sand. His brownish, stubbly beard and chest hair almost match the ground.	Bridge-US.eaf
+100270	108740	8470	He exhales hard, then rubs his closed eyes. He stays up by the setled sunlight and gently moves his fingrers through the sand.	Bridge-US.eaf
+112000	112700	700	He sits up.	Bridge-US.eaf
+126670	128670	2000	He looks left...and right.	Bridge-US.eaf
+139000	140790	1790	He looks at the sand around him.	Bridge-US.eaf
+156000	162730	6730	James gazes around, looking confused. He stands up, wearing his boxer shorts on the secluded beach. 	Bridge-US.eaf
+163420	165240	1820	He walks along the water's edge.	Bridge-US.eaf
+166660	174320	7660	He suddenly turns to the left and looks as if he's following the sound. A city's skyscrapers rise in the distant coast.	Bridge-US.eaf
+176620	180350	3730	He pauses, then starts back toward his towel in the sand.	Bridge-US.eaf
+182430	184230	1800	He turns again toward the sound.	Bridge-US.eaf
+186740	192890	6150	He wanders closer to the waves along the shore. James looks puzzled, and peers around the beach.	Bridge-US.eaf
+195620	205340	9720	The sky is hazy-white, without distinguishable clouds or sun. James walks away from the water, scanning around with his eyes, as if trying to locate the mysterious sound.	Bridge-US.eaf
+206560	214340	7780	Standing at his towel in the sand, he grabs his shirt and begins to put it on. He furrows his brow, looking inquisitively at the air.	Bridge-US.eaf
+216000	220500	4500	Now, James wears his suit and walks under large, leafy trees.	Bridge-US.eaf
+221000	223920	2920	His unsmiling, serious face stares forward.	Bridge-US.eaf
+224480	229560	5080	James climbs a dirt trail, up a mountain covered in short, dense bushes and cactuses.	Bridge-US.eaf
+233000	235950	2950	Now, fingers lightly tap on a to-go coffee cup.	Bridge-US.eaf
+237330	242730	5400	An unshaven older man with messy, longish, grey hair gazes around, looking bored.	Bridge-US.eaf
+245000	249700	4700	He stares down at his hands and the coffee cup, circling his fingers around the plastic lid.	Bridge-US.eaf
+250690	254050	3360	He removes the lid and raises the black coffee to his mouth.	Bridge-US.eaf
+254930	257730	2800	The man hesitates, then gulps from the small cup.	Bridge-US.eaf
+258380	260380	2000	His eyes look moist and glassy.	Bridge-US.eaf
+261240	263840	2600	Words appear: Rick, the Retiree.	Bridge-US.eaf
+264660	270650	5990	Rick sits at a park bench. His right leg twitches, bouncing up and down in tiny movements.	Bridge-US.eaf
+271230	274070	2840	He sits alone and takes another sip of his coffee.	Bridge-US.eaf
+275550	277290	1740	He sets his cup on another bench.	Bridge-US.eaf
+278400	282010	3610	He stares up at the trees and looks restless as he claps his hands.	Bridge-US.eaf
+285200	288480	3280	Rick scrolls through the many contacts on his smart phone.	Bridge-US.eaf
+290240	292090	1850	He pauses on the ""C"" names.	Bridge-US.eaf
+294360	297570	3210	He selects a contact named ""Craig Anderson.""	Bridge-US.eaf
+327470	329430	1960	He darts his eyes up curiously.	Bridge-US.eaf
+377280	379360	2080	Rick stares around, looking pensive.	Bridge-US.eaf
+395000	399110	4110	Rick wanders off along a park trail, leaving his coffee cup on a bench.	Bridge-US.eaf
+400220	406920	6700	Rick wears a loose, green tank-top and jeans. He looks up and turns around, as if he's scanning for the sound.	Bridge-US.eaf
+408720	412480	3760	Now, a young woman looks tired and gazes at an open laptop.	Bridge-US.eaf
+413000	417190	4190	She bites on the end of a pencil. Words appear: Jess, the Student.	Bridge-US.eaf
+419000	421980	2980	She fumbles around the desk, searching for her phone.	Bridge-US.eaf
+423860	426010	2150	She lifts papers and find the phone.	Bridge-US.eaf
+427140	428010	870	Jess answers.	Bridge-US.eaf
+492150	499790	7640	Jess glances around the room. She peers left...and right. She touches her thick, curly, brown hair.	Bridge-US.eaf
+500220	502740	2520	She stares into the silence, looking puzzled.	Bridge-US.eaf
+506000	506900	900	She jolts up.	Bridge-US.eaf
+509000	525070	16070	Now, outside, Jess hikes up a hill. Tall grass and plants cover the ground. Jess wears a coat and walks around, scanning with her eyes. The sun shines off the greenery. She stops and stares. Then, she continues hiking up.	Bridge-US.eaf
+527790	532390	4600	Now, Rick, James, and Jess gather together in a bright, sandy clearing.	Bridge-US.eaf
+534190	535830	1640	Rick points to his ear.	Bridge-US.eaf
+537000	540770	3770	The three stand on the empty, sun-bleached ground, looking bewildered.	Bridge-US.eaf
+554000	558020	4020	They look everywhere, as if trying to find the source of the voice.	Bridge-US.eaf
+573300	574880	1580	James' face looks panicked.	Bridge-US.eaf
+592000	594250	2250	Rick grips his head with one hand.	Bridge-US.eaf
+694000	695000	1000	Rick nods.	Bridge-US.eaf
+704000	709220	5220	James quickly peers at Rick. Rick shrugs and shakes his head. Rick looks at Jess.	Bridge-US.eaf
+722180	724270	2090	James smiles with closed lips.	Bridge-US.eaf
+733520	736020	2500	Rick follows James across the pebbly ground.	Bridge-US.eaf
+736920	756080	19160	Jess looks down and smiles thoughtfully. She glances at the other two, then quickly runs to them. She walks between James and Rick. James softly places his arm around her shoulder. The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain. The image disappears to a black screen.	Bridge-US.eaf
+757000	758960	1960	Now, a woman speaks on a cell.	Bridge-US.eaf
+759370	762790	3420	Subtitles: No, I couldn't. I have to finish, really.	Bridge-US.eaf
+764000	769300	5300	She gazes up. No! What are you talking about? Of course yes, our luggage is ready…	Bridge-US.eaf
+769640	775380	5740	The woman furrows her brow. She looks around again. Listen, I cannot talk right now. I have to leave you.	Bridge-US.eaf
+776000	778920	2920	Words appear: Zoé, the Next One.	Bridge-US.eaf
+780000	784570	4570	A title: What Happens While... with a long, blank line at the end.	Bridge-US.eaf
+3070	11160	8090	In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog stops to sniff at something on the sand.	BTI-UK.eaf
+15070	22630	7560	Responding to the whistle, he pads after his owners.  Words in black letters on a white background. what happens while, followed by a long black line.	BTI-UK.eaf
+23100	28430	5330	A white saloon pulls up alongside the beach wall. The male driver is on his mobile.	BTI-UK.eaf
+53200	57530	4330	The man in his mid 30's with a sandy beard, sighs with annoyance.	BTI-UK.eaf
+59110	63770	4660	Wearing a work suit, his tie loosened at the collar, he puts on a pair of sunglasses.	BTI-UK.eaf
+65010	71220	6210	In white letters, JAMES,the business man. James walks along the promenade with a beach bag over his shoulder.	BTI-UK.eaf
+92210	96380	4170	Having taken off his suit, James lies back on a thin towel on the sand.	BTI-UK.eaf
+98020	103540	5520	He runs his hands across his eyes, then lets them drop by his side.	BTI-UK.eaf
+107070	109750	2680	He lets the sand trickle through his fingers.	BTI-UK.eaf
+113610	115770	2160	He sits up to answer the phone.	BTI-UK.eaf
+141030	143060	2030	He looks round for the source of the sound.	BTI-UK.eaf
+162120	170150	8030	He gets to his feet and walks along the sand in his trunks. In the distance, the city of Barcelona is a hazy outline.	BTI-UK.eaf
+178079	185000	6921	He looks towards the top of the beach and then turns to face the sea, puzzled by the high pitched whine.	BTI-UK.eaf
+191050	197150	6100	He walks down to the edge of the water, then turns back up the beach to where he left his clothes,	BTI-UK.eaf
+208120	213220	5100	He puts on his blue shirt, his eyes scouring the sky for the source of the sound.	BTI-UK.eaf
+219170	225850	6680	With his suit back on, but no tie, he walks under a canopy of trees still looking puzzled.	BTI-UK.eaf
+228040	232020	3980	He clambers up a sandy pathway to the top of a steep rocky slope	BTI-UK.eaf
+233110	252870	19760	A middle aged man with unkempt grey hair, heavy brows and a bristly beard taps his coffee cup in his fingers. He wears a green vest and a chain around his neck. His eyes follow a flight of birds and a smile comes to his lips.  He has a tatoo on his upper arm and a chain bracelet on one wrist. He taps the lid of the cup and lifts it. 	BTI-UK.eaf
+254140	258570	4430	He peers at the half full cup of coffee and takes a sip.	BTI-UK.eaf
+265030	282070	17040	In white letters: RICK, the retiree. He is sitting on a bench beneath some trees in full leaf. He puts the lid on the seat next to him and stares at the coffee, his right knee jigging up and down. He drinks up, then puts the cup next to the lid and leans back, clapping his hands.	BTI-UK.eaf
+285040	289490	4450	He reaches in the the back pocket of his trousers and pulls out his mobile phone.	BTI-UK.eaf
+292000	294010	2010	He scrolls through his contact list.	BTI-UK.eaf
+295130	300050	4920	He finds one, taps on the green ring icon and puts the phone to his ear.	BTI-UK.eaf
+330030	332000	1970	He hears the high pitched sound.	BTI-UK.eaf
+398010	412170	14160	Rick gets up, pockets his phone and wanders off leaving the coffee cup on the park seat. He looks up at the sky, trying to locate the source of the sound as he goes.  A girl with ringletted auburn hair, heaves a sigh and chews on her pencil.	BTI-UK.eaf
+417170	420090	2920	In white letters: JESS, the student.	BTI-UK.eaf
+422060	425160	3100	Sitting at her apple laptop, Jess fishes about for her phone.	BTI-UK.eaf
+493230	496470	3240	She rings off, perplexed by the sound,	BTI-UK.eaf
+498450	500830	2380	She looks about her.	BTI-UK.eaf
+512030	515020	2990	Wearing a hooded jacket, she goes outside.	BTI-UK.eaf
+517190	523190	6000	She climbs an overgrown slope, the sunlight reflected on her long ringlets	BTI-UK.eaf
+527120	529070	1950	She scampers off out of view	BTI-UK.eaf
+529190	536010	6820	She runs out onto a sun-bleached beach, where Rick and James are looking about them, in puzzlement.	BTI-UK.eaf
+540050	541640	1590	A disembodied voice.	BTI-UK.eaf
+707220	712000	4780	Rick shrugs his shoulder and shakes his head. Jess shakes HER head	BTI-UK.eaf
+725000	726690	1690	James smiles doubtfully.	BTI-UK.eaf
+736210	740620	4410	As James strolls off, Rick catches up with him. Jess considers,	BTI-UK.eaf
+743150	748220	5070	With a smile, she follows them and all three walk off together.	BTI-UK.eaf
+758230	762070	3840	A young black woman is on the phone as she sorts through her washing.	BTI-UK.eaf
+762190	769000	6810	No I coudn't, I have to finish, really. No, what are you talking about? Ofcourse yes, our luggage is ready.	BTI-UK.eaf
+771000	773160	2160	She looks up towards the sound.,	BTI-UK.eaf
+774080	777450	3370	Listen, I can't talk right now, I have to leave you.	BTI-UK.eaf
+778170	781100	2930	In white capitals, Zoe, the next one,	BTI-UK.eaf
+782090	790170	8080	cut to black.  The title again, in white letters on a black background: what happens while, followed by a long black line. Directed by Nuria Nia	BTI-UK.eaf
+4000	13120	9120	A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.	Deluxe-UK.eaf
+18550	29210	10660	What happens while. The title ends with just a line. A man parks a sleek white BMW on the road by the sea. Talking on his mobile phone he gets out of the car and opens the boot.	Deluxe-UK.eaf
+52490	62670	10180	The man put a brief case in the boot of the car and took out a stripy cotton bag. He's wearing a suit. He has short light brown hair and a beard. He puts on a pair of aviator style sunglasses.	Deluxe-UK.eaf
+65110	70610	5500	James: The businessman. He walks along with the bag on his shoulder and makes a phone call.	Deluxe-UK.eaf
+93500	97240	3740	Wearing swimming trunks James lies down on a towel on the sandy beach.	Deluxe-UK.eaf
+100050	108530	8480	He relaxes, rubs his eyes and lets his arms flop out to his sides. He gently caresses the sand with his fingers.	Deluxe-UK.eaf
+111680	114240	2560	He sits up and answers his phone.	Deluxe-UK.eaf
+141540	143410	1870	He looks around frowning	Deluxe-UK.eaf
+158140	180580	22440	James hangs up and tosses his phone aside. He's a craggy faced man in his late forties with a slight paunch. He stands up and walks along the sand as waves gently roll in. The coast curves round in the distance with industrial buildings running along it. James stops walking and turns in the other direction. As the strange sound begins again he stops and looks around.	Deluxe-UK.eaf
+192120	199770	7650	Heavy browed James frowns and steps towards the water's edge, he continues to look around as he walks along the sand.	Deluxe-UK.eaf
+207840	211670	3830	James goes back to his things. He picks up his shirt and puts it on.	Deluxe-UK.eaf
+220500	231650	11150	Fully dressed in his suit and with his shirt open James walks along by some trees. He tramps along a track running up a hill between scrubby bushes. Further up are craggy white rocks.	Deluxe-UK.eaf
+235060	256970	21910	A man sits tapping a lidded takeaway coffee cup with his fingers. He wears jeans and a dark green vest. He's about 60 with fine shaggy grey hair and a beard. He shakes his head and lets out a long weary breath. He runs his finger round the coffee cup lid then pulls it off. He holds up the half full cup of black coffee and has a drink.	Deluxe-UK.eaf
+265190	280470	15280	Rick: The Retiree. Rick wears a chain necklace around his neck. He's sitting in the middle of three chairs in a park. He nervously jiggles his right leg up and down, puts the cup on the chair beside him and restlessly claps his hands together.	Deluxe-UK.eaf
+286159	297750	11591	Rick looks agitated. He takes his mobile phone from his back pocket, opens the cover and scans through his contacts. He stops at Craig Anderson, and makes a call.	Deluxe-UK.eaf
+329500	331780	2280	At the sound he looks up and frowns.	Deluxe-UK.eaf
+380260	382000	1740	He looks up again, frowning.	Deluxe-UK.eaf
+399420	411080	11660	Rick leaves the coffee cup on the seat, gets up and walks away, looking around as he goes. A young woman of about twenty sits at a desk typing. She has long red hair that hangs loose in ringlets.	Deluxe-UK.eaf
+412900	414940	2040	She restlessly chews a pencil.	Deluxe-UK.eaf
+417900	419860	1960	Jess: The Student.	Deluxe-UK.eaf
+422540	424260	1720	She searches for her phone.	Deluxe-UK.eaf
+425450	428890	3440	Jess finds her phone under some papers and answers it.	Deluxe-UK.eaf
+494780	498740	3960	Frowning she hangs up and looks around, puzzled by the sound.	Deluxe-UK.eaf
+510120	520600	10480	She gets up and grabs a coat. Wearing her brown parka she walks up a hill. Tall grass and bushes surround her. She keeps looking around as she goes.	Deluxe-UK.eaf
+525950	534920	8970	Jess hurries away. Rick, James and Jess stand in a sandy clearing at the edge of scrubland. They look around in confusion. Rick talks on his phone.	Deluxe-UK.eaf
+556030	560230	4200	Under bright sunshine they all look up, puzzled. A breeze blows around them.	Deluxe-UK.eaf
+594840	596910	2070	Grasping his forehead he shrugs.	Deluxe-UK.eaf
+641700	643140	1440	Rick points at them.	Deluxe-UK.eaf
+696000	697050	1050	Rick nods.	Deluxe-UK.eaf
+700540	701680	1140	James smiles.	Deluxe-UK.eaf
+707190	710930	3740	They consider. Rick shrugs and Jess shakes her head.	Deluxe-UK.eaf
+737010	741160	4150	Rick follows James. Jess thinks for a moment andsmiles to her self.	Deluxe-UK.eaf
+742850	748050	5200	Jess runs over and joins the other two. They walk off together towards the scrubland.	Deluxe-UK.eaf
+758040	759230	1190	The screen cuts to black.	Deluxe-UK.eaf
+763220	782140	18920	A woman talks on her phone as she hangs out washing. She frowns, at the sound. She says: 'No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready. Listen, I cannot talk right now. I have to leave you.' She looks increasingly disturbed by the sound: Zoe: The Next One.	Deluxe-UK.eaf
+4530	13890	9360	A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which stops to sniff at something in the sand before trotting onwards.	Ericsson-AU.eaf
+19030	21880	2850	A title on screen. What Happens While...	Ericsson-AU.eaf
+24120	29080	4960	A bearded man in a suit parks his expensive car by the promenade and gets out while on the phone.	Ericsson-AU.eaf
+52910	58870	5960	Putting his phone away, he takes his sunglasses from his chest pocket and sighs wearily as he puts them on.	Ericsson-AU.eaf
+65710	70710	5000	Onscreen. James - the businessman. He's carrying a stripy beach bag.	Ericsson-AU.eaf
+94090	97150	3060	Bare-chested down on the beach, he flops onto a towel.	Ericsson-AU.eaf
+100030	106850	6820	Closing his eyes, he rubs his face wearily, then runs his left hand over the sand, letting some of it trickle through his fingers.	Ericsson-AU.eaf
+141850	143340	1490	He looks around in confusion.	Ericsson-AU.eaf
+158120	169450	11330	Dropping his phone, he gets up and walks along the seashore in his swimming trunks, scanning his surroundings for the source of the sound. Behind him, city buildings across the water blur against the hazy horizon.	Ericsson-AU.eaf
+179000	181200	2200	James turns back towards his towel.	Ericsson-AU.eaf
+188100	193380	5280	Walking back towards the ocean, he looks around him again with an increasingly puzzled expression.	Ericsson-AU.eaf
+199230	207890	8660	Heading back up the beach, he returns to his belongings and picks up his grey business shirt, still looking around in confusion as he pulls the sleeves over his arms.	Ericsson-AU.eaf
+219560	227500	7940	Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.	Ericsson-AU.eaf
+234010	242040	8030	Two hands holding a takeaway coffee cup. They belong to a thick-set man with a greying beard and fuzzy grey hair. His large eyes look about him.	Ericsson-AU.eaf
+250140	256160	6020	He taps the lid of his coffee cup before taking it off and smelling the black coffee. He sips it with a look of resignation.	Ericsson-AU.eaf
+266190	282260	16070	Rick - the retiree. He's sitting on a park bench in dappled shade, wearing an olive-green vest that exposes the chain around his neck and the tattoos on his arm. He taps his right leg restlessly as he takes another sip of coffee, then he puts the cup aside and claps his hands aimlessly.	Ericsson-AU.eaf
+287000	293540	6540	Taking a phone from his back pocket, he searches his list of contacts before choosing the number of someone called Craig Anderson.	Ericsson-AU.eaf
+329880	331110	1230	Rick frowns at the sky.	Ericsson-AU.eaf
+380270	381280	1010	He frowns again.	Ericsson-AU.eaf
+398010	403270	5260	He leaves his coffee behind as he pockets his phone and walks through the park, scanning the air above his head.	Ericsson-AU.eaf
+411130	416580	5450	A young woman with springy red-brown curls is studying at her laptop. Jess - the student.	Ericsson-AU.eaf
+422710	424370	1660	She searches her cluttered desk.	Ericsson-AU.eaf
+428600	429740	1140	She finds her phone.	Ericsson-AU.eaf
+494650	497220	2570	Jess looks around her with a puzzled expression.	Ericsson-AU.eaf
+511530	531070	19540	Outside, dressed in a warm jacket, jeans and a scarf, Jess scans her surroundings, then climbs up an overgrown hillside with the sun glinting on her long, springy hair. She pauses to look around, then hurries onward. At the top of the ridge is a clearing, where James and Rick are standing on an expanse of sandy dirt. Jess joins them.	Ericsson-AU.eaf
+540260	541650	1390	They all look mystified.	Ericsson-AU.eaf
+556140	558650	2510	They all look baffled by the disembodied voice.	Ericsson-AU.eaf
+594910	595540	630	He shrugs.	Ericsson-AU.eaf
+708140	710090	1950	With a shrug, Rick shakes his head.	Ericsson-AU.eaf
+725390	726140	750	James smiles.	Ericsson-AU.eaf
+737630	741010	3380	Rick follows James, but Jess lingers behind, looking pensive.	Ericsson-AU.eaf
+743610	751540	7930	She jogs after the others, and James puts his arm around her as she walks between him and Rick back to the overgrown ridge at the edge of the clearing.	Ericsson-AU.eaf
+758640	773630	14990	Blackout, then a woman with black dreadlocks hanging washing on a rooftop. She says into her phone, "No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready..."	Ericsson-AU.eaf
+774000	782230	8230	Looking about with a frown she says, "Listen, I cannot talk right now. I have to leave you." Onscreen: Zoe, the next one.	Ericsson-AU.eaf
+784110	785700	1590	'What Happens While...'	Ericsson-AU.eaf
+3190	13060	9870	Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.	Ericsson-UK.eaf
+18130	21050	2920	What happens while.	Ericsson-UK.eaf
+24020	31210	7190	A white saloon car pulls up on the seafront and the driver, who is having an animated conversation on his mobile phone, gets out.	Ericsson-UK.eaf
+53020	69840	16820	The man looks exasperated then reaches into his inside jacket pocket and pulls out a pair of sunglasses, which he puts on. He's around fifty and has a short trimmed beard. James - the businessman. Now, he's walking along the promenade with a striped bag slung over his shoulder.	Ericsson-UK.eaf
+94610	109120	14510	Having taken off his suit James, who is now bare chested, lies down on his back on a towel he has spread out on the beach. He covers his face with his hands, then holds one arm out to his side and trails his fingers across the sand, allowing it to trickle through them.	Ericsson-UK.eaf
+158850	166160	7310	James hangs up then stands and walks a little way across the sand, trying to find the source of the pulsing ringing sound.	Ericsson-UK.eaf
+170510	179180	8670	He walks away from the shore, but as the sound seems to die out, he turns to head back to his towel and belongings, his suit lying in a crumpled heap.	Ericsson-UK.eaf
+186040	192090	6050	When the volume of the sound increases he looks about, perturbed by the strange trilling.	Ericsson-UK.eaf
+197730	204680	6950	He heads back to his spot, a frown furrowing his brow, then picks up his work shirt and starts to put it on.	Ericsson-UK.eaf
+209600	218740	9140	He keeps a wary eye on his surroundings. Later he is fully dressed and walking along a pavement with trees arcing over it.	Ericsson-UK.eaf
+221660	227200	5540	He heads up a steep, rugged slope, trying to track down the source of the sound.	Ericsson-UK.eaf
+231820	248740	16920	An unkempt man is holding a takeaway coffee cup in his hands.  He taps the side of the cup then narrows his eyes pensively before smiling and shaking his head. He's in his sixties, has unruly collar length hair tinged grey at the temples and a salt and pepper beard.	Ericsson-UK.eaf
+252300	260040	7740	He lifts the plastic lid off the cup and peers at the dark liquid inside, hesitates then takes a sip.	Ericsson-UK.eaf
+262070	265020	2950	Rick - the retiree.	Ericsson-UK.eaf
+267650	277159	9509	Rick, who is sitting on a wooden chair in the shade of trees with mishapen trunks, sets down the lid of his cup and jiggles one leg at the knee.	Ericsson-UK.eaf
+280050	290220	10170	He puts down his cup then claps his hands before rubbing them together. He takes a smartphone out of his back pocket and starts scrolling down the list of contacts.	Ericsson-UK.eaf
+293690	298170	4480	He selects a name, Craig Anderson, then holds his phone to his ear.	Ericsson-UK.eaf
+398850	407050	8200	Rick sets off, wearing baggy jeans and a vest, looking intrigued by the strange sound. He leaves his coffee cup behind.	Ericsson-UK.eaf
+409960	415900	5940	A curly haired woman sighs and bites the end of a pencil. Jess - the student.	Ericsson-UK.eaf
+419000	426100	7100	Distracted by her mobile phone buzzing she searches for it in among the papers scattered around her laptop.	Ericsson-UK.eaf
+495810	500170	4360	Jess looks about curiously, then lowers her gaze to her books.	Ericsson-UK.eaf
+511160	518169	7009	Giving up on her studies she heads outside to track down the source of the sound, heading up a grassy slope.	Ericsson-UK.eaf
+521860	533090	11230	She pauses, then as the shrill sound becomes louder she heads off. She joins James and Rick on an arid patch of land bordered by parched vegetation.	Ericsson-UK.eaf
+538940	540910	1970	Jess looks confused.	Ericsson-UK.eaf
+556920	560040	3120	The trio can't locate the exact source of the voice.	Ericsson-UK.eaf
+708690	711100	2410	Rick shrugs and Jess shakes her head.	Ericsson-UK.eaf
+740940	748210	7270	Rick heads after James but Jess lingers for a moment, looking thoughtful, then chuckles to herself before joining them. 	Ericsson-UK.eaf
+751250	756100	4850	James puts his arm around her shoulders for a brief moment, then rubs her back.	Ericsson-UK.eaf
+758700	764150	5450	A woman talking on a mobile phone while hanging out washing is distracted by the shrill sound.	Ericsson-UK.eaf
+766580	773150	6570	"No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready..."	Ericsson-UK.eaf
+776410	781160	4750	"Listen, I cannot talk right now. I have to leave you." Zoe  - the next one...	Ericsson-UK.eaf
+4530	15850	11320	It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant.	Mennell-CA.eaf
+19280	21530	2250	A title reads: What happens while BLANK.	Mennell-CA.eaf
+24090	32530	8440	A white two-door coupe pulls up in front of the sidewalk. It's driven by a man in his forties who wears a business suit. Talking on his cell phone, he gets out holding a briefcase.	Mennell-CA.eaf
+43540	44620	1080	He opens his trunk.	Mennell-CA.eaf
+53280	55380	2100	Hanging up, he looks towards the sea.	Mennell-CA.eaf
+59760	62920	3160	He dons aviator sunglasses and his shoulders relax.	Mennell-CA.eaf
+65300	67410	2110	A title reads: James. The Businessman.	Mennell-CA.eaf
+68120	70980	2860	Moments later he strolls with a beach bag as he makes a call.	Mennell-CA.eaf
+94150	97360	3210	Still later his suit is balled up beside a towel laid out on the sand.  01:34.17	Mennell-CA.eaf
+99020	108480	9460	James lies back with his shirt off . He closes his eyes then rubs them. Relaxing his arms to his sides, he runs his fingers through the sand and squints up at the sky.	Mennell-CA.eaf
+115090	115770	680	 He sits up.	Mennell-CA.eaf
+130170	131350	1180	He glances over his shoulders.	Mennell-CA.eaf
+141870	143590	1720	Then he searches the ground around him.	Mennell-CA.eaf
+158090	174800	16710	He looks inquisitively around his towel then stands and walks towards the water in his black boxer briefs. On the opposite side of the bay, a smokestack looms over a city blurred by the haze. With his back to the cityscape, James walks barefoot in the sand scanning the area.	Mennell-CA.eaf
+180580	183270	2690	Giving up he turns back towards his clothes.	Mennell-CA.eaf
+185320	190310	4990	He pauses then looks searchingly in the direction of the city as he ambles back to the water.	Mennell-CA.eaf
+196230	202470	6240	Then he makes his way to his clothes, still scanning the landscape around him in search of the source of the sound.	Mennell-CA.eaf
+209840	212310	2470	He pulls on his light blue button down shirt.	Mennell-CA.eaf
+219940	223250	3310	Later, with his suit jacket open, he strolls beneath tall trees.	Mennell-CA.eaf
+227110	231200	4090	Then he climbs a well worn dirt path up a slope of cactuses and brush.	Mennell-CA.eaf
+233510	235880	2370	Elsewhere, hands tap a take out coffee cup.	Mennell-CA.eaf
+238690	243560	4870	A man in his sixties has unruly grey hair and a thick beard. He has tired green eyes.	Mennell-CA.eaf
+245270	246270	1000	He shakes his head.	Mennell-CA.eaf
+249580	251690	2110	He taps his coffee lid before removing it.	Mennell-CA.eaf
+256170	259230	3060	He swirls the dark liquid then takes a swig.	Mennell-CA.eaf
+265260	287440	22180	A title reads: 'Rick: the retiree'.  He places the lid on the park bench beside him then blows on his coffee. His right leg twitches impatiently. Sitting in the shade he wears an army green tank top that exposes his black tattoos on his upper arms. He sets down his coffee then claps his hands impatiently. He grabs a smart phone from his back pocket.	Mennell-CA.eaf
+289850	291040	1190	He scrolls through his contacts.	Mennell-CA.eaf
+294970	298030	3060	Then, settling on "Craig Anderson", he makes a call.	Mennell-CA.eaf
+330260	331440	1180	He squints toward the sky.	Mennell-CA.eaf
+380700	382150	1450	He squints upwards again.	Mennell-CA.eaf
+397390	402330	4940	Leaving his coffee on the bench he scans the sky  before heading off down a gravel path.	Mennell-CA.eaf
+412560	419750	7190	Elsewhere a girl in her early twenties with thick curly red hair sits before a laptop. A title reads: 'Jess, the student.'	Mennell-CA.eaf
+426520	429630	3110	She searches for her phone beneath a pile of papers on her desk.	Mennell-CA.eaf
+493220	495800	2580	Hanging up she surveys the room around her.	Mennell-CA.eaf
+506360	508350	1990	Hearing the noise again she stands.	Mennell-CA.eaf
+511550	513820	2270	Later outside, she wears a jacket and scarf.	Mennell-CA.eaf
+517900	520250	2350	She hikes up an overgrown grassy slope.	Mennell-CA.eaf
+524780	528810	4030	Her head turns sharply at the sound and she rushes off behind some tall grasses.	Mennell-CA.eaf
+530150	534430	4280	Moments later she joins James and Rick on a sandy plateau atop the hill.	Mennell-CA.eaf
+537440	540530	3090	Standing apart from each other they look around in confusion.	Mennell-CA.eaf
+556000	561470	5470	Searching for the voice; Rick makes a questioning gesture and James shields his eyes from the sun.	Mennell-CA.eaf
+696580	697580	1000	Rick nods.	Mennell-CA.eaf
+708470	710360	1890	Rick shrugs and shakes his head.	Mennell-CA.eaf
+736820	739030	2210	Rick follows James towards the trees.	Mennell-CA.eaf
+740520	743330	2810	Jessica raises her eyebrow then grins.	Mennell-CA.eaf
+744620	749730	5110	She chases after the men and James puts his arm around her as they fall into step with each other.	Mennell-CA.eaf
+758160	759200	1040	All goes black.	Mennell-CA.eaf
+761470	765730	4260	A woman's on her phone and a subtitle reads, 'No, I couldn't. I have to finish, really.'	Mennell-CA.eaf
+767020	771570	4550	'No!' she says, 'What are you talking about? Of course yes, our luggage is ready.'	Mennell-CA.eaf
+772320	777450	5130	She looks for the sound, then says, 'Listen, I cannot talk right now. I have to leave you'.	Mennell-CA.eaf
+778550	780750	2200	A title reads, 'Zoe, the next one.'	Mennell-CA.eaf
+782570	786660	4090	all goes black then words on a screen read; What happens while BLANK.	Mennell-CA.eaf
+3640	16180	12540	A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them. She chews on a pencil.  Caption: Jess the student.  She puts down her pencil, searches for her phone on her desk, beside her Macbook laptop. The screen goes black.  A young woman, her mobile phone pressed to her ear.  Subtitle : No I couldn’t . I have to finish, really.  She hangs washing on a line title: No! What are you talking about? Of course yes, our luggage is ready.  She turns at the high-pitched sound.  title: Listen, I can’t talk right now. I have to leave you.  She ends the call , looks around her frowning.  Caption: Zoe, the next one.  Caption: What happens while – blank.	MindsEye-UK.eaf
+17070	17650	580	Caption.	MindsEye-UK.eaf
+18930	20310	1380	 What happens while. 	MindsEye-UK.eaf
+21030	21550	520	blank.	MindsEye-UK.eaf
+22730	28900	6170	A car pulls up by the beach, silver with sporty wheels. Inside the driver is on his mobile phone.	MindsEye-UK.eaf
+30140	34140	4000	He undoes his seat belt. Opens the door. Gets out with his briefcase.	MindsEye-UK.eaf
+43130	46000	2870	He puts his case in the boot, gets out a striped bag.	MindsEye-UK.eaf
+52210	57390	5180	He ends the call. Puts his phone away. Looks out towards the sea.  Takes a deep breath.	MindsEye-UK.eaf
+60000	63190	3190	Puts on his sunglasses. He has ginger hair and a beard.	MindsEye-UK.eaf
+64890	67410	2520	Caption: James, the businessman.	MindsEye-UK.eaf
+68420	71540	3120	James walks near the beach, talking on his phone	MindsEye-UK.eaf
+92450	95690	3240	James lies back on the beach, barechested.	MindsEye-UK.eaf
+100020	103320	3300	He rubs his eyes, no longer wearing his sunglasses.	MindsEye-UK.eaf
+105420	107910	2490	He trickles the sand through his fingers.	MindsEye-UK.eaf
+112530	115740	3210	He sits up and answers.	MindsEye-UK.eaf
+130210	131650	1440	he looks round at the sound.	MindsEye-UK.eaf
+141490	143080	1590	again, he looks around.	MindsEye-UK.eaf
+157300	179210	21910	He ends the call, looks round, frowning deeply.  He stands, in his trunks, walks out towards the sea.  In the distance are the buildings of a town.  Back out onto the sand, frowning as if trying to determine what the sound is and where it is coming from.	MindsEye-UK.eaf
+181990	185990	4000	Beyond him the buildings are silhouetted against a hazy sky.	MindsEye-UK.eaf
+187430	189880	2450	Waves break onto rocks on the shore.	MindsEye-UK.eaf
+192020	193700	1680	He heads towards the water.	MindsEye-UK.eaf
+197670	202000	4330	He turns.  He has pale skin, greying hairs on his chest.	MindsEye-UK.eaf
+203340	214790	11450	He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on. 	MindsEye-UK.eaf
+227390	256160	28770	He climbs a winding path up a cliffside, picking his way, in his business shoes.  A takeaway coffee cup in a man’s hands; fingers tap.  A bearded grey haired man with heavy green eyes.  He has a chain around his neck, tattoos on his shoulder, wears a vest.  He shakes his head.  He runs his finger round the lid, removes it, and sips the black coffee.	MindsEye-UK.eaf
+265000	274150	9150	Caption: Rick, the retiree.  Rick sits on a park bench, in the sunshine.  He drinks the coffee, tapping his foot.	MindsEye-UK.eaf
+278950	298600	19650	He puts the cup down, rubs his hands, claps them, takes his mobile phone from his back trouser pocket, scrolls through the contacts. He selects a Craig Anderson and presses call icon.	MindsEye-UK.eaf
+330570	332230	1660	He frowns at the sound.	MindsEye-UK.eaf
+383000	384260	1260	He looks up, listening.	MindsEye-UK.eaf
+397000	405200	8200	He stands; he sets off, leaving his coffee cup on the bench. He walks towards the trees looking around him.	MindsEye-UK.eaf
+493900	494970	1070	She ends the call.	MindsEye-UK.eaf
+497150	501530	4380	She looks around, frowning, listening.	MindsEye-UK.eaf
+508690	524700	16010	She gets up, goes outside.  She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.  She climbs up the hillside, past trees and long grasses, pausing to look around her.	MindsEye-UK.eaf
+528800	538280	9480	She arrives on a plateau on the hillside, near to James and Rick The sun shines down brightly on the three small figures.	MindsEye-UK.eaf
+541660	543420	1760	The speaker can’tt be seen.	MindsEye-UK.eaf
+555770	560250	4480	The three stand there, blinking in the sunshine, peering to see who is speaking.	MindsEye-UK.eaf
+568000	569520	1520	James frowns.	MindsEye-UK.eaf
+575800	577720	1920	Their shadows are cast long.	MindsEye-UK.eaf
+594430	596750	2320	Rick shrugs, hand to his head.	MindsEye-UK.eaf
+639840	640380	540	Rick.	MindsEye-UK.eaf
+645330	647450	2120	The wind blows his wiry hair.	MindsEye-UK.eaf
+707190	712000	4810	Each of them shakes their head, James, Rick Jess.	MindsEye-UK.eaf
+716600	717930	1330	They look around.	MindsEye-UK.eaf
+720340	722000	1660	Rick laughs.	MindsEye-UK.eaf
+725000	727000	2000	James waves his hands dismissively.	MindsEye-UK.eaf
+737360	750470	13110	Rick sets off with James.  Jessica thinks for a moment, gives a “why not” smile and runs to join them.  They walk away from us towards the path through the trees, the men’s arms around Jessica’s shoulders.	MindsEye-UK.eaf
+4640	15970	11330	A film shot mostly in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past. 	SDI-Media-UK.eaf
+18890	21500	2610	On a white background: What Happens While.	SDI-Media-UK.eaf
+23940	30500	6560	A BMW coupe pulls up beside the beach and a forty-something guy gets out, speaking on his phone.	SDI-Media-UK.eaf
+53000	56690	3690	He ends the call, then reaches into in his inside jacket pocket.	SDI-Media-UK.eaf
+59940	62660	2720	He takes out sunglasses and puts them on.	SDI-Media-UK.eaf
+65420	71460	6040	James. The businessman. Wearing a suit and carrying a beach bag, James makes a call as he walks.	SDI-Media-UK.eaf
+92390	96380	3990	Now bare chested,James sits on a towel on the beach, then lies back.	SDI-Media-UK.eaf
+100080	108890	8810	Slender,with short, sandy-coloured hair and a neat beard, James rubs his eyes, then , keeping them closed, picks up sand and lets it fall from his fingers.	SDI-Media-UK.eaf
+114700	115570	870	He sits up.	SDI-Media-UK.eaf
+142450	143590	1140	He scans about.	SDI-Media-UK.eaf
+159670	161650	1980	He throws down his phone and gets up.	SDI-Media-UK.eaf
+166240	172930	6690	Wearing dark-coloured swimming trunks, James walks to the water's edge, then turns back, as if trying to locate the sound. 	SDI-Media-UK.eaf
+176200	181790	5590	He walks through the soft sand, stops and scans about, then returns to the water's edge.	SDI-Media-UK.eaf
+186800	195040	8240	Looking perplexed by the sound, he checks about him. Further round the coast, in the background, the towers and buildings of a power plant fringe the shore.	SDI-Media-UK.eaf
+204680	212650	7970	James' brow is furrowed as he walks back to his belongings on the beach and puts on his shirt. Two small boats bob about in the water behind him.	SDI-Media-UK.eaf
+220680	224970	4290	Dressed again, but minus his tie, James walks past leafy trees.	SDI-Media-UK.eaf
+229620	233020	3400	Walking through scrubland,he climbs a steep, dusty track.	SDI-Media-UK.eaf
+235510	242940	7430	A man holding a plastic cup taps the sides and sniffs. He's in late middle-age with strong features and a grizzled beard. 	SDI-Media-UK.eaf
+248980	261410	12430	Looking bored,the man who has wild, wiry, greying hair runs an index finger around the lid of the cup, then removes it. The cup is half full of clear dark liquid, which he studies before taking a sip.	SDI-Media-UK.eaf
+265760	276350	10590	Rick. The Retiree. Rick, who wears a vest top and a heavy chain around his neck,is sitting on a chair in a sun-dappled area of a park. He jiggles one knee up and down, edgily.	SDI-Media-UK.eaf
+278590	281070	2480	He puts his cup aside and claps his hands.	SDI-Media-UK.eaf
+286180	290120	3940	He takes his phone from a back pocket of his trousers and opens the cover.	SDI-Media-UK.eaf
+294190	299650	5460	Using his index finger, he scrolls through his contacts list to Craig Anderson and calls him.	SDI-Media-UK.eaf
+330760	332570	1810	Hearing the noise, he scans about.	SDI-Media-UK.eaf
+399220	406310	7090	Leaving his cup on a chair, Rick hurries away along a sandy path, scanning above him and about him, following the noise	SDI-Media-UK.eaf
+412870	413950	1080	A young woman.	SDI-Media-UK.eaf
+418290	426970	8680	Jess. The Student. Jess sits chewing a pencil, which she puts down to search for her phone beneath papers on her desk, on which there's also a laptop.	SDI-Media-UK.eaf
+496100	500760	4660	Jess who has long, curly auburn hair scans about her and looks puzzled.	SDI-Media-UK.eaf
+512490	523080	10590	Baffled by the sound,Jess gets up from her desk. Outside,wearing a Parka with a fur-trimmed hood, she looks about her then heads up a slope of tall grasses and scrubby bushes.	SDI-Media-UK.eaf
+526179	529460	3281	She pauses to listen,then disappears into the vegetation.	SDI-Media-UK.eaf
+532770	535410	2640	Jess, Rick and James are standing together.	SDI-Media-UK.eaf
+540280	542240	1960	They're in a sunny, sandy clearing. 	SDI-Media-UK.eaf
+556670	560390	3720	A wind is blowing as they all scan about for the owner of the voice. 	SDI-Media-UK.eaf
+594920	596540	1620	He claps a hand to his head.	SDI-Media-UK.eaf
+700830	702530	1700	They're all standing well apart.	SDI-Media-UK.eaf
+708070	711520	3450	They glance at each other. Rick shrugs and shakes his head.	SDI-Media-UK.eaf
+737830	741560	3730	Rick follows James.Jessica stares down and considers. 	SDI-Media-UK.eaf
+744910	747680	2770	She smiles and runs after them in the sunshine.	SDI-Media-UK.eaf
+750790	754280	3490	They walk off merrily towards trees beneath a clear blue sky.	SDI-Media-UK.eaf
+759230	759960	730	Blackness.	SDI-Media-UK.eaf
+763620	775180	11560	A woman hangs out washing as she talks on her mobile: No, I couldn't. I have to finish,really. No! What are you talking about? Of course yes, our luggage is ready. Listen, I cannot talk right now. I have to leave you. 	SDI-Media-UK.eaf
+778660	780050	1390	Zoe. The next one	SDI-Media-UK.eaf
+783420	785960	2540	On a white background:what happens while.	SDI-Media-UK.eaf

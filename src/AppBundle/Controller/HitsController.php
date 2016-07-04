@@ -10,27 +10,27 @@ use Symfony\Component\Finder\Finder;
 /**
 	Index:
 
-  vocabularyVerbs            ANY      ANY      ANY    /vocabulary/verbs/{dir}                           
-  vocabularyVerbsProvider    ANY      ANY      ANY    /vocabulary/verbs/{dir}/{provider}                
-  vocabularyVerbsSemantic    ANY      ANY      ANY    /vocabulary/verbssem/{dir}/{sem}                  
-  vocabularyVerbsDash        ANY      ANY      ANY    /vocabulary/verbsdash/{dir}                       
-  vocabularyNounsDash        ANY      ANY      ANY    /vocabulary/nounsdash/{dir}                       
-  vocabularyAdjsDash         ANY      ANY      ANY    /vocabulary/adjsdash/{dir}                        
-  vocabularyPosDash          ANY      ANY      ANY    /vocabulary/posdash/{dir}       
+  app_hits_hitstime             ANY      ANY      ANY    /hits/time/{subdir_id}/{dir_id}         
+  app_hits_hitswords            ANY      ANY      ANY    /hits/words/{subdir_id}/{dir_id}        
+  app_hits_hitswordsvisual      ANY      ANY      ANY    /hits/wordsvisual/{subdir_id}/{dir_id} 
+  app_hits_timewords            ANY      ANY      ANY    /hits/timewords/{subdir_id}/{dir_id}
+  app_hits_wordscorpus          ANY      ANY      ANY    /words/{corpus}/{subdir_id}/{file_id}             
+  app_hits_words                ANY      ANY      ANY    /words/{subdir_id}/{dir_id}/{file_id}             
+  app_hits_timeline             ANY      ANY      ANY    /hits/timeline/{corpus_id}      
 
 **/
 
 class HitsController extends Controller
 {
     /**
-     * @Route("/hits/time/{subdir_id}/{dir_id}/{file_id}")
+     * @Route("/hits/time/{subdir_id}/{dir_id}")
      */
-	### reads 'file-Hits' file and displays utterances in timeline (counting time)
-    public function hitsTime($file_id,$dir_id,$subdir_id)
+	### reads 'Hits-All.txt' file and displays utterances in timeline (counting duration)
+    public function hitsTime($dir_id,$subdir_id)
     {
         $path = $this->container->getParameter('kernel.root_dir');
-        $dataDir = $path . "/../data/" . $subdir_id . "/" . $dir_id ."/";
-        $file = $dataDir .  $file_id;
+        $dataDir = $path . "/../data/" . $subdir_id . "/" ;
+        $file = $dataDir .  "Hits-All.txt";
 	
 	$csvFile = file($file);
         #$data = [];
@@ -39,22 +39,27 @@ class HitsController extends Controller
 	$duration = array();
 	$lastTime = array();
         $i = 1;
+	
 	foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
-		$time = $data[1]/60000;
-		$d = $data[3]/1000;
+	      $file = substr($data[4], 0, -4); 
+	      if ($dir_id == $file){
+		$time = $data[0]/60000; 	#beguin time (in seconds)
+		$d = $data[2]/1000;		#duration
 		array_push($duration,$d);
             	$row = "";
 		$text = "'Duration: " . $d . "'" ;
             	$row = '[' . $time . ',' . $d . ',' . $text .']';
 	    	array_push($rows,$row);
 		array_push($lastTime,$time); #to get last time
+	      }
 	    }
 	$i++;
         }
 	$maxValue = end($lastTime) + 1;
 	$data = implode(",",$rows);
+
 	////// stats
 		$count = count($duration);
                 $sum = array_sum($duration);
@@ -79,7 +84,7 @@ class HitsController extends Controller
     
         $html = $this->container->get('templating')->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $file_id, 'type' => 'duration in seconds.',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'duration in seconds.',
                   'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
 		  'maxValue' => $maxValue)
         );
@@ -89,14 +94,14 @@ class HitsController extends Controller
     }
 
    /**
-     * @Route("/hits/words/{subdir_id}/{dir_id}/{file_id}")
+     * @Route("/hits/words/{subdir_id}/{dir_id}")
      */
-	### reads file-Hits file and displays utterances in timeline (counting words)
-    public function hitsWords($file_id,$dir_id,$subdir_id)
+	### reads Hits-All.txt file and displays utterances in timeline (counting words)
+    public function hitsWords($dir_id,$subdir_id)
     {
         $path = $this->container->getParameter('kernel.root_dir');
-        $dataDir = $path . "/../data/" . $subdir_id . "/" . $dir_id ."/";
-        $file = $dataDir .  $file_id;
+        $dataDir = $path . "/../data/" . $subdir_id . "/" ;
+        $file = $dataDir .  "Hits-All.txt";
 	
 	$csvFile = file($file);
         #$data = [];
@@ -109,15 +114,18 @@ class HitsController extends Controller
 	foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
+	      $file = substr($data[4], 0, -4); 
+	      if ($dir_id == $file){
             	$row = "";
-	    	$d = $data[1] / 60000;
-		$sentence = explode(" ", $data[4]);
+	    	$d = $data[0] / 60000;
+		$sentence = explode(" ", $data[3]);
 		$c = count($sentence);
 		array_push($words,$c);
 		$text = "'Num. words: " . $c . "'" ;
             	$row = '[' . $d . ',' . $c . ',' . $text . ']';
 	    	array_push($rows,$row);
 		array_push($lastTime,$d); #to get last time
+	      }
 	    }
 	$i++;
         }
@@ -147,7 +155,7 @@ class HitsController extends Controller
     
         $html = $this->container->get('templating')->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $file_id, 'type' => 'num. of words',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'num. of words',
 			'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
 			'maxValue' => $maxValue)
         );
@@ -157,14 +165,14 @@ class HitsController extends Controller
     }
 
 /**
-     * @Route("/hits/wordsvisual/{subdir_id}/{dir_id}/{file_id}")
+     * @Route("/hits/wordsvisual/{subdir_id}/{dir_id}")
      */
-	### reads file-Hits file and displays utterances in timeline (counting words) plus Filmic info (shoots)
-    public function hitsWordsVisual($file_id,$dir_id,$subdir_id)
+	### reads Hits-All.txt file and displays utterances in timeline (counting words) plus Filmic info (shoots)
+    public function hitsWordsVisual($dir_id,$subdir_id)
     {
         $path = $this->container->getParameter('kernel.root_dir');
-        $dataDir = $path . "/../data/" . $subdir_id . "/" . $dir_id ."/";
-        $file = $dataDir .  $file_id;
+        $dataDir = $path . "/../data/" . $subdir_id . "/" ;
+        $file = $dataDir .  "Hits-All.txt";
 	
 	$csvFile = file($file);
         #$data = [];
@@ -176,15 +184,18 @@ class HitsController extends Controller
 	foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
+	      $file = substr($data[4], 0, -4); 
+	      if ($dir_id == $file){
             	$row = "";
-		$d = $data[1] / 60000 ;
+		$d = $data[0] / 60000 ;
 	    	//$text = "'" . $data[0] . "'" ;
-		$sentence = explode(" ", $data[4]);
+		$sentence = explode(" ", $data[3]);
 		$c = count($sentence);
 		array_push($words,$c);
 		$text = "'Words: " . $c . "'" ;
             	$row = '[' . $d . ',' . $c . ',' . $text . ',' .'null'. ',' .'null]';
 	    	array_push($rows,$row);
+	      }
 	    }
 	$i++;
         }    
@@ -234,7 +245,7 @@ class HitsController extends Controller
     
         $html = $this->container->get('templating')->render(
             'hits/hitsVisual.html.twig',
-            array('key' => $data, 'title' => $file_id, 'type' => 'num. of words',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'num. of words',
 		  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 
                   'std' => $std, 'var' => $var, 'maxValue' => $maxValue)
         );
@@ -247,14 +258,14 @@ class HitsController extends Controller
 
 
 /**
-     * @Route("/hits/timewords/{subdir_id}/{dir_id}/{file_id}")
+     * @Route("/hits/timewords/{subdir_id}/{dir_id}")
      */
-     ### reads file-Hits file and displays utterances in timeline (counting time/words)
-    public function timewords($file_id,$dir_id,$subdir_id)
+     ### reads Hits-All.txt file and displays utterances in timeline (counting time/words)
+    public function timewords($dir_id,$subdir_id)
     {
         $path = $this->container->getParameter('kernel.root_dir');
-        $dataDir = $path . "/../data/" . $subdir_id . "/" . $dir_id ."/";
-        $file = $dataDir .  $file_id;
+        $dataDir = $path . "/../data/" . $subdir_id . "/" ;
+        $file = $dataDir .  "Hits-All.txt";
 	
 	$csvFile = file($file);
         #$data = [];
@@ -266,15 +277,18 @@ class HitsController extends Controller
 	foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
-		#$sentence = explode(" ", $data[4]);
+	      $file = substr($data[4], 0, -4); 
+	      if ($dir_id == $file){
+            	$row = "";
+		#$sentence = explode(" ", $data[3]);
 		$vowels = array(" ", ",", ".", ";", "!", ":", "-");
-		$sentence = str_replace($vowels, "", $data[4]);
+		$sentence = str_replace($vowels, "", $data[3]);
 
 		$c = strlen(utf8_decode($sentence));
-		$t = $data[1] / 60000;
+		$t = $data[0] / 60000;
 
-		#$x = $data[3] / str_word_count($data[4]);
-		$time = $data[3] / 1000;
+		#$x = $data[2] / str_word_count($data[3]);
+		$time = $data[2] / 1000;
 		$x = $c / $time ; 
 		array_push($duration,$x);
             	$row = "";
@@ -282,6 +296,7 @@ class HitsController extends Controller
             	$row = '[' . $t . ',' . $x . ',' . $text .']';
 	    	array_push($rows,$row);
 		array_push($lastTime,$t); #to get last time
+	      }
 	    }
 	$i++;
         }
@@ -311,7 +326,7 @@ class HitsController extends Controller
     
         $html = $this->container->get('templating')->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $file_id, 'type' => 'character/second',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'character/second',
                   'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
 		  'maxValue' => $maxValue)
         );
@@ -488,10 +503,11 @@ class HitsController extends Controller
 	$rows = array();
 	$data = array();
 
-	foreach ($lines as $line) {
+	foreach ($lines as $l) {
+	    $line = trim($l);
             $data = explode("\t",$line);
 	    $text = htmlentities(mb_substr(rtrim($data[3]),0,60)); 
-	    $row = '["' . $data[0] . '", "", "' . $text . '",' . $data[1] . ',' . $data[2] . ']';
+	    $row = '["' . $data[4] . '", "", "' . $text . '",' . $data[0] . ',' . $data[1] . ']';
 	    array_push($rows,$row);
 	}
 

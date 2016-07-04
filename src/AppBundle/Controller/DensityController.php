@@ -39,7 +39,6 @@ class DensityController extends Controller
     	   //$pair[0]=[$id];
 	   $keys = array($id);
 	   $pair = array_fill_keys($keys, $id);
-
 	   array_push($files0, $pair);
 	}
 
@@ -48,9 +47,16 @@ class DensityController extends Controller
 	$defaultData = array();
     	$form = $this->createFormBuilder($defaultData)
 	->add('chooseTwoFiles', 'Symfony\Component\Form\Extension\Core\Type\ChoiceType',  array(
-    	'choices' => array(
-        $files0
-    	),
+    	'choices' => [
+        'Main Statuses' => [
+            'Yes' ,
+            'No' ,
+        ],
+        'Out of Stock Statuses' => [
+            'Backordered' ,
+            'Discontinued' ,
+        ]
+    ],
 	'multiple' => true,
         'expanded' => true,
     	'choices_as_values' => true))
@@ -118,43 +124,51 @@ class DensityController extends Controller
 		$source1 = $xpath->query($query1);
 		$source2 = $xpath->query($query2);
 		foreach ($source1 as $r){
-			$sources = $r->getElementsByTagName( "source" );
+			$sources = $r->getElementsByTagName( "corpus" );
 			$s1 = $sources->item(0)->nodeValue;
 			#print $s1;
 		}
 		foreach ($source2 as $r){
-			$sources = $r->getElementsByTagName( "source" );
+			$sources = $r->getElementsByTagName( "corpus" );
 			$s2 = $sources->item(0)->nodeValue;
 			#print $s2;
 		}
 	}
 
 
-        $data1 = $dataDir . "/" .  $s1 . "/" . $file1 ."-Hits.txt";
-	$data2 = $dataDir . "/" .  $s2 . "/" . $file2 ."-Hits.txt";
+        $data1 = $dataDir . "/" .  $s1 . "/Hits-All.txt";
+	$data2 = $dataDir . "/" .  $s2 . "/Hits-All.txt";
 	
 	$csvFile1 = file($data1);
         $csvFile2 = file($data2);
 
         $maxValues = array();
 	$rows = array();
-	foreach ($csvFile1 as $line) {
+	foreach ($csvFile1 as $l) {
+	    $line = trim($l);
             $data = str_getcsv($line, "\t");
+	    $file = substr($data[4], 0, -4); 
+	    if ($file == $file1){
             $row = "";
-	    $string = preg_replace('/[^A-Za-z0-9\- ,]/', '', $data[4]);
+	    $string = preg_replace('/[^A-Za-z0-9\- ,]/', '', $data[3]);
 	    $text = "'" . $string . "'" ;
-	    $row = '[' . $data[1] . ',' . $data[3]. ',' . $text . ',' .'null'. ',' .'null]';
+	    $row = '[' . $data[0] . ',' . $data[2]. ',' . $text . ',' .'null'. ',' .'null]';
 	    array_push($rows,$row);
-	    array_push($maxValues,$data[2]);
+	    array_push($maxValues,$data[0]);
+	    }
         }
 
-	foreach ($csvFile2 as $line) {
+	foreach ($csvFile2 as $l) {
+	    $line = trim($l);
             $data = str_getcsv($line, "\t");
+	    $file = substr($data[4], 0, -4);
+	    if ($file == $file2){
             $row = "";
-	    $string = preg_replace('/[^A-Za-z0-9\- ,]/', '', $data[4]);
+	    $string = preg_replace('/[^A-Za-z0-9\- ,]/', '', $data[3]);
 	    $text = "'" . $string . "'" ;
-            $row = '[' . $data[1] . ', null, null, ' . $data[3]. ',' . $text .']';
+            $row = '[' . $data[0] . ', null, null, ' . $data[2]. ',' . $text .']';
 	    array_push($rows,$row);
+	    }
         }	   
  	$maxValue = end($maxValues) + 50000;
 	$data = implode(",",$rows);

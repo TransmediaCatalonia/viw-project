@@ -86,7 +86,6 @@ public function corpusAction($corpus_id)
 	# source files to be 'displayed'
 	$words = null;
 	$sentences = null;
-	$hits = null;
 	$sem = null;
 	$hits_timeline = null;
 	$corpus = null;
@@ -100,9 +99,7 @@ public function corpusAction($corpus_id)
 		if (preg_match("/corpus.txt$/i", $f->getRelativePathname())) {
 	    	$corpusfile = $f->getRelativePathname();
 		} 
-		if (preg_match("/(.*)-Hits.txt$/i", $f->getRelativePathname())) {
-	    	$hits = $f->getRelativePathname();
-		} 
+		 
 
 		if ( preg_match("/sem.csv$/i", $f->getRelativePathname())) {
 	    	$sem = $f->getRelativePathname(); 
@@ -120,7 +117,6 @@ public function corpusAction($corpus_id)
             'default/metadataCorpus.html.twig',
             array(	'metadata' => $metadata,
 			'words' => $words, 
-			'hits' => $hits, 
 			'corpus' => $corpus_id, 
 			'corpusfile' => $corpusfile,
 			'similarity' => $similarity,
@@ -194,9 +190,7 @@ public function fileAction($dir_id,$file_id)
 		if (preg_match("/eaf$/i", $f->getRelativePathname())) {
 	    	$eaf = $f->getRelativePathname();
 		} 
-		if (preg_match("/(.*)-Hits.txt$/i", $f->getRelativePathname())) {
-	    	$hits = $f->getRelativePathname();
-		} 
+		
 		if (preg_match("/countWords.txt$/i", $f->getRelativePathname())) {
 	    	$words = $f->getRelativePathname();
 		} 
@@ -207,6 +201,9 @@ public function fileAction($dir_id,$file_id)
 	foreach ($finder2 as $f) {
 		if ( preg_match("/sem.csv$/i", $f->getRelativePathname())) {
 	    	$verbs = $f->getRelativePathname(); 
+		} 
+		if (preg_match("/Hits-All.txt$/i", $f->getRelativePathname())) {
+	    	$hits = $f->getRelativePathname();
 		} 
 	}
 	

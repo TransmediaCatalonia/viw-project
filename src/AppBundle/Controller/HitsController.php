@@ -200,7 +200,7 @@ class HitsController extends Controller
 	$i++;
         }    
 	#$data = implode(",",$rows);
-##
+	##
 	$corpusFile = $path . "/../data/" . $subdir_id . "/" . $subdir_id ."-Hits.txt";
 	$corpusCsvFile = file($corpusFile);
 	$rowsCorpus = array();
@@ -208,10 +208,10 @@ class HitsController extends Controller
 	$i = 1;
 	foreach ($corpusCsvFile as $line) {
             $d = str_getcsv($line, "\t"); 
-	    if (count($d) > 2 & $i > 1){
-		if (eregi("shoot", $d[3])) {
-			$t = $d[0] / 60000;
-			$text = "'" . $d[3] . "'" ;
+	    if (count($d) > 2 & $i > 1){ 
+		if ($d[0] == "Scene") {
+			$t = $d[1] / 60000;
+			$text = "'" . $d[4] . "'" ;
 		    	$row = '[' . $t . ', null, null, 1,'. $text .']';
 		    	array_push($rows,$row);
 		}
@@ -490,8 +490,7 @@ class HitsController extends Controller
      * @Route("/hits/timeline/{corpus_id}")
      */
      ## reads Hits-All.txt file (for files) and displays data in timeline,
-     ## Input: What-Tragora-ES	417000	420000	Sobreimpreso en pantalla: Jess, la estudiante.
-     ## Output: ["What-Tragora-ES","",533000,542000],
+     ## 
     public function timeline($corpus_id)
     {
         $path = $this->container->getParameter('kernel.root_dir');
@@ -502,7 +501,7 @@ class HitsController extends Controller
                 
 	$rows = array();
 	$data = array();
-
+	# 176450	177010	560	S'atura.	AccessFriendly-CA.eaf
 	foreach ($lines as $l) {
 	    $line = trim($l);
             $data = explode("\t",$line);
@@ -510,6 +509,23 @@ class HitsController extends Controller
 	    $row = '["' . $data[4] . '", "", "' . $text . '",' . $data[0] . ',' . $data[1] . ']';
 	    array_push($rows,$row);
 	}
+
+
+	$filmic_file = $dataDir .  "Filmic-Hits.txt";
+	$filmic_lines = file($filmic_file);
+	# Scene	67520	218920	151400	S2-Beach
+	foreach ($filmic_lines as $l) {
+	    $line = trim($l);
+            $data = explode("\t",$line);
+		if (preg_match('/Speech/',$data[4])) {
+			$row = '["Speech", "" , "speech",' . $data[1] . ',' . $data[2] . ']';
+	    		array_push($rows,$row);
+		}
+	    $text = htmlentities(mb_substr(rtrim($data[4]),0,60)); 
+	    $row = '["' . $data[0] . '", "", "' . $text . '",' . $data[1] . ',' . $data[2] . ']';
+	    array_push($rows,$row);
+	}
+
 
 	$data = implode(",",$rows);
         

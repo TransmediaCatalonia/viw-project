@@ -1,0 +1,321 @@
+Scene	2760	67520	64760	S1-Promenade (with text cut)
+Scene	67520	218920	151400	S2-Beach
+Scene	218920	226640	7720	S3-Street
+Scene	226640	233240	6600	S4-Mountain
+Scene	233240	411360	178120	S5-Park
+Scene	411360	511160	99800	S6-Flat
+Scene	511160	517480	6320	S7-Street
+Scene	517480	529760	12280	S8-Mountain
+Scene	529760	758160	228400	S9-Clearing
+Scene	758160	762120	3960	S10-BlackScreen
+Scene	762120	782560	20440	S11-Roof
+Scene	782560	783480	920	S12-BlackScreen
+Scene	783480	877520	94040	S13-Credits
+Shot	2760	18520	15760	ELS
+Shot	18520	22160	3640	TEXT
+Shot	22160	44640	22480	ELS
+Shot	44640	67520	22880	MS
+Shot	67520	91600	24080	MLS-MS
+Shot	91600	114600	23000	MS
+Shot	114600	163000	48400	CU
+Shot	163000	195960	32960	LS
+Shot	195960	218920	22960	MS
+Shot	218920	226640	7720	MLS
+Shot	226640	233240	6600	LS
+Shot	233240	236840	3600	DS (cup of coffee)
+Shot	236840	247640	10800	CU
+Shot	247640	254640	7000	DS (cup of coffee)
+Shot	254640	267440	12800	CU 
+Shot	267440	286840	19400	LS
+Shot	286840	298240	11400	DS (mobile phone)
+Shot	298240	396280	98040	CU-ECU
+Shot	396280	411360	15080	DS (cup of coffee)
+Shot	411360	468320	56960	CU-DS(desk)-CU
+Shot	468320	511160	42840	DS (desk)-ECU
+Shot	511160	517480	6320	MS-CU
+Shot	517480	529760	12280	LS
+Shot	529760	541800	12040	ELS
+Shot	541800	547240	5440	MCU
+Shot	547240	551760	4520	MCU
+Shot	551760	556360	4600	MCU
+Shot	556360	563640	7280	LS
+Shot	563640	567480	3840	MCU
+Shot	567480	576120	8640	MCU
+Shot	576120	578880	2760	LS
+Shot	578880	587160	8280	CU
+Shot	587160	592040	4880	LS
+Shot	592040	601920	9880	MCU
+Shot	601920	603280	1360	MCU
+Shot	603280	607360	4080	MCU
+Shot	607360	610160	2800	CU
+Shot	610160	621240	11080	CU
+Shot	621240	622840	1600	CU
+Shot	622840	630120	7280	CU
+Shot	630120	639240	9120	CU
+Shot	639240	646040	6800	MCU
+Shot	646040	647480	1440	CU
+Shot	647480	666520	19040	MCU
+Shot	666520	668040	1520	CU
+Shot	668040	673720	5680	MCU
+Shot	673720	675400	1680	CU
+Shot	675400	685360	9960	MCU
+Shot	685360	686520	1160	CU
+Shot	686520	688040	1520	MCU
+Shot	688040	696360	8320	CU
+Shot	696360	698360	2000	MCU
+Shot	698360	700240	1880	CU
+Shot	700240	704720	4480	LS
+Shot	704720	708000	3280	CU
+Shot	708000	710840	2840	CU
+Shot	710840	716160	5320	CU
+Shot	716160	721280	5120	ELS
+Shot	721280	724800	3520	MCU
+Shot	724800	740360	15560	MCU-MS-MLS
+Shot	740360	743440	3080	CU
+Shot	743440	758160	14720	ELS
+Shot	758160	762120	3960	BlackScreen
+Shot	762120	782560	20440	MS
+Shot	782560	783480	920	BlackScreen
+Shot	783480	877520	94040	Text
+Sound	14800	18560	3760	ND sound effect
+Sound	18560	20640	2080	Speech
+Sound	30370	37980	7610	Speech
+Sound	39000	43560	4560	Speech
+Sound	45230	52120	6890	Speech
+Sound	57000	57640	640	Paralinguistic
+Sound	58760	59000	240	Paralinguistic
+Sound	63880	67520	3640	ND sound effect 
+Sound	71480	91560	20080	Speech
+Sound	91560	92040	480	Sound effect
+Sound	92730	93410	680	Paralinguistic
+Sound	98370	98750	380	Paralinguistic
+Sound	102680	103360	680	Paralinguistic
+Sound	110160	114190	4030	D sound effect
+Sound	114190	114390	200	Paralinguistic
+Sound	116290	117320	1030	Speech
+Sound	118240	126260	8020	Speech
+Sound	126260	130910	4650	Speech + sound motif
+Sound	131880	138520	6640	Speech
+Sound	138520	141610	3090	Speech + sound motif
+Sound	141610	144200	2590	Sound motif
+Sound	144200	145390	1190	Speech + sound motif
+Sound	145400	147400	2000	Speech
+Sound	147400	156880	9480	Speech + sound motif
+Sound	157200	157720	520	Sound motif
+Sound	162880	165320	2440	ND sound effect
+Sound	167960	174960	7000	Sound motif
+Sound	182960	184320	1360	Sound motif
+Sound	184320	186760	2440	ND sound effect + sound motif
+Sound	186760	195800	9040	Sound motif
+Sound	195800	198200	2400	ND sound effect + sound motif
+Sound	198200	203600	5400	Sound motif
+Sound	212080	218840	6760	Sound motif
+Sound	218840	221280	2440	ND sound effect 
+Sound	221280	228480	7200	Sound motif
+Sound	228480	230920	2440	ND sound effect + sound motif
+Sound	230920	233240	2320	Sound motif
+Sound	237880	239660	1780	Paralinguistic
+Sound	243880	248280	4400	Paralinguistic
+Sound	252950	253190	240	Paralinguistic
+Sound	255880	256280	400	Paralinguistic
+Sound	262080	264440	2360	Paralinguistic
+Sound	264440	266880	2440	ND sound effect
+Sound	277000	277960	960	Paralinguistic
+Sound	284520	285360	840	Paralinguistic
+Sound	291480	294000	2520	Paralinguistic
+Sound	299760	301040	1280	Paralinguistic
+Sound	302000	306120	4120	Speech
+Sound	307160	312440	5280	Speech
+Sound	313240	314530	1290	Speech
+Sound	316610	317360	750	Speech
+Sound	319540	321660	2120	Speech
+Sound	323750	325110	1360	Speech
+Sound	326320	327000	680	Paralinguistic
+Sound	327000	329280	2280	Speech + sound motif
+Sound	329280	332960	3680	Sound motif
+Sound	332970	335820	2850	Speech + sound motif
+Sound	335820	337120	1300	Sound motif
+Sound	337120	339240	2120	Speech + sound motif
+Sound	341120	342350	1230	Speech + ND sound effect
+Sound	343760	344040	280	Paralinguistic
+Sound	344880	345880	1000	Speech
+Sound	346760	347890	1130	Speech
+Sound	349220	351920	2700	Speech
+Sound	352790	353960	1170	Paralinguistic
+Sound	353960	355850	1890	Speech
+Sound	355850	357350	1500	Paralinguistic
+Sound	357350	358220	870	Speech
+Sound	358840	371550	12710	Speech
+Sound	371550	373560	2010	Speech + sound motif
+Sound	373560	374560	1000	Paralinguistic + sound motif
+Sound	374560	380190	5630	Speech + sound motif
+Sound	380190	380680	490	Sound motif
+Sound	380680	382000	1320	ND sound effect + sound motif
+Sound	382000	383160	1160	Speech + ND sound effect + sound motif
+Sound	383160	384810	1650	ND sound effect + sound motif
+Sound	384810	387010	2200	Speech + sound motif
+Sound	387010	388480	1470	Sound motif
+Sound	388480	394030	5550	Speech + sound motif
+Sound	394030	394430	400	Sound motif
+Sound	394430	395240	810	Speech + sound motif
+Sound	395240	395790	550	Sound motif
+Sound	395790	397320	1530	Speech + sound motif 
+Sound	397320	402480	5160	ND sound effect + sound motif
+Sound	402480	405040	2560	Sound motif
+Sound	405040	409690	4650	ND sound effect + sound motif
+Sound	412750	413790	1040	Paralinguistic
+Sound	415600	417160	1560	Paralinguistic
+Sound	417160	420000	2840	ND sound effect
+Sound	420000	421080	1080	D sound effect
+Sound	421080	421840	760	Paralinguistic + D sound effect
+Sound	421840	424550	2710	D sound effect
+Sound	424550	425390	840	Paralinguistic
+Sound	425400	430320	4920	D sound effect
+Sound	431480	432000	520	Speech
+Sound	433250	437960	4710	Speech
+Sound	438920	441690	2770	Speech
+Sound	441690	442880	1190	Paralinguistic
+Sound	442880	447170	4290	Speech
+Sound	448840	449240	400	Speech
+Sound	449240	449790	550	Paralinguistic
+Sound	449790	455600	5810	Speech
+Sound	457460	462450	4990	Speech
+Sound	462450	463170	720	Sound motif
+Sound	463180	464030	850	Speech + sound motif
+Sound	464030	465720	1690	Sound motif
+Sound	465720	469560	3840	Speech + sound motif
+Sound	469560	472040	2480	Speech
+Sound	472040	482440	10400	Speech + sound motif
+Sound	482440	482920	480	Sound motif
+Sound	482920	483800	880	Speech + sound motif
+Sound	483800	490440	6640	Speech + ND sound effect + sound motif
+Sound	490440	491210	770	Sound motif
+Sound	491210	493960	2750	Speech + sound motif 
+Sound	493960	495800	1840	Sound motif
+Sound	502400	503400	1000	Sound motif
+Sound	503400	505640	2240	ND sound effect + sound motif
+Sound	505640	506040	400	Paralinguistic + ND sound effect + sound motif
+Sound	506040	508400	2360	ND sound effect + sound motif
+Sound	508400	509580	1180	Speech + sound motif
+Sound	509590	511080	1490	Sound motif
+Sound	511080	516240	5160	ND sound effect + sound motif
+Sound	516240	520000	3760	Sound motif
+Sound	520000	524590	4590	ND sound effect + sound motif
+Sound	524590	543000	18410	Sound motif 
+Sound	543000	555760	12760	Speech + sound motif
+Sound	555760	561160	5400	Sound motif
+Sound	561160	565750	4590	Speech + sound motif
+Sound	565750	566600	850	Sound motif
+Sound	566600	569840	3240	Speech + sound motif 
+Sound	569840	575680	5840	Speech + sound motif
+Sound	575680	577760	2080	Sound motif
+Sound	577760	586290	8530	Speech + sound motif
+Sound	586300	587650	1350	Sound motif
+Sound	587650	594660	7010	Speech + sound motif
+Sound	594670	596440	1770	Sound motif
+Sound	596440	601360	4920	Speech + sound motif
+Sound	601360	602070	710	Sound motif
+Sound	602070	603320	1250	Speech + sound motif
+Sound	603320	604280	960	Sound motif
+Sound	604280	609080	4800	Speech + sound motif 
+Sound	609080	609800	720	Sound motif
+Sound	609800	621610	11810	Speech + sound motif
+Sound	621610	622480	870	Paralinguistic
+Sound	622480	641800	19320	Speech + sound motif  
+Sound	641800	643160	1360	Sound motif
+Sound	643160	646340	3180	Speech + sound motif
+Sound	646340	647750	1410	Sound motif
+Sound	647750	651670	3920	Speech + sound motif
+Sound	651670	653710	2040	Sound motif
+Sound	653710	662880	9170	Speech + sound motif
+Sound	662880	664400	1520	Sound motif
+Sound	664400	684630	20230	Speech + sound motif
+Sound	684630	686800	2170	Sound motif
+Sound	686800	694210	7410	Speech + sound motif
+Sound	694210	695660	1450	Sound motif
+Sound	695660	696600	940	Speech + sound motif
+Sound	696610	698000	1390	Paralinguistic + sound motif
+Sound	698000	700410	2410	Speech + sound motif
+Sound	700410	702330	1920	Sound motif
+Sound	702330	707210	4880	Speech + sound motif
+Sound	707210	712750	5540	Sound motif
+Sound	712750	714720	1970	Speech + sound motif
+Sound	714720	717620	2900	ND sound effect  + sound motif
+Sound	720560	720840	280	Paralinguistic
+Sound	722290	723130	840	Speech 
+Sound	724830	727160	2330	Paralinguistic
+Sound	727160	734160	7000	Speech
+Sound	734600	736120	1520	Speech
+Sound	742290	742490	200	Paralinguistic
+Sound	758160	762070	3910	No sound
+Sound	762070	765480	3410	Speech + sound motif
+Sound	765480	766160	680	Sound motif
+Sound	766160	766720	560	Paralinguistic + sound motif
+Sound	766720	767840	1120	Sound motif
+Sound	767840	771320	3480	Speech + sound motif
+Sound	771320	774600	3280	Sound motif
+Sound	774600	776800	2200	Speech + sound motif
+Sound	776800	779080	2280	ND sound effect + sound motif
+Sound	779080	782560	3480	ND sound effect + sound motif + music
+Sound	782560	877520	94960	Music
+Character	2760	18520	15760	Extras
+Character	18520	23240	4720	Null
+Character	23240	38400	15160	James
+Character	38400	40240	1840	James + extra
+Character	40240	233240	193000	James
+Character	233240	411360	178120	Rick
+Character	411360	527400	116040	Jess
+Character	527400	529760	2360	Null
+Character	529760	547240	17480	James + Rick + Jess
+Character	547240	551760	4520	James
+Character	551760	556360	4600	Rick
+Character	556360	563640	7280	James + Rick + Jess
+Character	563640	567480	3840	Rick
+Character	567480	576120	8640	James
+Character	576120	578880	2760	James + Rick + Jess
+Character	578880	587160	8280	James
+Character	587160	592040	4880	James + Rick + Jess
+Character	592040	601920	9880	Rick
+Character	601920	603280	1360	James
+Character	603280	607360	4080	Jess
+Character	607360	610160	2800	James
+Character	610160	621240	11080	Jess
+Character	621240	622840	1600	James
+Character	622840	630120	7280	Jess
+Character	630120	639240	9120	James
+Character	639240	646040	6800	Rick
+Character	646040	647480	1440	Jess
+Character	647480	666520	19040	Rick
+Character	666520	668040	1520	James
+Character	668040	673720	5680	Rick
+Character	673720	675400	1680	Jess
+Character	675400	685360	9960	Rick
+Character	685360	686520	1160	James
+Character	686520	688040	1520	Rick
+Character	688040	696360	8320	Jess
+Character	696360	698360	2000	Rick
+Character	698360	700240	1880	James
+Character	700240	704720	4480	James + Rick + Jess
+Character	704720	708000	3280	James
+Character	708000	710840	2840	Rick
+Character	710840	716160	5320	Jess
+Character	716160	721280	5120	James + Rick + Jess
+Character	721280	724800	3520	Rick
+Character	724800	737600	12800	James
+Character	737600	740360	2760	James + Rick 
+Character	740360	743440	3080	Jess
+Character	743440	758160	14720	James + Rick + Jess
+Character	758160	762120	3960	Null
+Character	762120	782560	20440	Zoe
+Character	782560	877520	94960	Null
+Text	18520	22120	3600	Title (cutting S1)
+Text	65160	67480	2320	Chyron
+Text	265120	267400	2280	Chyron
+Text	288840	298200	9360	Mobile text
+Text	417800	420000	2200	Chyron
+Text	762120	765480	3360	Subtitle
+Text	768000	771520	3520	Subtitle
+Text	775040	777720	2680	Subtitle
+Text	779200	782520	3320	Chyron
+Text	783480	787080	3600	Title
+Text	788720	877520	88800	Credits

@@ -13,7 +13,7 @@ Se	se	P00CN000	0.465602	50	52	-
 cruzan	cruzar	VMIP3P0	1	53	59	Motion
 con	con	SPS00	1	60	63	-
 un	uno	DI0MS0	0.986987	64	66	-
-corredor	corredor	NCMS000	0.75	67	75	-
+corredor	corredor	NCMS000	0.75	67	75	Human
 que	que	PR0CN000	0.5625	76	79	-
 va	ir	VMIP3S0	1	80	82	Motion
 en	en	SPS00	1	83	85	-
@@ -248,7 +248,7 @@ arbolada	arbolar	VMP00SF	1	1152	1160	A-SubjectiveAssessmentAttribute
 Sube	subir	VMIP3S0	0.25	1169	1173	Motion
 una	uno	DI0FS0	0.951241	1174	1177	-
 ladera	ladera	NCFS000	1	1178	1184	Location
-cubierta	cubrir	VMP00SF	0.625	1185	1193	A-SubjectiveAssessmentAttribute
+cubierta	cubrir	VMP00SF	0.625	1185	1193	A-PositionalAttribute
 por	por	SPS00	1	1194	1197	-
 matorral	matorral	NCMS000	1	1198	1206	Vegetable
 bajo	bajo	AQ0MS0	0.0803571	1207	1211	ALocationSubjectiveAssessmentAttribute

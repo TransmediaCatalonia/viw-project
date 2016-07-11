@@ -25,9 +25,12 @@ class CSV
 
 /**
      * 
-     * reads csv and returns:
+     * reads csv (sem.csv) and returns:
      * returns: array ['lemma', 'SemanticClass', 'Frequency' ] 
-     * 
+     *
+     * input: 
+     * "Annotation1-1","BeginTime","Annotation2-1","BeginTime","Annotation3-1","BeginTime","TranscriptionName" 
+     * Location,3324,playa,3324,NCFS000,3324,"Aptent-ES.eaf" 
      */
     public function getLemmaSemFreq($csvFile,$pos,$provider)
     {
@@ -35,8 +38,7 @@ class CSV
 	$words = array();
 	$result = array();
 	## reads csv file into $data array (input format: "Annotation1-1","Annotation2-1","Annotation3-1","TranscriptionName")
-	## Motion,cruzar,VMIP3P0,"What-Aptent-ES.eaf"
-
+	## Human,9746,hombre,9746,NCMS000,9746,"Aptent-ES.eaf"
 
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
@@ -58,39 +60,37 @@ class CSV
 		( ($pos == 'A') && ( ( 0 === strpos($data['Annotation3-1'], $pos) ) || (0 === strpos($data['Annotation3-1'], 'VMP')) ))
 		) {
 		$word = $data['Annotation2-1'];
+		$sem = $data['Annotation1-1'];
+		$word_sem = $word . "@" . $sem;
 		//checks if word was already used to modify result
-		if (in_array($word, $words)){
+		if (in_array($word_sem, $words)){
 			// looks for word in $result
 			foreach ($result as &$d){ 
-				if ($d['lemma'] == $word){ 	
-					if ($d['sem'] !== $data['Annotation1-1']){
-						$d['lemma'] = $data['Annotation2-1'];
-						$d['freq']++ ;
-					} else { 
-						$d['freq']++ ;
-						}
+				if ($d['lemma'] == $word_sem){ 	
+					$d['freq']++ ;
+					
 				}
 			}			
 		}
 		//checks word, if new -> initialise & adds it in $result
 		else {
-			array_push($words,$word);
+			array_push($words,$word_sem);
 			$d = array(
-		    	'lemma' => $word,
-			'sem' => $data['Annotation1-1'],
+		    	'lemma' => $word_sem,
 		    	'freq' => 1,
 			);
 			array_push($result,$d);
 		} 
 	   } 
         }
-
+	#var_dump($result);
 	# arrange results 
 	$values = array();
 	$headers = "['Lemma','SemClass','Frequency']";
 	array_push($values, $headers);
 	foreach ( $result as $key ){ 
-		$val = "['". $key['lemma'] . "','" . $key['sem'] . "'," . $key['freq'] . "]";
+		$items = explode("@",$key['lemma']);
+		$val = "['". $items[0] . "','" . $items[1] . "'," . $key['freq'] . "]";
 		array_push($values, $val);
 	}
 	#var_dump($values);
@@ -99,9 +99,12 @@ class CSV
 
 /**
      * 
-     * reads csv and returns:
+     * reads csv (sem.csv) and returns:
      * returns: array ['lemma', 'PoS', 'Frequency' ] 
      * 
+     * input: 
+     * "Annotation1-1","BeginTime","Annotation2-1","BeginTime","Annotation3-1","BeginTime","TranscriptionName" 
+     * Location,3324,playa,3324,NCFS000,3324,"Aptent-ES.eaf" 
      */
     public function getLemmaPoSFreq($csvFile)
     {
@@ -109,7 +112,6 @@ class CSV
 	$words = array();
 	$result = array();
 	## reads ﻿"Annotation1-1","BeginTime","Annotation2-1","BeginTime","Annotation3-1","BeginTime","TranscriptionName"
-
 
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
@@ -167,8 +169,8 @@ class CSV
 
 
  /**
-     * reads csv file
-     * returns: ['Provider','NumVerbs','UniqVerbs'] for all 'corpus' (num of verbs/uniq_verbs used by provider)
+     * reads sem.csv file and returns with verbs/nouns/adj/adv x provider"; 
+     * returns: ['Provider','NumVerbs/Nouns/Adjs/Adv','UniqVerbs/Nouns/Adjs/Adv'] for all 'corpus' 
      */
     public function getVerbsFiles($csvFile, $pos)
     {

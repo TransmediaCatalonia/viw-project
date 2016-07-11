@@ -35,7 +35,10 @@
         ]);
 
 	var options = {
-        tooltip: {isHtml: true}
+        tooltip: {isHtml: true},
+	timeline: {
+        colorByRowLabel: true 
+    	}, 
        };
         chart.draw(dataTable, options);
       }

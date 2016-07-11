@@ -461,7 +461,7 @@ estudiante	estudiante	NCCS000	0.75	2354	2364	Human
 .	.	Fp	1	2364	2365	-
 Es	ser	VSIP3S0	1	2366	2368	Aux
 una	uno	DI0FS0	0.951241	2369	2372	-
-adolescente	adolescente	NCCS000	0.34273	2373	2384	-
+adolescente	adolescente	NCCS000	0.34273	2373	2384	Human
 con	con	SPS00	1	2385	2388	-
 el	el	DA0MS0	1	2389	2391	-
 pelo	pelo	NCMS000	0.958333	2392	2396	BodyPart

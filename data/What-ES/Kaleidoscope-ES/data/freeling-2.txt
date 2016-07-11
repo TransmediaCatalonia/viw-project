@@ -447,7 +447,7 @@ lados	lado	NCMP000	1	2231	2236	Location
 .	.	Fp	1	2236	2237	-
 
 Se	se	P00CN000	0.465602	2245	2247	-
-encoje_de_hombros	encojer_de_hombros	VMIS1S0	0.0736796	2248	2254	Gesture
+encoge_de_hombros	encoger_de_hombros	VMIS1S0	0.0736796	2248	2254	Gesture
 .	.	Fp	1	2265	2266	-
 
 Se	se	P00CN000	0.465602	2274	2276	-

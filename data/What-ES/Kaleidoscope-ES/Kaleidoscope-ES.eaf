@@ -272,7 +272,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-                <ANNOTATION_VALUE>Se encoje de hombros.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Se encoge de hombros.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2380,7 +2380,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a459" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a458">
-                <ANNOTATION_VALUE>encoje_de_hombros</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>encoge_de_hombros</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7884,7 +7884,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1564" ANNOTATION_REF="a459">
-                <ANNOTATION_VALUE>encojer_de_hombros</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>encoger_de_hombros</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

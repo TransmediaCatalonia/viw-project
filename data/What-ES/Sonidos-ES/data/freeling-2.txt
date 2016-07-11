@@ -421,7 +421,7 @@ lados	lado	NCMP000	1	2091	2096	Location
 .	.	Fp	1	2096	2097	-
 
 Una	uno	DI0FS0	0.951241	2105	2108	-
-adolescente	adolescente	NCCS000	0.34273	2109	2120	-
+adolescente	adolescente	NCCS000	0.34273	2109	2120	Human
 muerde	morder	VMIP3S0	0.994868	2121	2127	Process
 un	uno	DI0MS0	0.986987	2128	2130	-
 lápiz	lápiz	NCMS000	1	2131	2136	Object

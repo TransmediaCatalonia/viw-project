@@ -201,7 +201,7 @@ class HitsController extends Controller
         }    
 	#$data = implode(",",$rows);
 	##
-	$corpusFile = $path . "/../data/" . $subdir_id . "/" . $subdir_id ."-Hits.txt";
+	$corpusFile = $path . "/../data/" . $subdir_id . "/Filmic-Hits.txt";
 	$corpusCsvFile = file($corpusFile);
 	$rowsCorpus = array();
 	$lastTime = array();
@@ -505,8 +505,9 @@ class HitsController extends Controller
 	foreach ($lines as $l) {
 	    $line = trim($l);
             $data = explode("\t",$line);
-	    $text = htmlentities(mb_substr(rtrim($data[3]),0,60)); 
-	    $row = '["' . $data[4] . '", "", "' . $text . '",' . $data[0] . ',' . $data[1] . ']';
+	    $text = htmlentities(mb_substr(rtrim($data[3]),0,60));
+	    $file = str_replace(".eaf", '', $data[4]);
+	    $row = '["' . $file . '", "", "' . $text . '",' . $data[0] . ',' . $data[1] . ']';
 	    array_push($rows,$row);
 	}
 
@@ -522,7 +523,7 @@ class HitsController extends Controller
 	    		array_push($rows,$row);
 		}
 	    $text = htmlentities(mb_substr(rtrim($data[4]),0,60)); 
-	    $row = '["' . $data[0] . '", "", "' . $text . '",' . $data[1] . ',' . $data[2] . ']';
+	    $row = '["' . $data[0] . '", "' . $text . '", "' . $text . '",' . $data[1] . ',' . $data[2] . ']';
 	    array_push($rows,$row);
 	}
 

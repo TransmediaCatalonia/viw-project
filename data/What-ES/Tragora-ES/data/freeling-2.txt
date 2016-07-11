@@ -45,7 +45,7 @@ dueño	dueño	NCMS000	1	188	193	-
 ,	,	Fc	1	193	194	-
 a	a	SPS00	1	195	196	-
 el	el	DA0MS0	1	196	197	-
-darse_cuenta	darse_cuenta	VMN0000	1	198	210	IntentionalPsychologicalProcess
+dar_se_cuenta	dar_se_cuenta	VMN0000	1	198	210	IntentionalPsychologicalProcess
 de	de	SPS00	0.999919	211	213	-
 que	que	PR0CN000	0.5625	214	217	-
 se	se	P00CN000	0.465602	218	220	-

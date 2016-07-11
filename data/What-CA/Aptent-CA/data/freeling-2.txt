@@ -433,7 +433,7 @@ l'	el	DA0CS0	0.987894	2148	2150
 de	de	SPS00	0.999931	2156	2158	
 la	el	DA0FS0	0.992966	2159	2161	
 mà	mà	NCFS000	1	2162	2164	BodyPart
-esquerra	esquer	AQ0FS0	0.0666667	2165	2173	A-PositionalSttribute
+esquerra	esquer	AQ0FS0	0.0666667	2165	2173	A-PositionalAttribute
 .	.	Fp	1	2173	2174	
 						
 Somriu	somriure	VMIP3S0	0.998606	2182	2188	Gesture
@@ -529,7 +529,7 @@ mòbil	mòbil	NCMS000	0.375	2596	2601	Object
 de	de	SPS00	0.999931	2602	2604	
 la	el	DA0FS0	0.992966	2605	2607	
 butxaca	butxaca	NCFS000	1	2608	2615	Clothing
-posterior	posterior	AQ0CS0	0.916667	2616	2625	A-PositionalSttribute
+posterior	posterior	AQ0CS0	0.916667	2616	2625	A-PositionalAttribute
 de	de	SPS00	1	2626	2627	
 els	el	DA0MP0	1	2628	2630	
 pantalons	pantaló	NCMP000	1	2631	2640	Clothing

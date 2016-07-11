@@ -595,7 +595,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a109">
-                <ANNOTATION_VALUE>darse_cuenta</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>dar_se_cuenta</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10891,7 +10891,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2173" ANNOTATION_REF="a110">
-                <ANNOTATION_VALUE>darse_cuenta</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>dar_se_cuenta</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

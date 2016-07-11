@@ -35,7 +35,9 @@ class VocabularyController extends Controller
  
 /**  
      * @Route("/vocabulary/pos/{dir}", name="vocabularyPos")
-     * generates 3 bar charts: "verbs x provider"; "20 top frequency verbs", "20 to semantic class verbs"
+     *
+     * reads sem.csv file and generates 4 bar charts with verbs/nouns/adj/adv x provider"; 
+     *
      * input file: sem.csv (for corpus data)
      */
 public function verbsDir($dir)

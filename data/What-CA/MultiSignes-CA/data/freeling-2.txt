@@ -236,7 +236,7 @@ en_creu	en_creu	RG	1	1053	1060	Mode
 Amb	amb	SPS00	1	1062	1065	
 la	el	DA0FS0	0.992966	1066	1068	
 mà	mà	NCFS000	1	1069	1071	BodyPart
-esquerra	esquer	AQ0FS0	0.0666667	1072	1080	A-PositionalSttribute
+esquerra	esquer	AQ0FS0	0.0666667	1072	1080	A-PositionalAttribute
 acarona	acaronar	VMIP3S0	0.998606	1081	1088	Touching
 la	el	DA0FS0	0.992966	1089	1091	
 sorra	sorra	NCFS000	0.901204	1092	1097	

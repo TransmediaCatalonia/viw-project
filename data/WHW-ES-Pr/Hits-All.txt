@@ -173,50 +173,50 @@
 774990	777390	2400	Oye, ahora no puedo hablar. Tengo que dejarte.	CEIAF-ES.eaf
 778660	781100	2440	Sobreimpreso: ZOÉ, la próxima.	CEIAF-ES.eaf
 784010	785430	1420	¿QUÉ OCURRE MIENTRAS.?	CEIAF-ES.eaf
-3550	9810	6260	Amanece un día fresco y nublado en la playa. Una persona hace footing mientras una pareja pasea a su perro.	EdSol-ES.eaf
-22450	29930	7480	En  la misma playa un ejecutivo de mediana edad, con traje y corbata, aparca su choche de alta gama mientras habla por el móvil.	EdSol-ES.eaf
-43390	45000	1610	Cambia el maletín por una bolsa de playa.	EdSol-ES.eaf
-52650	54570	1920	Cuelga el móvil con gesto de desagrado. 	EdSol-ES.eaf
-56490	61320	4830	Saca las gafas de sol del bolsillo de su chaqueta y mientras se las pone trata de serenarse.	EdSol-ES.eaf
-65270	66690	1420	James, el empresario.	EdSol-ES.eaf
-67380	71380	4000	Camina por el acceso a la playa con su bolsa colgada mientras habla por el móvil.	EdSol-ES.eaf
-92000	98000	6000	Ya en la playa, despojado de su traje y en bañador, James  se tumba sobre su toalla mientras trata de relajarse.	EdSol-ES.eaf
-113000	116000	3000	Se incorpora, con gesto incómodo, para atender la llamada.	EdSol-ES.eaf
-129820	132000	2180	Gira la cabeza al oír un ruido desconocido.	EdSol-ES.eaf
-140930	144380	3450	Extrañado, trata de localizar el origen del sonido agudo que le perturba.	EdSol-ES.eaf
-161700	166360	4660	Se pone en pie y camina por la playa intentando localizar la procedencia del sonido.	EdSol-ES.eaf
-206200	211470	5270	Habiendo encontrado la dirección desde donde parece que se produce el sonido, decide vestirse para llegar hasta su origen.	EdSol-ES.eaf
-220000	226660	6660	Ya alejado de la playa, con el traje y sin la corbata va siguiendo a pie el sonido perturbador que le dirige hacia un monte cercano.	EdSol-ES.eaf
-233700	244000	10300	En un parque de la ciudad, un personaje masculino de mayor edad que el anterior, con barba y pelo canoso, camiseta de tirantes y aspecto descuidado sujeta un vaso de plástico entre sus manos.	EdSol-ES.eaf
-252380	255900	3520	Destapa el vaso de café y le da un trago sin mucha gana.	EdSol-ES.eaf
-265320	266780	1460	Rick, el jubilado.	EdSol-ES.eaf
-269280	277000	7720	Mientras Rick está bebiendo su café sentado en un banco del parque, inconscientemente mueve su pierna derecha de forma repetitiva, mostrando su inquietud.	EdSol-ES.eaf
-279190	281190	2000	Posa el vaso de café en el banco de al lado, 	EdSol-ES.eaf
-285890	287250	1360	saca el móvil del bolsillo,	EdSol-ES.eaf
-289800	291360	1560	busca entre sus contactos,	EdSol-ES.eaf
-296230	297110	880	y hace una llamada.	EdSol-ES.eaf
-329130	331300	2170	Gira la cabeza al oír un ruido desconocido.	EdSol-ES.eaf
-380000	382000	2000	Intenta localizar el sonido perturbador.	EdSol-ES.eaf
-398200	400840	2640	Se pone en pie y camina para localizar el sonido. 	EdSol-ES.eaf
-410570	415900	5330	En otro lugar, una joven de pelo rizado está sentada en su escritorio delante de un ordenador portátil.	EdSol-ES.eaf
-418180	419760	1580	Jess, la estudiante.	EdSol-ES.eaf
-422880	424470	1590	Busca el móvil entre sus apuntes.	EdSol-ES.eaf
-481900	483790	1890	Gira la cabeza para  localizar el sonido.	EdSol-ES.eaf
-495720	497440	1720	Preocupada, mira a ambos lados.	EdSol-ES.eaf
-509490	513690	4200	Se pone en pie y sale al exterior en busca del origen del sonido perturbador.	EdSol-ES.eaf
-517230	520000	2770	Se interna en el monte y avanza hacia la dirección del sonido.	EdSol-ES.eaf
-529280	532460	3180	El sonido ha guiado a los tres protagonistas hacia un claro del monte.	EdSol-ES.eaf
-533770	537160	3390	Desde direcciones han llegado andando hasta un mismo punto.	EdSol-ES.eaf
-538350	540230	1880	Están desorientados y extrañados.	EdSol-ES.eaf
-556610	560000	3390	Los tres miran en todas direcciones intentando localizar quien les habla.	EdSol-ES.eaf
-707570	708490	920	Se miran entre sí.	EdSol-ES.eaf
-736610	739230	2620	James y Rick comienzan a andar de vuelta  hacia el monte,	EdSol-ES.eaf
-741270	746190	4920	Jess duda por un segundo, sonríe y se une a ellos en una breve carrera.	EdSol-ES.eaf
-749230	753230	4000	Los tres juntos caminan alegres de nuevo hacia el monte en dirección a la playa.	EdSol-ES.eaf
-757660	767350	9690	En otro lugar, una mujer de color habla por el móvil mientras tiende la colada en la azotea. No, no he terminado de tenderla. Tengo que darme prisa. Gira la cabeza ante un ruido desconocido.	EdSol-ES.eaf
-768430	778000	9570	No, de qué me hablas? Si claro, las maletas están a punto…. Extrañada trata de localizar el sonido perturbador Oye, ahora no puedo hablar. Tengo que dejarte.	EdSol-ES.eaf
-779000	781000	2000	Zoé, la próxima	EdSol-ES.eaf
-783550	785030	1480	Qué pasa mientras…	EdSol-ES.eaf
+3550	9810	6260	Amanece un día fresco y nublado en la playa. Una persona hace footing mientras una pareja pasea a su perro.	EdSolProducciones-ES.eaf
+22450	29930	7480	En  la misma playa un ejecutivo de mediana edad, con traje y corbata, aparca su choche de alta gama mientras habla por el móvil.	EdSolProducciones-ES.eaf
+43390	45000	1610	Cambia el maletín por una bolsa de playa.	EdSolProducciones-ES.eaf
+52650	54570	1920	Cuelga el móvil con gesto de desagrado. 	EdSolProducciones-ES.eaf
+56490	61320	4830	Saca las gafas de sol del bolsillo de su chaqueta y mientras se las pone trata de serenarse.	EdSolProducciones-ES.eaf
+65270	66690	1420	James, el empresario.	EdSolProducciones-ES.eaf
+67380	71380	4000	Camina por el acceso a la playa con su bolsa colgada mientras habla por el móvil.	EdSolProducciones-ES.eaf
+92000	98000	6000	Ya en la playa, despojado de su traje y en bañador, James  se tumba sobre su toalla mientras trata de relajarse.	EdSolProducciones-ES.eaf
+113000	116000	3000	Se incorpora, con gesto incómodo, para atender la llamada.	EdSolProducciones-ES.eaf
+129820	132000	2180	Gira la cabeza al oír un ruido desconocido.	EdSolProducciones-ES.eaf
+140930	144380	3450	Extrañado, trata de localizar el origen del sonido agudo que le perturba.	EdSolProducciones-ES.eaf
+161700	166360	4660	Se pone en pie y camina por la playa intentando localizar la procedencia del sonido.	EdSolProducciones-ES.eaf
+206200	211470	5270	Habiendo encontrado la dirección desde donde parece que se produce el sonido, decide vestirse para llegar hasta su origen.	EdSolProducciones-ES.eaf
+220000	226660	6660	Ya alejado de la playa, con el traje y sin la corbata va siguiendo a pie el sonido perturbador que le dirige hacia un monte cercano.	EdSolProducciones-ES.eaf
+233700	244000	10300	En un parque de la ciudad, un personaje masculino de mayor edad que el anterior, con barba y pelo canoso, camiseta de tirantes y aspecto descuidado sujeta un vaso de plástico entre sus manos.	EdSolProducciones-ES.eaf
+252380	255900	3520	Destapa el vaso de café y le da un trago sin mucha gana.	EdSolProducciones-ES.eaf
+265320	266780	1460	Rick, el jubilado.	EdSolProducciones-ES.eaf
+269280	277000	7720	Mientras Rick está bebiendo su café sentado en un banco del parque, inconscientemente mueve su pierna derecha de forma repetitiva, mostrando su inquietud.	EdSolProducciones-ES.eaf
+279190	281190	2000	Posa el vaso de café en el banco de al lado, 	EdSolProducciones-ES.eaf
+285890	287250	1360	saca el móvil del bolsillo,	EdSolProducciones-ES.eaf
+289800	291360	1560	busca entre sus contactos,	EdSolProducciones-ES.eaf
+296230	297110	880	y hace una llamada.	EdSolProducciones-ES.eaf
+329130	331300	2170	Gira la cabeza al oír un ruido desconocido.	EdSolProducciones-ES.eaf
+380000	382000	2000	Intenta localizar el sonido perturbador.	EdSolProducciones-ES.eaf
+398200	400840	2640	Se pone en pie y camina para localizar el sonido. 	EdSolProducciones-ES.eaf
+410570	415900	5330	En otro lugar, una joven de pelo rizado está sentada en su escritorio delante de un ordenador portátil.	EdSolProducciones-ES.eaf
+418180	419760	1580	Jess, la estudiante.	EdSolProducciones-ES.eaf
+422880	424470	1590	Busca el móvil entre sus apuntes.	EdSolProducciones-ES.eaf
+481900	483790	1890	Gira la cabeza para  localizar el sonido.	EdSolProducciones-ES.eaf
+495720	497440	1720	Preocupada, mira a ambos lados.	EdSolProducciones-ES.eaf
+509490	513690	4200	Se pone en pie y sale al exterior en busca del origen del sonido perturbador.	EdSolProducciones-ES.eaf
+517230	520000	2770	Se interna en el monte y avanza hacia la dirección del sonido.	EdSolProducciones-ES.eaf
+529280	532460	3180	El sonido ha guiado a los tres protagonistas hacia un claro del monte.	EdSolProducciones-ES.eaf
+533770	537160	3390	Desde direcciones han llegado andando hasta un mismo punto.	EdSolProducciones-ES.eaf
+538350	540230	1880	Están desorientados y extrañados.	EdSolProducciones-ES.eaf
+556610	560000	3390	Los tres miran en todas direcciones intentando localizar quien les habla.	EdSolProducciones-ES.eaf
+707570	708490	920	Se miran entre sí.	EdSolProducciones-ES.eaf
+736610	739230	2620	James y Rick comienzan a andar de vuelta  hacia el monte,	EdSolProducciones-ES.eaf
+741270	746190	4920	Jess duda por un segundo, sonríe y se une a ellos en una breve carrera.	EdSolProducciones-ES.eaf
+749230	753230	4000	Los tres juntos caminan alegres de nuevo hacia el monte en dirección a la playa.	EdSolProducciones-ES.eaf
+757660	767350	9690	En otro lugar, una mujer de color habla por el móvil mientras tiende la colada en la azotea. No, no he terminado de tenderla. Tengo que darme prisa. Gira la cabeza ante un ruido desconocido.	EdSolProducciones-ES.eaf
+768430	778000	9570	No, de qué me hablas? Si claro, las maletas están a punto…. Extrañada trata de localizar el sonido perturbador Oye, ahora no puedo hablar. Tengo que dejarte.	EdSolProducciones-ES.eaf
+779000	781000	2000	Zoé, la próxima	EdSolProducciones-ES.eaf
+783550	785030	1480	Qué pasa mientras…	EdSolProducciones-ES.eaf
 4040	14750	10710	Una pareja camina junto a su perro por un paseo marítimo. Se cruzan con un hombre que hace footing. Todos visten ropa de abrigo. La playa está desierta y el cielo cubierto de nubes grises.	Ericsson-ES.eaf
 21810	24500	2690	Un automóvil tipo coupé se detiene junto a la acera.	Ericsson-ES.eaf
 26700	30730	4030	Dentro, un hombre de unos 45 años gesticula hablando por el móvil.	Ericsson-ES.eaf

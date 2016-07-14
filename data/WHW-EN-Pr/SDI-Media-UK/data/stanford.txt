@@ -1,853 +1,789 @@
-1	A	_	DT	DT	_	2	det	_	_
-2	film	_	NN	NN	_	3	nsubj	_	_
-3	shot	_	VBD	VBD	_	0	root	_	_
-4	mostly	_	RB	RB	_	3	advmod	_	_
-5	in	_	IN	IN	_	7	case	_	_
-6	sombre	_	JJ	JJ	_	7	amod	_	_
-7	greys	_	NNS	NNS	_	3	nmod:in	_	_
-8	with	_	IN	IN	_	11	mark	_	_
-9	some	_	DT	DT	_	10	det	_	_
-10	colour	_	NN	NN	_	11	nsubj	_	_
-11	highlights	_	VBZ	VBZ	_	3	advcl	_	_
-12	.	_	.	.	_	3	punct	_	_
-1	Day	_	NN	NN	_	0	root	_	_
-2	.	_	.	.	_	1	punct	_	_
-1	A	_	DT	DT	_	2	det	_	_
-2	couple	_	NN	NN	_	3	nsubj	_	_
-3	stroll	_	VBP	VBP	_	0	root	_	_
-4	along	_	RP	RP	_	3	compound:prt	_	_
-5	a	_	DT	DT	_	8	det	_	_
-6	virtually	_	RB	RB	_	7	advmod	_	_
-7	deserted	_	JJ	JJ	_	8	amod	_	_
-8	beach	_	NN	NN	_	3	dobj	_	_
-9	with	_	IN	IN	_	12	case	_	_
-10	a	_	DT	DT	_	12	det	_	_
-11	large	_	JJ	JJ	_	12	amod	_	_
-12	dog	_	NN	NN	_	3	nmod:with	_	_
-13	lolloping	_	VBG	VBG	_	3	dep	_	_
-14	behind	_	IN	IN	_	15	case	_	_
-15	them	_	PRP	PRP	_	13	nmod:behind	_	_
-16	.	_	.	.	_	3	punct	_	_
-1	A	_	DT	DT	_	2	det	_	_
-2	man	_	NN	NN	_	3	nsubj	_	_
-3	jogs	_	VBZ	VBZ	_	0	root	_	_
-4	past	_	NN	NN	_	3	dobj	_	_
-5	.	_	.	.	_	3	punct	_	_
-
-
-1	On	_	IN	IN	_	4	case	_	_
-2	a	_	DT	DT	_	4	det	_	_
-3	white	_	JJ	JJ	_	4	amod	_	_
-4	background	_	NN	NN	_	7	nmod:on	_	_
-5	:	_	:	:	_	7	punct	_	_
-6	What	_	WP	WP	_	7	nsubj	_	_
-7	Happens	_	VBZ	VBZ	_	0	root	_	_
-8	While	_	JJ	JJ	_	7	xcomp	_	_
-9	.	_	.	.	_	7	punct	_	_
-
-
-1	A	_	DT	DT	_	3	det	_	_
-2	BMW	_	NNP	NNP	_	3	compound	_	_
-3	coupe	_	NN	NN	_	4	nsubj	_	_
-4	pulls	_	VBZ	VBZ	_	0	root	_	_
-5	up	_	RP	RP	_	4	compound:prt	_	_
-6	beside	_	IN	IN	_	8	case	_	_
-7	the	_	DT	DT	_	8	det	_	_
-8	beach	_	NN	NN	_	4	nmod:beside	_	_
-9	and	_	CC	CC	_	4	cc	_	_
-10	a	_	DT	DT	_	12	det	_	_
-11	forty-something	_	JJ	JJ	_	12	amod	_	_
-12	guy	_	NN	NN	_	13	nsubj	_	_
-13	gets	_	VBZ	VBZ	_	4	conj:and	_	_
-14	out	_	RP	RP	_	13	compound:prt	_	_
-15	,	_	,	,	_	13	punct	_	_
-16	speaking	_	VBG	VBG	_	13	xcomp	_	_
-17	on	_	IN	IN	_	19	case	_	_
-18	his	_	PRP$	PRP$	_	19	nmod:poss	_	_
-19	phone	_	NN	NN	_	16	nmod:on	_	_
-20	.	_	.	.	_	4	punct	_	_
-
-
-1	He	_	PRP	PRP	_	2	nsubj	_	_
-2	ends	_	VBZ	VBZ	_	7	ccomp	_	_
-3	the	_	DT	DT	_	4	det	_	_
-4	call	_	NN	NN	_	2	dobj	_	_
-5	,	_	,	,	_	7	punct	_	_
-6	then	_	RB	RB	_	7	nsubj	_	_
-7	reaches	_	VBZ	VBZ	_	0	root	_	_
-8	into	_	IN	IN	_	13	case	_	_
-9	in	_	IN	IN	_	13	case	_	_
-10	his	_	PRP$	PRP$	_	13	nmod:poss	_	_
-11	inside	_	JJ	JJ	_	13	amod	_	_
-12	jacket	_	NN	NN	_	13	compound	_	_
-13	pocket	_	NN	NN	_	7	nmod:in	_	_
-14	.	_	.	.	_	7	punct	_	_
-
-
-1	He	_	PRP	PRP	_	6	nsubj	_	_
-2	takes	_	VBZ	VBZ	_	0	root	_	_
-3	out	_	RP	RP	_	2	compound:prt	_	_
-4	sunglasses	_	NNS	NNS	_	2	dobj	_	_
-5	and	_	CC	CC	_	2	cc	_	_
-6	puts	_	VBZ	VBZ	_	2	conj:and	_	_
-7	them	_	PRP	PRP	_	6	dobj	_	_
-8	on	_	IN	IN	_	6	nmod	_	_
-9	.	_	.	.	_	2	punct	_	_
-
-
-1	James	_	NNP	NNP	_	0	root	_	_
-2	.	_	.	.	_	1	punct	_	_
-1	The	_	DT	DT	_	2	det	_	_
-2	businessman	_	NN	NN	_	0	root	_	_
-3	.	_	.	.	_	2	punct	_	_
-1	Wearing	_	VBG	VBG	_	11	advcl	_	_
-2	a	_	DT	DT	_	3	det	_	_
-3	suit	_	NN	NN	_	1	dobj	_	_
-4	and	_	CC	CC	_	1	cc	_	_
-5	carrying	_	VBG	VBG	_	11	advcl	_	_
-6	a	_	DT	DT	_	8	det	_	_
-7	beach	_	NN	NN	_	8	compound	_	_
-8	bag	_	NN	NN	_	5	dobj	_	_
-9	,	_	,	,	_	11	punct	_	_
-10	James	_	NNP	NNP	_	11	nsubj	_	_
-11	makes	_	VBZ	VBZ	_	0	root	_	_
-12	a	_	DT	DT	_	13	det	_	_
-13	call	_	NN	NN	_	11	dobj	_	_
-14	as	_	IN	IN	_	16	mark	_	_
-15	he	_	PRP	PRP	_	16	nsubj	_	_
-16	walks	_	VBZ	VBZ	_	11	advcl	_	_
-17	.	_	.	.	_	11	punct	_	_
-
-
-1	Now	_	RB	RB	_	3	advmod	_	_
-2	bare	_	JJ	JJ	_	3	amod	_	_
-3	chested	_	NN	NN	_	15	nsubj	_	_
-4	,	_	,	,	_	3	punct	_	_
-5	James	_	NNP	NNP	_	6	compound	_	_
-6	sits	_	NNP	NNP	_	3	appos	_	_
-7	on	_	IN	IN	_	9	case	_	_
-8	a	_	DT	DT	_	9	det	_	_
-9	towel	_	NN	NN	_	6	nmod:on	_	_
-10	on	_	IN	IN	_	12	case	_	_
-11	the	_	DT	DT	_	12	det	_	_
-12	beach	_	NN	NN	_	9	nmod:on	_	_
-13	,	_	,	,	_	3	punct	_	_
-14	then	_	RB	RB	_	15	advmod	_	_
-15	lies	_	VBZ	VBZ	_	0	root	_	_
-16	back	_	RP	RP	_	15	compound:prt	_	_
-17	.	_	.	.	_	15	punct	_	_
-
-
-1	Slender	_	NNP	NNP	_	14	nsubj	_	_
-2	,	_	,	,	_	14	punct	_	_
-3	with	_	IN	IN	_	7	case	_	_
-4	short	_	JJ	JJ	_	7	amod	_	_
-5	,	_	,	,	_	7	punct	_	_
-6	sandy-coloured	_	JJ	JJ	_	7	amod	_	_
-7	hair	_	NN	NN	_	14	nmod:with	_	_
-8	and	_	CC	CC	_	7	cc	_	_
-9	a	_	DT	DT	_	11	det	_	_
-10	neat	_	JJ	JJ	_	11	amod	_	_
-11	beard	_	NN	NN	_	14	nmod:with	_	_
-12	,	_	,	,	_	14	punct	_	_
-13	James	_	NNP	NNP	_	14	nsubj	_	_
-14	rubs	_	VBD	VBD	_	0	root	_	_
-15	his	_	PRP$	PRP$	_	16	nmod:poss	_	_
-16	eyes	_	NNS	NNS	_	14	dobj	_	_
-17	,	_	,	,	_	14	punct	_	_
-18	then	_	RB	RB	_	14	advmod	_	_
-19	,	_	,	,	_	14	punct	_	_
-20	keeping	_	VBG	VBG	_	14	advcl	_	_
-21	them	_	PRP	PRP	_	28	nsubj	_	_
-22	closed	_	VBD	VBD	_	20	ccomp	_	_
-23	,	_	,	,	_	22	punct	_	_
-24	picks	_	VBZ	VBZ	_	22	conj:and	_	_
-25	up	_	RP	RP	_	24	compound:prt	_	_
-26	sand	_	NN	NN	_	24	dobj	_	_
-27	and	_	CC	CC	_	22	cc	_	_
-28	lets	_	VBZ	VBZ	_	22	conj:and	_	_
-29	it	_	PRP	PRP	_	30	nsubj	_	_
-30	fall	_	VB	VB	_	28	ccomp	_	_
-31	from	_	IN	IN	_	33	case	_	_
-32	his	_	PRP$	PRP$	_	33	nmod:poss	_	_
-33	fingers	_	NNS	NNS	_	30	nmod:from	_	_
-34	.	_	.	.	_	14	punct	_	_
-
-
-1	He	_	PRP	PRP	_	2	nsubj	_	_
-2	sits	_	VBZ	VBZ	_	0	root	_	_
-3	up	_	RP	RP	_	2	compound:prt	_	_
-4	.	_	.	.	_	2	punct	_	_
-
-
-1	He	_	PRP	PRP	_	2	nsubj	_	_
-2	scans	_	VBZ	VBZ	_	0	root	_	_
-3	about	_	RP	RP	_	2	compound:prt	_	_
-4	.	_	.	.	_	2	punct	_	_
-
-
-1	He	_	PRP	PRP	_	7	nsubj	_	_
-2	throws	_	VBZ	VBZ	_	0	root	_	_
-3	down	_	RP	RP	_	2	compound:prt	_	_
-4	his	_	PRP$	PRP$	_	5	nmod:poss	_	_
-5	phone	_	NN	NN	_	2	dobj	_	_
-6	and	_	CC	CC	_	2	cc	_	_
-7	gets	_	VBZ	VBZ	_	2	conj:and	_	_
-8	up	_	RP	RP	_	7	compound:prt	_	_
-9	.	_	.	.	_	2	punct	_	_
-
-
-1	Wearing	_	VBG	VBG	_	7	advcl	_	_
-2	dark-coloured	_	JJ	JJ	_	4	amod	_	_
-3	swimming	_	NN	NN	_	4	compound	_	_
-4	trunks	_	NNS	NNS	_	1	dobj	_	_
-5	,	_	,	,	_	7	punct	_	_
-6	James	_	NNP	NNP	_	7	nsubj	_	_
-7	walks	_	VBZ	VBZ	_	0	root	_	_
-8	to	_	TO	TO	_	12	case	_	_
-9	the	_	DT	DT	_	10	det	_	_
-10	water	_	NN	NN	_	12	nmod:poss	_	_
-11	's	_	POS	POS	_	10	case	_	_
-12	edge	_	NN	NN	_	7	nmod:to	_	_
-13	,	_	,	,	_	7	punct	_	_
-14	then	_	RB	RB	_	15	advmod	_	_
-15	turns	_	VBG	VBG	_	7	ccomp	_	_
-16	back	_	RP	RP	_	15	compound:prt	_	_
-17	,	_	,	,	_	15	punct	_	_
-18	as	_	RB	RB	_	15	cc	_	_
-19	if	_	IN	IN	_	18	dep	_	_
-20	trying	_	VBG	VBG	_	15	conj:as	_	_
-21	to	_	TO	TO	_	22	mark	_	_
-22	locate	_	VB	VB	_	20	xcomp	_	_
-23	the	_	DT	DT	_	24	det	_	_
-24	sound	_	NN	NN	_	22	dobj	_	_
-25	.	_	.	.	_	7	punct	_	_
-
-
-1	He	_	PRP	PRP	_	10	nsubj	_	_
-2	walks	_	VBZ	VBZ	_	0	root	_	_
-3	through	_	IN	IN	_	6	case	_	_
-4	the	_	DT	DT	_	6	det	_	_
-5	soft	_	JJ	JJ	_	6	amod	_	_
-6	sand	_	NN	NN	_	2	nmod:through	_	_
-7	,	_	,	,	_	2	punct	_	_
-8	stops	_	VBZ	VBZ	_	2	conj:and	_	_
-9	and	_	CC	CC	_	2	cc	_	_
-10	scans	_	VBZ	VBZ	_	2	conj:and	_	_
-11	about	_	IN	IN	_	14	nmod	_	_
-12	,	_	,	,	_	11	punct	_	_
-13	then	_	RB	RB	_	11	dep	_	_
-14	returns	_	NNS	NNS	_	10	dobj	_	_
-15	to	_	TO	TO	_	19	case	_	_
-16	the	_	DT	DT	_	17	det	_	_
-17	water	_	NN	NN	_	19	nmod:poss	_	_
-18	's	_	POS	POS	_	17	case	_	_
-19	edge	_	NN	NN	_	10	nmod:to	_	_
-20	.	_	.	.	_	2	punct	_	_
-
-
-1	Looking	_	VBG	VBG	_	8	advcl	_	_
-2	perplexed	_	VBN	VBN	_	1	dep	_	_
-3	by	_	IN	IN	_	5	case	_	_
-4	the	_	DT	DT	_	5	det	_	_
-5	sound	_	NN	NN	_	2	nmod:by	_	_
-6	,	_	,	,	_	8	punct	_	_
-7	he	_	PRP	PRP	_	8	nsubj	_	_
-8	checks	_	VBZ	VBZ	_	0	root	_	_
-9	about	_	IN	IN	_	10	case	_	_
-10	him	_	PRP	PRP	_	8	nmod:about	_	_
-11	.	_	.	.	_	8	punct	_	_
-1	Further	_	JJ	JJ	_	2	amod	_	_
-2	round	_	NN	NN	_	18	nsubj	_	_
-3	the	_	DT	DT	_	4	det	_	_
-4	coast	_	NN	NN	_	2	dep	_	_
-5	,	_	,	,	_	18	punct	_	_
-6	in	_	IN	IN	_	8	case	_	_
-7	the	_	DT	DT	_	8	det	_	_
-8	background	_	NN	NN	_	18	nmod:in	_	_
-9	,	_	,	,	_	18	punct	_	_
-10	the	_	DT	DT	_	11	det	_	_
-11	towers	_	NNS	NNS	_	18	nsubj	_	_
-12	and	_	CC	CC	_	11	cc	_	_
-13	buildings	_	NNS	NNS	_	18	nsubj	_	_
-14	of	_	IN	IN	_	17	case	_	_
-15	a	_	DT	DT	_	17	det	_	_
-16	power	_	NN	NN	_	17	compound	_	_
-17	plant	_	NN	NN	_	11	nmod:of	_	_
-18	fringe	_	VBZ	VBZ	_	0	root	_	_
-19	the	_	DT	DT	_	20	det	_	_
-20	shore	_	NN	NN	_	18	dobj	_	_
-21	.	_	.	.	_	18	punct	_	_
-
-
-1	James	_	NNP	NNP	_	3	nmod:poss	_	_
-2	'	_	POS	POS	_	1	case	_	_
-3	brow	_	NN	NN	_	5	nsubjpass	_	_
-4	is	_	VBZ	VBZ	_	5	auxpass	_	_
-5	furrowed	_	VBN	VBN	_	0	root	_	_
-6	as	_	IN	IN	_	8	mark	_	_
-7	he	_	PRP	PRP	_	17	nsubj	_	_
-8	walks	_	VBZ	VBZ	_	5	advcl	_	_
-9	back	_	RP	RP	_	8	compound:prt	_	_
-10	to	_	TO	TO	_	12	case	_	_
-11	his	_	PRP$	PRP$	_	12	nmod:poss	_	_
-12	belongings	_	NNS	NNS	_	8	nmod:to	_	_
-13	on	_	IN	IN	_	15	case	_	_
-14	the	_	DT	DT	_	15	det	_	_
-15	beach	_	NN	NN	_	12	nmod:on	_	_
-16	and	_	CC	CC	_	8	cc	_	_
-17	puts	_	VBZ	VBZ	_	8	conj:and	_	_
-18	on	_	IN	IN	_	20	case	_	_
-19	his	_	PRP$	PRP$	_	20	nmod:poss	_	_
-20	shirt	_	NN	NN	_	17	nmod:on	_	_
-21	.	_	.	.	_	5	punct	_	_
-1	Two	_	CD	CD	_	3	nummod	_	_
-2	small	_	JJ	JJ	_	3	amod	_	_
-3	boats	_	NNS	NNS	_	4	nsubj	_	_
-4	bob	_	VBP	VBP	_	0	root	_	_
-5	about	_	IN	IN	_	8	case	_	_
-6	in	_	IN	IN	_	8	case	_	_
-7	the	_	DT	DT	_	8	det	_	_
-8	water	_	NN	NN	_	4	nmod:in	_	_
-9	behind	_	IN	IN	_	10	case	_	_
-10	him	_	PRP	PRP	_	8	nmod:behind	_	_
-11	.	_	.	.	_	4	punct	_	_
-
-
-1	Dressed	_	VBN	VBN	_	10	advcl	_	_
-2	again	_	RB	RB	_	4	advmod	_	_
-3	,	_	,	,	_	4	punct	_	_
-4	but	_	CC	CC	_	1	xcomp	_	_
-5	minus	_	CC	CC	_	7	case	_	_
-6	his	_	PRP$	PRP$	_	7	nmod:poss	_	_
-7	tie	_	NN	NN	_	4	conj	_	_
-8	,	_	,	,	_	10	punct	_	_
-9	James	_	NNP	NNP	_	10	nsubj	_	_
-10	walks	_	VBZ	VBZ	_	0	root	_	_
-11	past	_	JJ	JJ	_	13	amod	_	_
-12	leafy	_	JJ	JJ	_	13	amod	_	_
-13	trees	_	NNS	NNS	_	10	dobj	_	_
-14	.	_	.	.	_	10	punct	_	_
-
-
-1	Walking	_	VBG	VBG	_	3	nsubj	_	_
-2	through	_	RB	RB	_	3	advmod	_	_
-3	scrubland	_	VBD	VBD	_	6	ccomp	_	_
-4	,	_	,	,	_	6	punct	_	_
-5	he	_	PRP	PRP	_	6	nsubj	_	_
-6	climbs	_	VBZ	VBZ	_	0	root	_	_
-7	a	_	DT	DT	_	11	det	_	_
-8	steep	_	JJ	JJ	_	11	amod	_	_
-9	,	_	,	,	_	11	punct	_	_
-10	dusty	_	JJ	JJ	_	11	amod	_	_
-11	track	_	NN	NN	_	6	dobj	_	_
-12	.	_	.	.	_	6	punct	_	_
-
-
-1	A	_	DT	DT	_	2	det	_	_
-2	man	_	NN	NN	_	11	nsubj	_	_
-3	holding	_	VBG	VBG	_	2	acl	_	_
-4	a	_	DT	DT	_	6	det	_	_
-5	plastic	_	JJ	JJ	_	6	amod	_	_
-6	cup	_	NN	NN	_	3	dobj	_	_
-7	taps	_	VBZ	VBZ	_	0	root	_	_
-8	the	_	DT	DT	_	9	det	_	_
-9	sides	_	NNS	NNS	_	7	dobj	_	_
-10	and	_	CC	CC	_	7	cc	_	_
-11	sniffs	_	VBZ	VBZ	_	7	conj:and	_	_
-12	.	_	.	.	_	7	punct	_	_
-1	He	_	PRP	PRP	_	5	nsubj	_	_
-2	's	_	VBZ	VBZ	_	5	cop	_	_
-3	in	_	IN	IN	_	4	case	_	_
-4	late	_	RB	RB	_	5	advmod	_	_
-5	middle-age	_	JJ	JJ	_	0	root	_	_
-6	with	_	IN	IN	_	8	case	_	_
-7	strong	_	JJ	JJ	_	8	amod	_	_
-8	features	_	NNS	NNS	_	5	nmod:with	_	_
-9	and	_	CC	CC	_	8	cc	_	_
-10	a	_	DT	DT	_	12	det	_	_
-11	grizzled	_	JJ	JJ	_	12	amod	_	_
-12	beard	_	NN	NN	_	8	conj:and	_	_
-13	.	_	.	.	_	5	punct	_	_
-
-
-1	Looking	_	VBG	VBG	_	14	advcl	_	_
-2	bored	_	VBN	VBN	_	1	xcomp	_	_
-3	,	_	,	,	_	14	punct	_	_
-4	the	_	DT	DT	_	5	det	_	_
-5	man	_	NN	NN	_	14	nsubj	_	_
-6	who	_	WP	WP	_	5	ref	_	_
-7	has	_	VBZ	VBZ	_	5	acl:relcl	_	_
-8	wild	_	JJ	JJ	_	13	amod	_	_
-9	,	_	,	,	_	13	punct	_	_
-10	wiry	_	JJ	JJ	_	13	amod	_	_
-11	,	_	,	,	_	13	punct	_	_
-12	greying	_	JJ	JJ	_	13	amod	_	_
-13	hair	_	NN	NN	_	7	dobj	_	_
-14	runs	_	VBZ	VBZ	_	0	root	_	_
-15	an	_	DT	DT	_	17	det	_	_
-16	index	_	NN	NN	_	17	compound	_	_
-17	finger	_	NN	NN	_	14	dobj	_	_
-18	around	_	IN	IN	_	20	case	_	_
-19	the	_	DT	DT	_	20	det	_	_
-20	lid	_	NN	NN	_	14	nmod:around	_	_
-21	of	_	IN	IN	_	23	case	_	_
-22	the	_	DT	DT	_	23	det	_	_
-23	cup	_	NN	NN	_	20	nmod:of	_	_
-24	,	_	,	,	_	14	punct	_	_
-25	then	_	RB	RB	_	26	advmod	_	_
-26	removes	_	VBZ	VBZ	_	14	dep	_	_
-27	it	_	PRP	PRP	_	26	dobj	_	_
-28	.	_	.	.	_	14	punct	_	_
-1	The	_	DT	DT	_	2	det	_	_
-2	cup	_	NN	NN	_	5	nsubj	_	_
-3	is	_	VBZ	VBZ	_	5	cop	_	_
-4	half	_	DT	DT	_	5	advmod	_	_
-5	full	_	JJ	JJ	_	13	dobj	_	_
-6	of	_	IN	IN	_	7	case	_	_
-7	clear	_	JJ	JJ	_	5	acl:of	_	_
-8	dark	_	JJ	JJ	_	9	amod	_	_
-9	liquid	_	JJ	JJ	_	5	amod	_	_
-10	,	_	,	,	_	5	punct	_	_
-11	which	_	WDT	WDT	_	5	ref	_	_
-12	he	_	PRP	PRP	_	13	nsubj	_	_
-13	studies	_	VBZ	VBZ	_	5	acl:relcl	_	_
-14	before	_	IN	IN	_	15	mark	_	_
-15	taking	_	VBG	VBG	_	13	advcl	_	_
-16	a	_	DT	DT	_	17	det	_	_
-17	sip	_	NN	NN	_	15	dobj	_	_
-18	.	_	.	.	_	5	punct	_	_
-
-
-1	Rick	_	FW	FW	_	0	root	_	_
-2	.	_	.	.	_	1	punct	_	_
-1	The	_	DT	DT	_	2	det	_	_
-2	Retiree	_	NN	NN	_	0	root	_	_
-3	.	_	.	.	_	2	punct	_	_
-1	Rick	_	NNP	NNP	_	17	nsubj	_	_
-2	,	_	,	,	_	1	punct	_	_
-3	who	_	WP	WP	_	1	ref	_	_
-4	wears	_	VBZ	VBZ	_	1	acl:relcl	_	_
-5	a	_	DT	DT	_	7	det	_	_
-6	vest	_	NN	NN	_	7	compound	_	_
-7	top	_	NN	NN	_	4	dobj	_	_
-8	and	_	CC	CC	_	7	cc	_	_
-9	a	_	DT	DT	_	11	det	_	_
-10	heavy	_	JJ	JJ	_	11	amod	_	_
-11	chain	_	NN	NN	_	7	conj:and	_	_
-12	around	_	IN	IN	_	14	case	_	_
-13	his	_	PRP$	PRP$	_	14	nmod:poss	_	_
-14	neck	_	NN	NN	_	4	nmod:around	_	_
-15	,	_	,	,	_	1	punct	_	_
-16	is	_	VBZ	VBZ	_	17	aux	_	_
-17	sitting	_	VBG	VBG	_	0	root	_	_
-18	on	_	IN	IN	_	20	case	_	_
-19	a	_	DT	DT	_	20	det	_	_
-20	chair	_	NN	NN	_	17	nmod:on	_	_
-21	in	_	IN	IN	_	24	case	_	_
-22	a	_	DT	DT	_	24	det	_	_
-23	sun-dappled	_	JJ	JJ	_	24	amod	_	_
-24	area	_	NN	NN	_	20	nmod:in	_	_
-25	of	_	IN	IN	_	27	case	_	_
-26	a	_	DT	DT	_	27	det	_	_
-27	park	_	NN	NN	_	24	nmod:of	_	_
-28	.	_	.	.	_	17	punct	_	_
-1	He	_	PRP	PRP	_	2	nsubj	_	_
-2	jiggles	_	VBZ	VBZ	_	0	root	_	_
-3	one	_	CD	CD	_	4	nummod	_	_
-4	knee	_	NN	NN	_	2	dobj	_	_
-5	up	_	RB	RB	_	2	advmod	_	_
-6	and	_	CC	CC	_	5	cc	_	_
-7	down	_	RB	RB	_	5	conj:and	_	_
-8	,	_	,	,	_	2	punct	_	_
-9	edgily	_	RB	RB	_	2	advmod	_	_
-10	.	_	.	.	_	2	punct	_	_
-
-
-1	He	_	PRP	PRP	_	7	nsubj	_	_
-2	puts	_	VBZ	VBZ	_	0	root	_	_
-3	his	_	PRP$	PRP$	_	4	nmod:poss	_	_
-4	cup	_	NN	NN	_	2	dobj	_	_
-5	aside	_	RB	RB	_	2	advmod	_	_
-6	and	_	CC	CC	_	2	cc	_	_
-7	claps	_	VBZ	VBZ	_	2	conj:and	_	_
-8	his	_	PRP$	PRP$	_	9	nmod:poss	_	_
-9	hands	_	NNS	NNS	_	7	dobj	_	_
-10	.	_	.	.	_	2	punct	_	_
-
-
-1	He	_	PRP	PRP	_	13	nsubj	_	_
-2	takes	_	VBZ	VBZ	_	0	root	_	_
-3	his	_	PRP$	PRP$	_	4	nmod:poss	_	_
-4	phone	_	NN	NN	_	2	dobj	_	_
-5	from	_	IN	IN	_	8	case	_	_
-6	a	_	DT	DT	_	8	det	_	_
-7	back	_	JJ	JJ	_	8	amod	_	_
-8	pocket	_	NN	NN	_	2	nmod:from	_	_
-9	of	_	IN	IN	_	11	case	_	_
-10	his	_	PRP$	PRP$	_	11	nmod:poss	_	_
-11	trousers	_	NNS	NNS	_	8	nmod:of	_	_
-12	and	_	CC	CC	_	2	cc	_	_
-13	opens	_	VBZ	VBZ	_	2	conj:and	_	_
-14	the	_	DT	DT	_	15	det	_	_
-15	cover	_	NN	NN	_	13	dobj	_	_
-16	.	_	.	.	_	2	punct	_	_
-
-
-1	Using	_	VBG	VBG	_	7	advcl	_	_
-2	his	_	PRP$	PRP$	_	4	nmod:poss	_	_
-3	index	_	NN	NN	_	4	compound	_	_
-4	finger	_	NN	NN	_	1	dobj	_	_
-5	,	_	,	,	_	7	punct	_	_
-6	he	_	PRP	PRP	_	16	nsubj	_	_
-7	scrolls	_	VBZ	VBZ	_	0	root	_	_
-8	through	_	IN	IN	_	11	case	_	_
-9	his	_	PRP$	PRP$	_	11	nmod:poss	_	_
-10	contacts	_	NNS	NNS	_	11	compound	_	_
-11	list	_	NN	NN	_	7	nmod:through	_	_
-12	to	_	TO	TO	_	14	case	_	_
-13	Craig	_	NNP	NNP	_	14	compound	_	_
-14	Anderson	_	NNP	NNP	_	7	nmod:to	_	_
-15	and	_	CC	CC	_	7	cc	_	_
-16	calls	_	VBZ	VBZ	_	7	conj:and	_	_
-17	him	_	PRP	PRP	_	16	dobj	_	_
-18	.	_	.	.	_	7	punct	_	_
-
-
-1	Hearing	_	VBG	VBG	_	6	advcl	_	_
-2	the	_	DT	DT	_	3	det	_	_
-3	noise	_	NN	NN	_	1	dobj	_	_
-4	,	_	,	,	_	6	punct	_	_
-5	he	_	PRP	PRP	_	6	nsubj	_	_
-6	scans	_	VBZ	VBZ	_	0	root	_	_
-7	about	_	RP	RP	_	6	compound:prt	_	_
-8	.	_	.	.	_	6	punct	_	_
-
-
-1	Leaving	_	VBG	VBG	_	9	advcl	_	_
-2	his	_	PRP$	PRP$	_	3	nmod:poss	_	_
-3	cup	_	NN	NN	_	1	dobj	_	_
-4	on	_	IN	IN	_	6	case	_	_
-5	a	_	DT	DT	_	6	det	_	_
-6	chair	_	NN	NN	_	1	nmod:on	_	_
-7	,	_	,	,	_	9	punct	_	_
-8	Rick	_	NNP	NNP	_	9	nsubj	_	_
-9	hurries	_	VBZ	VBZ	_	9	conj:and	_	_
-10	away	_	RP	RP	_	9	compound:prt	_	_
-11	along	_	IN	IN	_	14	case	_	_
-12	a	_	DT	DT	_	14	det	_	_
-13	sandy	_	JJ	JJ	_	14	amod	_	_
-14	path	_	NN	NN	_	9	nmod:along	_	_
-15	,	_	,	,	_	14	punct	_	_
-16	scanning	_	VBG	VBG	_	14	conj	_	_
-17	above	_	IN	IN	_	18	case	_	_
-18	him	_	PRP	PRP	_	16	nmod:above	_	_
-19	and	_	CC	CC	_	9	cc	_	_
-20	about	_	IN	IN	_	21	case	_	_
-21	him	_	PRP	PRP	_	9	nmod:about	_	_
-22	,	_	,	,	_	14	punct	_	_
-23	following	_	VBG	VBG	_	26	case	_	_
-24	the	_	DT	DT	_	26	det	_	_
-25	noise	_	NN	NN	_	26	compound	_	_
-
-1	A	_	DT	DT	_	3	det	_	_
-2	young	_	JJ	JJ	_	3	amod	_	_
-3	woman	_	NN	NN	_	0	root	_	_
-4	.	_	.	.	_	3	punct	_	_
-
-
-1	Jess	_	NNS	NNS	_	0	root	_	_
-2	.	_	.	.	_	1	punct	_	_
-1	The	_	DT	DT	_	2	det	_	_
-2	Student	_	NN	NN	_	0	root	_	_
-3	.	_	.	.	_	2	punct	_	_
-1	Jess	_	NNS	NNS	_	2	nsubj	_	_
-2	sits	_	VBZ	VBZ	_	0	root	_	_
-3	chewing	_	VBG	VBG	_	2	xcomp	_	_
-4	a	_	DT	DT	_	5	det	_	_
-5	pencil	_	NN	NN	_	12	nsubj	_	_
-6	,	_	,	,	_	5	punct	_	_
-7	which	_	WDT	WDT	_	5	ref	_	_
-8	she	_	PRP	PRP	_	9	nsubj	_	_
-9	puts	_	VBZ	VBZ	_	5	acl:relcl	_	_
-10	down	_	RP	RP	_	9	compound:prt	_	_
-11	to	_	TO	TO	_	12	mark	_	_
-12	search	_	VB	VB	_	9	xcomp	_	_
-13	for	_	IN	IN	_	15	case	_	_
-14	her	_	PRP$	PRP$	_	15	nmod:poss	_	_
-15	phone	_	NN	NN	_	12	nmod:for	_	_
-16	beneath	_	IN	IN	_	17	case	_	_
-17	papers	_	NNS	NNS	_	12	nmod:beneath	_	_
-18	on	_	IN	IN	_	20	case	_	_
-19	her	_	PRP$	PRP$	_	20	nmod:poss	_	_
-20	desk	_	NN	NN	_	25	nmod:on	_	_
-21	,	_	,	,	_	20	punct	_	_
-22	on	_	IN	IN	_	23	case	_	_
-23	which	_	WDT	WDT	_	20	ref	_	_
-24	there	_	EX	EX	_	25	expl	_	_
-25	's	_	VBZ	VBZ	_	20	acl:relcl	_	_
-26	also	_	RB	RB	_	25	advmod	_	_
-27	a	_	DT	DT	_	28	det	_	_
-28	laptop	_	NN	NN	_	25	nsubj	_	_
-29	.	_	.	.	_	2	punct	_	_
-
-
-1	Jess	_	NNS	NNS	_	14	nsubj	_	_
-2	who	_	WP	WP	_	1	ref	_	_
-3	has	_	VBZ	VBZ	_	1	acl:relcl	_	_
-4	long	_	JJ	JJ	_	9	amod	_	_
-5	,	_	,	,	_	9	punct	_	_
-6	curly	_	JJ	JJ	_	9	amod	_	_
-7	auburn	_	NN	NN	_	9	compound	_	_
-8	hair	_	NN	NN	_	9	compound	_	_
-9	scans	_	NNS	NNS	_	3	dobj	_	_
-10	about	_	IN	IN	_	11	case	_	_
-11	her	_	PRP	PRP	_	9	nmod:about	_	_
-12	and	_	CC	CC	_	3	cc	_	_
-13	looks	_	VBZ	VBZ	_	3	conj:and	_	_
-14	puzzled	_	VBD	VBD	_	0	root	_	_
-15	.	_	.	.	_	14	punct	_	_
-
-
-1	Baffled	_	VBN	VBN	_	7	advcl	_	_
-2	by	_	IN	IN	_	4	case	_	_
-3	the	_	DT	DT	_	4	det	_	_
-4	sound	_	NN	NN	_	1	nmod:by	_	_
-5	,	_	,	,	_	7	punct	_	_
-6	Jess	_	NNP	NNP	_	7	nsubj	_	_
-7	gets	_	VBZ	VBZ	_	0	root	_	_
-8	up	_	RP	RP	_	7	compound:prt	_	_
-9	from	_	IN	IN	_	11	case	_	_
-10	her	_	PRP$	PRP$	_	11	nmod:poss	_	_
-11	desk	_	NN	NN	_	7	nmod:from	_	_
-12	.	_	.	.	_	7	punct	_	_
-1	Outside	_	JJ	JJ	_	12	advmod	_	_
-2	,	_	,	,	_	12	punct	_	_
-3	wearing	_	VBG	VBG	_	12	advcl	_	_
-4	a	_	DT	DT	_	5	det	_	_
-5	Parka	_	NNP	NNP	_	3	dobj	_	_
-6	with	_	IN	IN	_	9	case	_	_
-7	a	_	DT	DT	_	9	det	_	_
-8	fur-trimmed	_	JJ	JJ	_	9	amod	_	_
-9	hood	_	NN	NN	_	3	nmod:with	_	_
-10	,	_	,	,	_	12	punct	_	_
-11	she	_	PRP	PRP	_	12	nsubj	_	_
-12	looks	_	VBZ	VBZ	_	0	root	_	_
-13	about	_	IN	IN	_	16	mark	_	_
-14	her	_	PRP	PRP	_	25	nsubj	_	_
-15	then	_	RB	RB	_	16	advmod	_	_
-16	heads	_	VBZ	VBZ	_	12	advcl	_	_
-17	up	_	RP	RP	_	16	compound:prt	_	_
-18	a	_	DT	DT	_	19	det	_	_
-19	slope	_	NN	NN	_	16	dobj	_	_
-20	of	_	IN	IN	_	22	case	_	_
-21	tall	_	JJ	JJ	_	22	amod	_	_
-22	grasses	_	NNS	NNS	_	19	nmod:of	_	_
-23	and	_	CC	CC	_	16	cc	_	_
-24	scrubby	_	RB	RB	_	25	advmod	_	_
-25	bushes	_	VBZ	VBZ	_	16	conj:and	_	_
-26	.	_	.	.	_	12	punct	_	_
-
-
-1	She	_	PRP	PRP	_	4	nsubj	_	_
-2	pauses	_	VBZ	VBZ	_	7	ccomp	_	_
-3	to	_	TO	TO	_	4	mark	_	_
-4	listen	_	VB	VB	_	2	xcomp	_	_
-5	,	_	,	,	_	7	punct	_	_
-6	then	_	RB	RB	_	7	nsubj	_	_
-7	disappears	_	VBZ	VBZ	_	0	root	_	_
-8	into	_	IN	IN	_	10	case	_	_
-9	the	_	DT	DT	_	10	det	_	_
-10	vegetation	_	NN	NN	_	7	nmod:into	_	_
-11	.	_	.	.	_	7	punct	_	_
-
-
-1	Jess	_	NNP	NNP	_	7	nsubj	_	_
-2	,	_	,	,	_	1	punct	_	_
-3	Rick	_	NNP	NNP	_	7	nsubj	_	_
-4	and	_	CC	CC	_	1	cc	_	_
-5	James	_	NNP	NNP	_	7	nsubj	_	_
-6	are	_	VBP	VBP	_	7	aux	_	_
-7	standing	_	VBG	VBG	_	0	root	_	_
-8	together	_	RB	RB	_	7	advmod	_	_
-9	.	_	.	.	_	7	punct	_	_
-
-
-1	They	_	PRP	PRP	_	8	nsubj	_	_
-2	're	_	VBP	VBP	_	8	cop	_	_
-3	in	_	IN	IN	_	8	case	_	_
-4	a	_	DT	DT	_	8	det	_	_
-5	sunny	_	JJ	JJ	_	8	amod	_	_
-6	,	_	,	,	_	8	punct	_	_
-7	sandy	_	JJ	JJ	_	8	amod	_	_
-8	clearing	_	NN	NN	_	0	root	_	_
-9	.	_	.	.	_	8	punct	_	_
-
-
-1	A	_	DT	DT	_	2	det	_	_
-2	wind	_	NN	NN	_	4	nsubj	_	_
-3	is	_	VBZ	VBZ	_	4	aux	_	_
-4	blowing	_	VBG	VBG	_	0	root	_	_
-5	as	_	IN	IN	_	8	mark	_	_
-6	they	_	PRP	PRP	_	8	nsubj	_	_
-7	all	_	RB	RB	_	8	advmod	_	_
-8	scan	_	VB	VB	_	4	advcl	_	_
-9	about	_	RP	RP	_	8	compound:prt	_	_
-10	for	_	IN	IN	_	12	case	_	_
-11	the	_	DT	DT	_	12	det	_	_
-12	owner	_	NN	NN	_	8	nmod:for	_	_
-13	of	_	IN	IN	_	15	case	_	_
-14	the	_	DT	DT	_	15	det	_	_
-15	voice	_	NN	NN	_	12	nmod:of	_	_
-16	.	_	.	.	_	4	punct	_	_
-
-
-1	He	_	PRP	PRP	_	2	nsubj	_	_
-2	claps	_	VBZ	VBZ	_	0	root	_	_
-3	a	_	DT	DT	_	4	det	_	_
-4	hand	_	NN	NN	_	2	dobj	_	_
-5	to	_	TO	TO	_	7	case	_	_
-6	his	_	PRP$	PRP$	_	7	nmod:poss	_	_
-7	head	_	NN	NN	_	2	nmod:to	_	_
-8	.	_	.	.	_	2	punct	_	_
-
-
-1	They	_	PRP	PRP	_	4	nsubj	_	_
-2	're	_	VBP	VBP	_	4	aux	_	_
-3	all	_	RB	RB	_	4	advmod	_	_
-4	standing	_	VBG	VBG	_	0	root	_	_
-5	well	_	RB	RB	_	6	advmod	_	_
-6	apart	_	RB	RB	_	4	advmod	_	_
-7	.	_	.	.	_	4	punct	_	_
-
-
-1	They	_	PRP	PRP	_	2	nsubj	_	_
-2	glance	_	VBZ	VBZ	_	0	root	_	_
-3	at	_	IN	IN	_	5	case	_	_
-4	each	_	DT	DT	_	5	det	_	_
-5	other	_	JJ	JJ	_	2	nmod:at	_	_
-6	.	_	.	.	_	2	punct	_	_
-1	Rick	_	NNP	NNP	_	4	nsubj	_	_
-2	shrugs	_	VBZ	VBZ	_	0	root	_	_
-3	and	_	CC	CC	_	2	cc	_	_
-4	shakes	_	VBZ	VBZ	_	2	conj:and	_	_
-5	his	_	PRP$	PRP$	_	6	nmod:poss	_	_
-6	head	_	NN	NN	_	2	dobj	_	_
-7	.	_	.	.	_	2	punct	_	_
-
-
-1	Rick	_	NNP	NNP	_	7	nsubj	_	_
-2	follows	_	VBZ	VBZ	_	0	root	_	_
-3	James.Jessica	_	NNP	NNP	_	4	compound	_	_
-4	stares	_	NNS	NNS	_	2	dobj	_	_
-5	down	_	RP	RP	_	2	compound:prt	_	_
-6	and	_	CC	CC	_	2	cc	_	_
-7	considers	_	VBZ	VBZ	_	2	conj:and	_	_
-8	.	_	.	.	_	2	punct	_	_
-
-
-1	She	_	PRP	PRP	_	4	nsubj	_	_
-2	smiles	_	VBZ	VBZ	_	0	root	_	_
-3	and	_	CC	CC	_	2	cc	_	_
-4	runs	_	VBZ	VBZ	_	2	conj:and	_	_
-5	after	_	IN	IN	_	6	case	_	_
-6	them	_	PRP	PRP	_	2	nmod:after	_	_
-7	in	_	IN	IN	_	9	case	_	_
-8	the	_	DT	DT	_	9	det	_	_
-9	sunshine	_	NN	NN	_	6	nmod:in	_	_
-10	.	_	.	.	_	2	punct	_	_
-
-
-1	They	_	PRP	PRP	_	2	nsubj	_	_
-2	walk	_	VBP	VBP	_	0	root	_	_
-3	off	_	RP	RP	_	2	compound:prt	_	_
-4	merrily	_	RB	RB	_	2	advmod	_	_
-5	towards	_	IN	IN	_	6	case	_	_
-6	trees	_	NNS	NNS	_	2	nmod:towards	_	_
-7	beneath	_	IN	IN	_	11	case	_	_
-8	a	_	DT	DT	_	11	det	_	_
-9	clear	_	JJ	JJ	_	11	amod	_	_
-10	blue	_	JJ	JJ	_	11	amod	_	_
-11	sky	_	NN	NN	_	6	nmod:beneath	_	_
-12	.	_	.	.	_	2	punct	_	_
-
-
-1	Blackness	_	NNS	NNS	_	0	root	_	_
-2	.	_	.	.	_	1	punct	_	_
-
-
-1	A	_	DT	DT	_	2	det	_	_
-2	woman	_	NN	NN	_	3	nsubj	_	_
-3	hangs	_	VBZ	VBZ	_	0	root	_	_
-4	out	_	RP	RP	_	3	compound:prt	_	_
-5	washing	_	VBG	VBG	_	3	xcomp	_	_
-6	as	_	IN	IN	_	8	mark	_	_
-7	she	_	PRP	PRP	_	8	nsubj	_	_
-8	talks	_	VBZ	VBZ	_	5	advcl	_	_
-9	on	_	IN	IN	_	11	case	_	_
-10	her	_	PRP$	PRP$	_	11	nmod:poss	_	_
-11	mobile	_	JJ	JJ	_	8	nmod:on	_	_
-12	:	_	:	:	_	3	punct	_	_
-13	No	_	UH	UH	_	16	discourse	_	_
-14	,	_	,	,	_	16	punct	_	_
-15	I	_	PRP	PRP	_	16	nsubj	_	_
-16	could	_	MD	MD	_	3	parataxis	_	_
-17	n't	_	RB	RB	_	16	neg	_	_
-18	.	_	.	.	_	3	punct	_	_
-1	I	_	PRP	PRP	_	4	nsubj	_	_
-2	have	_	VBP	VBP	_	0	root	_	_
-3	to	_	TO	TO	_	4	mark	_	_
-4	finish	_	VB	VB	_	2	xcomp	_	_
-5	,	_	,	,	_	2	punct	_	_
-6	really	_	RB	RB	_	2	advmod	_	_
-7	.	_	.	.	_	2	punct	_	_
-1	No	_	UH	UH	_	0	root	_	_
-2	!	_	.	.	_	1	punct	_	_
-1	What	_	WP	WP	_	4	dobj	_	_
-2	are	_	VBP	VBP	_	4	aux	_	_
-3	you	_	PRP	PRP	_	4	nsubj	_	_
-4	talking	_	VBG	VBG	_	0	root	_	_
-5	about	_	IN	IN	_	4	dep	_	_
-6	?	_	.	.	_	4	punct	_	_
-1	Of	_	IN	IN	_	2	case	_	_
-2	course	_	NN	NN	_	8	nmod:of	_	_
-3	yes	_	RB	RB	_	2	advmod	_	_
-4	,	_	,	,	_	8	punct	_	_
-5	our	_	PRP$	PRP$	_	6	nmod:poss	_	_
-6	luggage	_	NN	NN	_	8	nsubj	_	_
-7	is	_	VBZ	VBZ	_	8	cop	_	_
-8	ready	_	JJ	JJ	_	0	root	_	_
-9	.	_	.	.	_	8	punct	_	_
-1	Listen	_	RB	RB	_	6	advmod	_	_
-2	,	_	,	,	_	6	punct	_	_
-3	I	_	PRP	PRP	_	6	nsubj	_	_
-4	can	_	MD	MD	_	6	aux	_	_
-5	not	_	RB	RB	_	6	neg	_	_
-6	talk	_	VB	VB	_	0	root	_	_
-7	right	_	RB	RB	_	8	advmod	_	_
-8	now	_	RB	RB	_	6	advmod	_	_
-9	.	_	.	.	_	6	punct	_	_
-1	I	_	PRP	PRP	_	4	nsubj	_	_
-2	have	_	VBP	VBP	_	0	root	_	_
-3	to	_	TO	TO	_	4	mark	_	_
-4	leave	_	VB	VB	_	2	xcomp	_	_
-5	you	_	PRP	PRP	_	4	dobj	_	_
-6	.	_	.	.	_	2	punct	_	_
-
-
-1	Zoe	_	VB	VB	_	0	root	_	_
-2	.	_	.	.	_	1	punct	_	_
-1	The	_	DT	DT	_	3	det	_	_
-2	next	_	JJ	JJ	_	3	amod	_	_
-3	one	_	NN	NN	_	4	nsubj	_	_
-
-1	On	_	IN	IN	_	4	case	_	_
-2	a	_	DT	DT	_	4	det	_	_
-3	white	_	JJ	JJ	_	4	amod	_	_
-4	background	_	NN	NN	_	7	nmod:on	_	_
-5	:	_	:	:	_	7	punct	_	_
-6	what	_	WDT	WDT	_	7	nsubj	_	_
-7	happens	_	VBZ	VBZ	_	0	root	_	_
-8	while	_	NN	NN	_	7	dobj	_	_
-9	.	_	.	.	_	7	punct	_	_
+A	a	DT	-
+film	film	NN	FilmLanguage
+shot	shot	VBN	FilmLanguage
+mostly	mostly	RB	-
+in	in	IN	-
+sombre	sombre	JJ	A-ColorAttribute
+greys	grey	NNS	ColorAttribute
+with	with	IN	-
+some	some	DT	-
+colour	colour	NN	-
+highlights	highlight	NN	FilmLanguage
+.	.	.	-
+Day	day	NN	Time
+.	.	.	-
+A	a	DT	-
+couple	couple	NN	Human
+stroll_along	stroll_along	VBP	Walking
+a	a	DT	-
+virtually	virtually	RB	-
+deserted	deserted	JJ	A-SubjectiveAssessment
+beach	beach	NN	Location
+with	with	IN	-
+a	a	DT	-
+large	large	JJ	A-SubjectiveAssessment
+dog	dog	NN	Animal
+lolloping	lollop	VBG	Walking
+behind	behind	IN	-
+them	them	PRP	-
+.	.	.	-
+A	a	DT	-
+man	man	NN	Human
+jogs	jog	VBZ	Walking
+past	past	IN	-
+.	.	.	-
+
+On	on	IN	-
+a	a	DT	-
+white	white	JJ	A-ColorAttribute
+background	background	NN	FilmLanguage
+:	:	:	-
+What	what	WP	-
+Happens	happen	VBZ	Process
+While	while	IN	-
+.	.	.	-
+
+A	a	DT	-
+BMW	bmw	NNP	-
+coupe	coupe	NN	-
+pulls_up	pull_up	VBZ	Motion
+beside	beside	IN	-
+the	the	DT	-
+beach	beach	NN	Location
+and	and	CC	-
+a	a	DT	-
+forty-something	forty-something	JJ	A-SubjectiveAssessment
+guy	guy	NN	Human
+gets_out	get_out	VBZ	Motion
+,	,	,	-
+speaking	speak	VBG	Communication
+on	on	IN	-
+his	his	PRP$	-
+phone	phone	NN	Object
+.	.	.	-
+
+He	he	PRP	-
+ends	end	VBZ	Process
+the	the	DT	-
+call	call	NN	-
+,	,	,	-
+then	then	RB	Time
+reaches	reach	VBZ	Touching
+into	into	IN	-
+in	in	IN	-
+his	his	PRP$	-
+inside	inside	JJ	ATimePositionalAttribute
+jacket	jacket	NN	Clothing
+pocket	pocket	NN	Clothing
+.	.	.	-
+
+He	he	PRP	-
+takes_out	take_out	VBZ	Touching
+sunglasses	sunglasse	NNS	Clothing
+and	and	CC	-
+puts	put_on	VBZ	Putting
+them	them	PRP	-
+on	on	IN	-
+.	.	.	-
+
+James	james	NNP	Human
+.	.	.	-
+The	the	DT	-
+businessman	businessman	NN	Human
+.	.	.	-
+Wearing	wear	VBG	Dressing
+a	a	DT	-
+suit	suit	NN	Clothing
+and	and	CC	-
+carrying	carry	VBG	Process
+a	a	DT	-
+beach	beach	NN	Location
+bag	bag	NN	Clothing
+,	,	,	-
+James	james	NNP	Human
+makes	make	VBZ	Process
+a	a	DT	-
+call	call	NN	-
+as	as	IN	-
+he	he	PRP	-
+walks	walk	VBZ	Walking
+.	.	.	-
+
+Now	now	RB	Time
+bare	bare	JJ	A-Dressing
+chested	chested	JJ	A-BodyPart
+,	,	,	-
+James	james	NNP	Human
+sits	sit	VBZ	BodyMotion
+on	on	IN	-
+a	a	DT	-
+towel	towel	NN	Object
+on	on	IN	-
+the	the	DT	-
+beach	beach	NN	Location
+,	,	,	-
+then	then	RB	Time
+lies_back	lie_back	VBZ	BodyMotion
+.	.	.	-
+
+Slender	slender	JJ	A-SubjectiveAssessmentAttribute
+,	,	,	-
+with	with	IN	-
+short	short	JJ	A-SubjectiveAssessment
+,	,	,	-
+sandy-coloured	sandy-coloured	JJ	A-ColorAttribute
+hair	hair	NN	BodyPart
+and	and	CC	-
+a	a	DT	-
+neat	neat	JJ	A-SubjectiveAssessment
+beard	beard	NN	BodyPart
+,	,	,	-
+James	james	NNP	Human
+rubs	rub	VBZ	BodyMotion
+his	his	PRP$	-
+eyes	eye	NNS	BodyPart
+,	,	,	-
+then	then	RB	Time
+,	,	,	-
+keeping	keep	VBG	Process
+them	them	PRP	-
+closed	closed	VBN	A-PositionalAttribute
+,	,	,	-
+picks_up	pick_up	VBZ	Touching
+sand	sand	NN	-
+and	and	CC	-
+lets	let	VBZ	Process
+it	it	PRP	-
+fall	fall	VB	Motion
+from	from	IN	-
+his	his	PRP$	-
+fingers	finger	NNS	BodyPart
+.	.	.	-
+
+He	he	PRP	-
+sits_up	sit_up	VBZ	BodyMotion
+.	.	.	-
+
+He	he	PRP	-
+scans_about	scan_about	VBZ	IntentionalPsychologicalProcess
+.	.	.	-
+
+He	he	PRP	-
+throws_down	throw_down	VBZ	Putting
+his	his	PRP$	-
+phone	phone	NN	Object
+and	and	CC	-
+gets_up	get_up	VBZ	BodyMotion
+.	.	.	-
+
+Wearing	wear	VBG	Dressing
+dark-coloured	dark-coloured	JJ	A-ColorAttribute
+swimming	swimming	NN	-
+trunks	trunk	NNS	Clothing
+,	,	,	-
+James	james	NNP	Human
+walks	walk	VBZ	Walking
+to	to	TO	-
+the	the	DT	-
+water	water	NN	-
+'s	's	POS	-
+edge	edge	NN	Location
+,	,	,	-
+then	then	RB	Time
+turns_back	turn_back	VBZ	BodyMotion
+,	,	,	-
+as	as	RB	-
+if	if	IN	-
+trying	try	VBG	Aux
+to	to	TO	-
+locate	locate	VB	IntentionalPsychologicalProcess
+the	the	DT	-
+sound	sound	NN	RadiatingSound
+.	.	.	-
+
+He	he	PRP	-
+walks	walk	VBZ	Walking
+through	through	IN	-
+the	the	DT	-
+soft	soft	JJ	A-SubjectiveAssessment
+sand	sand	NN	Location
+,	,	,	-
+stops	stop	VBZ	Motion
+and	and	CC	-
+scans	scan	VBZ	IntentionalPsychologicalProcess
+about	about	IN	-
+,	,	,	-
+then	then	RB	Time
+returns	return	NNS	Motion
+to	to	TO	-
+the	the	DT	-
+water	water	NN	-
+'s	's	POS	-
+edge	edge	NN	Location
+.	.	.	-
+
+Looking	look	VBG	Seeing
+perplexed	perplexed	VBN	A-StateOfMind
+by	by	IN	-
+the	the	DT	-
+sound	sound	NN	RadiatingSound
+,	,	,	-
+he	he	PRP	-
+checks	check	VBZ	IntentionalPsychologicalProcess
+about	about	IN	-
+him	him	PRP	-
+.	.	.	-
+Further	further	JJ	A-SubjectiveAssessment
+round	round	NN	Location
+the	the	DT	-
+coast	coast	NN	Location
+,	,	,	-
+in	in	IN	-
+the	the	DT	-
+background	background	NN	Location
+,	,	,	-
+the	the	DT	-
+towers	tower	NNS	Object
+and	and	CC	-
+buildings	building	NNS	Location
+of	of	IN	-
+a	a	DT	-
+power	power	NN	Clothing
+plant	plant	NN	Vegetable
+fringe	fringe	VBP	Process
+the	the	DT	-
+shore	shore	NN	Location
+.	.	.	-
+
+James	james	NNP	Human
+'	'	POS	-
+brow	brow	NN	BodyPart
+is	be	VBZ	Aux
+furrowed	furrowed	VBN	A-Gesture
+as	as	IN	-
+he	he	PRP	-
+walks_back	walk_back	VBZ	Walking
+to	to	TO	-
+his	his	PRP$	-
+belongings	belonging	NNS	-
+on	on	IN	-
+the	the	DT	-
+beach	beach	NN	Location
+and	and	CC	-
+puts_on	put_on	VBZ	Dressing
+his	his	PRP$	-
+shirt	shirt	NN	Clothing
+.	.	.	-
+Two	two	CD	-
+small	small	JJ	A-SubjectiveAssessment
+boats	boat	NNS	-
+bob	bob	VBP	Motion
+about	about	IN	-
+in	in	IN	-
+the	the	DT	-
+water	water	NN	-
+behind	behind	IN	-
+him	him	PRP	-
+.	.	.	-
+
+Dressed	dressed	VBN	A-Dressing
+again	again	RB	Time
+,	,	,	-
+but	but	CC	-
+minus	minus	CC	-
+his	his	PRP$	-
+tie	tie	NN	Clothing
+,	,	,	-
+James	james	NNP	Human
+walks	walk	VBZ	Walking
+past	past	IN	-
+leafy	leafy	JJ	A-SubjectiveAssessment
+trees	tree	NNS	Vegetable
+.	.	.	-
+
+Walking	walk	VBG	Walking
+through	through	RB	-
+scrubland	scrubland	NN	Location
+,	,	,	-
+he	he	PRP	-
+climbs	climb	VBZ	Walking
+a	a	DT	-
+steep	steep	JJ	A-SubjectiveAssessment
+,	,	,	-
+dusty	dusty	JJ	A-SubjectiveAssessment
+track	track	NN	Location
+.	.	.	-
+
+A	a	DT	-
+man	man	NN	Human
+holding	hold	VBG	Touching
+a	a	DT	-
+plastic	plastic	JJ	A-SubjectiveAssessment
+cup	cup	NN	Object
+taps	tap	VBZ	Touching
+the	the	DT	-
+sides	side	NNS	Location
+and	and	CC	-
+sniffs	sniff	VBZ	Smelling
+.	.	.	-
+He	he	PRP	-
+'s	be	VBZ	Aux
+in	in	IN	-
+late	late	RB	Time
+middle-age	middle-age	JJ	A-SubjectiveAssessment
+with	with	IN	-
+strong	strong	JJ	A-SubjectiveAssessment
+features	feature	NNS	BodyPart
+and	and	CC	-
+a	a	DT	-
+grizzled	grizzled	JJ	A-ColorAttribute
+beard	beard	NN	BodyPart
+.	.	.	-
+
+Looking	look	VBG	Seeing
+bored	bored	VBN	A-StateOfMind
+,	,	,	-
+the	the	DT	-
+man	man	NN	Human
+who	who	WP	-
+has	have	VBZ	possesses
+wild	wild	JJ	A-SubjectiveAssessment
+,	,	,	-
+wiry	wiry	JJ	A-SubjectiveAssessment
+,	,	,	-
+greying	greying	JJ	A-ColorAttribute
+hair	hair	NN	BodyPart
+runs	run	VBZ	BodyMotion
+an	an	DT	-
+index	index	NN	PositionalAttribute
+finger	finger	NN	BodyPart
+around	around	IN	Time
+the	the	DT	-
+lid	lid	NN	Object
+of	of	IN	-
+the	the	DT	-
+cup	cup	NN	Object
+,	,	,	-
+then	then	RB	Time
+removes	remove	VBZ	Putting
+it	it	PRP	-
+.	.	.	-
+The	the	DT	-
+cup	cup	NN	Object
+is	be	VBZ	Aux
+half	half	DT	-
+full	full	JJ	A-SubjectiveAssessment
+of	of	IN	-
+clear	clear	JJ	A-ColorAttribute
+dark	dark	JJ	A-ColorAttribute
+liquid	liquid	JJ	A-SubjectiveAssessment
+,	,	,	-
+which	which	WDT	-
+he	he	PRP	-
+studies	study	VBZ	IntentionalPsychologicalProcess
+before	before	IN	-
+taking	take	VBG	Drinking
+a	a	DT	-
+sip	sip	NN	Drinking
+.	.	.	-
+
+Rick	rick	FW	Human
+.	.	.	-
+The	the	DT	-
+Retiree	retiree	NN	Human
+.	.	.	-
+Rick	rick	NNP	Human
+,	,	,	-
+who	who	WP	-
+wears	wear	VBZ	Dressing
+a	a	DT	-
+vest	vest	NN	Clothing
+top	top	NN	Clothing
+and	and	CC	-
+a	a	DT	-
+heavy	heavy	JJ	A-SubjectiveAssessment
+chain	chain	NN	Clothing
+around	around	IN	Time
+his	his	PRP$	-
+neck	neck	NN	BodyPart
+,	,	,	-
+is	be	VBZ	Aux
+sitting	sit	VBG	BodyMotion
+on	on	IN	-
+a	a	DT	-
+chair	chair	NN	Object
+in	in	IN	-
+a	a	DT	-
+sun-dappled	sun-dappled	JJ	A-RadiatingLight
+area	area	NN	Location
+of	of	IN	-
+a	a	DT	-
+park	park	NN	Location
+.	.	.	-
+He	he	PRP	-
+jiggles	jiggle	VBZ	BodyMotion
+one	one	CD	-
+knee	knee	NN	BodyPart
+up	up	RB	-
+and	and	CC	-
+down	down	RB	-
+,	,	,	-
+edgily	edgily	RB	-
+.	.	.	-
+
+He	he	PRP	-
+puts	put_aside	VBZ	Putting
+his	his	PRP$	-
+cup	cup	NN	Object
+aside	aside	RB	Location
+and	and	CC	-
+claps	clap	VBZ	BodyMotion
+his	his	PRP$	-
+hands	hand	NNS	BodyPart
+.	.	.	-
+
+He	he	PRP	-
+takes	take	VBZ	Touching
+his	his	PRP$	-
+phone	phone	NN	Object
+from	from	IN	-
+a	a	DT	-
+back	back	JJ	ALocationPositionalAttribute
+pocket	pocket	NN	Clothing
+of	of	IN	-
+his	his	PRP$	-
+trousers	trouser	NNS	Clothing
+and	and	CC	-
+opens	open	VBZ	Motion
+the	the	DT	-
+cover	cover	NN	Object
+.	.	.	-
+
+Using	use	VBG	Process
+his	his	PRP$	-
+index	index	NN	PositionalAttribute
+finger	finger	NN	BodyPart
+,	,	,	-
+he	he	PRP	-
+scrolls	scroll	VBZ	Touching
+through	through	IN	-
+his	his	PRP$	-
+contacts	contact	NNS	-
+list	list	NN	-
+to	to	TO	-
+Craig_Anderson	craig_anderson	NNP	Human
+and	and	CC	-
+calls	call	VBZ	Communication
+him	him	PRP	-
+.	.	.	-
+
+Hearing	hear	VBG	Motion
+the	the	DT	-
+noise	noise	NN	RadiatingSound
+,	,	,	-
+he	he	PRP	-
+scans_about	scan_about	VBZ	IntentionalPsychologicalProcess
+.	.	.	-
+
+Leaving	leave	VBG	Putting
+his	his	PRP$	-
+cup	cup	NN	Object
+on	on	IN	-
+a	a	DT	-
+chair	chair	NN	Object
+,	,	,	-
+Rick	rick	NNP	Human
+hurries_away	hurrie_away	VBZ	Process
+along	along	IN	-
+a	a	DT	-
+sandy	sandy	JJ	A-SubjectiveAssessment
+path	path	NN	Location
+,	,	,	-
+scanning	scan	VBG	IntentionalPsychologicalProcess
+above	above	IN	-
+him	him	PRP	-
+and	and	CC	-
+about	about	IN	-
+him	him	PRP	-
+,	,	,	-
+following	follow	VBG	Motion
+the	the	DT	-
+noise	noise	NN	RadiatingSound
+
+A	a	DT	-
+young	young	JJ	A-SubjectiveAssessment
+woman	woman	NN	Human
+.	.	.	-
+
+Jess	jess	NNP	Human
+.	.	.	-
+The	the	DT	-
+Student	student	NN	Human
+.	.	.	-
+Jess	jess	NNP	Human
+sits	sit	VBZ	BodyMotion
+chewing	chew	VBG	BodyMotion
+a	a	DT	-
+pencil	pencil	NN	Object
+,	,	,	-
+which	which	WDT	-
+she	she	PRP	-
+puts_down	put_down	VBZ	Putting
+to	to	TO	-
+search	search	VB	IntentionalPsychologicalProcess
+for	for	IN	-
+her	her	PRP$	-
+phone	phone	NN	Object
+beneath	beneath	IN	-
+papers	paper	NNS	Object
+on	on	IN	-
+her	her	PRP$	-
+desk	desk	NN	Object
+,	,	,	-
+on	on	IN	-
+which	which	WDT	-
+there	there	EX	-
+'s	be	VBZ	Aux
+also	also	RB	-
+a	a	DT	-
+laptop	laptop	NN	Object
+.	.	.	-
+
+Jess	jess	NNP	Human
+who	who	WP	-
+has	have	VBZ	possesses
+long	long	JJ	A-SubjectiveAssessment
+,	,	,	-
+curly	curly	JJ	A-SubjectiveAssessment
+auburn	auburn	JJ	A-ColorAttribute
+hair	hair	NN	BodyPart
+scans	scan	VBZ	IntentionalPsychologicalProcess
+about	about	IN	-
+her	her	PRP	-
+and	and	CC	-
+looks	look	VBZ	Seeing
+puzzled	puzzled	VBN	A-StateOfMind
+.	.	.	-
+
+Baffled	baffled	JJ	A-StateOfMind
+by	by	IN	-
+the	the	DT	-
+sound	sound	NN	RadiatingSound
+,	,	,	-
+Jess	jess	NNP	Human
+gets_up	get_up	VBZ	BodyMotion
+from	from	IN	-
+her	her	PRP$	-
+desk	desk	NN	Object
+.	.	.	-
+Outside	outside	RB	Location
+,	,	,	-
+wearing	wear	VBG	Dressing
+a	a	DT	-
+Parka	parka	NN	Clothing
+with	with	IN	-
+a	a	DT	-
+fur-trimmed	fur-trimmed	JJ	A-SubjectiveAssessment
+hood	hood	NN	Clothing
+,	,	,	-
+she	she	PRP	-
+looks_about	look_about	VBZ	Seeing
+her	her	PRP	-
+then	then	RB	Time
+heads_up	head_up	VBZ	Motion
+a	a	DT	-
+slope	slope	NN	Location
+of	of	IN	-
+tall	tall	JJ	A-SubjectiveAssessment
+grasses	grasse	NNS	Vegetable
+and	and	CC	-
+scrubby	scrubby	RB	-
+bushes	bushe	NNS	Vegetable
+.	.	.	-
+
+She	she	PRP	-
+pauses	pause	VBZ	Motion
+to	to	TO	-
+listen	listen	VB	Hearing
+,	,	,	-
+then	then	RB	Time
+disappears	disappear	VBZ	Process
+into	into	IN	-
+the	the	DT	-
+vegetation	vegetation	NN	Vegetable
+.	.	.	-
+
+Jess	jess	NNP	Human
+,	,	,	-
+Rick	rick	NNP	Human
+and	and	CC	-
+James	james	NNP	Human
+are	be	VBP	Aux
+standing	stand	VBG	BodyMotion
+together	together	RB	-
+.	.	.	-
+
+They	they	PRP	-
+'re	be	VBP	Aux
+in	in	IN	-
+a	a	DT	-
+sunny	sunny	JJ	A-RadiatingLight
+,	,	,	-
+sandy	sandy	JJ	A-SubjectiveAssessment
+clearing	clearing	NN	Location
+.	.	.	-
+
+A	a	DT	-
+wind	wind	NN	-
+is	be	VBZ	Aux
+blowing	blow	VBG	BodyMotion
+as	as	IN	-
+they	they	PRP	-
+all	all	RB	-
+scan_about	scan_about	VB	IntentionalPsychologicalProcess
+for	for	IN	-
+the	the	DT	-
+owner	owner	NN	Human
+of	of	IN	-
+the	the	DT	-
+voice	voice	NN	RadiatingSound
+.	.	.	-
+
+He	he	PRP	-
+claps	clap	VBZ	BodyMotion
+a	a	DT	-
+hand	hand	NN	BodyPart
+to	to	TO	-
+his	his	PRP$	-
+head	head	NN	BodyPart
+.	.	.	-
+
+They	they	PRP	-
+'re	be	VBP	Aux
+all	all	RB	-
+standing	stand	VBG	BodyMotion
+well	well	RB	-
+apart	apart	RB	Location
+.	.	.	-
+
+They	they	PRP	-
+glance	glance	VBP	Seeing
+at	at	IN	-
+each	each	DT	-
+other	other	DT	-
+.	.	.	-
+Rick	rick	NNP	Human
+shrugs	shrug	VBZ	Gesture
+and	and	CC	-
+shakes	shake	VBZ	Gesture
+his	his	PRP$	-
+head	head	NN	BodyPart
+.	.	.	-
+
+Rick	rick	NNP	Human
+follows	follow	VBZ	Process
+James.Jessica	james.jessica	NNP	-
+stares_down	stare_down	VBZ	Seeing
+and	and	CC	-
+considers	consider	VBZ	IntentionalPsychologicalProcess
+.	.	.	-
+
+She	she	PRP	-
+smiles	smile	VBZ	Gesture
+and	and	CC	-
+runs_after	run_after	VBZ	Walking
+them	them	PRP	-
+in	in	IN	-
+the	the	DT	-
+sunshine	sunshine	NN	RadiatingLight
+.	.	.	-
+
+They	they	PRP	-
+walk_off	walk_off	VBP	Walking
+merrily	merrily	RB	-
+towards	towards	IN	-
+trees	tree	NNS	Vegetable
+beneath	beneath	IN	-
+a	a	DT	-
+clear	clear	JJ	A-ColorAttribute
+blue	blue	JJ	A-ColorAttribute
+sky	sky	NN	Location
+.	.	.	-
+
+Blackness	blacknes	NNS	FilmLanguage
+.	.	.	-
+
+A	a	DT	-
+woman	woman	NN	Human
+hangs_out	hang_out	VBZ	Process
+washing	washing	NN	-
+as	as	IN	-
+she	she	PRP	-
+talks	talk	VBZ	Communication
+on	on	IN	-
+her	her	PRP$	-
+mobile	mobile	NN	Object
+:	:	:	-
+No	no	UH	-
+,	,	,	-
+I	I	PRP	-
+could	could	MD	-
+n't	n't	RB	-
+.	.	.	-
+I	I	PRP	-
+have	have	MD	Aux
+to	to	TO	-
+finish	finish	VB	Process
+,	,	,	-
+really	really	RB	-
+.	.	.	-
+No	no	UH	-
+!	!	.	-
+What	what	WP	-
+are	be	VBP	Aux
+you	you	PRP	-
+talking	talk	VBG	Communication
+about	about	IN	-
+?	?	.	-
+Of	of	IN	-
+course	course	NN	-
+yes	yes	RB	-
+,	,	,	-
+our	our	PRP$	-
+luggage	luggage	NN	Object
+is	be	VBZ	Aux
+ready	ready	JJ	A-SubjectiveAssessment
+.	.	.	-
+Listen	listen	VB	Hearing
+,	,	,	-
+I	I	PRP	-
+can	can	MD	-
+not	not	RB	-
+talk	talk	VB	Communication
+right	right	RB	-
+now	now	RB	Time
+.	.	.	-
+I	I	PRP	-
+have	have	MD	Aux
+to	to	TO	-
+leave	leave	VB	Motion
+you	you	PRP	-
+.	.	.	-
+
+Zoe	zoe	NNP	Human
+.	.	.	-
+The	the	DT	-
+next	next	JJ	A-PositionalAttribute
+one	one	NN	-
+.	.	.	-
+
+On	on	IN	-
+a	a	DT	-
+white	white	JJ	A-ColorAttribute
+background	background	NN	FilmLanguage
+:	:	:	-
+what	what	WDT	-
+happens	happen	VBZ	Process
+while	while	IN	-
+.	.	.	-
 

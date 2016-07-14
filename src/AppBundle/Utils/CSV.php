@@ -57,7 +57,8 @@ class CSV
 	foreach ($csv as $data) {
 	   if ( ( ($pos == 'N') && ( 0 === strpos($data['Annotation3-1'], $pos) ) ) ||
 	        ( ($pos == 'V') && ( 0 === strpos($data['Annotation3-1'], $pos) ) && ( 0 !== strpos($data['Annotation1-1'], 'A') ) ) ||
-		( ($pos == 'A') && ( ( 0 === strpos($data['Annotation3-1'], $pos) ) || (0 === strpos($data['Annotation3-1'], 'VMP')) ))
+		( ($pos == 'A') && ( ( 0 === strpos($data['Annotation3-1'], $pos) ) || (0 === strpos($data['Annotation3-1'], 'VMP')) || (0 === strpos($data['Annotation3-1'], 'JJ')) )) ||
+		( ($pos == 'RG') && ( 0 === strpos($data['Annotation3-1'], $pos) ) ) 
 		) {
 		$word = $data['Annotation2-1'];
 		$sem = $data['Annotation1-1'];
@@ -90,7 +91,8 @@ class CSV
 	array_push($values, $headers);
 	foreach ( $result as $key ){ 
 		$items = explode("@",$key['lemma']);
-		$val = "['". $items[0] . "','" . $items[1] . "'," . $key['freq'] . "]";
+		$clean_lemma = str_replace("'","",$items[0]);
+		$val = "['". $clean_lemma . "','" . $items[1] . "'," . $key['freq'] . "]";
 		array_push($values, $val);
 	}
 	#var_dump($values);
@@ -106,7 +108,7 @@ class CSV
      * "Annotation1-1","BeginTime","Annotation2-1","BeginTime","Annotation3-1","BeginTime","TranscriptionName" 
      * Location,3324,playa,3324,NCFS000,3324,"Aptent-ES.eaf" 
      */
-    public function getLemmaPoSFreq($csvFile)
+    public function getLemmaPoSFreq($csvFile,$provider)
     {
 	$nWords = 0;
 	$words = array();
@@ -117,8 +119,13 @@ class CSV
 	$header = array_shift($rows);
 	
 	$csv = array();
-	foreach ($rows as $row) {
-  		$csv[] = array_combine($header, $row);
+	foreach ($rows as $row) { 
+		if ($provider == "") {
+  			$csv[] = array_combine($header, $row);
+		}
+		elseif ($provider == $row[6]) {
+  			$csv[] = array_combine($header, $row);
+		}
 	}
 
 	foreach ($csv as $data) {
@@ -158,7 +165,8 @@ class CSV
 	array_push($values, $headers);
 	foreach ( $result as $key ){ 
 		if ($key['freq'] > 2){
-		$val = "['". $key['lemma'] . "','" . $key['pos'] . "'," . $key['freq'] . "]";
+		$clean_lemma = str_replace("'","",$key['lemma']);
+		$val = "['". $clean_lemma . "','" . $key['pos'] . "'," . $key['freq'] . "]";
 		array_push($values, $val);
 		}
 	}
@@ -186,7 +194,7 @@ class CSV
 	
 	foreach ($csv as $c) { 
 	if ($pos == "V"){
-	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
+	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
@@ -222,7 +230,7 @@ class CSV
 	   }
 	}
 	if ($pos == "A"){
-	   if (substr($c['Annotation3-1'], 0, 1 ) === "A" || substr($c['Annotation3-1'], 0, 3 ) == "VMP"){
+	   if (substr($c['Annotation3-1'], 0, 1 ) === "A" || substr($c['Annotation3-1'], 0, 3 ) == "VMP" || substr($c['Annotation3-1'], 0, 1 ) === "J"){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
@@ -323,7 +331,8 @@ class CSV
 	$total = count($csv);
 	foreach ($result as $key => $value) {	
 		$val2 = ($value / $total) * 100;
-		$pair = "['" . $key ."'," . $value .", " . $val2 . "]";
+		$clean_lemma = str_replace("'","",$key);
+		$pair = "['" . $clean_lemma ."'," . $value .", " . $val2 . "]";
 		array_push($values, $pair);
 	}
 			  
@@ -403,7 +412,7 @@ class CSV
 	$result = array();
 	
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
+	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
 		$sem = $c['Annotation1-1']; 
 		##initialize the result for this Sem because it doesnt exist yet
   		if (!isset($result[$sem])) {
@@ -439,7 +448,7 @@ class CSV
 	$result = array();
 	$total = 0;
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
+	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
 		if ($c['Annotation1-1'] == $sem ) {
 			$lemma = $c['Annotation2-1'];
 			##initialize the result for this Lemma because it doesnt exist yet
@@ -460,8 +469,8 @@ class CSV
 	array_push($values, $headers);
 	
 	foreach ($result as $key => $value) {	
-		
-		$pair = "['" . $key ."'," . $value . "]";
+		$clean_lemma = str_replace("'","",$key);
+		$pair = "['" . $clean_lemma ."'," . $value . "]";
 		array_push($values, $pair);
 	}
 			  
@@ -492,7 +501,7 @@ class CSV
 	$result = array();
 	$total = 1;
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){		
+	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){		
 		if ($c['Annotation1-1'] == $sem ) {
 			$lemma = $c['Annotation2-1'];
 			$time = $c['BeginTime'] / 60000;
@@ -517,7 +526,8 @@ class CSV
 		$num = $value[0];
 		array_shift($value);
 		foreach ($value as $v){
-			$pair = "[$v," . $num .",'" . $key . "']";
+			$clean_lemma = str_replace("'","",$key);
+			$pair = "[$v," . $num .",'" . $clean_lemma . "']";
 			array_push($values, $pair);
 			array_push($times, $v);
 		}
@@ -555,7 +565,7 @@ class CSV
 	$result = array();
 	$total = 1;
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
+	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
 			$sem = $c['Annotation1-1'];
 			##initialize the result for this sem because it doesnt exist yet
   			if (!isset($result[$sem])) {
@@ -609,7 +619,7 @@ class CSV
 	$prov = array();
 	
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
+	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
 		$lemma = $c['Annotation2-1'];
 		##initialize the class for this Sem because it doesnt exist yet
 	  	if (!isset($class[$lemma])) {
@@ -645,7 +655,8 @@ class CSV
 	$total = count($prov);
 	foreach ($result as $key => $value) {	
 		if (array_key_exists($key, $class)) { $val2 = $class[$key] / $total; }
-		$pair = "['" . $key ."'," . $value .", " . $val2 . "]";
+		$clean_lemma = str_replace("'","",$key);
+		$pair = "['" . $clean_lemma ."'," . $value .", " . $val2 . "]";
 		array_push($values, $pair);
 	}
 			  
@@ -679,7 +690,7 @@ class CSV
 	$prov = array();
 
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
+	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") ||substr($c['Annotation3-1'], 0, 2 ) === "VB" ){
 		$sem = $c['Annotation1-1'];
 		##initialize the class for this Sem because it doesnt exist yet
 	  	if (!isset($class[$sem])) {

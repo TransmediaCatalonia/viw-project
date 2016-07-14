@@ -21,13 +21,17 @@ use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
 /*
 Index:
 
-  vocabularyVerbs            ANY      ANY      ANY    /vocabulary/verbs/{dir}                           
-  vocabularyVerbsProvider    ANY      ANY      ANY    /vocabulary/verbs/{dir}/{provider}                
-  vocabularyVerbsSemantic    ANY      ANY      ANY    /vocabulary/verbssem/{dir}/{sem}                  
-  vocabularyVerbsDash        ANY      ANY      ANY    /vocabulary/verbsdash/{dir}                       
-  vocabularyNounsDash        ANY      ANY      ANY    /vocabulary/nounsdash/{dir}                       
-  vocabularyAdjsDash         ANY      ANY      ANY    /vocabulary/adjsdash/{dir}                        
-  vocabularyPosDash          ANY      ANY      ANY    /vocabulary/posdash/{dir}       
+vocabularyPos                 /vocabulary/pos/{dir}                   
+vocabularyVerbsProvider       /vocabulary/verbs/{dir}/{provider}      
+vocabularyVerbsSemantic       /vocabulary/verbssem/{dir}/{sem}        
+vocabularyVerbsDash           /vocabulary/verbsdash/{dir}             
+vocabularyNounsDash           /vocabulary/nounsdash/{dir}             
+vocabularyAdjsDash            /vocabulary/adjsdash/{dir}              
+vocabularyAdvsDash            /vocabulary/advsdash/{dir}              
+vocabularyVerbsDashProvider   /vocabulary/verbsdash/{dir}/{provider}  
+vocabularyNounsDashProvider   /vocabulary/nounsdash/{dir}/{provider}  
+vocabularyAdjsDashProvider    /vocabulary/adjsdash/{dir}/{provider}   
+vocabularyPosDash             /vocabulary/posdash/{dir}        
 */
 
 class VocabularyController extends Controller
@@ -263,6 +267,28 @@ public function verbsFilesProvider($dir,$provider)
 		return new Response($html);
     }
 
+/**  
+     * @Route("/vocabulary/advsdash/{dir}", name="vocabularyAdvsDash")
+     * returns: ['lemma', 'SemanticClass', 'Frequency' ]
+     * pie + table + form for verbs/semclass
+     */
+    public function advsdash($dir)
+    {    
+	## gets data from CSV.php controller
+        $path = $this->container->getParameter('kernel.root_dir');
+        $dataDir = $path . "/../data/$dir";
+        $file = $dataDir .  "/sem.csv";
+	$csvFile = file($file);
+
+        $result = $this->get('app.utils.csv')->getLemmaSemFreq($file,'RG',"");
+	#var_dump($result);
+	
+	$toHTML = implode(",",$result[0]);
+		$html = $this->container->get('templating')->render(
+		'vocabulary/vocabularyDash.html.twig',
+		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'adverbs', 'path' => 'corpus'));
+		return new Response($html);
+    }
 
 /**  
      * @Route("/vocabulary/verbsdash/{dir}/{provider}", name="vocabularyVerbsDashProvider")
@@ -358,7 +384,7 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        $result = $this->get('app.utils.csv')->getLemmaPoSFreq($file);
+        $result = $this->get('app.utils.csv')->getLemmaPoSFreq($file,"");
 	#var_dump($result);
 	$path = 'corpus' ;
 	$toHTML = implode(",",$result[0]);
@@ -369,5 +395,31 @@ public function verbsFilesProvider($dir,$provider)
     }
 
 
+/**  
+     * @Route("/vocabulary/posdash/{dir}/{provider}", name="vocabularyPosDashProvider")
+     * returns: ['lemma', 'PoS', 'Frequency' ]
+     * pie + table + form for posTag
+     */
+    public function sposdashProvider($dir,$provider)
+    {    
+	## gets data from CSV.php controller
+        $path = $this->container->getParameter('kernel.root_dir');
+        $dataDir = $path . "/../data/$dir";
+        $file = $dataDir .  "/sem.csv";
+	$csvFile = file($file);
+
+	$corpus = substr($provider, 0, -4);
+	$corpus = preg_replace('/^What-/', '', $corpus); #dirty...
+	$path = 'metadata/' . $dir;
+
+        $result = $this->get('app.utils.csv')->getLemmaPoSFreq($file,$provider);
+	#var_dump($result);
+	
+	$toHTML = implode(",",$result[0]);
+		$html = $this->container->get('templating')->render(
+		'vocabulary/vocabularyDash.html.twig',
+		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'PoS tag', 'pos' => '', 'path' => $path));
+		return new Response($html);
+    }
 
 }

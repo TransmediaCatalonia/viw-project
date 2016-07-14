@@ -2,10 +2,9 @@
 <html>
     <head>
         <meta charset="UTF-8" />
-        <title>{% block title %}VIW Visual into Words{% endblock %}</title>
-        {% block stylesheets %}
-<style>
-    body { background: #F5F5F5; font-family: "Helvetica neue", Helvetica, Arial, Verdana, sans-serif; font-size: 12px; }
+        <title>TransMedia Catalonia</title>
+        <style>
+    body { background: #F5F5F5; font-family: "Helvetica neue", Helvetica, Arial, Verdana, sans-serif; font-size: 14px; }
     h1, h2 { line-height: 1.2; margin: 0 0 .5em; }
     h1 { font-size: 20px; }
     h2 { font-size: 16px; margin-bottom: 1em; color: #C74451}
@@ -91,7 +90,7 @@
     height: 120px;
     margin: 0;
     padding: 0;
-    background: url(/images/logo-header.png); 	background-size: cover;
+    background: url(images/grupRecerca_logo.jpg); 	background-size: cover;
     }
     #sub label { display: inline-block; }
     #sub div { display: inline-block; }
@@ -138,27 +137,54 @@
       background-color: #fff; }
    /* End navigation bar styling. */
 </style>
-{% endblock %}
-        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
-{% block javascripts %}{% endblock %}
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     </head>
     <body>
         <div id="logo"></div>
 
-	{% block nav %}
-	<div id="wrapper">
+		<div id="wrapper">
 
-	<ul id="nav">
-     	<li><a href="{{ app.request.baseUrl }}/">Home</a></li>
-      	<li><a href="#">More info</a></li>	
-     	<li><a href="{{ app.request.baseUrl }}/density">Density Graphs</a></li>
-	<li><a href="{{ app.request.baseUrl }}/search">Search for files</a></li>
-	<li><a href="{{ app.request.baseUrl }}/kwic">Search words in corpus</a></li>
-	<li><a href="http://pagines.uab.cat/viw/content/contact">Contact</a></li>
-	</ul>
+	
 
-	{% endblock %}
-        {% block body %}{% endblock %}
+	        
+    
+
+        <div id="container">
+
+	   <div id="status">
+		<p><b>TransMedia Catalonia</b> is a research group from Universitat Autònoma de Barcelona (UAB) working on 
+audiovisual translation and media accessibility.</p>
+
+<p>This website gives access to some of TransMedia Catalonia projects. 
+More information about the group can be found on its <a href="http://grupsderecerca.uab.cat/transmedia/">website</a>.</p>
+
+	</div>
+
+	<div id="status">
+	<h1>The VIW project</h1>
+		<ul>
+		<li><a href="http://pagines.uab.cat/viw/">Click here</a> to access the VIW project information.</li>
+<br/>
+		<li><a href="http://transmediacatalonia.uab.cat/web/">Click here</a> to access the VIW project data.
+		</ul></p>
+
+<br/><br/><br/>
+<p><center><img src="http://gent.uab.cat/amatamala/sites/gent.uab.cat.amatamala/files/images/000-transmediacatalonia.png">
+
+</center></p>
+
+            </div>
+
+            
+
+            
+
         </div>
-    </body>
+ 
+
+        </div>
+    
+
+</body>
 </html>
+

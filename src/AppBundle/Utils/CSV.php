@@ -58,7 +58,7 @@ class CSV
 	   if ( ( ($pos == 'N') && ( 0 === strpos($data['Annotation3-1'], $pos) ) ) ||
 	        ( ($pos == 'V') && ( 0 === strpos($data['Annotation3-1'], $pos) ) && ( 0 !== strpos($data['Annotation1-1'], 'A') ) ) ||
 		( ($pos == 'A') && ( ( 0 === strpos($data['Annotation3-1'], $pos) ) || (0 === strpos($data['Annotation3-1'], 'VMP')) || (0 === strpos($data['Annotation3-1'], 'JJ')) )) ||
-		( ($pos == 'RG') && ( 0 === strpos($data['Annotation3-1'], $pos) ) ) 
+		( ($pos == 'RG') && ( ( 0 === strpos($data['Annotation3-1'], $pos)) || ( 0 === strpos($data['Annotation3-1'], 'RB')) ) ) 
 		) {
 		$word = $data['Annotation2-1'];
 		$sem = $data['Annotation1-1'];
@@ -96,7 +96,7 @@ class CSV
 		array_push($values, $val);
 	}
 	#var_dump($values);
-        return array($values);
+        return array($values,$result);
     }
 
 /**
@@ -160,7 +160,7 @@ class CSV
         }
 
 	# arrange results 
-	$values = array();
+	$values = array(); 
 	$headers = "['Lemma','PoS','Frequency']";
 	array_push($values, $headers);
 	foreach ( $result as $key ){ 
@@ -171,7 +171,7 @@ class CSV
 		}
 	}
 	#var_dump($values);
-        return array($values);
+        return array($values,$result);
     }
 
 
@@ -180,7 +180,7 @@ class CSV
      * reads sem.csv file and returns with verbs/nouns/adj/adv x provider"; 
      * returns: ['Provider','NumVerbs/Nouns/Adjs/Adv','UniqVerbs/Nouns/Adjs/Adv'] for all 'corpus' 
      */
-    public function getVerbsFiles($csvFile, $pos)
+    public function getVerbsFiles($csvFile)
     {
 	##﻿csv: "Annotation1-1","BeginTime","Annotation2-1","BeginTime","Annotation3-1","BeginTime","TranscriptionName"
 	$rows = array_map('str_getcsv', file($csvFile));
@@ -190,10 +190,10 @@ class CSV
   		$csv[] = array_combine($header, $row);
 	}  
         #var_dump($csv[2]);
-	$result = array();
+	$result_v = array();$result_n = array();$result_a = array();$result_r = array();
 	
 	foreach ($csv as $c) { 
-	if ($pos == "V"){
+	#if ($pos == "V"){
 	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
@@ -201,79 +201,82 @@ class CSV
 		$lemma = $c['Annotation2-1'];
 
 		##initialize the result for this fileName because it doesnt exist yet
-  		if (!isset($result[$fileName])) {
-			$n = 1 ;
-    			$result[$fileName] = array();
-			$result[$fileName]['verbs'] = array();
+  		if (!isset($result_v[$fileName])) {
+			$v = 1 ;
+    			$result_v[$fileName] = array();
+			$result_v[$fileName]['verbs'] = array();
 		}
-		++$n; 
-                $result[$fileName]['lemma'] = $n;
-		array_push($result[$fileName]['verbs'], $lemma);
+		++$v; 
+                $result_v[$fileName]['lemma'] = $v;
+		array_push($result_v[$fileName]['verbs'], $lemma);
 	   }
-	}
-	if ($pos == "N"){
-	   if (substr($c['Annotation3-1'], 0, 1 ) === "N"){
+	#}
+	#if ($pos == "N"){
+	   elseif (substr($c['Annotation3-1'], 0, 1 ) === "N"){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
 		$lemma = $c['Annotation2-1'];
 
 		##initialize the result for this fileName because it doesnt exist yet
-  		if (!isset($result[$fileName])) {
+  		if (!isset($result_n[$fileName])) {
 			$n = 1 ;
-    			$result[$fileName] = array();
-			$result[$fileName]['verbs'] = array();
+    			$result_n[$fileName] = array();
+			$result_n[$fileName]['verbs'] = array();
 		}
 		++$n; 
-                $result[$fileName]['lemma'] = $n;
-		array_push($result[$fileName]['verbs'], $lemma);
+                $result_n[$fileName]['lemma'] = $n;
+		array_push($result_n[$fileName]['verbs'], $lemma);
 	   }
-	}
-	if ($pos == "A"){
-	   if (substr($c['Annotation3-1'], 0, 1 ) === "A" || substr($c['Annotation3-1'], 0, 3 ) == "VMP" || substr($c['Annotation3-1'], 0, 1 ) === "J"){
+	#}
+	#if ($pos == "A"){
+	   elseif (substr($c['Annotation3-1'], 0, 1 ) === "A" || substr($c['Annotation3-1'], 0, 3 ) == "VMP" || substr($c['Annotation3-1'], 0, 1 ) === "J"){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
 		$lemma = $c['Annotation2-1'];
 
 		##initialize the result for this fileName because it doesnt exist yet
-  		if (!isset($result[$fileName])) {
-			$n = 1 ;
-    			$result[$fileName] = array();
-			$result[$fileName]['verbs'] = array();
+  		if (!isset($result_a[$fileName])) {
+			$a = 1 ;
+    			$result_a[$fileName] = array();
+			$result_a[$fileName]['verbs'] = array();
 		}
-		++$n; 
-                $result[$fileName]['lemma'] = $n;
-		array_push($result[$fileName]['verbs'], $lemma);
+		++$a; 
+                $result_a[$fileName]['lemma'] = $a;
+		array_push($result_a[$fileName]['verbs'], $lemma);
 	   }
-	}
-	if ($pos == "R"){
-	   if (substr($c['Annotation3-1'], 0, 1 ) === "R"){
+	#}
+	#if ($pos == "R"){
+	   elseif (substr($c['Annotation3-1'], 0, 1 ) === "R"){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
 		$lemma = $c['Annotation2-1'];
 
 		##initialize the result for this fileName because it doesnt exist yet
-  		if (!isset($result[$fileName])) {
-			$n = 1 ;
-    			$result[$fileName] = array();
-			$result[$fileName]['verbs'] = array();
+  		if (!isset($result_r[$fileName])) {
+			$r = 1 ;
+    			$result_r[$fileName] = array();
+			$result_r[$fileName]['verbs'] = array();
 		}
-		++$n; 
-                $result[$fileName]['lemma'] = $n;
-		array_push($result[$fileName]['verbs'], $lemma);
+		++$r; 
+                $result_r[$fileName]['lemma'] = $r;
+		array_push($result_r[$fileName]['verbs'], $lemma);
 	   }
-	}
+	#}
 	}
 	#var_dump($result);
-	$values = array();
-	if ($pos == "V" ) { $headers = "['Provider','NumVerbs','UniqVerbs']";}
-	if ($pos == "N" ) { $headers = "['Provider','NumNouns','UniqNouns']";}
-	if ($pos == "A" ) { $headers = "['Provider','NumAdjs','UniqAdjs']";}
-	if ($pos == "R" ) { $headers = "['Provider','NumAdvs','UniqAdvs']";}
-	array_push($values, $headers);
-	foreach ($result as $key => $value) {
+	$values_v = array(); $values_n = array(); $values_a = array(); $values_r = array();
+	$headers_v = "['Provider','NumVerbs','UniqVerbs']";
+	$headers_n = "['Provider','NumNouns','UniqNouns']";
+	$headers_a = "['Provider','NumAdjs','UniqAdjs']";
+	$headers_r = "['Provider','NumAdvs','UniqAdvs']";
+	array_push($values_v, $headers_v);
+	array_push($values_n, $headers_n);
+	array_push($values_a, $headers_a);
+	array_push($values_r, $headers_r);
+	foreach ($result_v as $key => $value) {
 		$val1 = ""; $val2 = "";
 		foreach ($value as $k => $v) {	
 			#	$pair = "['" . $key ."'," . $v ."]";
@@ -282,10 +285,43 @@ class CSV
 			if ($k == 'verbs'){ $unique = array_count_values($v); $val2 = count($unique); }	
 		}
 		$pair = "['" . $key ."'," . $val1 .", " . $val2 . "]";
-		array_push($values, $pair);
+		array_push($values_v, $pair);
+	}
+	foreach ($result_n as $key => $value) {
+		$val1 = ""; $val2 = "";
+		foreach ($value as $k => $v) {	
+			#	$pair = "['" . $key ."'," . $v ."]";
+			#	array_push($values, $pair);
+			if ($k == 'lemma'){ $val1 = $v;}
+			if ($k == 'verbs'){ $unique = array_count_values($v); $val2 = count($unique); }	
+		}
+		$pair = "['" . $key ."'," . $val1 .", " . $val2 . "]";
+		array_push($values_n, $pair);
+	}
+	foreach ($result_a as $key => $value) {
+		$val1 = ""; $val2 = "";
+		foreach ($value as $k => $v) {	
+			#	$pair = "['" . $key ."'," . $v ."]";
+			#	array_push($values, $pair);
+			if ($k == 'lemma'){ $val1 = $v;}
+			if ($k == 'verbs'){ $unique = array_count_values($v); $val2 = count($unique); }	
+		}
+		$pair = "['" . $key ."'," . $val1 .", " . $val2 . "]";
+		array_push($values_a, $pair);
+	}
+	foreach ($result_r as $key => $value) {
+		$val1 = ""; $val2 = "";
+		foreach ($value as $k => $v) {	
+			#	$pair = "['" . $key ."'," . $v ."]";
+			#	array_push($values, $pair);
+			if ($k == 'lemma'){ $val1 = $v;}
+			if ($k == 'verbs'){ $unique = array_count_values($v); $val2 = count($unique); }	
+		}
+		$pair = "['" . $key ."'," . $val1 .", " . $val2 . "]";
+		array_push($values_r, $pair);
 	}		
 	#var_dump($values);	  
-        return $values;
+        return array($values_v, $values_n, $values_a, $values_r, $csv);
     }
 
 

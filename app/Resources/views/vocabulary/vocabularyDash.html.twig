@@ -5,6 +5,7 @@
         <div id="container">
 		<div id="status">
 
+<script src="/js/utils.js"></script>
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
@@ -12,6 +13,11 @@
 
   <h3>Counting {{ pos }} by {{ message }} in the '{{ corpus }}' corpus</h3>
   <p>Use the 'Filter by frequency' control to remove less frequent words. You can choose a {{ message }}.</p>
+
+  {% if csv is not null %}
+  <p><a href='#' onclick='downloadCSV({ filename: "pos-data.csv" });'>Download source data as CSV file.</a></p>
+  {% endif %}
+
   <table style="width: 100%; display: table-cell;"  >
     <tr>
       <td><div id="slider_div" style="padding-left: 15px"></div>     
@@ -83,9 +89,15 @@
       }
     });
     var data = google.visualization.arrayToDataTable([ {{ key|raw }} ]);
+    
     dashboard.bind([slider, categoryPicker], [pie, table]);
     dashboard.draw(data);
   }
+
+   {% if csv is not null %}
+   var csvData = {{ csv|json_encode|raw }};
+   {% endif %}
+
 </script>
 
   

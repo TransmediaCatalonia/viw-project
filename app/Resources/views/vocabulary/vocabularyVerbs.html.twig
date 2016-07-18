@@ -7,7 +7,11 @@
 		<div id="status">	
   		<a href="{{ app.request.baseUrl }}/corpus/{{ title }}">Back to {{ title }}</a>
 			<h3>Words' countings for {{ title }} (tokens, types):</h3>
-		
+
+		{% if csv is not null %}
+ 		 <p><a href='#' onclick='downloadCSV({ filename: "pos-data.csv" });'>Download source data as CSV file.</a></p>
+  		{% endif %}
+
     		<div id="columnchart" style="width: 800px; height: 400px;"></div>	
 		
 		<div id="columnchart2" style="width: 800px; height: 400px;"></div>	
@@ -23,6 +27,7 @@
 
 
 {% block javascripts %}
+<script src="/js/utils.js"></script>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   <script type="text/javascript">
     google.charts.load("current", {packages:['corechart']});
@@ -81,8 +86,12 @@
         colors: ['#336699','#FF9900'],
       	};
       	var chart3 = new google.visualization.ColumnChart(document.getElementById('columnchart4'));
-      	chart3.draw(data4, options4);
+      	chart3.draw(data4, options4);	
   }
+
+	{% if csv is not null %}
+   	var csvData = {{ csv|json_encode|raw }};
+  	{% endif %}
   </script>
 
  

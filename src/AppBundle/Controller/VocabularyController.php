@@ -53,28 +53,28 @@ public function verbsDir($dir)
 	$csvFile = file($file);
 
 	# returns ['Provider','NumVerbs','UniqVerbs']
-        $result = $this->get('app.utils.csv')->getVerbsFiles($file,"V");
+        list($verbs,$nouns,$adjectives,$adverbs,$csv) = $this->get('app.utils.csv')->getVerbsFiles($file);
 
 	# returns ['Provider','NumNouns','UniqVerbs']
-	$result2 = $this->get('app.utils.csv')->getVerbsFiles($file,"N");
+	#$result2 = $this->get('app.utils.csv')->getVerbsFiles($file,"N");
 
 	# returns ['Provider','NumAdjs','UniqVerbs']
-	$result3 = $this->get('app.utils.csv')->getVerbsFiles($file,"A");
+	#$result3 = $this->get('app.utils.csv')->getVerbsFiles($file,"A");
 		
 	# returns ['Provider','NumAdvs','UniqVerbs']
-	$result4 = $this->get('app.utils.csv')->getVerbsFiles($file,"R");
+	#$result4 = $this->get('app.utils.csv')->getVerbsFiles($file,"R");
 
-	$toHTML = implode(",",$result);
+	$toHTML = implode(",",$verbs);
 	
-	$toHTML2 = implode(",",$result2);
+	$toHTML2 = implode(",",$nouns);
 
-	$toHTML3 = implode(",",$result3);
+	$toHTML3 = implode(",",$adjectives);
 
-	$toHTML4 = implode(",",$result4);
+	$toHTML4 = implode(",",$adverbs);
 	
         $html = $this->container->get('templating')->render(
             'vocabulary/vocabularyVerbs.html.twig',
-            array('key' => $toHTML, 'title' => $dir, 'key2' => $toHTML2, 'key3' => $toHTML3, 'key4' => $toHTML4)
+            array('key' => $toHTML, 'title' => $dir, 'key2' => $toHTML2, 'key3' => $toHTML3, 'key4' => $toHTML4, 'csv' => $csv)
         );
 
         return new Response($html);
@@ -210,13 +210,13 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        $result = $this->get('app.utils.csv')->getLemmaSemFreq($file,'V',"");
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'V',"");
 	#var_dump($result);
 	
-	$toHTML = implode(",",$result[0]);
+	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'verbs', 'path' => 'corpus'));
+		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'verbs', 'path' => 'corpus', 'csv' => $result));
 		return new Response($html);
     }
 
@@ -234,13 +234,13 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        $result = $this->get('app.utils.csv')->getLemmaSemFreq($file,'N',"");
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'N',"");
 	#var_dump($result);
 	
-	$toHTML = implode(",",$result[0]);
+	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'nouns', 'path' => 'corpus'));
+		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'nouns', 'path' => 'corpus','csv' => $result));
 		return new Response($html);
     }
 
@@ -257,13 +257,13 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        $result = $this->get('app.utils.csv')->getLemmaSemFreq($file,'A',"");
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'A',"");
 	#var_dump($result);
 	
-	$toHTML = implode(",",$result[0]);
+	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'adjectives', 'path' => 'corpus'));
+		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'adjectives', 'path' => 'corpus', 'csv' => $result));
 		return new Response($html);
     }
 
@@ -280,13 +280,13 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        $result = $this->get('app.utils.csv')->getLemmaSemFreq($file,'RG',"");
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'RG',"");
 	#var_dump($result);
 	
-	$toHTML = implode(",",$result[0]);
+	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'adverbs', 'path' => 'corpus'));
+		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'adverbs', 'path' => 'corpus', 'csv' => $result));
 		return new Response($html);
     }
 
@@ -303,16 +303,16 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        $result = $this->get('app.utils.csv')->getLemmaSemFreq($file,'V',$provider);
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'V',$provider);
 	#var_dump($result);
 	$corpus = substr($provider, 0, -4);
 	$corpus = preg_replace('/^What-/', '', $corpus); #dirty...
 	$path = 'metadata/' . $dir;
 
-	$toHTML = implode(",",$result[0]);
+	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'verbs', 'path' => $path));
+		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'verbs', 'path' => $path, 'csv' => $result));
 		return new Response($html);
     }
 
@@ -330,16 +330,16 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        $result = $this->get('app.utils.csv')->getLemmaSemFreq($file,'N',$provider);
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'N',$provider);
 	#var_dump($result);
 	$corpus = substr($provider, 0, -4);
 	$corpus = preg_replace('/^What-/', '', $corpus); #dirty...
 	$path = 'metadata/' . $dir;
 
-	$toHTML = implode(",",$result[0]);
+	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'nouns', 'path' => $path));
+		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'nouns', 'path' => $path, 'csv' => $result));
 		return new Response($html);
     }
 
@@ -356,19 +356,44 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        $result = $this->get('app.utils.csv')->getLemmaSemFreq($file,'A',$provider);
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'A',$provider);
 	#var_dump($result);
 	$corpus = substr($provider, 0, -4);
 	$corpus = preg_replace('/^What-/', '', $corpus); #dirty...
 	$path = 'metadata/' . $dir;
 
-	$toHTML = implode(",",$result[0]);
+	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'adjectives', 'path' => $path));
+		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'adjectives', 'path' => $path, 'csv' => $result));
 		return new Response($html);
     }
 
+/**  
+     * @Route("/vocabulary/advsdash/{dir}/{provider}", name="vocabularyAdvsDashProvider")
+     * returns: ['lemma', 'SemanticClass', 'Frequency' ]
+     * pie + table + form for nouns/semclass
+     */
+    public function advsdashPovider($dir,$provider)
+    {    
+	## gets data from CSV.php controller
+        $path = $this->container->getParameter('kernel.root_dir');
+        $dataDir = $path . "/../data/$dir";
+        $file = $dataDir .  "/sem.csv";
+	$csvFile = file($file);
+
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'RG',$provider);
+	#var_dump($result);
+	$corpus = substr($provider, 0, -4);
+	$corpus = preg_replace('/^What-/', '', $corpus); #dirty...
+	$path = 'metadata/' . $dir;
+
+	$toHTML = implode(",",$values);
+		$html = $this->container->get('templating')->render(
+		'vocabulary/vocabularyDash.html.twig',
+		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'adverbs', 'path' => $path, 'csv' => $result));
+		return new Response($html);
+    }
 
 
 /**  
@@ -384,13 +409,13 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        $result = $this->get('app.utils.csv')->getLemmaPoSFreq($file,"");
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaPoSFreq($file,"");
 	#var_dump($result);
 	$path = 'corpus' ;
-	$toHTML = implode(",",$result[0]);
+	$toHTML = implode(",",$values); 
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'PoS tag', 'pos' => '', 'path' => $path));
+		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'PoS tag', 'pos' => '', 'path' => $path, 'csv' => $result));
 		return new Response($html);
     }
 
@@ -412,13 +437,13 @@ public function verbsFilesProvider($dir,$provider)
 	$corpus = preg_replace('/^What-/', '', $corpus); #dirty...
 	$path = 'metadata/' . $dir;
 
-        $result = $this->get('app.utils.csv')->getLemmaPoSFreq($file,$provider);
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaPoSFreq($file,$provider);
 	#var_dump($result);
 	
-	$toHTML = implode(",",$result[0]);
+	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'PoS tag', 'pos' => '', 'path' => $path));
+		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'PoS tag', 'pos' => '', 'path' => $path, 'csv' => $result));
 		return new Response($html);
     }
 

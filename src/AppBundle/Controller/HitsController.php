@@ -86,7 +86,7 @@ class HitsController extends Controller
             'hits/Hits.html.twig',
             array('key' => $data, 'title' => $dir_id, 'type' => 'duration in seconds.',
                   'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
-		  'maxValue' => $maxValue)
+		  'maxValue' => $maxValue, 'path' => $subdir_id)
         );
 
         return new Response($html);
@@ -157,7 +157,7 @@ class HitsController extends Controller
             'hits/Hits.html.twig',
             array('key' => $data, 'title' => $dir_id, 'type' => 'num. of words',
 			'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
-			'maxValue' => $maxValue)
+			'maxValue' => $maxValue, 'path' => $subdir_id)
         );
 
         return new Response($html);
@@ -247,7 +247,7 @@ class HitsController extends Controller
             'hits/hitsVisual.html.twig',
             array('key' => $data, 'title' => $dir_id, 'type' => 'num. of words',
 		  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 
-                  'std' => $std, 'var' => $var, 'maxValue' => $maxValue)
+                  'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id)
         );
 
         return new Response($html);
@@ -328,7 +328,7 @@ class HitsController extends Controller
             'hits/Hits.html.twig',
             array('key' => $data, 'title' => $dir_id, 'type' => 'character/second',
                   'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
-		  'maxValue' => $maxValue)
+		  'maxValue' => $maxValue, 'path' => $subdir_id)
         );
 
         return new Response($html);

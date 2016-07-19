@@ -37,24 +37,24 @@
 	<a href="../../hits/timeline/{{ corpus }}">access</a> </li><hr/>
 	{% endif %}
 
+	<li><b>Verbs distribution in the timeline:</b> you can choose a verbal semantic class and see its 
+	distribution in the timeline.
+	 <a href="../../vocabulary/verbssem/{{ corpus }}"> access</a></li><hr/>
+
 	{% if similarity is not null %}
 	<li><b>AD similarity:</b> see text similarity among files in the corpus 
 	<a href="../../similarity/{{ corpus }}">access</a> </li><hr/>
 	{% endif %}
 	
-	<li><b>Word frequency by part of speech:</b> you can see words' frequency by part of speech tag
+	<li><b>Word frequency by part of speech:</b> you can see word frequency by part of speech tag
 	 <a href="../../vocabulary/posdash/{{ corpus }}"> access</a></li><hr/>
 
 
 	{% if sem is not null %}
-	<li><b>Words's frequency by provider:</b> this gives the number of verbs, nouns, adjectives and adverbs per provider. 
+	<li><b>Word frequency by provider:</b> this gives the number of verbs, nouns, adjectives and adverbs per provider. 
 	<a href="../../vocabulary/pos/{{ corpus }}"> access</a></li><hr/>
 
-	<li><b>Verbs in the time line:</b> you can choose a verbal semantic class and see its 
-	distribution in the time line.
-	 <a href="../../vocabulary/verbssem/{{ corpus }}"> access</a></li><hr/>
-
-
+	
 	<li><b>Verbs & semantics classes:</b> you can inspect verbal semantic classes
 	 <a href="../../vocabulary/verbsdash/{{ corpus }}"> access</a></li><hr/>
 

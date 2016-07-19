@@ -5,7 +5,10 @@
 
         <div id="container">
 		<div id="status">
+		<a href="{{ app.request.baseUrl }}/metadata/{{ path }}/{{ title }}">Back to {{ title }}</a>
+
                 	<h3>Density Graph ({{ type }}) for {{ title }}:</h3>
+			
 			{% if mean is defined %}
 			<br/>
 			<center>
@@ -27,6 +30,7 @@
 			</table>
 			</center>
 			{% endif %}
+			<div id='png'></div>
     			<div id="columnchart_material" style="width: 900px; height: 500px;"></div>	
 		</div>
 	</div>
@@ -37,7 +41,7 @@
 {% block javascripts %}
     
 
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
       google.charts.load('current', {'packages':['corechart']});
       google.charts.setOnLoadCallback(drawChart);
@@ -54,7 +58,7 @@
         ]);
 
         var options = {
-          title: 'Utterances in timeline ({{ type }})',
+          title: '{{ title }}: Utterances in timeline ({{ type }})',
           hAxis: {title: 'TimeLine in minutes', viewWindow: {min: 0, max: {{ maxValue}} }, format: 'short'},
 	  vAxis: {title: '{{ type }}', format: 'short'},
 	  chartArea:{width:'80%',height:'500px'},
@@ -62,8 +66,16 @@
         };
 
         var chart = new google.visualization.ScatterChart(document.getElementById('columnchart_material'));
+	chart.draw(data, options);
 
-        chart.draw(data, options);
+	//***** Wait for the chart to finish drawing before calling the getImageURI() method.
+	google.visualization.events.addListener(chart, 'ready', function () {
+	columnchart_material.innerHTML = '<img src="' + chart.getImageURI() + '">';
+	console.log(columnchart_material.innerHTML);
+	});
+	//*****
+	document.getElementById('png').outerHTML = '<a href="' + chart.getImageURI() + '">Get a PNG version</a>';
+
       }
     </script>
 

@@ -5,6 +5,7 @@
 
         <div id="container">
 		<div id="status">
+		<a href="{{ app.request.baseUrl }}/metadata/{{ path }}/{{ title }}">Back to {{ title }}</a>
                 	<h3>Density Graph ({{ type }}) for {{ title }}:</h3>
 			{% if mean is defined %}
 			</br>
@@ -27,6 +28,7 @@
 			</table>
 			</center>
 			{% endif %}
+			<div id='png'></div>
     			<div id="columnchart_material" style="width: 900px; height: 500px;"></div>	
 		</div>
 	</div>
@@ -66,8 +68,15 @@ data.addColumn({ 'type': 'string', 'role': 'tooltip', 'p': { 'html': true } });/
         };
 
         var chart = new google.visualization.ScatterChart(document.getElementById('columnchart_material'));
-
         chart.draw(data, options);
+
+	//***** Wait for the chart to finish drawing before calling the getImageURI() method.
+	google.visualization.events.addListener(chart, 'ready', function () {
+	columnchart_material.innerHTML = '<img src="' + chart.getImageURI() + '">';
+	console.log(columnchart_material.innerHTML);
+	});
+	//*****
+	document.getElementById('png').outerHTML = '<a href="' + chart.getImageURI() + '">Get a PNG version</a>';
       }
     </script>
 

@@ -6,7 +6,8 @@
         <div id="container">
 		   		
     		<div id="status">
-		<h3>Choose a Verbal Semantic Classes to see it in the time line (ordered by frequency)</h3>
+		<a href="{{ app.request.baseUrl }}/corpus/{{ dir }}">Back to {{ dir }}</a>
+		<h3>Choose a Verbal Semantic Classes to see it in "{{ dir }}" the timeline (ordered by frequency)</h3>
 		{% if error %}
    			 <p>{{ error }}</p>
 		{% endif %}
@@ -28,6 +29,7 @@
   		</table>
 		{% endif %}
 		{% if scatter %}
+			 <div id='png'></div>
    			 <div id="scatter" style="width: 800px; height: 300px;"></div>	
 		{% endif %}
 
@@ -44,14 +46,16 @@
 {% endblock %}
 
 {% block javascripts %}
-{% if pie %}
-   			 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+{% if pie %} 
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
       google.charts.load('current', {'packages':['corechart']});
       google.charts.setOnLoadCallback(drawChart);
       function drawChart() {
 
+	/// pie
         var data = google.visualization.arrayToDataTable([ {{ pie|raw }} ]);
          
         var options = {
@@ -61,24 +65,17 @@
         var chart = new google.visualization.PieChart(document.getElementById('piechart'));
         chart.draw(data, options);
 
-
-
-
-var data2 = new google.visualization.DataTable();
-data2.addColumn('number', 'Frequency'); 
-data2.addColumn('number', 'Time'); 
-data2.addColumn({type:'string', role:'tooltip', 'p': {'html': true}}); // tooltip for first series
-
-
-
+	/// scatter timeline
+	var data2 = new google.visualization.DataTable();
+	data2.addColumn('number', 'Frequency'); 
+	data2.addColumn('number', 'Time'); 
+	data2.addColumn({type:'string', role:'tooltip', 'p': {'html': true}}); // tooltip for first series
         data2.addRows([
-
-{{ scatter|raw }}
-
-]);
+	{{ scatter|raw }}
+	]);
 		
         var options2 = {
-          title: 'Verbs of {{ sem }} in the Timeline',
+          title: 'Verbs of {{ sem }} in the "{{ dir }}" Timeline',
           hAxis: {title: 'TimeLine in minutes.', viewWindow: {min: 0, max: {{ maxValue}} },format: 'short'},
 	  vAxis: {title: 'Frequency', format: 'short'},
           chartArea:{width:'80%',height:'400px'},
@@ -88,10 +85,15 @@ data2.addColumn({type:'string', role:'tooltip', 'p': {'html': true}}); // toolti
 
         var chart2 = new google.visualization.ScatterChart(document.getElementById('scatter'));
         
-
         chart2.draw(data2, options2);
 
-
+	//***** Wait for the chart to finish drawing before calling the getImageURI() method.
+	google.visualization.events.addListener(chart2, 'ready', function () {
+	scatter.innerHTML = '<img src="' + chart2.getImageURI() + '">';
+	console.log(scatter.innerHTML);
+	});
+	//*****
+	document.getElementById('png').outerHTML = '<a href="' + chart2.getImageURI() + '">Get a PNG version</a>';
       }
     </script>
 
@@ -100,47 +102,47 @@ data2.addColumn({type:'string', role:'tooltip', 'p': {'html': true}}); // toolti
   
 
 {% if dash %}
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart', 'table', 'gauge', 'controls']});
-  google.charts.setOnLoadCallback(drawMainDashboard);
 
-  function drawMainDashboard() {
-    var dashboard = new google.visualization.Dashboard(
-        document.getElementById('dashboard_div'));
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart', 'table', 'gauge', 'controls']});
+      google.charts.setOnLoadCallback(drawMainDashboard);
+
+      function drawMainDashboard() {
+
+    	var dashboard = new google.visualization.Dashboard(
+       	 document.getElementById('dashboard_div'));
   
-    var slider = new google.visualization.ControlWrapper({
-      'controlType': 'NumberRangeFilter',
-      'containerId': 'slider_div',
-      'options': {
-        'filterColumnIndex': 1,
-        'ui': {
-          'labelStacking': 'vertical',
-          'label': 'Filter by frequency:'
-        }
-      }
-    }); 
+   	 var slider = new google.visualization.ControlWrapper({
+    	  'controlType': 'NumberRangeFilter',
+    	  'containerId': 'slider_div',
+   	   'options': {
+   	     'filterColumnIndex': 1,
+   	     'ui': {
+   	       'labelStacking': 'vertical',
+   	       'label': 'Filter by frequency:'
+   	     }
+   	   }
+ 	   }); 
         
-
-  var pie = new google.visualization.ChartWrapper({
-      'chartType': 'PieChart',
-      'containerId': 'chart_div',
-      'options': {
-        'width': 500,
-        'height': 300,
-        'legend': 'none',
-        'chartArea': {'left': 15, 'top': 15, 'right': 0, 'bottom': 0},
-        'pieSliceText': 'label'
-      },
-      'view': {'columns': [0, 1]}
-    });
+ 	 var pie = new google.visualization.ChartWrapper({
+   	   'chartType': 'PieChart',
+   	   'containerId': 'chart_div',
+   	   'options': {
+   	     'width': 500,
+   	     'height': 300,
+  	      'legend': 'none',
+  	      'chartArea': {'left': 15, 'top': 15, 'right': 0, 'bottom': 0},
+  	      'pieSliceText': 'label'
+  	    },
+  	    'view': {'columns': [0, 1]}
+  	  });
     
-    var data = google.visualization.arrayToDataTable([ {{ dash|raw }} ]);
-    dashboard.bind([slider], [pie]);
-    dashboard.draw(data);
-  }
-</script>
-
+  	  var data = google.visualization.arrayToDataTable([ {{ dash|raw }} ]);
+  	  dashboard.bind([slider], [pie]);
+  	  dashboard.draw(data);
+    }
+    </script>
 
 {% endif %}
 

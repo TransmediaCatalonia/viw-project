@@ -349,51 +349,51 @@
 772320	777450	5130	She looks for the sound, then says, 'Listen, I cannot talk right now. I have to leave you'.	Mennell-CA.eaf
 778550	780750	2200	A title reads, 'Zoe, the next one.'	Mennell-CA.eaf
 782570	786660	4090	all goes black then words on a screen read; What happens while BLANK.	Mennell-CA.eaf
-3640	16180	12540	A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them. She chews on a pencil.  Caption: Jess the student.  She puts down her pencil, searches for her phone on her desk, beside her Macbook laptop. The screen goes black.  A young woman, her mobile phone pressed to her ear.  Subtitle : No I couldn’t . I have to finish, really.  She hangs washing on a line title: No! What are you talking about? Of course yes, our luggage is ready.  She turns at the high-pitched sound.  title: Listen, I can’t talk right now. I have to leave you.  She ends the call , looks around her frowning.  Caption: Zoe, the next one.  Caption: What happens while – blank.	MindsEye-UK.eaf
-17070	17650	580	Caption.	MindsEye-UK.eaf
-18930	20310	1380	 What happens while. 	MindsEye-UK.eaf
-21030	21550	520	blank.	MindsEye-UK.eaf
-22730	28900	6170	A car pulls up by the beach, silver with sporty wheels. Inside the driver is on his mobile phone.	MindsEye-UK.eaf
-30140	34140	4000	He undoes his seat belt. Opens the door. Gets out with his briefcase.	MindsEye-UK.eaf
-43130	46000	2870	He puts his case in the boot, gets out a striped bag.	MindsEye-UK.eaf
-52210	57390	5180	He ends the call. Puts his phone away. Looks out towards the sea.  Takes a deep breath.	MindsEye-UK.eaf
-60000	63190	3190	Puts on his sunglasses. He has ginger hair and a beard.	MindsEye-UK.eaf
-64890	67410	2520	Caption: James, the businessman.	MindsEye-UK.eaf
-68420	71540	3120	James walks near the beach, talking on his phone	MindsEye-UK.eaf
-92450	95690	3240	James lies back on the beach, barechested.	MindsEye-UK.eaf
-100020	103320	3300	He rubs his eyes, no longer wearing his sunglasses.	MindsEye-UK.eaf
-105420	107910	2490	He trickles the sand through his fingers.	MindsEye-UK.eaf
-112530	115740	3210	He sits up and answers.	MindsEye-UK.eaf
-130210	131650	1440	he looks round at the sound.	MindsEye-UK.eaf
-141490	143080	1590	again, he looks around.	MindsEye-UK.eaf
-157300	179210	21910	He ends the call, looks round, frowning deeply.  He stands, in his trunks, walks out towards the sea.  In the distance are the buildings of a town.  Back out onto the sand, frowning as if trying to determine what the sound is and where it is coming from.	MindsEye-UK.eaf
-181990	185990	4000	Beyond him the buildings are silhouetted against a hazy sky.	MindsEye-UK.eaf
-187430	189880	2450	Waves break onto rocks on the shore.	MindsEye-UK.eaf
-192020	193700	1680	He heads towards the water.	MindsEye-UK.eaf
-197670	202000	4330	He turns.  He has pale skin, greying hairs on his chest.	MindsEye-UK.eaf
-203340	214790	11450	He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on. 	MindsEye-UK.eaf
-227390	256160	28770	He climbs a winding path up a cliffside, picking his way, in his business shoes.  A takeaway coffee cup in a man’s hands; fingers tap.  A bearded grey haired man with heavy green eyes.  He has a chain around his neck, tattoos on his shoulder, wears a vest.  He shakes his head.  He runs his finger round the lid, removes it, and sips the black coffee.	MindsEye-UK.eaf
-265000	274150	9150	Caption: Rick, the retiree.  Rick sits on a park bench, in the sunshine.  He drinks the coffee, tapping his foot.	MindsEye-UK.eaf
-278950	298600	19650	He puts the cup down, rubs his hands, claps them, takes his mobile phone from his back trouser pocket, scrolls through the contacts. He selects a Craig Anderson and presses call icon.	MindsEye-UK.eaf
-330570	332230	1660	He frowns at the sound.	MindsEye-UK.eaf
-383000	384260	1260	He looks up, listening.	MindsEye-UK.eaf
-397000	405200	8200	He stands; he sets off, leaving his coffee cup on the bench. He walks towards the trees looking around him.	MindsEye-UK.eaf
-493900	494970	1070	She ends the call.	MindsEye-UK.eaf
-497150	501530	4380	She looks around, frowning, listening.	MindsEye-UK.eaf
-508690	524700	16010	She gets up, goes outside.  She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.  She climbs up the hillside, past trees and long grasses, pausing to look around her.	MindsEye-UK.eaf
-528800	538280	9480	She arrives on a plateau on the hillside, near to James and Rick The sun shines down brightly on the three small figures.	MindsEye-UK.eaf
-541660	543420	1760	The speaker can’tt be seen.	MindsEye-UK.eaf
-555770	560250	4480	The three stand there, blinking in the sunshine, peering to see who is speaking.	MindsEye-UK.eaf
-568000	569520	1520	James frowns.	MindsEye-UK.eaf
-575800	577720	1920	Their shadows are cast long.	MindsEye-UK.eaf
-594430	596750	2320	Rick shrugs, hand to his head.	MindsEye-UK.eaf
-639840	640380	540	Rick.	MindsEye-UK.eaf
-645330	647450	2120	The wind blows his wiry hair.	MindsEye-UK.eaf
-707190	712000	4810	Each of them shakes their head, James, Rick Jess.	MindsEye-UK.eaf
-716600	717930	1330	They look around.	MindsEye-UK.eaf
-720340	722000	1660	Rick laughs.	MindsEye-UK.eaf
-725000	727000	2000	James waves his hands dismissively.	MindsEye-UK.eaf
-737360	750470	13110	Rick sets off with James.  Jessica thinks for a moment, gives a “why not” smile and runs to join them.  They walk away from us towards the path through the trees, the men’s arms around Jessica’s shoulders.	MindsEye-UK.eaf
+3641	16000	12359	A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them.	MindsEye-UK.eaf
+17000	21589	4589	Caption: What happens while – blank.	MindsEye-UK.eaf
+22692	28871	6179	A car pulls up by the beach, silver with sporty wheels. Inside the driver is on his mobile phone.	MindsEye-UK.eaf
+30000	34000	4000	He undoes his seat belt. Opens the door. Gets out with his briefcase.	MindsEye-UK.eaf
+43000	46025	3025	He puts his case in the boot, gets out a striped bag.	MindsEye-UK.eaf
+52000	57256	5256	He ends the call. Puts his phone away. Looks out towards the sea.  Takes a deep breath.	MindsEye-UK.eaf
+60000	63435	3435	Puts on his sunglasses. He has ginger hair and a beard.	MindsEye-UK.eaf
+64923	71358	6435	Caption: James, the businessman. James walks near the beach, talking on his phone	MindsEye-UK.eaf
+92000	97000	5000	James lies back on the beach, barechested.	MindsEye-UK.eaf
+100000	102051	2051	He rubs his eyes, no longer wearing his sunglasses.	MindsEye-UK.eaf
+105102	107820	2718	He trickles the sand through his fingers.	MindsEye-UK.eaf
+112000	116000	4000	He sits up and answers.	MindsEye-UK.eaf
+130000	132000	2000	he looks round at the sound.	MindsEye-UK.eaf
+141358	143000	1642	again, he looks around.	MindsEye-UK.eaf
+157000	179358	22358	He ends the call, looks round, frowning deeply.  He stands, in his trunks, walks out towards the sea.  In the distance are the buildings of a town.  Back out onto the sand, frowning as if trying to determine what the sound is and where it is coming from.	MindsEye-UK.eaf
+181717	185871	4154	Beyond him the buildings are silhouetted against a hazy sky.	MindsEye-UK.eaf
+187358	189794	2436	Waves break onto rocks on the shore.	MindsEye-UK.eaf
+191897	193846	1949	He heads towards the water.	MindsEye-UK.eaf
+197589	201692	4103	He turns.  He has pale skin, greying hairs on his chest.	MindsEye-UK.eaf
+203307	214589	11282	He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on.	MindsEye-UK.eaf
+218794	223923	5129	A few moments later he walks along a path, in his suit and shirt.	MindsEye-UK.eaf
+227333	257000	29667	He climbs a winding path up a cliffside, picking his way, in his business shoes.  A takeaway coffee cup in a man’s hands; fingers tap.  A bearded grey haired man with heavy green eyes.  He has a chain around his neck, tattoos on his shoulder, wears a vest.  He shakes his head.  He runs his finger round the lid, removes it, and sips the black coffee.	MindsEye-UK.eaf
+264717	274153	9436	Caption: Rick, the retiree.  Rick sits on a park bench, in the sunshine.  He drinks the coffee, tapping his foot.	MindsEye-UK.eaf
+278820	299000	20180	He puts the cup down, rubs his hands, claps them, takes his mobile phone from his back trouser pocket, scrolls through the contacts. He selects a Craig Anderson and presses call icon.	MindsEye-UK.eaf
+330487	332000	1513	He frowns at the sound.	MindsEye-UK.eaf
+383000	384230	1230	He looks up, listening.	MindsEye-UK.eaf
+397000	408000	11000	He stands; he sets off, leaving his coffee cup on the bench. He walks towards the trees looking around him.	MindsEye-UK.eaf
+412000	414025	2025	A young woman with crinkly red hair.	MindsEye-UK.eaf
+417000	429000	12000	She chews on a pencil.  Caption: Jess the student.  She puts down her pencil, searches for her phone on her desk, beside her Macbook laptop.	MindsEye-UK.eaf
+494000	503205	9205	She ends the call. She looks around, frowning, listening.	MindsEye-UK.eaf
+508717	524435	15718	She gets up, goes outside.  She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.  She climbs up the hillside, past trees and long grasses, pausing to look around her.	MindsEye-UK.eaf
+528692	540000	11308	She arrives on a plateau on the hillside, near to James and Rick The sun shines down brightly on the three small figures.	MindsEye-UK.eaf
+541820	543461	1641	The speaker can’tt be seen.	MindsEye-UK.eaf
+555769	560102	4333	The three stand there, blinking in the sunshine, peering to see who is speaking.	MindsEye-UK.eaf
+568000	569000	1000	James frowns.	MindsEye-UK.eaf
+576000	578000	2000	Their shadows are cast long.	MindsEye-UK.eaf
+594410	597000	2590	Rick shrugs, hand to his head.	MindsEye-UK.eaf
+640000	641000	1000	Rick.	MindsEye-UK.eaf
+645410	647333	1923	The wind blows his wiry hair.	MindsEye-UK.eaf
+707000	712000	5000	Each of them shakes their head, James, Rick Jess.	MindsEye-UK.eaf
+716666	717871	1205	They look around.	MindsEye-UK.eaf
+720230	722000	1770	Rick laughs.	MindsEye-UK.eaf
+724846	727000	2154	James waves his hands dismissively.	MindsEye-UK.eaf
+737000	750794	13794	Rick sets off with James.  Jessica thinks for a moment, gives a “why not” smile and runs to join them.  They walk away from us towards the path through the trees, the men’s arms around Jessica’s shoulders.	MindsEye-UK.eaf
+758666	787461	28795	The screen goes black.  A young woman, her mobile phone pressed to her ear.  Subtitle : No I couldn’t . I have to finish, really.  She hangs washing on a line title: No! What are you talking about? Of course yes, our luggage is ready.  She turns at the high-pitched sound.  title: Listen, I can’t talk right now. I have to leave you.  She ends the call , looks around her frowning.  Caption: Zoe, the next one.  Caption: What happens while – blank.	MindsEye-UK.eaf
 4640	15970	11330	A film shot mostly in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past. 	SDI-Media-UK.eaf
 18890	21500	2610	On a white background: What Happens While.	SDI-Media-UK.eaf
 23940	30500	6560	A BMW coupe pulls up beside the beach and a forty-something guy gets out, speaking on his phone.	SDI-Media-UK.eaf

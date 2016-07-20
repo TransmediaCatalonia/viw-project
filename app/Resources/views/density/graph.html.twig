@@ -4,15 +4,14 @@
 {% block body %}
 
         <div id="container">
-		
+		<div id="status">
+			<p> <a href="{{ path('density') }}">Back to list density</a></p>
                 	<h3>Density Graphs for {{ lang1 }} vs. {{ lang2 }}:</h3>
+			<div id='png'></div>
     			<div id="chart_div" style="width:900; height:500px;"></div>
 	
-    			<p> <a href="{{ path('density') }}">
-        		Back to list density
-    			</a>
-			</p>
-			
+    			
+		</div>	
 		
 	</div>
 
@@ -55,6 +54,14 @@ data.addColumn({ 'type': 'string', 'role': 'tooltip', 'p': { 'html': true } });/
         var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
 
         chart.draw(data, options);
+
+	//***** Wait for the chart to finish drawing before calling the getImageURI() method.
+	google.visualization.events.addListener(chart, 'ready', function () {
+	chart_div.innerHTML = '<img src="' + chart.getImageURI() + '">';
+	console.log(chart_div.innerHTML);
+	});
+	//*****
+	document.getElementById('png').outerHTML = '<a href="' + chart.getImageURI() + '">Get a PNG version</a>';
       }
 	  
 	  

@@ -5,9 +5,9 @@
 
         <div id="container">
 		<div id="status">
-                	<h3>The '{{ corpus }}' corpus in the timeline</h3>
 			<div id="right"><p><a href="../../corpus/{{ corpus }}">go back to '{{ corpus }}' corpus</a></p></div>
-    			<div id="timeline" style="height: 800px;"></div>	
+                	<h3>The '{{ corpus }}' corpus in the timeline</h3>
+    			<div id="ADtimeline" style="height: 800px;"></div>	
 		</div>
 	</div>
 
@@ -22,8 +22,9 @@
       google.charts.load('current', {'packages':['timeline']});
       google.charts.setOnLoadCallback(drawChart);
       function drawChart() {
-        var container = document.getElementById('timeline');
-        var chart = new google.visualization.Timeline(container);
+        //var container = document.getElementById('ADtimeline');
+        //var chart = new google.visualization.Timeline(container);
+        var chart = new google.visualization.Timeline(document.getElementById('ADtimeline'));
         var dataTable = new google.visualization.DataTable();
         dataTable.addColumn({ type: 'string', id: 'President' });
         dataTable.addColumn({ type: 'string', id: 'dummy bar label' });
@@ -41,6 +42,7 @@
     	}, 
        };
         chart.draw(dataTable, options);
+
       }
     </script>
 

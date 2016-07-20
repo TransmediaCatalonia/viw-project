@@ -255,8 +255,6 @@ class HitsController extends Controller
     }
 
 
-
-
 /**
      * @Route("/hits/timewords/{subdir_id}/{dir_id}")
      */
@@ -533,6 +531,49 @@ class HitsController extends Controller
         $html = $this->container->get('templating')->render(
             'hits/timeline.html.twig',
             array('key' => $data, 'corpus' => $corpus_id)
+        );
+
+        return new Response($html);
+
+    }
+
+/**
+     * @Route("/hits/timelinejs/{corpus_id}")
+     */
+     ## reads Hits-All.txt file (for files) and displays data in timeline,
+     ## 
+    public function timelinejs($corpus_id)
+    {
+        $path = $this->container->getParameter('kernel.root_dir');
+        $dataDir = $path . "/../data/" . $corpus_id ."/";
+        $file = $dataDir .  "Hits-All.txt";
+	
+	$lines = file($file);
+                
+	$rows = array();
+	$data = array();
+	$times = array();
+	# 176450	177010	560	S'atura.	AccessFriendly-CA.eaf
+	# [new Date(t.getTime()+759230), ,"Blackness.", "SDI-Media-UK.eaf"],
+	foreach ($lines as $l) {
+	    $line = trim($l);
+            $data = explode("\t",$line);
+	    //$text = htmlentities(mb_substr(rtrim($data[3]),0,100));
+	    $t = htmlentities($data[3]);
+	    $text = wordwrap($t, 100, "<br>");
+	    $file = str_replace(".eaf", '', $data[4]);
+	    $row = '[new Date(t.getTime()+' . $data[0] . '), , "' . $text . '","' . $file . '"]';
+	    array_push($rows,$row);
+	    array_push($times,$data[0]);
+	}
+
+	sort($times, SORT_NUMERIC); 
+  	$start = $times[0];
+	$data = implode(",",$rows);
+        
+        $html = $this->container->get('templating')->render(
+            'default/timelineCorpus.html.twig',
+            array('key' => $data, 'corpus' => $corpus_id, 'start' => $start)
         );
 
         return new Response($html);

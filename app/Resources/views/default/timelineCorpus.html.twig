@@ -1,0 +1,117 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+
+        <div id="container">
+	   <div id="status">
+		<h3>ADs in the '{{ corpus }}' timeline (expanded view)</h3>
+		<div>
+   		<input type="button" value="Zoom in" title="Zoom in" onclick="zoom(0.4);">
+   		<input type="button" value="Adjust to accommodate all annotations" title="Adjust to accommodate all annotations" onclick="adjustVisibleTimeRangeToAccommodateAllEvents();">
+  	  	<input type="button" value="Zoom out" title="Zoom in" onclick="zoom(-0.4);">
+    		<input type="button" value="Move left" title="Move left" onclick="move(-0.2);">
+    		<input type="button" value="Move to first annotation" title="Move to first annotation" onclick="moveToCurrentTime();">
+    		<input type="button" value="Move right" title="Move right" onclick="move(0.2);">
+		</div>
+
+		<div id="mytimeline"></div>
+    			
+	   </div>	
+		
+	</div>
+
+{% endblock %}
+
+
+{% block javascripts %}
+
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript" src="/js/timeline.js"></script>
+    <link rel="stylesheet" type="text/css" href="/js/timeline.css">
+
+    <script type="text/javascript">
+        var timeline;
+
+        google.load("visualization", "1");
+
+        // Set callback to run when API is loaded
+        google.setOnLoadCallback(drawVisualization);
+
+        // Called when the Visualization API is loaded.
+        function drawVisualization() {
+            // Create and populate a data table.
+            var data = new google.visualization.DataTable();
+            data.addColumn('datetime', 'start');
+            data.addColumn('datetime', 'end');
+            data.addColumn('string', 'content');
+	    data.addColumn('string', 'group');
+            var t = new Date(2010,7,23,00,00,00,00);
+	    var t2 = new Date(t.getTime()+{{ start }});
+
+
+            data.addRows([
+
+		{{ key|raw }}
+
+		]);
+
+   // specify options
+            var options = {
+                "width":  "100%",
+                "height": "auto",
+                "style": "box",
+		"axisOnTop": true,
+		"start": new Date(2010,7,23,00,00,00,00),
+            };
+
+            // Instantiate timeline 
+            timeline = new links.Timeline(document.getElementById('mytimeline'), options);
+
+            // Draw timeline 
+            
+            timeline.draw(data);
+	    //timeline.setVisibleChartRange(t,t2);
+        }
+
+        /**
+         * Zoom
+         * @param zoomVal
+         */
+        function zoom(zoomVal) {
+            timeline.zoom(zoomVal);
+            timeline.trigger("rangechange");
+            timeline.trigger("rangechanged");
+        }
+
+        /**
+         * Adjust the visible time range such that all events are visible.
+         */
+        function adjustVisibleTimeRangeToAccommodateAllEvents() {
+            timeline.setVisibleChartRangeAuto();
+        }
+
+        /**
+         * Move
+         * @param moveVal
+         */
+        function move(moveVal) {
+            timeline.move(moveVal);
+            timeline.trigger("rangechange");
+            timeline.trigger("rangechanged");
+        }
+
+        /**
+         * Move the visible range such that the current time is located in the center of the timeline.
+         */
+        function moveToCurrentTime() {
+	    var t = new Date(2010,7,23,00,00,00,00);
+	    var t2 = new Date(t.getTime()+3630);
+            timeline.setVisibleChartRange(t,t2);
+        }
+    </script>
+{% endblock %}
+
+
+
+

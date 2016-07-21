@@ -2,6 +2,7 @@
 // src/AppBundle/Controller/HitsController.php
 namespace AppBundle\Controller;
 
+use AppBundle\Utils\CSV;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Component\HttpFoundation\Response;
@@ -10,14 +11,16 @@ use Symfony\Component\Finder\Finder;
 /**
 	Index:
 
-  app_hits_hitstime             ANY      ANY      ANY    /hits/time/{subdir_id}/{dir_id}         
+  app_hits_hitstime             ANY      ANY      ANY    /hits/time/{subdir_id}/{dir_id}
+  app_hits_hitstimevisual       ANY      ANY      ANY    /hits/timevisual/{subdir_id}/{dir_id}           
   app_hits_hitswords            ANY      ANY      ANY    /hits/words/{subdir_id}/{dir_id}        
   app_hits_hitswordsvisual      ANY      ANY      ANY    /hits/wordsvisual/{subdir_id}/{dir_id} 
   app_hits_timewords            ANY      ANY      ANY    /hits/timewords/{subdir_id}/{dir_id}
+  app_hits_timewordsvisual      ANY      ANY      ANY    /hits/timewordsvisual/{subdir_id}/{dir_id}
   app_hits_wordscorpus          ANY      ANY      ANY    /words/{corpus}/{subdir_id}/{file_id}             
   app_hits_words                ANY      ANY      ANY    /words/{subdir_id}/{dir_id}/{file_id}             
   app_hits_timeline             ANY      ANY      ANY    /hits/timeline/{corpus_id}      
-
+  app_hits_timelinejs           ANY      ANY      ANY    /hits/timelinejs/{corpus_id}      
 **/
 
 class HitsController extends Controller
@@ -92,6 +95,84 @@ class HitsController extends Controller
         return new Response($html);
 
     }
+
+ /**
+     * @Route("/hits/timevisual/{subdir_id}/{dir_id}")
+     */
+	### reads 'Hits-All.txt' file and displays utterances in timeline + filmic info (counting duration)
+    public function hitsTimevisual($dir_id,$subdir_id)
+    {
+        $path = $this->container->getParameter('kernel.root_dir');
+        $dataDir = $path . "/../data/" . $subdir_id . "/" ;
+        $file = $dataDir .  "Hits-All.txt";
+	
+	$csvFile = file($file);
+        #$data = [];
+        
+	$rows = array();
+	$duration = array();
+	$lastTime = array();
+        $i = 1;
+	
+	foreach ($csvFile as $line) {
+            $data = str_getcsv($line, "\t"); 
+	    if (count($data) > 2 & $i > 1){
+	      $file = substr($data[4], 0, -4); 
+	      if ($dir_id == $file){
+		$time = $data[0]/60000; 	#beguin time (in seconds)
+		$d = $data[2]/1000;		#duration
+		array_push($duration,$d);
+            	$row = "";
+		$text = "'Duration: " . $d . "'" ;
+            	$row = '[' . $time . ',' . $d . ',' . $text .',' .'null'. ',' .'null]';
+	    	array_push($rows,$row);
+		array_push($lastTime,$time); #to get last time
+	      }
+	    }
+	$i++;
+        }
+
+        # Adds filmic info: returns ['time',null,null,1,'text']
+	$corpusFile = $path . "/../data/" . $subdir_id . "/Filmic-Hits.txt";
+
+        list($filmic_rows,$filmic_lastTime) = $this->get('app.utils.csv')->getFilmic($corpusFile);
+	$mergeR = array_merge($rows, $filmic_rows);
+	$mergeT = array_merge($rows, $filmic_lastTime);
+
+	$data = implode(",",$mergeR);
+	$maxValue = end($mergeT) + 1;
+	////// stats
+		$count = count($duration);
+                $sum = array_sum($duration);
+                $mean = $sum / $count; 
+
+		rsort($duration);
+                $middle = round(count($duration) / 2);
+                $median = $duration[$middle-1]; 
+
+		$min = min($duration);
+		$max = max($duration);
+		
+		foreach($duration as $key => $num){ $devs[$key] = pow($num - $mean, 2);}
+		$std = sqrt(array_sum($devs) / (count($devs) - 1));
+
+		$var = 0.0;
+		foreach ($duration as $i) {
+			$var += pow($i - $mean, 2);}
+		$var /= ( false ? count($duration) - 1 : count($duration) );
+	/////// 
+       
+	$html = $this->container->get('templating')->render(
+            'hits/hitsVisual.html.twig',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'duration in seconds.',
+		  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 
+                  'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id)
+        );
+        return new Response($html);
+
+    }
+
+
 
    /**
      * @Route("/hits/words/{subdir_id}/{dir_id}")
@@ -175,7 +256,6 @@ class HitsController extends Controller
         $file = $dataDir .  "Hits-All.txt";
 	
 	$csvFile = file($file);
-        #$data = [];
         
 	$rows = array();
 	$words = array();
@@ -200,28 +280,17 @@ class HitsController extends Controller
 	$i++;
         }    
 	#$data = implode(",",$rows);
-	##
+
+        # Adds filmic info: returns ['time',null,null,1,'text']
 	$corpusFile = $path . "/../data/" . $subdir_id . "/Filmic-Hits.txt";
-	$corpusCsvFile = file($corpusFile);
-	$rowsCorpus = array();
-	$lastTime = array();
-	$i = 1;
-	foreach ($corpusCsvFile as $line) {
-            $d = str_getcsv($line, "\t"); 
-	    if (count($d) > 2 & $i > 1){ 
-		if ($d[0] == "Scene") {
-			$t = $d[1] / 60000;
-			$text = "'" . $d[4] . "'" ;
-		    	$row = '[' . $t . ', null, null, 1,'. $text .']';
-		    	array_push($rows,$row);
-		}
-		array_push($lastTime,$t); #to get last time
-	    }
-	$i++;
-        }    #var_dump($rowsCorpus);
-	$data = implode(",",$rows);
-	$maxValue = end($lastTime) + 1;
-##
+
+        list($filmic_rows,$filmic_lastTime) = $this->get('app.utils.csv')->getFilmic($corpusFile);
+	$mergeR = array_merge($rows, $filmic_rows);
+	$mergeT = array_merge($rows, $filmic_lastTime);
+
+	$data = implode(",",$mergeR);
+	$maxValue = end($mergeT) + 1;
+
 	////// stats
 		$count = count($words);
                 $sum = array_sum($words);
@@ -333,6 +402,92 @@ class HitsController extends Controller
 
     }
    
+/**
+     * @Route("/hits/timewordsvisual/{subdir_id}/{dir_id}")
+     */
+     ### reads Hits-All.txt file and displays utterances in timeline + visual info (counting time/words)
+    public function timewordsvisual($dir_id,$subdir_id)
+    {
+        $path = $this->container->getParameter('kernel.root_dir');
+        $dataDir = $path . "/../data/" . $subdir_id . "/" ;
+        $file = $dataDir .  "Hits-All.txt";
+	
+	$csvFile = file($file);
+        #$data = [];
+        
+	$rows = array();
+	$duration = array();
+	$lastTime = array();
+        $i = 1;
+	foreach ($csvFile as $line) {
+            $data = str_getcsv($line, "\t"); 
+	    if (count($data) > 2 & $i > 1){
+	      $file = substr($data[4], 0, -4); 
+	      if ($dir_id == $file){
+            	$row = "";
+		#$sentence = explode(" ", $data[3]);
+		$vowels = array(" ", ",", ".", ";", "!", ":", "-");
+		$sentence = str_replace($vowels, "", $data[3]);
+
+		$c = strlen(utf8_decode($sentence));
+		$t = $data[0] / 60000;
+
+		#$x = $data[2] / str_word_count($data[3]);
+		$time = $data[2] / 1000;
+		$x = $c / $time ; 
+		array_push($duration,$x);
+            	$row = "";
+		$text = "'characters/second: " . $x . "'" ;
+            	$row = '[' . $t . ',' . $x . ',' . $text . ',' .'null'. ',' .'null]';
+	    	array_push($rows,$row);
+		array_push($lastTime,$t); #to get last time
+	      }
+	    }
+	$i++;
+        }
+        # Adds filmic info: returns ['time',null,null,1,'text']
+	$corpusFile = $path . "/../data/" . $subdir_id . "/Filmic-Hits.txt";
+
+        list($filmic_rows,$filmic_lastTime) = $this->get('app.utils.csv')->getFilmic($corpusFile);
+	$mergeR = array_merge($rows, $filmic_rows);
+	$mergeT = array_merge($rows, $filmic_lastTime);
+
+	$data = implode(",",$mergeR);
+	$maxValue = end($mergeT) + 1;
+	////// stats
+		$count = count($duration);
+                $sum = array_sum($duration);
+                $mean = $sum / $count; 
+
+		rsort($duration);
+                $middle = round(count($duration) / 2);
+                $median = $duration[$middle-1]; 
+
+		$min = min($duration);
+		$max = max($duration);
+		
+		foreach($duration as $key => $num){ $devs[$key] = pow($num - $mean, 2);}
+		$std = sqrt(array_sum($devs) / (count($devs) - 1));
+
+		$var = 0.0;
+		foreach ($duration as $i) {
+			$var += pow($i - $mean, 2);}
+		$var /= ( false ? count($duration) - 1 : count($duration) );
+	///////
+		
+        $html = $this->container->get('templating')->render(
+            'hits/hitsVisual.html.twig',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'character/second',
+		  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 
+                  'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id)
+        );
+        return new Response($html);
+
+    }
+   
+
+
+
 /**
      * @Route("/words/{corpus}/{subdir_id}/{file_id}", requirements={"corpus": "corpus"}  )
      *

@@ -776,4 +776,31 @@ class CSV
 
 
 
+/**
+     * input: csv for filmic annotations
+     * returns array with: returns ['time',null,null,1,'text']
+     */
+    public function getFilmic($corpusFile)
+    {
+	$corpusCsvFile = file($corpusFile);
+	$rows = array();
+	$lastTime = array();
+	$i = 1;
+	foreach ($corpusCsvFile as $line) {
+            $d = str_getcsv($line, "\t"); 
+	    if (count($d) > 2 & $i > 1){ 
+		if ($d[0] == "Scene") {
+			$t = $d[1] / 60000;
+			$text = "'" . $d[4] . "'" ;
+		    	$row = '[' . $t . ', null, null, 1,'. $text .']';
+		    	array_push($rows,$row);
+		}
+		array_push($lastTime,$t); #to get last time
+	    }
+	$i++;
+        }    
+	return array($rows,$lastTime);
+    }
+
+
 }

@@ -557,7 +557,7 @@ class HitsController extends Controller
 
         $html = $this->container->get('templating')->render(
             'hits/words.html.twig',
-            array('key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $subdir_id, 'type' => 'num. of words')
+            array('key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $subdir_id, 'type' => 'num. of words', 'corpus' => $corpus)
         );
 
         return new Response($html);

@@ -554,10 +554,10 @@ class HitsController extends Controller
 		$j++;
         }    
 	$data2 = implode(",",$rows2); 
-
+	$back = "corpus/" . $subdir_id; 
         $html = $this->container->get('templating')->render(
             'hits/words.html.twig',
-            array('key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $subdir_id, 'type' => 'num. of words', 'corpus' => $corpus)
+            array('key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $subdir_id, 'type' => 'num. of words', 'back' => $back)
         );
 
         return new Response($html);
@@ -629,10 +629,10 @@ class HitsController extends Controller
 		$j++;
         }    
 	$data2 = implode(",",$rows2); 
-
+	$back = "metadata/". $subdir_id . "/" . $dir_id ;
         $html = $this->container->get('templating')->render(
             'hits/words.html.twig',
-            array('key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $dir_id, 'type' => 'num. of words')
+            array('key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $dir_id, 'type' => 'num. of words', 'back' => $back)
         );
 
         return new Response($html);

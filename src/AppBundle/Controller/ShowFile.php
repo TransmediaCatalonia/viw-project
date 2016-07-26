@@ -14,17 +14,21 @@ use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 class ShowFile extends Controller
 {
     /**
-     * @Route("/show/{dir_id}/{subdir_id}/{file_id}")
+     * @Route("/show/{dir_id}/{subdir_id}/{file_id}", defaults={"file_id" = "null"})
      */
 public function showFile($file_id,$dir_id,$subdir_id)
     {
 
 	$path = $this->container->getParameter('kernel.root_dir');
-        $dataDir = $path . "/../data/";
-        $file = $dataDir . $dir_id . '/' . $subdir_id . '/' . $file_id;
+	if ($file_id == "null") { 
+		$dataDir = $path . "/../";
+        	$file = $dataDir . $dir_id . '/' . $subdir_id ;}
+	else {
+        	$dataDir = $path . "/../data/";
+        	$file = $dataDir . $dir_id . '/' . $subdir_id . '/' . $file_id;
+	}
 
-	
-if (file_exists($file)) {
+	if (file_exists($file)) {
 
 	$options = array('http' => array(
         'method'  => 'POST',

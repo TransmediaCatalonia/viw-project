@@ -136,32 +136,38 @@ class DensityController extends Controller
         $maxValues = array();
 	$rows = array();
 	foreach ($csvFile1 as $l) {
-	    $line = trim($l);
-            $data = str_getcsv($line, "\t");
-	    $file = substr($data[4], 0, -4); 
-	    if ($file == $file1){
-            $row = "";
-	    $string = preg_replace('/[^A-Za-z0-9\- ,]/', '', $data[3]);
-	    $text = "'" . $string . "'" ;
-	    $row = '[' . $data[0] . ',' . $data[2]. ',' . $text . ',' .'null'. ',' .'null]';
-	    array_push($rows,$row);
-	    array_push($maxValues,$data[0]);
-	    }
+	  $line = trim($l);
+          $data = str_getcsv($line, "\t");
+	  if (count($data) > 2 ) {
+	      $file = substr($data[4], 0, -4); 
+	      if ($file == $file1){
+              $row = "";
+	      $string = preg_replace('/[^A-Za-z0-9\- ,]/', '', $data[3]);
+	      $text = "'" . $string . "'" ;
+	      $t = $data[0] / 60000;
+	      $row = '[' . $t . ',' . $data[2]. ',' . $text . ',' .'null'. ',' .'null]';
+	      array_push($rows,$row);
+	      array_push($maxValues,$t);
+	      }
+	  }
         }
 
 	foreach ($csvFile2 as $l) {
-	    $line = trim($l);
-            $data = str_getcsv($line, "\t");
-	    $file = substr($data[4], 0, -4);
-	    if ($file == $file2){
-            $row = "";
-	    $string = preg_replace('/[^A-Za-z0-9\- ,]/', '', $data[3]);
-	    $text = "'" . $string . "'" ;
-            $row = '[' . $data[0] . ', null, null, ' . $data[2]. ',' . $text .']';
-	    array_push($rows,$row);
-	    }
+	   $line = trim($l);
+           $data = str_getcsv($line, "\t");
+	   if (count($data) > 2 ) {
+	      $file = substr($data[4], 0, -4);
+	      if ($file == $file2){
+              $row = "";
+	      $string = preg_replace('/[^A-Za-z0-9\- ,]/', '', $data[3]);
+	      $text = "'" . $string . "'" ;
+	      $t = $data[0] / 60000;
+              $row = '[' . $t . ', null, null, ' . $data[2]. ',' . $text .']';
+	      array_push($rows,$row);
+	      }
+	   }
         }	   
- 	$maxValue = end($maxValues) + 50000;
+ 	$maxValue = end($maxValues) + 1;
 	$data = implode(",",$rows);
     
         $html = $this->container->get('templating')->render(

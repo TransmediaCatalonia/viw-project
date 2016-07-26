@@ -5,7 +5,10 @@
 
         <div id="container">
 	   <div id="status">
+		<div id="right"><p><a href="../../corpus/{{ corpus }}">go back to '{{ corpus }}' corpus</a></p></div>
 		<h3>ADs in the '{{ corpus }}' timeline (expanded view)</h3>
+		<p>Use the control buttoms or drag with the mouse to move in the timeline. 
+		Start with the "Move to first annotation" button to easy navigation.</p>
 		<div>
    		<input type="button" value="Zoom in" title="Zoom in" onclick="zoom(0.4);">
    		<input type="button" value="Adjust to accommodate all annotations" title="Adjust to accommodate all annotations" onclick="adjustVisibleTimeRangeToAccommodateAllEvents();">

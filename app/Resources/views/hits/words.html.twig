@@ -5,7 +5,9 @@
 
         <div id="container">
 		<div id="status">
+		<a href="{{ app.request.baseUrl }}/corpus/{{ title }}">Back to {{ title }}</a>
                 	<h3>Words/sentences countings in the {{ title }} corpus:</h3>
+		<br/>
 		<center><p><b>(1) Number of words and sentences per AD unit:</b></p>
 		<table width="80%" style="background:#F5F5F5;">
 		<tr>	<td>Num of AD units</td><td>{{ all.Paragraphs }}</td>

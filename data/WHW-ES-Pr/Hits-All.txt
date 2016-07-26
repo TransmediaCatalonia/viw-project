@@ -1,3 +1,4 @@
+
 2630	10240	7610	Una pareja con un gran danés camina por la playa. Se cruzan con un corredor que va en sentido contrario. El día es gris y van abrigados.	Aristia-ES.eaf
 17000	19000	2000	Rótulo sobre la pantalla blanca.	Aristia-ES.eaf
 22040	26780	4740	Un BMW blanco se detiene frente a la playa. El conductor habla por el móvil. 	Aristia-ES.eaf

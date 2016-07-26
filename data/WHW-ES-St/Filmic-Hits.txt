@@ -1,3 +1,4 @@
+
 Scene	2760	67520	64760	S1-Promenade (with text cut)
 Scene	67520	218920	151400	S2-Beach
 Scene	218920	226640	7720	S3-Street

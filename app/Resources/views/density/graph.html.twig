@@ -43,9 +43,9 @@ data.addColumn({ 'type': 'string', 'role': 'tooltip', 'p': { 'html': true } });/
 		/// EN : time null null duration text
 		/// CA: time duration text null null
         var options = {
-          title: '{{ lang1 }} vs. {{ lang2 }} comparison',
-          hAxis: {title: 'TimeLine in msec.', viewWindow: {min: 0, max: {{ maxValue}} }, format: 'short'},
-	  vAxis: {format: 'short'},
+          title: 'ADs in the timeline: {{ lang1 }} vs. {{ lang2 }}',
+          hAxis: {title: 'TimeLine.', viewWindow: {min: 0, max: {{ maxValue}} }, format: 'short'},
+	  vAxis: {title: 'Duration in msec.', format: 'short'},
           chartArea:{width:'80%',height:'500px'},
           legend: {position: 'top'},
 	  tooltip: { textStyle: { fontName: 'Verdana', fontSize: 11 } }

@@ -56,12 +56,14 @@ public function corpusAction($corpus_id)
 	
 	##gets metadata for corpus 
 	$metadata= array();
+	$language;
 	foreach ($records->corpus as $r) { 
-	$att = 'id';
-	$id = (string)$r->attributes()->$att;
-	if ($id == $corpus_id) { 
-		$metadata = $r;}
-	}
+	   $att = 'id';
+	   $id = (string)$r->attributes()->$att;
+	   if ($id == $corpus_id) { 
+		$metadata = $r;
+		$language = (string)$r->language;}
+	} 
 
 	## looks for corpus' files
 	$files = array();
@@ -112,6 +114,11 @@ public function corpusAction($corpus_id)
 		}
 	}
 
+	if ($language == "EN") { $filmic = "Filmic_English";}
+	if ($language == "ES") { $filmic = "Filmic_Spanish";}
+	if ($language == "CA") { $filmic = "Filmic_Catalan";}
+	
+	
 	
         $html = $this->container->get('templating')->render(
             'default/metadataCorpus.html.twig',
@@ -122,7 +129,8 @@ public function corpusAction($corpus_id)
 			'similarity' => $similarity,
 			'sem' => $sem,
 			'hits_timeline' => $hits_timeline,
-			'files' => $files)
+			'files' => $files,
+			'filmic' => $filmic )
         );
 	 return new Response($html);
 

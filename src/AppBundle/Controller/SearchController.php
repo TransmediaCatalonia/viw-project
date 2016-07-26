@@ -113,7 +113,7 @@ class SearchController extends Controller
 			#$descriptions = $result->getElementsByTagName( "description" );
   			#$description = $descriptions->item(0)->nodeValue;
 			$selectedFields = array();
-			array_push($selectedFields, $title,  $dir[0], $dir[1]);
+			array_push($selectedFields, $title,  $dir[0], $dir[1]); 
 			array_push($files, $selectedFields);
 		}
 //$xpath = new DOMXPath($dom);

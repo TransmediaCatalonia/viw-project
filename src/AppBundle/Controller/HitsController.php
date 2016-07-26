@@ -656,12 +656,14 @@ class HitsController extends Controller
 	$data = array();
 	# 176450	177010	560	S'atura.	AccessFriendly-CA.eaf
 	foreach ($lines as $l) {
-	    $line = trim($l);
+	    $line = trim($l); 
             $data = explode("\t",$line);
+	 if (count($data) > 2) {
 	    $text = htmlentities(mb_substr(rtrim($data[3]),0,60));
 	    $file = str_replace(".eaf", '', $data[4]);
 	    $row = '["' . $file . '", "", "' . $text . '",' . $data[0] . ',' . $data[1] . ']';
 	    array_push($rows,$row);
+	 }
 	}
 
 
@@ -671,6 +673,7 @@ class HitsController extends Controller
 	foreach ($filmic_lines as $l) {
 	    $line = trim($l);
             $data = explode("\t",$line);
+	 if (count($data) > 2 ){
 		if (preg_match('/Speech/',$data[4])) {
 			$row = '["Speech", "" , "speech",' . $data[1] . ',' . $data[2] . ']';
 	    		array_push($rows,$row);
@@ -678,6 +681,7 @@ class HitsController extends Controller
 	    $text = htmlentities(mb_substr(rtrim($data[4]),0,60)); 
 	    $row = '["' . $data[0] . '", "' . $text . '", "' . $text . '",' . $data[1] . ',' . $data[2] . ']';
 	    array_push($rows,$row);
+	 }
 	}
 
 
@@ -713,6 +717,7 @@ class HitsController extends Controller
 	foreach ($lines as $l) {
 	    $line = trim($l);
             $data = explode("\t",$line);
+	  if (count($data) > 2){
 	    //$text = htmlentities(mb_substr(rtrim($data[3]),0,100));
 	    $t = htmlentities($data[3]);
 	    $text = wordwrap($t, 100, "<br>");
@@ -720,6 +725,7 @@ class HitsController extends Controller
 	    $row = '[new Date(t.getTime()+' . $data[0] . '), , "' . $text . '","' . $file . '"]';
 	    array_push($rows,$row);
 	    array_push($times,$data[0]);
+	  }
 	}
 
 	sort($times, SORT_NUMERIC); 

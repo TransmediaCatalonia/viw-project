@@ -20,6 +20,12 @@
          <h3>Actions for corpus '{{ corpus }}'</h2>
 	
          <ul>
+	{% if filmic is not null %}
+	<li><b>Filmic annotations:</b> you can get the <a href="../../show/data/{{ filmic }}.eaf"> .eaf file </a> with all 
+	filmic annotations or the  
+	<a href="../../show/data/{{ filmic }}.html"> html version</a> </li><hr/>
+	{% endif %}
+
 	
 	{% if corpusfile is not null %}
 	<li><b>Simple string search:</b> this allows simple string searches on the entire {{ corpus }} corpus 

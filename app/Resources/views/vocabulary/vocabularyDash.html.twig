@@ -8,7 +8,8 @@
   		<a href="{{ app.request.baseUrl }}/{{ path }}/{{ corpus }}">Back to {{ corpus }}</a>
 
   		<h3>Counting {{ pos }} by {{ message }} in the '{{ corpus }}' corpus</h3>
-  		<p>Use the 'Filter by frequency' control to remove less frequent words. You can choose a {{ message }}.</p>
+  		<p>Use the 'Filter by frequency' control to remove less frequent words. You can choose a {{ message }} 
+		and sort data in the table by clicking the headers.</p>
 
  		 {% if csv is not null %}
  		 <p><a href='#' onclick='downloadCSV({ filename: "pos-data.csv" });'>Download source data as CSV file.</a></p>
@@ -27,6 +28,7 @@
   		      <div id="chart_div" style="padding-top: 15px;"></div>
    		   </td>
     		  <td style="padding-left: 50px;">
+		  
         	  <div id="table_div" style="padding-top: 30px;"></div>
       		  </td>
     		</tr>

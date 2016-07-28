@@ -251,7 +251,7 @@ ladera	ladera	NCFS000	1	1178	1184	Location
 cubierta	cubrir	VMP00SF	0.625	1185	1193	A-PositionalAttribute
 por	por	SPS00	1	1194	1197	-
 matorral	matorral	NCMS000	1	1198	1206	Vegetable
-bajo	bajo	AQ0MS0	0.0803571	1207	1211	ALocationSubjectiveAssessmentAttribute
+bajo	bajo	AQ0MS0	0.0803571	1207	1211	A-SubjectiveAssessmentAttribute
 .	.	Fp	1	1211	1212	-
 
 Un	uno	DI0MS0	0.986987	1220	1222	-

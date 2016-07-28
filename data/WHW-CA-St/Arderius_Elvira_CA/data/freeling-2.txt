@@ -489,7 +489,7 @@ confusa	confús	AQ0FS0	1	2246	2253	A-StateOfMind
 a	a	SPS00	1	2254	2255	
 el	el	DA0MS0	1	2255	2256	
 seu	seu	PX3MS0C0	0.87963	2257	2260	
-voltant	voltant	NCMS000	0.875	2261	2268	Locaton
+voltant	voltant	NCMS000	0.875	2261	2268	Location
 .	.	Fp	1	2268	2269	
 						
 S'	es	P0300000	0.999069	2277	2279	

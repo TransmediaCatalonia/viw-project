@@ -47,7 +47,7 @@ class HitsController extends Controller
             $data = str_getcsv($line, "\t"); 
 	    if (count($data) > 2 & $i > 1){
 	      $file = substr($data[4], 0, -4); 
-	      if ($dir_id == $file){
+	      if ($dir_id == $file){ 
 		$time = $data[0]/60000; 	#beguin time (in seconds)
 		$d = $data[2]/1000;		#duration
 		array_push($duration,$d);
@@ -59,7 +59,7 @@ class HitsController extends Controller
 	      }
 	    }
 	$i++;
-        }
+        } 
 	$maxValue = end($lastTime) + 1;
 	$data = implode(",",$rows);
 

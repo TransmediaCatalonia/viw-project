@@ -1,6 +1,6 @@
 A	a	DT	-
 nearly	nearly	RB	-
-empty	empty	JJ	A-SubjectiveAssessment
+empty	empty	JJ	A-SubjectiveAssessmentAttribute
 beach	beach	NN	Location
 beside	beside	IN	-
 a	a	DT	-
@@ -15,8 +15,8 @@ they	they	PRP	-
 stroll	stroll	VBP	Walking
 with	with	IN	-
 their	their	PRP$	-
-large	large	JJ	A-SubjectiveAssessment
-Great	great	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
+Great	great	JJ	A-SubjectiveAssessmentAttribute
 Dane	dane	NN	Animal
 .	.	.	-
 
@@ -52,7 +52,7 @@ While	while	IN	-
 ...	...	:	-
 with	with	IN	-
 a	a	DT	-
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 blank	blank	JJ	A-ColorAttribute
 line	line	NN	FilmLanguage
@@ -62,7 +62,7 @@ end	end	NN	-
 .	.	.	-
 
 A	a	DT	-
-slick	slick	JJ	A-SubjectiveAssessment
+slick	slick	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 white	white	JJ	A-ColorAttribute
 car	car	NN	-
@@ -90,7 +90,7 @@ phone	phone	NN	Object
 
 He	he	PRP	-
 looks	look	VBZ	Seeing
-aggressive	aggressive	JJ	A-SubjectiveAssessment
+aggressive	aggressive	JJ	A-SubjectiveAssessmentAttribute
 as	as	IN	-
 he	he	PRP	-
 bangs	bang	VBZ	BodyMotion
@@ -133,9 +133,9 @@ His	his	PRP$	-
 pale	pale	JJ	A-ColorAttribute
 skin	skin	NN	BodyPart
 looks	look	VBZ	Seeing
-cool	cool	JJ	A-SubjectiveAssessment
+cool	cool	JJ	A-SubjectiveAssessmentAttribute
 and	and	CC	-
-soft	soft	JJ	A-SubjectiveAssessment
+soft	soft	JJ	A-SubjectiveAssessmentAttribute
 in	in	IN	-
 the	the	DT	-
 muted	muted	JJ	A-RadiatingLight
@@ -162,7 +162,7 @@ He	he	PRP	-
 walks_along	walk_along	VBZ	Walking
 the	the	DT	-
 nearly	nearly	RB	-
-empty	empty	JJ	A-SubjectiveAssessment
+empty	empty	JJ	A-SubjectiveAssessmentAttribute
 beach	beach	NN	Location
 carrying	carry	VBG	Process
 a	a	DT	-
@@ -205,7 +205,7 @@ ground	ground	NN	Location
 
 He	he	PRP	-
 exhales	exhale	VBZ	Gesture
-hard	hard	JJ	A-SubjectiveAssessment
+hard	hard	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 then	then	RB	Time
 rubs	rub	VBZ	BodyMotion
@@ -352,7 +352,7 @@ is	be	VBZ	Aux
 hazy-white	hazy-white	JJ	A-RadiatingLight
 ,	,	,	-
 without	without	IN	-
-distinguishable	distinguishable	JJ	A-SubjectiveAssessment
+distinguishable	distinguishable	JJ	A-SubjectiveAssessmentAttribute
 clouds	cloud	NNS	RadiatingLight
 or	or	CC	-
 sun	sun	NN	RadiatingLight
@@ -374,7 +374,7 @@ trying	try	VBG	Aux
 to	to	TO	-
 locate	locate	VB	IntentionalPsychologicalProcess
 the	the	DT	-
-mysterious	mysterious	JJ	A-SubjectiveAssessment
+mysterious	mysterious	JJ	A-SubjectiveAssessmentAttribute
 sound	sound	NN	RadiatingSound
 .	.	.	-
 
@@ -418,9 +418,9 @@ suit	suit	NN	Clothing
 and	and	CC	-
 walks	walk	VBZ	Walking
 under	under	IN	-
-large	large	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-leafy	leafy	JJ	A-SubjectiveAssessment
+leafy	leafy	JJ	A-SubjectiveAssessmentAttribute
 trees	tree	NNS	Vegetable
 .	.	.	-
 
@@ -444,9 +444,9 @@ a	a	DT	-
 mountain	mountain	NN	Location
 covered	covered	VBN	A-PositionalAttribute
 in	in	IN	-
-short	short	JJ	A-SubjectiveAssessment
+short	short	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-dense	dense	JJ	A-SubjectiveAssessment
+dense	dense	JJ	A-SubjectiveAssessmentAttribute
 bushes	bushe	NNS	Vegetable
 and	and	CC	-
 cactuses	cactuse	NNS	Vegetable
@@ -459,19 +459,19 @@ lightly	lightly	RB	-
 tap	tap	VB	BodyMotion
 on	on	IN	-
 a	a	DT	-
-to-go	to-go	JJ	A-SubjectiveAssessment
+to-go	to-go	JJ	A-SubjectiveAssessmentAttribute
 coffee	coffee	NN	-
 cup	cup	NN	Object
 .	.	.	-
 
 An	an	DT	-
 unshaven	unshaven	JJ	A-BodyPart
-older	older	JJ	A-SubjectiveAssessment
+older	older	JJ	A-SubjectiveAssessmentAttribute
 man	man	NN	Human
 with	with	IN	-
-messy	messy	JJ	A-SubjectiveAssessment
+messy	messy	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-longish	longish	JJ	A-SubjectiveAssessment
+longish	longish	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 grey	grey	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
@@ -496,7 +496,7 @@ his	his	PRP$	-
 fingers	finger	NNS	BodyPart
 around	around	IN	Time
 the	the	DT	-
-plastic	plastic	JJ	A-SubjectiveAssessment
+plastic	plastic	JJ	A-SubjectiveAssessmentAttribute
 lid	lid	NN	Object
 .	.	.	-
 
@@ -522,16 +522,16 @@ then	then	RB	Time
 gulps	gulp	VBZ	BodyMotion
 from	from	IN	-
 the	the	DT	-
-small	small	JJ	A-SubjectiveAssessment
+small	small	JJ	A-SubjectiveAssessmentAttribute
 cup	cup	NN	Object
 .	.	.	-
 
 His	his	PRP$	-
 eyes	eye	NNS	BodyPart
 look	look	VBP	Seeing
-moist	moist	JJ	A-SubjectiveAssessment
+moist	moist	JJ	A-SubjectiveAssessmentAttribute
 and	and	CC	-
-glassy	glassy	JJ	A-SubjectiveAssessment
+glassy	glassy	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 
 Words	word	NNS	FilmLanguage
@@ -560,7 +560,7 @@ up	up	RB	-
 and	and	CC	-
 down	down	RB	-
 in	in	IN	-
-tiny	tiny	JJ	A-SubjectiveAssessment
+tiny	tiny	JJ	A-SubjectiveAssessmentAttribute
 movements	movement	NNS	BodyMotion
 .	.	.	-
 
@@ -627,7 +627,7 @@ He	he	PRP	-
 selects	select	VBZ	BodyMotion
 a	a	DT	-
 contact	contact	NN	-
-named	named	JJ	A-SubjectiveAssessment
+named	named	JJ	A-SubjectiveAssessmentAttribute
 ''	''	''	-
 ``	``	``	-
 Craig_Anderson	craig_anderson	NNP	Human
@@ -670,7 +670,7 @@ bench	bench	NN	Object
 Rick	rick	NNP	Human
 wears	wear	VBZ	Dressing
 a	a	DT	-
-loose	loose	JJ	A-SubjectiveAssessment
+loose	loose	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 green	green	JJ	A-ColorAttribute
 tank-top	tank-top	NN	Clothing
@@ -695,7 +695,7 @@ sound	sound	NN	RadiatingSound
 Now	now	RB	Time
 ,	,	,	-
 a	a	DT	-
-young	young	JJ	A-SubjectiveAssessment
+young	young	JJ	A-SubjectiveAssessmentAttribute
 woman	woman	NN	Human
 looks	look	VBZ	Seeing
 tired	tired	JJ	A-StateOfMind
@@ -703,7 +703,7 @@ and	and	CC	-
 gazes	gaze	VBZ	Seeing
 at	at	IN	-
 an	an	DT	-
-open	open	JJ	A-SubjectiveAssessment
+open	open	JJ	A-SubjectiveAssessmentAttribute
 laptop	laptop	NN	Object
 .	.	.	-
 
@@ -766,9 +766,9 @@ right	right	RB	-
 She	she	PRP	-
 touches	touch	VBZ	Touching
 her	her	PRP$	-
-thick	thick	JJ	A-SubjectiveAssessment
+thick	thick	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-curly	curly	JJ	A-SubjectiveAssessment
+curly	curly	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 brown	brown	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
@@ -798,7 +798,7 @@ up	up	RB	-
 a	a	DT	-
 hill	hill	NN	Location
 .	.	.	-
-Tall	tall	JJ	A-SubjectiveAssessment
+Tall	tall	JJ	A-SubjectiveAssessmentAttribute
 grass	gras	NN	Vegetable
 and	and	CC	-
 plants	plant	NNS	Vegetable
@@ -852,7 +852,7 @@ in	in	IN	-
 a	a	DT	-
 bright	bright	JJ	A-ColorAttribute
 ,	,	,	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 clearing	clearing	NN	Location
 .	.	.	-
 
@@ -868,13 +868,13 @@ three	three	CD	-
 stand	stand	VBP	PositionalAttribute
 on	on	IN	-
 the	the	DT	-
-empty	empty	JJ	A-SubjectiveAssessment
+empty	empty	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 sun-bleached	sun-bleached	JJ	A-RadiatingLight
 ground	ground	NN	Location
 ,	,	,	-
 looking	look	VBG	Seeing
-bewildered	bewildered	JJ	A-SubjectiveAssessment
+bewildered	bewildered	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 
 They	they	PRP	-
@@ -944,7 +944,7 @@ follows	follow	VBZ	Process
 James	james	NNP	Human
 across	across	IN	-
 the	the	DT	-
-pebbly	pebbly	JJ	A-SubjectiveAssessment
+pebbly	pebbly	JJ	A-SubjectiveAssessmentAttribute
 ground	ground	NN	Location
 .	.	.	-
 
@@ -989,16 +989,16 @@ walk	walk	VBP	Walking
 together	together	RB	-
 across	across	IN	-
 the	the	DT	-
-dusty	dusty	JJ	A-SubjectiveAssessment
+dusty	dusty	JJ	A-SubjectiveAssessmentAttribute
 ground	ground	NN	Location
 ,	,	,	-
 heading	head	VBG	Motion
 toward	toward	IN	-
 the	the	DT	-
-leafy	leafy	JJ	A-SubjectiveAssessment
+leafy	leafy	JJ	A-SubjectiveAssessmentAttribute
 plants	plant	NNS	Vegetable
 and	and	CC	-
-gentle	gentle	JJ	A-SubjectiveAssessment
+gentle	gentle	JJ	A-SubjectiveAssessmentAttribute
 mountain	mountain	NN	Location
 .	.	.	-
 The	the	DT	-
@@ -1054,7 +1054,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 ...	...	:	-
 
 The	the	DT	-
@@ -1102,7 +1102,7 @@ While	while	IN	-
 ...	...	:	-
 with	with	IN	-
 a	a	DT	-
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 blank	blank	JJ	A-ColorAttribute
 line	line	NN	FilmLanguage

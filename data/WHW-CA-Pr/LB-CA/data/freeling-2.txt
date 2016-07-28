@@ -697,7 +697,7 @@ un	un	DI0MS0	0.958241	3297	3299	-
 
 Toca	tocar	VMIP3S0	0.262796	3308	3312	Touching
 la	el	DA0FS0	0.992966	3313	3315	-
-pantalla	pantalla	NCFS000	1	3316	3324	FilmsLanguage
+pantalla	pantalla	NCFS000	1	3316	3324	FilmLanguage
 i	i	CC	0.999806	3325	3326	-
 es	es	P0300000	0.999062	3327	3329	-
 posa	posar	VMIP3S0	0.904762	3330	3334	Putting
@@ -1111,7 +1111,7 @@ platja	platja	NCFS000	1	5245	5251	Location
 .	.	Fp	1	5251	5252	-
 
 La	el	DA0FS0	0.992966	5260	5262	-
-pantalla	pantalla	NCFS000	1	5263	5271	FilmsLanguage
+pantalla	pantalla	NCFS000	1	5263	5271	FilmLanguage
 s'	es	P0300000	0.999069	5272	5274	-
 enfosqueix	enfosquir	VMIP3S0	0.998606	5274	5284	RadiatingLight
 .	.	Fp	1	5284	5285	-

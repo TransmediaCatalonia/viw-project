@@ -2302,7 +2302,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Plurals-CAT">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Plurals-CA">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a250" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts24">
                 <ANNOTATION_VALUE>Un pla fix d'una platja a peu de carretera, amb el mar al fons. Darrere els núvols s'entreveu la llum tènue dels primers rajos de sol del matí. Un home i una dona, abrigats, passegen per la sorra amb un gos. Es creuen amb un home que fa fúting.</ANNOTATION_VALUE>
@@ -2716,7 +2716,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="SDI-Media-CAT">
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="SDI-Media-CA">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a332" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts12">
                 <ANNOTATION_VALUE>Un noi i una noia passegen amb un gos per un descampat a la vora de la platja. Es creuen amb un noi que corre.</ANNOTATION_VALUE>

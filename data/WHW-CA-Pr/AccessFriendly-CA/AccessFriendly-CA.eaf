@@ -12645,7 +12645,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1025" ANNOTATION_REF="a274">
-                <ANNOTATION_VALUE>FilmsLanguage</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>FilmLanguage</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14185,7 +14185,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1333" ANNOTATION_REF="a582">
-                <ANNOTATION_VALUE>HumanHuman</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Human</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

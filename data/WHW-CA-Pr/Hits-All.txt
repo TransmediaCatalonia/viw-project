@@ -330,39 +330,39 @@
 777130	779120	1990	"Escolta, ara no puc parlar. T'he de deixar."	SBT-Carme-CA.eaf
 780210	783060	2850	Zoé, la següent.  Fosa a negre.	SBT-Carme-CA.eaf
 783120	787450	4330	"QUÈ PASSA MENTRE..." Sobre fons blanc, els crèdits.	SBT-Carme-CA.eaf
-3390	10220	6830	Un noi i una noia passegen amb un gos per un descampat a la vora de la platja. Es creuen amb un noi que corre.	SDI-Media-CAT.eaf
-24700	30000	5300	Un cotxe blanc s’atura a la calçada, al costat del descampat. En baixa un home que parla per telèfon.	SDI-Media-CAT.eaf
-53790	57880	4090	L’home ha ficat un maletí al maleter i n’ha tret una bossa informal	SDI-Media-CAT.eaf
-59350	61250	1900	Es posa les ulleres de sol. 	SDI-Media-CAT.eaf
-65250	70500	5250	Un rètol ens indica que és en James, l’empresari. En James va cap a la platja caminant i parlant per telèfon.	SDI-Media-CAT.eaf
-94580	96960	2380	En James s’ajeu a la tovallola	SDI-Media-CAT.eaf
-102300	105190	2890	Es frega els ulls, cansat.	SDI-Media-CAT.eaf
-160160	169350	9190	En James fa cara d’ amoïnat. S’aixeca i va en banyador cap a l’aigua. Al fons hi ha la silueta d’una ciutat industrial.	SDI-Media-CAT.eaf
-171350	174510	3160	Sense mullar-se, torna cap a la sorra seca.	SDI-Media-CAT.eaf
-189960	196000	6040	Mira a totes bandes, busca d’on ve el soroll que se sent. Continua caminant per la platja.	SDI-Media-CAT.eaf
-211170	212680	1510	En James es posa la camisa.	SDI-Media-CAT.eaf
-221220	225170	3950	En James camina, vestit amb pantalons i americana, per un carrer amb arbres.	SDI-Media-CAT.eaf
-229246	232049	2803	Ara puja per un camí que hi ha entremig d’uns matolls.	SDI-Media-CAT.eaf
-237000	241990	4990	Un home amb barba de quatre dies i cabells embullats té un got de plàstic a les mans.	SDI-Media-CAT.eaf
-250000	256670	6670	Fa gestos d’impaciència amb les mans. Obre la tapa del got i en beu el contingut, te o cafè.	SDI-Media-CAT.eaf
-264480	266940	2460	Un rètol ens indica que és en Rick, el jubilat.	SDI-Media-CAT.eaf
-270410	275460	5050	En Rick continua assegut en un banc, a sota d’uns arbres. Fa més gestos d’impaciència.	SDI-Media-CAT.eaf
-288270	291500	3230	Agafa el mòbil i busca per l’agenda de contactes.	SDI-Media-CAT.eaf
-293320	296020	2700	Truca a un tal Craig Anderson.	SDI-Media-CAT.eaf
-400430	407480	7050	En Rick s’aixeca del banc i se’n va mirant per tot arreu buscant alguna cosa. Deixa el got al banc.	SDI-Media-CAT.eaf
-413610	420840	7230	Veiem una noia amb els cabells arrissats i un llapis a la boca. Un rètol ens indica que és la Jess, l’estudiant.	SDI-Media-CAT.eaf
-427310	429230	1920	Busca el mòbil per l’escriptori.	SDI-Media-CAT.eaf
-509540	510130	590	S’aixeca.	SDI-Media-CAT.eaf
-512440	513490	1050	Ara és a l’exterior.	SDI-Media-CAT.eaf
-518000	519730	1730	Puja pel mateix camí que en James.	SDI-Media-CAT.eaf
-532470	537140	4670	Veiem una esplanada a l’aire lliure. Hi ha en James, en Rick i la Jess.	SDI-Media-CAT.eaf
-541160	542190	1030	Se sent una veu.	SDI-Media-CAT.eaf
-558300	560500	2200	Els tres busquen d’on veu la veu.	SDI-Media-CAT.eaf
-709240	711670	2430	En Rick i la Jessica fan que no amb el cap.	SDI-Media-CAT.eaf
-738840	742150	3310	En Rick i en James se’n van. La Jess pensa i somriu.	SDI-Media-CAT.eaf
-754770	756760	1990	Se’n van tots tres de l’esplanada	SDI-Media-CAT.eaf
-759050	763710	4660	Fosa en negre. Una noia parla per telèfon de la bugada i unes maletes.	SDI-Media-CAT.eaf
-779810	782530	2720	Un rètol ens indica que és la Zoé, la següent.	SDI-Media-CAT.eaf
+3390	10220	6830	Un noi i una noia passegen amb un gos per un descampat a la vora de la platja. Es creuen amb un noi que corre.	SDI-Media-CA.eaf
+24700	30000	5300	Un cotxe blanc s’atura a la calçada, al costat del descampat. En baixa un home que parla per telèfon.	SDI-Media-CA.eaf
+53790	57880	4090	L’home ha ficat un maletí al maleter i n’ha tret una bossa informal	SDI-Media-CA.eaf
+59350	61250	1900	Es posa les ulleres de sol. 	SDI-Media-CA.eaf
+65250	70500	5250	Un rètol ens indica que és en James, l’empresari. En James va cap a la platja caminant i parlant per telèfon.	SDI-Media-CA.eaf
+94580	96960	2380	En James s’ajeu a la tovallola	SDI-Media-CA.eaf
+102300	105190	2890	Es frega els ulls, cansat.	SDI-Media-CA.eaf
+160160	169350	9190	En James fa cara d’ amoïnat. S’aixeca i va en banyador cap a l’aigua. Al fons hi ha la silueta d’una ciutat industrial.	SDI-Media-CA.eaf
+171350	174510	3160	Sense mullar-se, torna cap a la sorra seca.	SDI-Media-CA.eaf
+189960	196000	6040	Mira a totes bandes, busca d’on ve el soroll que se sent. Continua caminant per la platja.	SDI-Media-CA.eaf
+211170	212680	1510	En James es posa la camisa.	SDI-Media-CA.eaf
+221220	225170	3950	En James camina, vestit amb pantalons i americana, per un carrer amb arbres.	SDI-Media-CA.eaf
+229246	232049	2803	Ara puja per un camí que hi ha entremig d’uns matolls.	SDI-Media-CA.eaf
+237000	241990	4990	Un home amb barba de quatre dies i cabells embullats té un got de plàstic a les mans.	SDI-Media-CA.eaf
+250000	256670	6670	Fa gestos d’impaciència amb les mans. Obre la tapa del got i en beu el contingut, te o cafè.	SDI-Media-CA.eaf
+264480	266940	2460	Un rètol ens indica que és en Rick, el jubilat.	SDI-Media-CA.eaf
+270410	275460	5050	En Rick continua assegut en un banc, a sota d’uns arbres. Fa més gestos d’impaciència.	SDI-Media-CA.eaf
+288270	291500	3230	Agafa el mòbil i busca per l’agenda de contactes.	SDI-Media-CA.eaf
+293320	296020	2700	Truca a un tal Craig Anderson.	SDI-Media-CA.eaf
+400430	407480	7050	En Rick s’aixeca del banc i se’n va mirant per tot arreu buscant alguna cosa. Deixa el got al banc.	SDI-Media-CA.eaf
+413610	420840	7230	Veiem una noia amb els cabells arrissats i un llapis a la boca. Un rètol ens indica que és la Jess, l’estudiant.	SDI-Media-CA.eaf
+427310	429230	1920	Busca el mòbil per l’escriptori.	SDI-Media-CA.eaf
+509540	510130	590	S’aixeca.	SDI-Media-CA.eaf
+512440	513490	1050	Ara és a l’exterior.	SDI-Media-CA.eaf
+518000	519730	1730	Puja pel mateix camí que en James.	SDI-Media-CA.eaf
+532470	537140	4670	Veiem una esplanada a l’aire lliure. Hi ha en James, en Rick i la Jess.	SDI-Media-CA.eaf
+541160	542190	1030	Se sent una veu.	SDI-Media-CA.eaf
+558300	560500	2200	Els tres busquen d’on veu la veu.	SDI-Media-CA.eaf
+709240	711670	2430	En Rick i la Jessica fan que no amb el cap.	SDI-Media-CA.eaf
+738840	742150	3310	En Rick i en James se’n van. La Jess pensa i somriu.	SDI-Media-CA.eaf
+754770	756760	1990	Se’n van tots tres de l’esplanada	SDI-Media-CA.eaf
+759050	763710	4660	Fosa en negre. Una noia parla per telèfon de la bugada i unes maletes.	SDI-Media-CA.eaf
+779810	782530	2720	Un rètol ens indica que és la Zoé, la següent.	SDI-Media-CA.eaf
 2900	14830	11930	De dia, en una platja, un home corre. En sentit contrari, una parella, ben abrigada, passeja un gos gran. El gos s'atura per olorar alguna cosa sota la sorra. Ara, segueix els seus amos.	Sonidos-CA.eaf
 20950	28800	7850	Un cotxe d'alta gama arriba a la platja. Dins hi ha un home d'uns 40 anys, ros, alt i amb barba, que parla per telèfon.	Sonidos-CA.eaf
 52660	58790	6130	L'home penja i mira cap al mar. Treu unes ulleres de sol de la butxaca interior de la jaqueta i se les posa.	Sonidos-CA.eaf

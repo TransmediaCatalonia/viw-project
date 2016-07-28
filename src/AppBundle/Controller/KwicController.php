@@ -111,7 +111,7 @@ class KwicController extends Controller
 		#var_dump($values);
 		$c = count($values);
 		$cc = count($files);
-		$title = "'$d' was found in $c utterances in $cc files";
+		$title = "'$d' was found in $c AD units in $cc files";
 		$html = $this->container->get('templating')->render(
 		'kwic/kwic.html.twig',
 		array('form' => $form->createView(), 'error' => $error, 'result' => $values, 'corpus' => $corpus, 'title' => $title));

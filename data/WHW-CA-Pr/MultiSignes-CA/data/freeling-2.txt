@@ -142,7 +142,7 @@ i	i	CC	0.999806	655	656
 sobreimprès	sobreimprimir	VMP00SM	1	657	668	FilmLanguage
 a	a	SPS00	0.999827	669	670	
 la	el	DA0FS0	0.992966	671	673	
-pantalla	pantalla	NCFS000	1	674	682	FilmsLanguage
+pantalla	pantalla	NCFS000	1	674	682	FilmLanguage
 es	es	P0300000	0.999062	683	685	
 llegeix	llegir	VMIP3S0	0.998606	686	693	Seeing
 :	:	Fd	1	693	694	
@@ -603,7 +603,7 @@ i	i	CC	0.999806	2772	2773
 sobreimprès	sobreimprimir	VMP00SM	1	2774	2785	FilmLanguage
 a	a	SPS00	0.999827	2786	2787	
 la	el	DA0FS0	0.992966	2788	2790	
-pantalla	pantalla	NCFS000	1	2791	2799	FilmsLanguage
+pantalla	pantalla	NCFS000	1	2791	2799	FilmLanguage
 es	es	P0300000	0.999062	2800	2802	
 llegeix	llegir	VMIP3S0	0.998606	2803	2810	Seeing
 :	:	Fd	1	2810	2811	

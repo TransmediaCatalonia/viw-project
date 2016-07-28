@@ -767,7 +767,7 @@ les	el	DA0FP0	0.990158	3437	3440
 lletres	lletra	NCFP000	1	3441	3448	FilmLanguage
 de	de	SPS00	1	3449	3450	
 el	el	DA0MS0	1	3451	3452	
-títol	títol	NCMS000	1	3453	3458	FilmsLanguage
+títol	títol	NCMS000	1	3453	3458	FilmLanguage
 ,	,	Fc	1	3458	3459	
 seguides	seguir	VMP00PM	0.5	3460	3468	A-PositionalAttribute
 d'	de	SPS00	1	3469	3471	

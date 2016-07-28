@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-07-14T10:29:53+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
-    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/amatamala/Desktop/UAB/What/BTI_UK/MASTERCOMP_ENG_WHW_AD_MIX_1.mp4" MIME_TYPE="video/mp4"/>
+    <HEADER MEDIA-FILE="" TIME_UNITS="milliseconds">
+        <MEDIA-DESCRIPTOR MEDIA_URL="file:///C:/Users/amatamala/Desktop/UAB/What/BTI_UK/MASTERCOMP_ENG_WHW_AD_MIX_1.mp4" MIME_TYPE="video/mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:54a6f9c4-b5c2-4764-90d6-9a17550fd56b</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">3350</PROPERTY>
     </HEADER>
@@ -12540,7 +12540,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a947" ANNOTATION_REF="a137">
-                <ANNOTATION_VALUE>A_PositionalAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-PositionalAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12590,7 +12590,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a957" ANNOTATION_REF="a147">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12725,7 +12725,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a984" ANNOTATION_REF="a174">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12745,7 +12745,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a988" ANNOTATION_REF="a178">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12780,7 +12780,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a995" ANNOTATION_REF="a185">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12795,12 +12795,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a998" ANNOTATION_REF="a188">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a999" ANNOTATION_REF="a189">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12820,7 +12820,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1003" ANNOTATION_REF="a193">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12865,7 +12865,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1012" ANNOTATION_REF="a202">
-                <ANNOTATION_VALUE>A_Human</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-Human</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12920,7 +12920,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1023" ANNOTATION_REF="a213">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12945,7 +12945,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1028" ANNOTATION_REF="a218">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13015,7 +13015,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1042" ANNOTATION_REF="a232">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13080,7 +13080,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1055" ANNOTATION_REF="a245">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13190,7 +13190,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1077" ANNOTATION_REF="a267">
-                <ANNOTATION_VALUE>A_Dressing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-Dressing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13230,7 +13230,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1085" ANNOTATION_REF="a275">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13580,7 +13580,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1155" ANNOTATION_REF="a345">
-                <ANNOTATION_VALUE>A_RadiatingLight</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-RadiatingLight</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13675,7 +13675,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1174" ANNOTATION_REF="a364">
-                <ANNOTATION_VALUE>A_StateOfMind</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-StateOfMind</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13690,12 +13690,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1177" ANNOTATION_REF="a367">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1178" ANNOTATION_REF="a368">
-                <ANNOTATION_VALUE>A_RadiatingSound</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-RadiatingSound</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13830,7 +13830,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1205" ANNOTATION_REF="a395">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14000,7 +14000,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1239" ANNOTATION_REF="a429">
-                <ANNOTATION_VALUE>A_StateOfMind</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-StateOfMind</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14025,7 +14025,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1244" ANNOTATION_REF="a434">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14060,12 +14060,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1251" ANNOTATION_REF="a441">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1252" ANNOTATION_REF="a442">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14090,12 +14090,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1257" ANNOTATION_REF="a447">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1258" ANNOTATION_REF="a448">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14110,12 +14110,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1261" ANNOTATION_REF="a451">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1262" ANNOTATION_REF="a452">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14130,7 +14130,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1265" ANNOTATION_REF="a455">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14150,7 +14150,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1269" ANNOTATION_REF="a459">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14215,7 +14215,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1282" ANNOTATION_REF="a472">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14365,7 +14365,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1312" ANNOTATION_REF="a502">
-                <ANNOTATION_VALUE>A_PositionalAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-PositionalAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14490,12 +14490,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1337" ANNOTATION_REF="a527">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1338" ANNOTATION_REF="a528">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14545,7 +14545,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1348" ANNOTATION_REF="a538">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14635,7 +14635,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1366" ANNOTATION_REF="a556">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14735,7 +14735,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1386" ANNOTATION_REF="a576">
-                <ANNOTATION_VALUE>A_PositionalAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-PositionalAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14880,7 +14880,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1415" ANNOTATION_REF="a605">
-                <ANNOTATION_VALUE>A_PositionalAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-PositionalAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15005,7 +15005,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1440" ANNOTATION_REF="a630">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15075,12 +15075,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1454" ANNOTATION_REF="a644">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1455" ANNOTATION_REF="a645">
-                <ANNOTATION_VALUE>A_RadiatingSound</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-RadiatingSound</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15285,12 +15285,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1496" ANNOTATION_REF="a686">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1497" ANNOTATION_REF="a687">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15355,7 +15355,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1510" ANNOTATION_REF="a700">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15470,7 +15470,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1533" ANNOTATION_REF="a723">
-                <ANNOTATION_VALUE>A_StateOfMind</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-StateOfMind</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15525,7 +15525,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1544" ANNOTATION_REF="a734">
-                <ANNOTATION_VALUE>A_Clothing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-Clothing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15575,7 +15575,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1554" ANNOTATION_REF="a744">
-                <ANNOTATION_VALUE>A_PositionalAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-PositionalAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15600,7 +15600,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1559" ANNOTATION_REF="a749">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15615,7 +15615,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1562" ANNOTATION_REF="a752">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15680,7 +15680,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1575" ANNOTATION_REF="a765">
-                <ANNOTATION_VALUE>A_RadiatingLight</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-RadiatingLight</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15755,7 +15755,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1590" ANNOTATION_REF="a780">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15990,12 +15990,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1637" ANNOTATION_REF="a827">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1638" ANNOTATION_REF="a828">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16190,7 +16190,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1677" ANNOTATION_REF="a867">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16310,7 +16310,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1701" ANNOTATION_REF="a891">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16340,7 +16340,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1707" ANNOTATION_REF="a897">
-                <ANNOTATION_VALUE>A_PositionalAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-PositionalAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16365,7 +16365,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1712" ANNOTATION_REF="a902">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16400,7 +16400,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1719" ANNOTATION_REF="a909">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16420,7 +16420,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1723" ANNOTATION_REF="a913">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16455,7 +16455,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1730" ANNOTATION_REF="a920">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16470,12 +16470,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1733" ANNOTATION_REF="a923">
-                <ANNOTATION_VALUE>A_SubjectiveAssessment</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-SubjectiveAssessmentAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1734" ANNOTATION_REF="a924">
-                <ANNOTATION_VALUE>A_ColorAttribute</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-ColorAttribute</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16490,7 +16490,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1737" ANNOTATION_REF="a927">
-                <ANNOTATION_VALUE>A_FilmLanguage</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A-FilmLanguage</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

@@ -211,45 +211,45 @@
 772254	774012	1758	Mira a su alrededor extrañada.	Jimenez_Jose_ES.eaf
 779809	781442	1633	Zoé [Zóe], la próxima.	Jimenez_Jose_ES.eaf
 784271	786762	2491	¿Qué pasa mientras...?	Jimenez_Jose_ES.eaf
-4436	17104	12668	El paisaje de una playa. El cielo está parcialmente nublado y teñido de un color rosado. De forma paralela al mar. una pareja pasea por la arena con su perro. En el sentido contrario al suyo un hombre hace footing.  	Marco_Carmes_ES.eaf
-22095	24866	2771	Un coche deportivo blanco se acerca a la playa.  	Marco_Carmes_ES.eaf
-53270	63434	10164	Es un hombre de unos cuarenta. pelirrojo. con barba y tez clara. Viste con traje y corbata. Saca del bolsillo de la chaqueta unas gafas de estilo aviador y se las pone.	Marco_Carmes_ES.eaf
-65248	67198	1950	Se trata de James. el empresario.	Marco_Carmes_ES.eaf
-67315	71491	4176	Camina por una zona arenosa con el móvil en la mano y un bolso playero.	Marco_Carmes_ES.eaf
-93658	98192	4534	Ya no lleva traje. Se tumba sobre una toalla en la arena y suelta el móvil.	Marco_Carmes_ES.eaf
-99297	109908	10611	Esta acostado boca arriba y con los ojos entornados. Se frota los ojos con las manos. estira los brazos en la arena y la acaricia suavemente con la mano izquierda.	Marco_Carmes_ES.eaf
-114906	115978	1072	Se incorpora.	Marco_Carmes_ES.eaf
-159206	176509	17303	Deja el teléfono y se levanta. Lleva solo los calzoncillos y deja las demás pertenencias en la arena. Está desorientado y camina con lentitud. Se acerca a la orilla del mar y segundos más tarde se aleja. Para sutilmente. observando el paisaje que le rodea y mirando hacia arriba.	Marco_Carmes_ES.eaf
-189792	202549	12757	Pasea sin rumbo de un lado a otro y curiosea cuanto hay a su alrededor. Se desplaza torpemente. avanzando y retrocediendo sin decisión. Finalmente retoma el camino hacia el lugar donde dejó todas sus cosas.	Marco_Carmes_ES.eaf
-210101	214779	4678	Sigue mirando a los lados. desconcertado. Recoge su ropa y se pone la camisa.	Marco_Carmes_ES.eaf
-222100	232925	10825	James avanza entre un camino con árboles a los lados. Está vestido y con la camisa desabrochada. Llega a un montículo repleto de arbustos y hierbajos y lo sube por un camino de tierra.	Marco_Carmes_ES.eaf
-233295	235007	1712	Una taza de café para llevar.	Marco_Carmes_ES.eaf
-237124	243290	6166	La sujeta un señor de unos setenta años. Tiene el pelo largo y canoso a juego con una barba espesa.	Marco_Carmes_ES.eaf
-248246	251102	2856	Recorre la tapa de café haciendo círculos.	Marco_Carmes_ES.eaf
-253657	258680	5023	Lo destapa y sitúa el vaso cerca de sus labios. Inseguro. da un trago a la bebida.	Marco_Carmes_ES.eaf
-265556	267457	1901	Él es Rick. el jubilado.	Marco_Carmes_ES.eaf
-267517	281686	14169	A la sombra de una arboleda. hay tres bancos individuales. Rick está sentado en el de en medio. Deja la tapa de plástico en el banco a su izquierda. Mueve la pierna derecha con nerviosismo y deja el vaso junto a la tapa.	Marco_Carmes_ES.eaf
-285700	295865	10165	Rick saca el móvil. Retira la funda y selecciona la pestaña de contactos en la pantalla táctil. Recorre con el dedo la agenda y pulsa el botón verde de llamada.	Marco_Carmes_ES.eaf
-330860	332728	1868	Extrañado. eleva la vista.	Marco_Carmes_ES.eaf
-380403	382058	1655	Algo capta su atención.	Marco_Carmes_ES.eaf
-400899	410905	10006	Se levanta y abandona la taza de café en el asiento. Tambaleándose y echando un vistazo al cielo. se retira del banco en el que estaba. Se aleja caminando por un sendero.	Marco_Carmes_ES.eaf
-411420	415586	4166	Una joven de unos veinte años está sentada en su escritorio.	Marco_Carmes_ES.eaf
-418090	420086	1996	Es Jess. la estudiante.	Marco_Carmes_ES.eaf
-425287	426917	1630	Busca entre los papeles.	Marco_Carmes_ES.eaf
-497017	505398	8381	Se toca el cabello que es pelirrojo y muy rizado. Alza la vista. Mira hacia ambos lados de la habitación. como si estuviera buscando algo.	Marco_Carmes_ES.eaf
-509800	525266	15466	Jess se levanta. coge su abrigo y sale a la calle. Se marcha con desconfianza y llega a una senda repleta de vegetación. Al principio. avanza por el camino con paso lentos. Se para un instante, estudia el entorno y continúa decidida.	Marco_Carmes_ES.eaf
-530159	538648	8489	En una llanura rodeada por árboles. se encuentran James. Rick y Jess. Todos están absortos y giran sobre sí mismos mientras observan el cielo.	Marco_Carmes_ES.eaf
-556402	560715	4313	Contemplan el cielo y se cubren los ojos para no deslumbrarse con el sol.	Marco_Carmes_ES.eaf
-594892	596025	1133	Rick se emociona.	Marco_Carmes_ES.eaf
-708026	712637	4611	Se miran tratando de buscar una respuesta. Rick y Jess niegan con la cabeza.	Marco_Carmes_ES.eaf
-746217	753050	6833	El cielo está despejado y brilla el sol. Jess corretea tras James y Rick. Los alcanza y se marchan juntos del lugar.	Marco_Carmes_ES.eaf
-758273	762269	3996	Una señora de unos treinta años tiende ropa y habla por teléfono.	Marco_Carmes_ES.eaf
-762429	765393	2964	No he terminado de tender. tengo que darme prisa.	Marco_Carmes_ES.eaf
-767965	771096	3131	No. ¿de qué hablas? Claro. las maletas están a punto.	Marco_Carmes_ES.eaf
-772906	773953	1047	Eleva la vista.	Marco_Carmes_ES.eaf
-774797	777207	2410	Oye. no puedo hablar. tengo que dejarte.	Marco_Carmes_ES.eaf
-778208	782682	4474	Mira al horizonte con expresión de incertidumbre. Ella es Zoé... la próxima.	Marco_Carmes_ES.eaf
-783807	785972	2165	Qué pasa mientras...	Marco_Carmes_ES.eaf
+4436	17104	12668	El paisaje de una playa. El cielo está parcialmente nublado y teñido de un color rosado. De forma paralela al mar. una pareja pasea por la arena con su perro. En el sentido contrario al suyo un hombre hace footing.  	Marco_Carmen_ES.eaf
+22095	24866	2771	Un coche deportivo blanco se acerca a la playa.  	Marco_Carmen_ES.eaf
+53270	63434	10164	Es un hombre de unos cuarenta. pelirrojo. con barba y tez clara. Viste con traje y corbata. Saca del bolsillo de la chaqueta unas gafas de estilo aviador y se las pone.	Marco_Carmen_ES.eaf
+65248	67198	1950	Se trata de James. el empresario.	Marco_Carmen_ES.eaf
+67315	71491	4176	Camina por una zona arenosa con el móvil en la mano y un bolso playero.	Marco_Carmen_ES.eaf
+93658	98192	4534	Ya no lleva traje. Se tumba sobre una toalla en la arena y suelta el móvil.	Marco_Carmen_ES.eaf
+99297	109908	10611	Esta acostado boca arriba y con los ojos entornados. Se frota los ojos con las manos. estira los brazos en la arena y la acaricia suavemente con la mano izquierda.	Marco_Carmen_ES.eaf
+114906	115978	1072	Se incorpora.	Marco_Carmen_ES.eaf
+159206	176509	17303	Deja el teléfono y se levanta. Lleva solo los calzoncillos y deja las demás pertenencias en la arena. Está desorientado y camina con lentitud. Se acerca a la orilla del mar y segundos más tarde se aleja. Para sutilmente. observando el paisaje que le rodea y mirando hacia arriba.	Marco_Carmen_ES.eaf
+189792	202549	12757	Pasea sin rumbo de un lado a otro y curiosea cuanto hay a su alrededor. Se desplaza torpemente. avanzando y retrocediendo sin decisión. Finalmente retoma el camino hacia el lugar donde dejó todas sus cosas.	Marco_Carmen_ES.eaf
+210101	214779	4678	Sigue mirando a los lados. desconcertado. Recoge su ropa y se pone la camisa.	Marco_Carmen_ES.eaf
+222100	232925	10825	James avanza entre un camino con árboles a los lados. Está vestido y con la camisa desabrochada. Llega a un montículo repleto de arbustos y hierbajos y lo sube por un camino de tierra.	Marco_Carmen_ES.eaf
+233295	235007	1712	Una taza de café para llevar.	Marco_Carmen_ES.eaf
+237124	243290	6166	La sujeta un señor de unos setenta años. Tiene el pelo largo y canoso a juego con una barba espesa.	Marco_Carmen_ES.eaf
+248246	251102	2856	Recorre la tapa de café haciendo círculos.	Marco_Carmen_ES.eaf
+253657	258680	5023	Lo destapa y sitúa el vaso cerca de sus labios. Inseguro. da un trago a la bebida.	Marco_Carmen_ES.eaf
+265556	267457	1901	Él es Rick. el jubilado.	Marco_Carmen_ES.eaf
+267517	281686	14169	A la sombra de una arboleda. hay tres bancos individuales. Rick está sentado en el de en medio. Deja la tapa de plástico en el banco a su izquierda. Mueve la pierna derecha con nerviosismo y deja el vaso junto a la tapa.	Marco_Carmen_ES.eaf
+285700	295865	10165	Rick saca el móvil. Retira la funda y selecciona la pestaña de contactos en la pantalla táctil. Recorre con el dedo la agenda y pulsa el botón verde de llamada.	Marco_Carmen_ES.eaf
+330860	332728	1868	Extrañado. eleva la vista.	Marco_Carmen_ES.eaf
+380403	382058	1655	Algo capta su atención.	Marco_Carmen_ES.eaf
+400899	410905	10006	Se levanta y abandona la taza de café en el asiento. Tambaleándose y echando un vistazo al cielo. se retira del banco en el que estaba. Se aleja caminando por un sendero.	Marco_Carmen_ES.eaf
+411420	415586	4166	Una joven de unos veinte años está sentada en su escritorio.	Marco_Carmen_ES.eaf
+418090	420086	1996	Es Jess. la estudiante.	Marco_Carmen_ES.eaf
+425287	426917	1630	Busca entre los papeles.	Marco_Carmen_ES.eaf
+497017	505398	8381	Se toca el cabello que es pelirrojo y muy rizado. Alza la vista. Mira hacia ambos lados de la habitación. como si estuviera buscando algo.	Marco_Carmen_ES.eaf
+509800	525266	15466	Jess se levanta. coge su abrigo y sale a la calle. Se marcha con desconfianza y llega a una senda repleta de vegetación. Al principio. avanza por el camino con paso lentos. Se para un instante, estudia el entorno y continúa decidida.	Marco_Carmen_ES.eaf
+530159	538648	8489	En una llanura rodeada por árboles. se encuentran James. Rick y Jess. Todos están absortos y giran sobre sí mismos mientras observan el cielo.	Marco_Carmen_ES.eaf
+556402	560715	4313	Contemplan el cielo y se cubren los ojos para no deslumbrarse con el sol.	Marco_Carmen_ES.eaf
+594892	596025	1133	Rick se emociona.	Marco_Carmen_ES.eaf
+708026	712637	4611	Se miran tratando de buscar una respuesta. Rick y Jess niegan con la cabeza.	Marco_Carmen_ES.eaf
+746217	753050	6833	El cielo está despejado y brilla el sol. Jess corretea tras James y Rick. Los alcanza y se marchan juntos del lugar.	Marco_Carmen_ES.eaf
+758273	762269	3996	Una señora de unos treinta años tiende ropa y habla por teléfono.	Marco_Carmen_ES.eaf
+762429	765393	2964	No he terminado de tender. tengo que darme prisa.	Marco_Carmen_ES.eaf
+767965	771096	3131	No. ¿de qué hablas? Claro. las maletas están a punto.	Marco_Carmen_ES.eaf
+772906	773953	1047	Eleva la vista.	Marco_Carmen_ES.eaf
+774797	777207	2410	Oye. no puedo hablar. tengo que dejarte.	Marco_Carmen_ES.eaf
+778208	782682	4474	Mira al horizonte con expresión de incertidumbre. Ella es Zoé... la próxima.	Marco_Carmen_ES.eaf
+783807	785972	2165	Qué pasa mientras...	Marco_Carmen_ES.eaf
 3145	10421	7276	A pleno día, por una playa algo nublada, pasean varias personas. Un hombre hace jogging y un perro olfatea la arena.	MartindelRio_Barbara_ES.eaf
 26802	30435	3633	Un coche blanco aparca frente a la arena. Dentro, un hombre discute por el móvil.	MartindelRio_Barbara_ES.eaf
 52772	63172	10400	El hombre ha salido del coche, ha sacado una bolsa del maletero y ha metido un maletín en él. Tiene unos 35 años. lleva traje y corbata. es rubio y tiene barba. Se pone unas gafas de sol.	MartindelRio_Barbara_ES.eaf

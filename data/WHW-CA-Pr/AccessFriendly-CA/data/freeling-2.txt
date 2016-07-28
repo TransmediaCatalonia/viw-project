@@ -239,7 +239,7 @@ la	el	DA0FS0	0.992966	1063	1065
 dreta	dreta	NCFS000	0.419462	1066	1071	Location
 de	de	SPS00	0.999931	1072	1074	
 la	el	DA0FS0	0.992966	1075	1077	
-pantalla	pantalla	NCFS000	1	1078	1086	FilmsLanguage
+pantalla	pantalla	NCFS000	1	1078	1086	FilmLanguage
 ,	,	Fc	1	1086	1087	
 a	a	SPS00	1	1088	1089	
 el	el	DA0MS0	1	1089	1090	
@@ -547,7 +547,7 @@ voltant	voltant	NCMS000	0.875	2416	2423	Location
 encuriosit	encuriosir	VMP00SM	1	2425	2435	A-StateOfMind
 .	.	Fp	1	2435	2436	
 						
-Noia	noi	NCFS000	0.288224	2444	2448	HumanHuman
+Noia	noi	NCFS000	0.288224	2444	2448	Human
 jove	jove	AQ0FS0	0.479532	2449	2453	A-SubjectiveAssessmentAttribute
 davant	davant	SPS00	0.761006	2454	2460	Location
 l'	el	DA0CS0	0.987894	2461	2463	
@@ -755,7 +755,7 @@ el	el	DA0MS0	0.991214	3391	3393
 bosc	bosc	NCMS000	0.885104	3394	3398	Location
 .	.	Fp	1	3398	3399	
 						
-Pantalla	pantalla	NP00000	0.288224	3407	3415	FilmsLanguage
+Pantalla	pantalla	NP00000	0.288224	3407	3415	FilmLanguage
 negre	negre	NCMS000	0.75	3416	3421	A-ColorAttribute
 .	.	Fp	1	3421	3422	
 						

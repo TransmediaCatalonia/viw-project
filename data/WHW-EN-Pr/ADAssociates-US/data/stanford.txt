@@ -4,9 +4,9 @@ partly-cloudy	partly-cloudy	JJ	A-RadiatingLight
 sky	sky	NN	Location
 ,	,	,	-
 a	a	DT	-
-wide	wide	JJ	A-SubjectiveAssessment
+wide	wide	JJ	A-SubjectiveAssessmentAttribute
 and	and	CC	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 beachfront	beachfront	NN	Location
 and	and	CC	-
 parking	parking	NN	Location
@@ -26,7 +26,7 @@ a	a	DT	-
 couple	couple	NN	Human
 walks	walk	VBZ	Walking
 a	a	DT	-
-large	large	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
 dog	dog	NN	Animal
 .	.	.	-
 
@@ -47,7 +47,7 @@ a	a	DT	-
 man	man	NN	Human
 with	with	IN	-
 a	a	DT	-
-trim	trim	JJ	A-SubjectiveAssessment
+trim	trim	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 reddish-brown	reddish-brown	JJ	A-ColorAttribute
 beard	beard	NN	BodyPart
@@ -85,7 +85,7 @@ his	his	PRP$	-
 briefcase	briefcase	NN	Object
 for	for	IN	-
 a	a	DT	-
-striped	striped	JJ	A-SubjectiveAssessment
+striped	striped	JJ	A-SubjectiveAssessmentAttribute
 cloth	cloth	NN	-
 bag	bag	NN	Clothing
 from	from	IN	-
@@ -185,7 +185,7 @@ stands	stand	VBZ	PositionalAttribute
 and	and	CC	-
 wearing	wear	VBG	Dressing
 gray	gray	JJ	A-ColorAttribute
-swim	swim	JJ	A-SubjectiveAssessment
+swim	swim	JJ	A-SubjectiveAssessmentAttribute
 trunks	trunk	NNS	Clothing
 ,	,	,	-
 strolls	stroll	VBZ	Walking
@@ -236,7 +236,7 @@ tie	tie	NN	Clothing
 James	james	NNP	Human
 strolls	stroll	VBZ	Walking
 a	a	DT	-
-tree-lined	tree-lined	JJ	A-SubjectiveAssessment
+tree-lined	tree-lined	JJ	A-SubjectiveAssessmentAttribute
 walkway	walkway	NN	Location
 /	/	NN	-
 Then	then	RB	Time
@@ -247,13 +247,13 @@ a	a	DT	-
 hill	hill	NN	Location
 along	along	IN	-
 a	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 path	path	NN	Location
 bordered	bordered	VBN	A-PositionalAttribute
 by	by	IN	-
 bushes	bushe	NNS	Vegetable
 and	and	CC	-
-dry	dry	JJ	A-SubjectiveAssessment
+dry	dry	JJ	A-SubjectiveAssessmentAttribute
 scrub	scrub	NN	Vegetable
 .	.	.	-
 
@@ -313,9 +313,9 @@ a	a	DT	-
 salt-and-pepper	salt-and-pepper	JJ	A-ColorAttribute
 beard	beard	NN	BodyPart
 and	and	CC	-
-straggly	straggly	JJ	A-SubjectiveAssessment
+straggly	straggly	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-wind-blown	wind-blown	JJ	A-SubjectiveAssessment
+wind-blown	wind-blown	JJ	A-SubjectiveAssessmentAttribute
 hair	hair	NN	BodyPart
 .	.	.	-
 
@@ -363,7 +363,7 @@ him	him	PRP	-
 ,	,	,	-
 foliage	foliage	NN	Vegetable
 and	and	CC	-
-tall	tall	JJ	A-SubjectiveAssessment
+tall	tall	JJ	A-SubjectiveAssessmentAttribute
 trees	tree	NNS	Vegetable
 .	.	.	-
 
@@ -435,7 +435,7 @@ Rick	rick	NNP	Human
 strolls	stroll	VBZ	Walking
 along	along	IN	-
 a	a	DT	-
-concrete	concrete	JJ	A-SubjectiveAssessment
+concrete	concrete	JJ	A-SubjectiveAssessmentAttribute
 walkway	walkway	NN	Location
 ,	,	,	-
 his	his	PRP$	-
@@ -456,12 +456,12 @@ the	the	DT	-
 background	background	NN	Location
 ,	,	,	-
 a	a	DT	-
-young	young	JJ	A-SubjectiveAssessment
+young	young	JJ	A-SubjectiveAssessmentAttribute
 woman	woman	NN	Human
 with	with	IN	-
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-curly	curly	JJ	A-SubjectiveAssessment
+curly	curly	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 red	red	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
@@ -521,7 +521,7 @@ steps_up	step_up	VBZ	Motion
 an	an	DT	-
 embankment	embankment	NN	Location
 past	past	IN	-
-tall	tall	JJ	A-SubjectiveAssessment
+tall	tall	JJ	A-SubjectiveAssessmentAttribute
 grasses	grasse	NNS	Vegetable
 /	/	NNS	-
 Turns	turn	VBZ	BodyMotion
@@ -618,7 +618,7 @@ them	them	PRP	-
 Their	their	PRP$	-
 figures	figure	NNS	Human
 are	be	VBP	Aux
-tiny	tiny	JJ	A-SubjectiveAssessment
+tiny	tiny	JJ	A-SubjectiveAssessmentAttribute
 against	against	IN	-
 the	the	DT	-
 stretch	stretch	NN	Location
@@ -670,11 +670,11 @@ yes	yes	UH	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 /	/	:	-
 She	she	PRP	-
 looks	look	VBZ	Seeing
-arround	arround	JJ	A-SubjectiveAssessment
+arround	arround	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 
 Listen	listen	VB	Hearing

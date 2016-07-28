@@ -1,7 +1,7 @@
 It	it	PRP	-
 's	be	VBZ	Aux
 an	an	DT	-
-early	early	JJ	A-SubjectiveAssessment
+early	early	JJ	A-SubjectiveAssessmentAttribute
 grey	grey	JJ	A-ColorAttribute
 morning	morning	NN	Time
 at	at	IN	-
@@ -13,15 +13,15 @@ A	a	DT	-
 couple	couple	NN	Human
 dressed	dressed	VBN	A-Dressing
 in	in	IN	-
-warm	warm	JJ	A-SubjectiveAssessment
+warm	warm	JJ	A-SubjectiveAssessmentAttribute
 clothes	cloth	NNS	Clothing
 walk	walk	VBP	Walking
 their	their	PRP$	-
-great	great	JJ	A-SubjectiveAssessment
+great	great	JJ	A-SubjectiveAssessmentAttribute
 dane	dane	NN	Animal
 as	as	IN	-
 a	a	DT	-
-lone	lone	JJ	A-SubjectiveAssessment
+lone	lone	JJ	A-SubjectiveAssessmentAttribute
 jogger	jogger	NN	Human
 rambles	ramble	VBZ	Walking
 past	past	IN	-
@@ -37,7 +37,7 @@ alongside	alongside	IN	-
 a	a	DT	-
 road	road	NN	Location
 is	be	VBZ	Aux
-vacant	vacant	JJ	A-SubjectiveAssessment
+vacant	vacant	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 
 A	a	DT	-
@@ -52,7 +52,7 @@ BLANK	blank	JJ	A-ColorAttribute
 
 A	a	DT	-
 white	white	JJ	A-ColorAttribute
-two-door	two-door	JJ	A-SubjectiveAssessment
+two-door	two-door	JJ	A-SubjectiveAssessmentAttribute
 coupe	coupe	NN	-
 pulls_up	pull_up	VBZ	Motion
 in	in	IN	-
@@ -63,7 +63,7 @@ sidewalk	sidewalk	NN	Location
 .	.	.	-
 It	it	PRP	-
 's	be	VBZ	Aux
-driven	driven	JJ	A-SubjectiveAssessment
+driven	driven	JJ	A-SubjectiveAssessmentAttribute
 by	by	IN	-
 a	a	DT	-
 man	man	NN	Human
@@ -231,7 +231,7 @@ briefs	brief	NNS	Clothing
 .	.	.	-
 On	on	IN	-
 the	the	DT	-
-opposite	opposite	JJ	A-SubjectiveAssessment
+opposite	opposite	JJ	A-SubjectiveAssessmentAttribute
 side	side	NN	Location
 of	of	IN	-
 the	the	DT	-
@@ -242,7 +242,7 @@ smokestack	smokestack	NN	-
 looms_over	loom_over	VBZ	Process
 a	a	DT	-
 city	city	NN	Location
-blurred	blurred	JJ	A-SubjectiveAssessment
+blurred	blurred	JJ	A-SubjectiveAssessmentAttribute
 by	by	IN	-
 the	the	DT	-
 haze	haze	NN	-
@@ -339,7 +339,7 @@ open	open	JJ	A-PositionalAttribute
 he	he	PRP	-
 strolls	stroll	VBZ	Walking
 beneath	beneath	IN	-
-tall	tall	JJ	A-SubjectiveAssessment
+tall	tall	JJ	A-SubjectiveAssessmentAttribute
 trees	tree	NNS	Vegetable
 .	.	.	-
 
@@ -348,7 +348,7 @@ he	he	PRP	-
 climbs	climb	VBZ	Walking
 a	a	DT	-
 well	well	RB	-
-worn	worn	JJ	A-SubjectiveAssessment
+worn	worn	JJ	A-SubjectiveAssessmentAttribute
 dirt	dirt	NN	Location
 path	path	NN	Location
 up	up	IN	-
@@ -377,12 +377,12 @@ in	in	IN	-
 his	his	PRP$	-
 sixties	sixtie	NNS	-
 has	have	VBZ	possesses
-unruly	unruly	JJ	A-SubjectiveAssessment
+unruly	unruly	JJ	A-SubjectiveAssessmentAttribute
 grey	grey	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 and	and	CC	-
 a	a	DT	-
-thick	thick	JJ	A-SubjectiveAssessment
+thick	thick	JJ	A-SubjectiveAssessmentAttribute
 beard	beard	NN	BodyPart
 .	.	.	-
 He	he	PRP	-
@@ -486,11 +486,11 @@ impatiently	impatiently	RB	-
 He	he	PRP	-
 grabs	grab	VBZ	Touching
 a	a	DT	-
-smart	smart	JJ	A-SubjectiveAssessment
+smart	smart	JJ	A-SubjectiveAssessmentAttribute
 phone	phone	NN	Object
 from	from	IN	-
 his	his	PRP$	-
-back	back	JJ	ALocationPositionalAttribute
+back	back	JJ	A-PositionalAttribute
 pocket	pocket	NN	Clothing
 .	.	.	-
 
@@ -551,11 +551,11 @@ a	a	DT	-
 girl	girl	NN	Human
 in	in	IN	-
 her	her	PRP$	-
-early	early	JJ	A-SubjectiveAssessment
+early	early	JJ	A-SubjectiveAssessmentAttribute
 twenties	twentie	NNS	-
 with	with	IN	-
-thick	thick	JJ	A-SubjectiveAssessment
-curly	curly	JJ	A-SubjectiveAssessment
+thick	thick	JJ	A-SubjectiveAssessmentAttribute
+curly	curly	JJ	A-SubjectiveAssessmentAttribute
 red	red	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 sits	sit	VBZ	BodyMotion
@@ -621,7 +621,7 @@ scarf	scarf	NN	Clothing
 She	she	PRP	-
 hikes_up	hike_up	VBZ	Walking
 an	an	DT	-
-overgrown	overgrown	JJ	A-SubjectiveAssessment
+overgrown	overgrown	JJ	A-SubjectiveAssessmentAttribute
 grassy	grassy	JJ	A-Vegetable
 slope	slope	NN	Location
 .	.	.	-
@@ -638,7 +638,7 @@ she	she	PRP	-
 rushes_off	rushe_off	VBZ	Walking
 behind	behind	IN	-
 some	some	DT	-
-tall	tall	JJ	A-SubjectiveAssessment
+tall	tall	JJ	A-SubjectiveAssessmentAttribute
 grasses	grasse	NNS	Vegetable
 .	.	.	-
 
@@ -651,7 +651,7 @@ and	and	CC	-
 Rick	rick	NNP	Human
 on	on	IN	-
 a	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 plateau	plateau	NN	Location
 atop	atop	IN	-
 the	the	DT	-
@@ -792,7 +792,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 '	'	''	-
 

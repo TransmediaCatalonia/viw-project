@@ -137,7 +137,7 @@ posa	posar	VMIP3S0	0.904762	642	646	Putting
 						
 Imprès	imprimir	VMP00SM	0.284375	655	661	FilmLanguage
 en	en	SPS00	0.993046	662	664	
-pantalla	pantalla	NCFS000	1	665	673	FilmsLanguage
+pantalla	pantalla	NCFS000	1	665	673	FilmLanguage
 :	:	Fd	1	673	674	
 "	"	Fe	1	675	676		
 James	james	NP00000	1	676	681	
@@ -388,7 +388,7 @@ cavil·lós	cavil·lós	AQ0MS0	1	1806	1815	A-StateOfMind
 						
 Imprès	imprimir	VMP00SM	0.284375	1824	1830	FilmLanguage
 en	en	SPS00	0.993046	1831	1833	
-pantalla	pantalla	NCFS000	1	1834	1842	FilmsLanguage
+pantalla	pantalla	NCFS000	1	1834	1842	FilmLanguage
 :	:	Fd	1	1842	1843	
 "	"	Fe	1	1844	1845		
 Rick	rick	NP00000	1	1845	1849	
@@ -502,7 +502,7 @@ angoixada	angoixar	VMP00SF	1	2303	2312	A-StateOfMind
 						
 Imprès	imprimir	VMP00SM	0.284375	2321	2327	FilmLanguage
 en	en	SPS00	0.993046	2328	2330	
-pantalla	pantalla	NCFS000	1	2331	2339	FilmsLanguage
+pantalla	pantalla	NCFS000	1	2331	2339	FilmLanguage
 :	:	Fd	1	2339	2340	
 "	"	Fe	1	2341	2342		
 Jess	jess	NP00000	1	2342	2346	
@@ -717,7 +717,7 @@ deixar	deixar	VMN0000	1	3269	3275	Process
 						
 Imprès	imprimir	VMP00SM	0.284375	3284	3290	FilmLanguage
 en	en	SPS00	0.993046	3291	3293	
-pantalla	pantalla	NCFS000	1	3294	3302	FilmsLanguage
+pantalla	pantalla	NCFS000	1	3294	3302	FilmLanguage
 :	:	Fd	1	3302	3303	
 "	"	Fe	1	3304	3305		
 Zoé	zoé	NP00000	1	3305	3308	

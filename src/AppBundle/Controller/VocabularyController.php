@@ -280,7 +280,7 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'RG',"");
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'R',"");
 	#var_dump($result);
 	
 	$toHTML = implode(",",$values);
@@ -382,7 +382,7 @@ public function verbsFilesProvider($dir,$provider)
         $file = $dataDir .  "/sem.csv";
 	$csvFile = file($file);
 
-        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'RG',$provider);
+        list($values,$result) = $this->get('app.utils.csv')->getLemmaSemFreq($file,'R',$provider);
 	#var_dump($result);
 	$corpus = substr($provider, 0, -4);
 	$corpus = preg_replace('/^What-/', '', $corpus); #dirty...

@@ -121,7 +121,7 @@ la	el	DA0FS0	0.972146	561	563
 arena	arena	NCFS000	0.866667	564	569	Location
 mirando	mirar	VMG0000	1	570	577	Seeing
 hacia	hacia	SPS00	1	578	583	
-arriba	arriba	RG	0.955556	584	590	LocationLocation
+arriba	arriba	RG	0.955556	584	590	Location
 .	.	Fp	1	590	591	
 
 Vuelve	volver	VMIP3S0	0.944444	599	605	Motion
@@ -138,7 +138,7 @@ Se	se	P00CN000	0.465602	657	659
 viste	vestir	VMIP3S0	0.611202	660	665	Dressing
 .	.	Fp	1	665	666	
 
-Ahora	ahora	RG	1	674	679	TimeLocation
+Ahora	ahora	RG	1	674	679	Time
 vestido	vestir	VMP00SM	0.3	680	687	A-Dressing
 camina	caminar	VMIP3S0	0.75	688	694	Walking
 por	por	SPS00	1	695	698	

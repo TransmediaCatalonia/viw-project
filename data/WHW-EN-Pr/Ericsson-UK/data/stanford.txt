@@ -12,7 +12,7 @@ their	their	PRP$	-
 dog	dog	NN	Animal
 along	along	IN	-
 a	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 promenade	promenade	NN	Location
 ,	,	,	-
 passing	pass	VBG	Motion
@@ -21,7 +21,7 @@ jogger	jogger	NN	Human
 going	go	VBG	Motion
 in	in	IN	-
 the	the	DT	-
-opposite	opposite	JJ	A-SubjectiveAssessment
+opposite	opposite	JJ	A-SubjectiveAssessmentAttribute
 direction	direction	NN	Location
 .	.	.	-
 
@@ -44,9 +44,9 @@ driver	driver	NN	Human
 ,	,	,	-
 who	who	WP	-
 is	be	VBZ	Aux
-having	have	VBG	Possesses
+having	have	VBG	possesses
 an	an	DT	-
-animated	animated	JJ	A-SubjectiveAssessment
+animated	animated	JJ	A-SubjectiveAssessmentAttribute
 conversation	conversation	NN	-
 on	on	IN	-
 his	his	PRP$	-
@@ -64,7 +64,7 @@ then	then	RB	Time
 reaches	reach	VBZ	Touching
 into	into	IN	-
 his	his	PRP$	-
-inside	inside	JJ	ATimePositionalAttribute
+inside	inside	JJ	A-PositionalAttribute
 jacket	jacket	NN	Clothing
 pocket	pocket	NN	Clothing
 and	and	CC	-
@@ -85,8 +85,8 @@ fifty	fifty	CD	-
 and	and	CC	-
 has	have	VBZ	possesses
 a	a	DT	-
-short	short	JJ	A-SubjectiveAssessment
-trimmed	trimmed	JJ	A-SubjectiveAssessment
+short	short	JJ	A-SubjectiveAssessmentAttribute
+trimmed	trimmed	JJ	A-SubjectiveAssessmentAttribute
 beard	beard	NN	BodyPart
 .	.	.	-
 James	james	NNP	Human
@@ -103,7 +103,7 @@ the	the	DT	-
 promenade	promenade	NN	Location
 with	with	IN	-
 a	a	DT	-
-striped	striped	JJ	A-SubjectiveAssessment
+striped	striped	JJ	A-SubjectiveAssessmentAttribute
 bag	bag	NN	Clothing
 slung_over	slung_over	VBN	A-PositionalAttribute
 his	his	PRP$	-
@@ -131,7 +131,7 @@ a	a	DT	-
 towel	towel	NN	Object
 he	he	PRP	-
 has	have	VBZ	Aux
-spread	spread	JJ	A-SubjectiveAssessment
+spread	spread	JJ	A-SubjectiveAssessmentAttribute
 out	out	RP	Location
 on	on	IN	-
 the	the	DT	-
@@ -177,7 +177,7 @@ stands	stand	VBZ	PositionalAttribute
 and	and	CC	-
 walks	walk	VBZ	Walking
 a	a	DT	-
-little	little	JJ	A-SubjectiveAssessment
+little	little	JJ	A-SubjectiveAssessmentAttribute
 way	way	NN	Location
 across	across	IN	-
 the	the	DT	-
@@ -224,7 +224,7 @@ suit	suit	NN	Clothing
 lying	lie	VBG	BodyMotion
 in	in	IN	-
 a	a	DT	-
-crumpled	crumpled	JJ	A-SubjectiveAssessment
+crumpled	crumpled	JJ	A-SubjectiveAssessmentAttribute
 heap	heap	NN	BodyPart
 .	.	.	-
 
@@ -241,7 +241,7 @@ looks_about	look_about	VBZ	Seeing
 perturbed	perturbed	VBN	A-StateOfMind
 by	by	IN	-
 the	the	DT	-
-strange	strange	JJ	A-SubjectiveAssessment
+strange	strange	JJ	A-SubjectiveAssessmentAttribute
 trilling	trilling	NN	RadiatingSound
 .	.	.	-
 
@@ -297,9 +297,9 @@ it	it	PRP	-
 He	he	PRP	-
 heads_up	head_up	VBZ	Motion
 a	a	DT	-
-steep	steep	JJ	A-SubjectiveAssessment
+steep	steep	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-rugged	rugged	JJ	A-SubjectiveAssessment
+rugged	rugged	JJ	A-SubjectiveAssessmentAttribute
 slope	slope	NN	Location
 ,	,	,	-
 trying	try	VBG	Aux
@@ -318,7 +318,7 @@ man	man	NN	Human
 is	be	VBZ	Aux
 holding	hold	VBG	Touching
 a	a	DT	-
-takeaway	takeaway	JJ	A-SubjectiveAssessment
+takeaway	takeaway	JJ	A-SubjectiveAssessmentAttribute
 coffee	coffee	NN	-
 cup	cup	NN	Object
 in	in	IN	-
@@ -351,7 +351,7 @@ his	his	PRP$	-
 sixties	sixtie	NNS	-
 ,	,	,	-
 has	have	VBZ	possesses
-unruly	unruly	JJ	A-SubjectiveAssessment
+unruly	unruly	JJ	A-SubjectiveAssessmentAttribute
 collar	collar	NN	BodyPart
 length	length	NN	-
 hair	hair	NN	BodyPart
@@ -371,7 +371,7 @@ beard	beard	NN	BodyPart
 He	he	PRP	-
 lifts	lift	VBZ	Motion
 the	the	DT	-
-plastic	plastic	JJ	A-SubjectiveAssessment
+plastic	plastic	JJ	A-SubjectiveAssessmentAttribute
 lid	lid	NN	Object
 off	off	IN	-
 the	the	DT	-
@@ -381,7 +381,7 @@ peers	peer	VBZ	Seeing
 at	at	IN	-
 the	the	DT	-
 dark	dark	JJ	A-ColorAttribute
-liquid	liquid	JJ	A-SubjectiveAssessment
+liquid	liquid	JJ	A-SubjectiveAssessmentAttribute
 inside	inside	RB	Time
 ,	,	,	-
 hesitates	hesitate	VBZ	StateOfMind
@@ -404,7 +404,7 @@ is	be	VBZ	Aux
 sitting	sit	VBG	BodyMotion
 on	on	IN	-
 a	a	DT	-
-wooden	wooden	JJ	A-SubjectiveAssessment
+wooden	wooden	JJ	A-SubjectiveAssessmentAttribute
 chair	chair	NN	Object
 in	in	IN	-
 the	the	DT	-
@@ -450,7 +450,7 @@ smartphone	smartphone	NN	Object
 out	out	RP	Location
 of	of	IN	-
 his	his	PRP$	-
-back	back	JJ	ALocationPositionalAttribute
+back	back	JJ	A-PositionalAttribute
 pocket	pocket	NN	Clothing
 and	and	CC	-
 starts	start	VBZ	Aux
@@ -491,7 +491,7 @@ looking	look	VBG	Seeing
 intrigued	intrigued	VBN	A-StateOfMind
 by	by	IN	-
 the	the	DT	-
-strange	strange	JJ	A-SubjectiveAssessment
+strange	strange	JJ	A-SubjectiveAssessmentAttribute
 sound	sound	NN	RadiatingSound
 .	.	.	-
 He	he	PRP	-
@@ -595,13 +595,13 @@ and	and	CC	-
 Rick	rick	NNP	Human
 on	on	IN	-
 an	an	DT	-
-arid	arid	JJ	A-SubjectiveAssessment
+arid	arid	JJ	A-SubjectiveAssessmentAttribute
 patch	patch	NN	Location
 of	of	IN	-
 land	land	NN	Location
 bordered	bordered	VBN	A-PositionalAttribute
 by	by	IN	-
-parched	parched	JJ	A-SubjectiveAssessment
+parched	parched	JJ	A-SubjectiveAssessmentAttribute
 vegetation	vegetation	NNS	Vegetable
 .	.	.	-
 
@@ -616,7 +616,7 @@ ca	ca	MD	-
 n't	n't	RB	-
 locate	locate	VB	IntentionalPsychologicalProcess
 the	the	DT	-
-exact	exact	JJ	A-SubjectiveAssessment
+exact	exact	JJ	A-SubjectiveAssessmentAttribute
 source	source	NN	-
 of	of	IN	-
 the	the	DT	-
@@ -664,7 +664,7 @@ her	her	PRP$	-
 shoulders	shoulder	NNS	BodyPart
 for	for	IN	-
 a	a	DT	-
-brief	brief	JJ	A-SubjectiveAssessment
+brief	brief	JJ	A-SubjectiveAssessmentAttribute
 moment	moment	NN	Time
 ,	,	,	-
 then	then	RB	Time
@@ -719,7 +719,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 ...	...	:	-
 
 Listen	listen	VB	Hearing

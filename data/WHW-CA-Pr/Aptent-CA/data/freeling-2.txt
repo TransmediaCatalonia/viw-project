@@ -451,7 +451,7 @@ treu	treure	VMIP3S0	0.212864	2256	2260	Putting
 la	el	DA0FS0	0.992966	2261	2263	
 tapa	tapa	NCFS000	0.125	2264	2268	Object
 .	.	Fp	1	2268	2269	
-Conté	contenir	VMIP3S0	0.998606	2270	2275	Possesses
+Conté	contenir	VMIP3S0	0.998606	2270	2275	possesses
 cafè	cafè	NCMS000	1	2276	2280	
 sol	sol	AQ0MS0	0.266667	2281	2284	A-SubjectiveAssessmentAttribute
 .	.	Fp	1	2284	2285	

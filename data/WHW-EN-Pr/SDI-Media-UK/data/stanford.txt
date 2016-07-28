@@ -17,11 +17,11 @@ couple	couple	NN	Human
 stroll_along	stroll_along	VBP	Walking
 a	a	DT	-
 virtually	virtually	RB	-
-deserted	deserted	JJ	A-SubjectiveAssessment
+deserted	deserted	JJ	A-SubjectiveAssessmentAttribute
 beach	beach	NN	Location
 with	with	IN	-
 a	a	DT	-
-large	large	JJ	A-SubjectiveAssessment
+large	large	JJ	A-SubjectiveAssessmentAttribute
 dog	dog	NN	Animal
 lolloping	lollop	VBG	Walking
 behind	behind	IN	-
@@ -52,7 +52,7 @@ the	the	DT	-
 beach	beach	NN	Location
 and	and	CC	-
 a	a	DT	-
-forty-something	forty-something	JJ	A-SubjectiveAssessment
+forty-something	forty-something	JJ	A-SubjectiveAssessmentAttribute
 guy	guy	NN	Human
 gets_out	get_out	VBZ	Motion
 ,	,	,	-
@@ -72,7 +72,7 @@ reaches	reach	VBZ	Touching
 into	into	IN	-
 in	in	IN	-
 his	his	PRP$	-
-inside	inside	JJ	ATimePositionalAttribute
+inside	inside	JJ	A-PositionalAttribute
 jacket	jacket	NN	Clothing
 pocket	pocket	NN	Clothing
 .	.	.	-
@@ -129,13 +129,13 @@ lies_back	lie_back	VBZ	BodyMotion
 Slender	slender	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 with	with	IN	-
-short	short	JJ	A-SubjectiveAssessment
+short	short	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 sandy-coloured	sandy-coloured	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 and	and	CC	-
 a	a	DT	-
-neat	neat	JJ	A-SubjectiveAssessment
+neat	neat	JJ	A-SubjectiveAssessmentAttribute
 beard	beard	NN	BodyPart
 ,	,	,	-
 James	james	NNP	Human
@@ -205,7 +205,7 @@ He	he	PRP	-
 walks	walk	VBZ	Walking
 through	through	IN	-
 the	the	DT	-
-soft	soft	JJ	A-SubjectiveAssessment
+soft	soft	JJ	A-SubjectiveAssessmentAttribute
 sand	sand	NN	Location
 ,	,	,	-
 stops	stop	VBZ	Motion
@@ -233,7 +233,7 @@ checks	check	VBZ	IntentionalPsychologicalProcess
 about	about	IN	-
 him	him	PRP	-
 .	.	.	-
-Further	further	JJ	A-SubjectiveAssessment
+Further	further	JJ	A-SubjectiveAssessmentAttribute
 round	round	NN	Location
 the	the	DT	-
 coast	coast	NN	Location
@@ -275,7 +275,7 @@ his	his	PRP$	-
 shirt	shirt	NN	Clothing
 .	.	.	-
 Two	two	CD	-
-small	small	JJ	A-SubjectiveAssessment
+small	small	JJ	A-SubjectiveAssessmentAttribute
 boats	boat	NNS	-
 bob	bob	VBP	Motion
 about	about	IN	-
@@ -297,7 +297,7 @@ tie	tie	NN	Clothing
 James	james	NNP	Human
 walks	walk	VBZ	Walking
 past	past	IN	-
-leafy	leafy	JJ	A-SubjectiveAssessment
+leafy	leafy	JJ	A-SubjectiveAssessmentAttribute
 trees	tree	NNS	Vegetable
 .	.	.	-
 
@@ -308,9 +308,9 @@ scrubland	scrubland	NN	Location
 he	he	PRP	-
 climbs	climb	VBZ	Walking
 a	a	DT	-
-steep	steep	JJ	A-SubjectiveAssessment
+steep	steep	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-dusty	dusty	JJ	A-SubjectiveAssessment
+dusty	dusty	JJ	A-SubjectiveAssessmentAttribute
 track	track	NN	Location
 .	.	.	-
 
@@ -318,7 +318,7 @@ A	a	DT	-
 man	man	NN	Human
 holding	hold	VBG	Touching
 a	a	DT	-
-plastic	plastic	JJ	A-SubjectiveAssessment
+plastic	plastic	JJ	A-SubjectiveAssessmentAttribute
 cup	cup	NN	Object
 taps	tap	VBZ	Touching
 the	the	DT	-
@@ -330,9 +330,9 @@ He	he	PRP	-
 's	be	VBZ	Aux
 in	in	IN	-
 late	late	RB	Time
-middle-age	middle-age	JJ	A-SubjectiveAssessment
+middle-age	middle-age	JJ	A-SubjectiveAssessmentAttribute
 with	with	IN	-
-strong	strong	JJ	A-SubjectiveAssessment
+strong	strong	JJ	A-SubjectiveAssessmentAttribute
 features	feature	NNS	BodyPart
 and	and	CC	-
 a	a	DT	-
@@ -347,9 +347,9 @@ the	the	DT	-
 man	man	NN	Human
 who	who	WP	-
 has	have	VBZ	possesses
-wild	wild	JJ	A-SubjectiveAssessment
+wild	wild	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-wiry	wiry	JJ	A-SubjectiveAssessment
+wiry	wiry	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 greying	greying	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
@@ -372,11 +372,11 @@ The	the	DT	-
 cup	cup	NN	Object
 is	be	VBZ	Aux
 half	half	DT	-
-full	full	JJ	A-SubjectiveAssessment
+full	full	JJ	A-SubjectiveAssessmentAttribute
 of	of	IN	-
 clear	clear	JJ	A-ColorAttribute
 dark	dark	JJ	A-ColorAttribute
-liquid	liquid	JJ	A-SubjectiveAssessment
+liquid	liquid	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
 which	which	WDT	-
 he	he	PRP	-
@@ -401,7 +401,7 @@ vest	vest	NN	Clothing
 top	top	NN	Clothing
 and	and	CC	-
 a	a	DT	-
-heavy	heavy	JJ	A-SubjectiveAssessment
+heavy	heavy	JJ	A-SubjectiveAssessmentAttribute
 chain	chain	NN	Clothing
 around	around	IN	Time
 his	his	PRP$	-
@@ -448,7 +448,7 @@ his	his	PRP$	-
 phone	phone	NN	Object
 from	from	IN	-
 a	a	DT	-
-back	back	JJ	ALocationPositionalAttribute
+back	back	JJ	A-PositionalAttribute
 pocket	pocket	NN	Clothing
 of	of	IN	-
 his	his	PRP$	-
@@ -496,7 +496,7 @@ Rick	rick	NNP	Human
 hurries_away	hurrie_away	VBZ	Process
 along	along	IN	-
 a	a	DT	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 path	path	NN	Location
 ,	,	,	-
 scanning	scan	VBG	IntentionalPsychologicalProcess
@@ -511,7 +511,7 @@ the	the	DT	-
 noise	noise	NN	RadiatingSound
 
 A	a	DT	-
-young	young	JJ	A-SubjectiveAssessment
+young	young	JJ	A-SubjectiveAssessmentAttribute
 woman	woman	NN	Human
 .	.	.	-
 
@@ -552,9 +552,9 @@ laptop	laptop	NN	Object
 Jess	jess	NNP	Human
 who	who	WP	-
 has	have	VBZ	possesses
-long	long	JJ	A-SubjectiveAssessment
+long	long	JJ	A-SubjectiveAssessmentAttribute
 ,	,	,	-
-curly	curly	JJ	A-SubjectiveAssessment
+curly	curly	JJ	A-SubjectiveAssessmentAttribute
 auburn	auburn	JJ	A-ColorAttribute
 hair	hair	NN	BodyPart
 scans	scan	VBZ	IntentionalPsychologicalProcess
@@ -583,7 +583,7 @@ a	a	DT	-
 Parka	parka	NN	Clothing
 with	with	IN	-
 a	a	DT	-
-fur-trimmed	fur-trimmed	JJ	A-SubjectiveAssessment
+fur-trimmed	fur-trimmed	JJ	A-SubjectiveAssessmentAttribute
 hood	hood	NN	Clothing
 ,	,	,	-
 she	she	PRP	-
@@ -594,7 +594,7 @@ heads_up	head_up	VBZ	Motion
 a	a	DT	-
 slope	slope	NN	Location
 of	of	IN	-
-tall	tall	JJ	A-SubjectiveAssessment
+tall	tall	JJ	A-SubjectiveAssessmentAttribute
 grasses	grasse	NNS	Vegetable
 and	and	CC	-
 scrubby	scrubby	RB	-
@@ -629,7 +629,7 @@ in	in	IN	-
 a	a	DT	-
 sunny	sunny	JJ	A-RadiatingLight
 ,	,	,	-
-sandy	sandy	JJ	A-SubjectiveAssessment
+sandy	sandy	JJ	A-SubjectiveAssessmentAttribute
 clearing	clearing	NN	Location
 .	.	.	-
 
@@ -752,7 +752,7 @@ yes	yes	RB	-
 our	our	PRP$	-
 luggage	luggage	NN	Object
 is	be	VBZ	Aux
-ready	ready	JJ	A-SubjectiveAssessment
+ready	ready	JJ	A-SubjectiveAssessmentAttribute
 .	.	.	-
 Listen	listen	VB	Hearing
 ,	,	,	-

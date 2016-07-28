@@ -58,29 +58,30 @@ class CSV
 	   if ( ( ($pos == 'N') && ( 0 === strpos($data['Annotation3-1'], $pos) ) ) ||
 	        ( ($pos == 'V') && ( 0 === strpos($data['Annotation3-1'], $pos) ) && ( 0 !== strpos($data['Annotation1-1'], 'A') ) ) ||
 		( ($pos == 'A') && ( ( 0 === strpos($data['Annotation3-1'], $pos) ) || (0 === strpos($data['Annotation3-1'], 'VMP')) || (0 === strpos($data['Annotation3-1'], 'JJ')) )) ||
-		( ($pos == 'RG') && ( ( 0 === strpos($data['Annotation3-1'], $pos)) || ( 0 === strpos($data['Annotation3-1'], 'RB')) ) ) 
+		( ($pos == 'R') && ( ( 0 === strpos($data['Annotation3-1'], $pos)) || ( 0 === strpos($data['Annotation3-1'], 'R')) ) ) 
 		) {
 		$word = $data['Annotation2-1'];
 		$sem = $data['Annotation1-1'];
-		$word_sem = $word . "@" . $sem;
+		$word_sem = $word . "@" . $sem; 
 		//checks if word was already used to modify result
-		if (in_array($word_sem, $words)){
+		if (in_array($word_sem, $words)){  
 			// looks for word in $result
 			foreach ($result as &$d){ 
-				if ($d['lemma'] == $word_sem){ 	
+				if ($d['lemma'] == $word_sem){ 	 
 					$d['freq']++ ;
 					
 				}
-			}			
+			}
+			unset($d);			
 		}
 		//checks word, if new -> initialise & adds it in $result
-		else {
+		else { 
 			array_push($words,$word_sem);
 			$d = array(
 		    	'lemma' => $word_sem,
 		    	'freq' => 1,
 			);
-			array_push($result,$d);
+			array_push($result,$d); 
 		} 
 	   } 
         }
@@ -144,7 +145,8 @@ class CSV
 						$d['freq']++ ;
 						}
 				}
-			}			
+			}
+			unset($d);			
 		}
 		//checks word, if new -> initialise & adds it in $result
 		else {

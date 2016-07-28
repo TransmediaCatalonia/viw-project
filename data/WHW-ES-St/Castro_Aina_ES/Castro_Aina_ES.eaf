@@ -6843,7 +6843,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a603" ANNOTATION_REF="a202">
-                <ANNOTATION_VALUE>LocationLocation</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Location</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6913,7 +6913,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a617" ANNOTATION_REF="a216">
-                <ANNOTATION_VALUE>TimeLocation</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Time</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

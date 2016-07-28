@@ -89,11 +89,11 @@ ulleres_de_sol	ulleres_de_sol	NCFP000	1	397	411	Clothing
 						
 Sobreimprès	sobreimprimir	VMP00SM	1	420	431	FilmLanguage
 en	en	SPS00	0.993046	432	434	
-pantalla	pantalla	NCFS000	1	435	443	FilmsLanguage
+pantalla	pantalla	NCFS000	1	435	443	FilmLanguage
 :	:	Fd	1	443	444	
 James	james	NP00000	1	445	450	
 ,	,	Fc	1	450	451	
-l	litre	NCMN000	1	452	453	
+l	el	DA0MS0	1	452	453	
 empresari	empresari	NCMS000	1	454	463	Human
 .	.	Fp	1	463	464	
 						
@@ -128,7 +128,7 @@ ulls	ull	NCMP000	1	600	604	BodyPart
 tancats	tancar	VMP00PM	0.5	605	612	A-PositionalAttribute
 ,	,	Fc	1	612	613	
 acaricia	acariciar	VMIP3S0	0.998606	614	622	Touching
-l	litre	NCMN000	1	623	624	
+l	el	DA0MS0	1	623	624	
 arena	arena	NCFS000	0.901308	625	630	Location
 .	.	Fp	1	630	631	
 						
@@ -145,7 +145,7 @@ un	un	DI0MS0	0.958241	688	690
 costat	costat	NCMS000	0.892857	691	697	Location
 i	i	CC	0.999806	698	699	
 a	a	SPS00	0.999827	700	701	
-l	litre	NCMN000	1	702	703	
+l	el	DA0MS0	1	702	703	
 altre	altre	PI0MS000	0.954545	704	709	
 .	.	Fp	1	709	710	
 						
@@ -162,7 +162,7 @@ estranyesa	estranyesa	NCFS000	1	757	767	StateOfMind
 ,	,	Fc	1	767	768	
 camina	caminar	VMIP3S0	0.998606	769	775	Walking
 per	per	SPS00	0.999664	776	779	
-l	litre	NCMN000	1	780	781	
+l	el	DA0MS0	1	780	781	
 arena	arena	NCFS000	0.901308	782	787	Location
 mirant	mirar	VMG0000	0.525015	788	794	Seeing
 a	a	SPS00	1	795	796	
@@ -204,7 +204,7 @@ una	un	DI0FS0	0.95792	940	943
 banda	banda	NCFS000	1	944	949	Location
 i	i	CC	0.999806	950	951	
 a	a	SPS00	0.999827	952	953	
-l	litre	NCMN000	1	954	955	
+l	el	DA0MS0	1	954	955	
 altra	altre	PI0FS000	0.975	956	961	
 .	.	Fp	1	961	962	
 						
@@ -213,7 +213,7 @@ Desconcertat	desconcertar	VMP00SM	1	970	982	A-StateOfMind
 se	es	P0300000	1	984	985	
 apropa	apropar	VMIP3S0	0.998606	986	992	Motion
 a	a	SPS00	0.999827	993	994	
-l	litre	NCMN000	1	995	996	
+l	el	DA0MS0	1	995	996	
 aigua	aigua	NCFS000	1	997	1002	
 i	i	CC	0.999806	1003	1004	
 se	es	P0300000	1	1005	1007	
@@ -337,7 +337,7 @@ beu	beure	VMIP3S0	0.998606	1522	1525	Drinking
 						
 Sobreimprès	sobreimprimir	VMP00SM	1	1534	1545	FilmLanguage
 en	en	SPS00	0.993046	1546	1548	
-pantalla	pantalla	NCFS000	1	1549	1557	FilmsLanguage
+pantalla	pantalla	NCFS000	1	1549	1557	FilmLanguage
 :	:	Fd	1	1557	1558	
 Rick	rick	NP00000	1	1559	1563	
 ,	,	Fc	1	1563	1564	
@@ -415,7 +415,7 @@ busca	buscar	VMIP3S0	0.833333	1872	1877	IntentionalPsychologicalProcess
 un	un	DI0MS0	0.958241	1878	1880	
 número	número	NCMS000	1	1881	1887	
 a	a	SPS00	0.999827	1888	1889	
-l	litre	NCMN000	1	1890	1891	
+l	el	DA0MS0	1	1890	1891	
 agenda	agenda	NCFS000	1	1892	1898	-
 i	i	CC	0.999806	1899	1900	
 truca	trucar	VMIP3S0	0.160685	1901	1906	Communication
@@ -449,7 +449,7 @@ un	un	DI0MS0	0.958241	2030	2032
 costat	costat	NCMS000	0.892857	2033	2039	Location
 i	i	CC	0.999806	2040	2041	
 a	a	SPS00	0.999827	2042	2043	
-l	litre	NCMN000	1	2044	2045	
+l	el	DA0MS0	1	2044	2045	
 altre	altre	PI0MS000	0.954545	2046	2051	
 .	.	Fp	1	2051	2052	
 						
@@ -483,7 +483,7 @@ taula	taula	NCFS000	0.901317	2179	2184	Object
 						
 Jess	jess	NP00000	1	2193	2197	
 ,	,	Fc	1	2197	2198	
-l	litre	NCMN000	1	2199	2200	
+l	el	DA0MS0	1	2199	2200	
 estudiant	estudiant	NCCS000	0.333333	2201	2210	Human
 .	.	Fp	1	2210	2211	
 						
@@ -541,7 +541,7 @@ d	d	RG	0.0577494	2453	2454
 una	un	DI0FS0	0.95792	2455	2458	
 banda	banda	NCFS000	1	2459	2464	Location
 a	a	SPS00	0.999827	2465	2466	
-l	litre	NCMN000	1	2467	2468	
+l	el	DA0MS0	1	2467	2468	
 altra	altre	AQ0FS0	0.025	2469	2474	-
 ,	,	Fc	1	2474	2475	
 puja	pujar	VMIP3S0	0.777778	2476	2480	Walking
@@ -580,7 +580,7 @@ un	un	DI0MS0	0.958241	2611	2613
 costat	costat	NCMS000	0.892857	2614	2620	Location
 i	i	CC	0.999806	2621	2622	
 a	a	SPS00	0.999827	2623	2624	
-l	litre	NCMN000	1	2625	2626	
+l	el	DA0MS0	1	2625	2626	
 altre	altre	PI0MS000	0.954545	2627	2632	
 .	.	Fp	1	2632	2633	
 						
@@ -611,7 +611,7 @@ en	en	SPS00	0.993046	2733	2735
 James	james	NP00000	1	2736	2741	
 li	ell	PP3CSD00	1	2742	2744	
 canvia	canviar	VMIP3S0	0.75	2745	2751	Process
-l	litre	NCMN000	1	2752	2753	
+l	el	DA0MS0	1	2752	2753	
 expressió	expressió	NCFS000	1	2754	2763	Gesture
 .	.	Fp	1	2763	2764	
 						
@@ -687,7 +687,7 @@ No	no	RN	0.981618	3090	3092
 ,	,	Fc	1	3092	3093	
 encara	encara	RG	0.979167	3094	3100	TimeInterval
 no	no	RN	0.981618	3101	3103	
-l	litre	NCMN000	1	3104	3105	
+l	el	DA0MS0	1	3104	3105	
 he	haver	VAIP1S0	1	3106	3108	Aux
 estès	estendre	VMP00SM	0.474937	3109	3114	BodyMotion
 tota	tot	DI0FS0	0.978261	3115	3119	
@@ -743,7 +743,7 @@ deixar	deixar	VMN0000	1	3301	3309	Process
 						
 Sobreimprès	sobreimprimir	VMP00SM	1	3317	3328	FilmLanguage
 en	en	SPS00	0.993046	3329	3331	
-pantalla	pantalla	NCFS000	1	3332	3340	FilmsLanguage
+pantalla	pantalla	NCFS000	1	3332	3340	FilmLanguage
 :	:	Fd	1	3340	3341	
 Zoé	zoé	NP00000	1	3342	3345	
 ,	,	Fc	1	3345	3346	
@@ -753,7 +753,7 @@ següent	següent	AQ0CS0	1	3350	3357	A-PositionalAttribute
 						
 Sobreimprès	sobreimprimir	VMP00SM	1	3366	3377	FilmLanguage
 en	en	SPS00	0.993046	3378	3380	
-pantalla	pantalla	NCFS000	1	3381	3389	FilmsLanguage
+pantalla	pantalla	NCFS000	1	3381	3389	FilmLanguage
 :	:	Fd	1	3389	3390	
 what	what	NCFS000	0.297509	3391	3395	
 happens	happens	NCMP000	0.42511	3396	3403	

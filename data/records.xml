@@ -4,35 +4,35 @@
 
 <corpus id="WHW-EN-Pr">
   <title>WHW-EN-Pr</title>
-  <description>The WHW-EN-Pr corpus contains professional audio descriptions in English for the short movie ""What Happens While"".</description>
+  <description>The WHW-EN-Pr corpus contains professional audio descriptions in English for the short movie "What Happens While".</description>
   <language>EN</language>
   <identifier>https://ddd.uab.cat/record/147267</identifier>
 </corpus>
 
 <corpus id="WHW-ES-Pr">
   <title>WHW-ES-Pr</title>
-  <description>The WHW-ES-Pr corpus contains professional audio descriptions in Spanish for the short movie ""What Happens While"".</description>
+  <description>The WHW-ES-Pr corpus contains professional audio descriptions in Spanish for the short movie "What Happens While".</description>
   <language>ES</language>
   <identifier>https://ddd.uab.cat/record/147267</identifier>
 </corpus>
 
 <corpus id="WHW-CA-Pr">
   <title>WHW-CA-Pr</title>
-  <description>The WHW-CA-Pr corpus contains professional audio descriptions in Catalan for the short movie ""What Happens While"".</description>
+  <description>The WHW-CA-Pr corpus contains professional audio descriptions in Catalan for the short movie "What Happens While".</description>
   <language>CA</language>
   <identifier>https://ddd.uab.cat/record/147267</identifier>
 </corpus>
 
 <corpus id="WHW-ES-St">
   <title>WHW-ES-St</title>
-  <description>The WHW-ES-St corpus contains audio descriptions in Spanish for the short movie ""What Happens While"" made by students.</description>
+  <description>The WHW-ES-St corpus contains audio descriptions in Spanish for the short movie "What Happens While" made by students.</description>
   <language>ES</language>
   <identifier>https://ddd.uab.cat/record/147267</identifier>
 </corpus>
 
 <corpus id="WHW-CA-St">
   <title>WHW-CA-St</title>
-  <description>The WHW-CA-St corpus contains audio descriptions in Catalan for the short movie ""What Happens While"" made by students.</description>
+  <description>The WHW-CA-St corpus contains audio descriptions in Catalan for the short movie "What Happens While" made by students.</description>
   <language>CA</language>
   <identifier>https://ddd.uab.cat/record/147267</identifier>
 </corpus>

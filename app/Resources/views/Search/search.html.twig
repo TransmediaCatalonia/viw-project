@@ -29,6 +29,18 @@
 		    {% endfor %}
 		</ul>
 
+		<h3>Search by Expertise</h3>
+		<ul>
+		    {% for p in expertise %}
+                        <li>
+			
+    				<a href="search/expertise/{{ p }}">{{ p }}</a>
+			
+			</li>
+			<hr/>
+		    {% endfor %}
+                </ul>
+
 		<h3>Search by Provider</h3>
 		<ul>
 		    {% for p in providers %}

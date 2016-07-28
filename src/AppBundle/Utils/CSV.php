@@ -166,10 +166,17 @@ class CSV
 	$headers = "['Lemma','PoS','Frequency']";
 	array_push($values, $headers);
 	foreach ( $result as $key ){ 
-		if ($key['freq'] > 2){
-		$clean_lemma = str_replace("'","",$key['lemma']);
-		$val = "['". $clean_lemma . "','" . $key['pos'] . "'," . $key['freq'] . "]";
-		array_push($values, $val);
+		if ($provider == "") {
+			if ($key['freq'] > 2){
+			$clean_lemma = str_replace("'","",$key['lemma']);
+			$val = "['". $clean_lemma . "','" . $key['pos'] . "'," . $key['freq'] . "]";
+			array_push($values, $val);
+			}
+		}
+		else {
+			$clean_lemma = str_replace("'","",$key['lemma']);
+			$val = "['". $clean_lemma . "','" . $key['pos'] . "'," . $key['freq'] . "]";
+			array_push($values, $val);
 		}
 	}
 	#var_dump($values);

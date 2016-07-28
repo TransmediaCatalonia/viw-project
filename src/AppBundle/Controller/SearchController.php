@@ -40,6 +40,7 @@ class SearchController extends Controller
 			array_push($corp,trim(($l->nodeValue)));
         	}
 		$corpus = array_unique($corp);
+		sort($corpus);
 
 		// get languages
 		$allLanguages = $xpath->query("//language");
@@ -48,30 +49,33 @@ class SearchController extends Controller
 			array_push($langs,trim(($l->nodeValue)));
         	}
 		$languages = array_unique($langs);
+		sort($languages);
 
 		// get providers
 		$allSubjects = $xpath->query("//creator");
-		$subjs = array();
+		$pros = array();
         	foreach($allSubjects as $l){
-			array_push($subjs,trim(($l->nodeValue)));
+			array_push($pros,trim(($l->nodeValue)));
         	}
-		$providers = array_unique($subjs);
+		$providers = array_unique($pros);
+		sort($providers);
 
-		// get subjects
-		$allSubjects = $xpath->query("//subject");
-		$subjs = array();
+		// get expertisse
+		$allSubjects = $xpath->query("//expertise");
+		$exps = array();
         	foreach($allSubjects as $l){
-			array_push($subjs,trim(($l->nodeValue)));
+			array_push($exps,trim(($l->nodeValue)));
         	}
-		$subjects = array_unique($subjs);
-		
+		$expertise = array_unique($exps);
+		sort($expertise);
+
     	} else {
        	/*throw NotFoundHttpException("Guide {$filename} Not Found.");*/
     	} 
-       
+        
         $html = $this->container->get('templating')->render(
             'Search/search.html.twig',
-            array('corpus' => $corpus, 'languages' => $languages, 'providers' => $providers, 'subjects' => $subjects)
+            array('corpus' => $corpus, 'languages' => $languages, 'providers' => $providers, 'expertise' => $expertise)
         );
 	 return new Response($html);
 
@@ -115,6 +119,7 @@ class SearchController extends Controller
 			$selectedFields = array();
 			array_push($selectedFields, $title,  $dir[0], $dir[1]); 
 			array_push($files, $selectedFields);
+			ksort($files);
 		}
 //$xpath = new DOMXPath($dom);
 //foreach ($xpath->query('/root/p/text()') as $textNode) {

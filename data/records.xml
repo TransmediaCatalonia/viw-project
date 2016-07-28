@@ -49,6 +49,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-EN-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4812.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 
@@ -61,6 +62,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-EN-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4808.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Bridge-US">
@@ -72,6 +74,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-EN-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4810.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 
@@ -84,6 +87,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-EN-Pr</corpus>
   <identifier> http://videosdigitals.uab.es/almacen/downloads/625/4814.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Ericsson-AU">
@@ -95,6 +99,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-EN-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4816.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 
@@ -107,6 +112,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-EN-Pr</corpus>
   <identifier> http://videosdigitals.uab.es/almacen/downloads/625/4818.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Mennell-CA">
@@ -118,6 +124,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-EN-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4820.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="MindsEye-UK">
@@ -129,6 +136,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-EN-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4822.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="SDI-Media-UK">
@@ -140,6 +148,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-EN-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4824.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 
@@ -152,6 +161,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-EN-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4826.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 
@@ -164,6 +174,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4938.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Aristia-ES">
@@ -174,6 +185,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4940.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="CEIAF-ES">
@@ -184,6 +196,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4982.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="NavarradeCine-ES">
@@ -194,6 +207,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4972.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="EdSolProducciones-ES">
@@ -204,6 +218,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4974.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Ericsson-ES">
@@ -214,6 +229,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4976.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Kaleidoscope-ES">
@@ -224,6 +240,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4984.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="SDI-Media-ES">
@@ -234,6 +251,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4986.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Sonidos-ES">
@@ -244,6 +262,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4978.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Tragora-ES">
@@ -254,6 +273,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4980.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 
@@ -265,6 +285,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4784.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Aptent-CA">
@@ -275,6 +296,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4790.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Descriptik-CA">
@@ -285,6 +307,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4792.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="LB-CA">
@@ -295,6 +318,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4794.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="MultiSignes-CA">
@@ -305,6 +329,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4796.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Plurals-CA">
@@ -315,6 +340,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4798.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="SBT-Carme-CA">
@@ -325,6 +351,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4800.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="SDI-Media-CA">
@@ -335,6 +362,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4802.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Sonidos-CA">
@@ -345,6 +373,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4804.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 <record id="Subtil-CA">
@@ -355,6 +384,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-Pr</corpus>
   <identifier>http://videosdigitals.uab.es/almacen/downloads/625/4806.mp4</identifier>
+  <expertise>professional</expertise>
 </record>
 
 /***********************************/
@@ -368,6 +398,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Castro_Aina_ES.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Fuente_Virginia_ES">
@@ -378,6 +409,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Fuente_Virginia_ES.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Garcia_Isabel_ES">
@@ -388,6 +420,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Garcia_Arias_Isabel_ES.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Jimenez_Jose_ES">
@@ -398,6 +431,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-St</corpus>
   <identifier>http://www.uab...</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Marco_Carmen_ES">
@@ -408,6 +442,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Jimenez_Jose_ES.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="MartindelRio_Barbara_ES">
@@ -418,6 +453,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/MartindelRio_Barbara_ES.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Mateo_Antonio_ES">
@@ -428,6 +464,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Mateo_Antonio_ES.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Palacios_Raquel_ES">
@@ -438,6 +475,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-St</corpus>
   <identifier>http://www.uab...</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Roldan_Marina_ES">
@@ -448,6 +486,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Palacios_Raquel_ES.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Rubio_Jennifer_ES">
@@ -458,6 +497,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-ES-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Rubio_Jennifer_ES.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 
@@ -470,6 +510,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Altadill_Judit_CAT_SRT.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Arderius_Elvira_CA">
@@ -480,6 +521,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Arderius_Elvira_CAT.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Beneito_Satorres_CA">
@@ -490,6 +532,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/beneito_satorres_CAT.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Bonjoch_Sara_CA">
@@ -500,6 +543,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Bonjoch_Sara_CAT.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Colomer_Sandra_CA">
@@ -510,6 +554,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Colomer_Sandra_CAT.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Juan_Magdalena_CA">
@@ -520,6 +565,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Juan_Magdalena_CAT.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 <record id="Mor_Polo_CA">
@@ -530,6 +576,7 @@
   <movie>"What Happens While"</movie>
   <corpus>WHW-CA-St</corpus>
   <identifier>https://ddd.uab.cat/pub/videos/2015/147267/Mor_Polo_CAT.pdf</identifier>
+  <expertise>student</expertise>
 </record>
 
 </records>

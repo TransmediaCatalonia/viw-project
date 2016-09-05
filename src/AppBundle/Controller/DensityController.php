@@ -139,7 +139,8 @@ class DensityController extends Controller
 	  $line = trim($l);
           $data = str_getcsv($line, "\t");
 	  if (count($data) > 2 ) {
-	      $file = substr($data[4], 0, -4); 
+	      $paths = explode("/",$data[4]); 
+	      $file = substr($paths[2], 0, -4); 
 	      if ($file == $file1){
               $row = "";
 	      $string = preg_replace('/[^A-Za-z0-9\- ,]/', '', $data[3]);
@@ -156,7 +157,8 @@ class DensityController extends Controller
 	   $line = trim($l);
            $data = str_getcsv($line, "\t");
 	   if (count($data) > 2 ) {
-	      $file = substr($data[4], 0, -4);
+	      $paths = explode("/",$data[4]); 
+	      $file = substr($paths[2], 0, -4);
 	      if ($file == $file2){
               $row = "";
 	      $string = preg_replace('/[^A-Za-z0-9\- ,]/', '', $data[3]);

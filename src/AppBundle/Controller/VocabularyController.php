@@ -111,7 +111,7 @@ public function verbsFilesProvider($dir,$provider)
 
         $html = $this->container->get('templating')->render(
             'vocabulary/vocabularyVerbsProvider.html.twig',
-            array('title' => $title, 'key2' => $toHTML2, 'key3' => $toHTML3)
+            array('title' => $title, 'key2' => $toHTML2, 'key3' => $toHTML3, 'path' => $dir)
         );
         return new Response($html);
     }
@@ -216,7 +216,7 @@ public function verbsFilesProvider($dir,$provider)
 	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'verbs', 'path' => 'corpus', 'csv' => $result));
+		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'semantic class', 'pos' => 'verbs', 'path' => 'corpus', 'csv' => $result));
 		return new Response($html);
     }
 
@@ -240,7 +240,7 @@ public function verbsFilesProvider($dir,$provider)
 	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'nouns', 'path' => 'corpus','csv' => $result));
+		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'semantic class', 'pos' => 'nouns', 'path' => 'corpus','csv' => $result));
 		return new Response($html);
     }
 
@@ -263,7 +263,7 @@ public function verbsFilesProvider($dir,$provider)
 	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'adjectives', 'path' => 'corpus', 'csv' => $result));
+		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'semantic class', 'pos' => 'adjectives', 'path' => 'corpus', 'csv' => $result));
 		return new Response($html);
     }
 
@@ -286,7 +286,7 @@ public function verbsFilesProvider($dir,$provider)
 	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'Semantic Class', 'pos' => 'adverbs', 'path' => 'corpus', 'csv' => $result));
+		array('key' => $toHTML, 'corpus' => $dir, 'message' => 'semantic class', 'pos' => 'adverbs', 'path' => 'corpus', 'csv' => $result));
 		return new Response($html);
     }
 
@@ -312,7 +312,7 @@ public function verbsFilesProvider($dir,$provider)
 	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'verbs', 'path' => $path, 'csv' => $result));
+		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'semantic class', 'pos' => 'verbs', 'path' => $path, 'csv' => $result));
 		return new Response($html);
     }
 
@@ -339,7 +339,7 @@ public function verbsFilesProvider($dir,$provider)
 	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'nouns', 'path' => $path, 'csv' => $result));
+		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'semantic class', 'pos' => 'nouns', 'path' => $path, 'csv' => $result));
 		return new Response($html);
     }
 
@@ -365,7 +365,7 @@ public function verbsFilesProvider($dir,$provider)
 	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'adjectives', 'path' => $path, 'csv' => $result));
+		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'semantic class', 'pos' => 'adjectives', 'path' => $path, 'csv' => $result));
 		return new Response($html);
     }
 
@@ -391,7 +391,7 @@ public function verbsFilesProvider($dir,$provider)
 	$toHTML = implode(",",$values);
 		$html = $this->container->get('templating')->render(
 		'vocabulary/vocabularyDash.html.twig',
-		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'Semantic Class', 'pos' => 'adverbs', 'path' => $path, 'csv' => $result));
+		array('key' => $toHTML, 'corpus' => $corpus, 'message' => 'semantic class', 'pos' => 'adverbs', 'path' => $path, 'csv' => $result));
 		return new Response($html);
     }
 

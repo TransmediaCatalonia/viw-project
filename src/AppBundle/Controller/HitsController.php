@@ -88,7 +88,7 @@ class HitsController extends Controller
     
         $html = $this->container->get('templating')->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'duration in seconds.',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'duration in seconds',
                   'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
 		  'maxValue' => $maxValue, 'path' => $subdir_id)
         );
@@ -166,7 +166,7 @@ class HitsController extends Controller
        
 	$html = $this->container->get('templating')->render(
             'hits/hitsVisual.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'duration in seconds.',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'Duration in seconds',
 		  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 
                   'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id)
         );
@@ -239,7 +239,7 @@ class HitsController extends Controller
     
         $html = $this->container->get('templating')->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'num. of words',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'Num. of words',
 			'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
 			'maxValue' => $maxValue, 'path' => $subdir_id)
         );
@@ -398,7 +398,7 @@ class HitsController extends Controller
     
         $html = $this->container->get('templating')->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'character/second',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'characters/second',
                   'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
 		  'maxValue' => $maxValue, 'path' => $subdir_id)
         );
@@ -483,7 +483,7 @@ class HitsController extends Controller
 		
         $html = $this->container->get('templating')->render(
             'hits/hitsVisual.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'character/second',
+            array('key' => $data, 'title' => $dir_id, 'type' => 'characters/second',
 		  'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 
                   'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id)
         );

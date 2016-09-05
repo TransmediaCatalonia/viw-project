@@ -39,17 +39,17 @@
 	{% endif %}
 
 	{% if words is not null %}
-	<li><b>AD units, sentences and words' countings:</b> this provides some figures about AD units, 
+	<li><b>AD unit, sentence and word countings:</b> this provides some figures about AD units, 
 	sentences and words in the file <a href="../../words/{{ subdir }}/{{ words }}"> go...</a></li><hr/>
 	{% endif %}
 
 	{% if hits is not null %}
 	<li><b>Word frequency by part of speech</b> you can see words' frequency by part of speech tag <a href="../../vocabulary/posdash/{{ langdir }}/{{ eaf }}"> go...</a></li><hr/>
-	<li><b>ADs' duration in the Timeline</b> (duration: time in seconds) <a href="../../hits/time/{{ subdir }}"> go...</a>.
+	<li><b>AD duration in the timeline</b> (duration: time in seconds) <a href="../../hits/time/{{ subdir }}"> go...</a>.
 		Together with scene information <a href="../../hits/timevisual/{{ subdir }}"> go...</a></li><hr/>
-	<li><b>ADs' length in the Timeline</b> (length: number of words) <a href="../../hits/words/{{ subdir }}"> go...</a>
+	<li><b>AD length in the timeline</b> (length: number of words) <a href="../../hits/words/{{ subdir }}"> go...</a>
 		Together with scene information <a href="../../hits/wordsvisual/{{ subdir }}"> go...</a></li><hr/>
-	<li><b>ADs' density in the Timeline</b> (density: characters/second) <a href="../../hits/timewords/{{ subdir }}"> go...</a>
+	<li><b>AD density in the timeline</b> (density: characters/second) <a href="../../hits/timewords/{{ subdir }}"> go...</a>
 		Together with scene information <a href="../../hits/timewordsvisual/{{ subdir }}"> go...</a></li><hr/>
 	{% endif %}
 

@@ -6,7 +6,7 @@
         <div id="container">
 		<div id="status">	
   		<a href="{{ app.request.baseUrl }}/corpus/{{ title }}">Back to {{ title }}</a>
-			<h3>Words' countings for {{ title }} (tokens, types):</h3>
+			<h3>Word countings for {{ title }} (tokens, types):</h3>
 
 		{% if csv is not null %}
  		 <p><a href='#' onclick='downloadCSV({ filename: "pos-data.csv" });'>Download source data as CSV file.</a></p>

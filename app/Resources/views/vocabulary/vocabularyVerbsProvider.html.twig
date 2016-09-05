@@ -4,10 +4,9 @@
 {% block body %}
 
         <div id="container">
-		<div id="status">	
-			<h3>Verbs for the {{ title }} corpus:</h3>
-					
-			
+		<div id="status">
+		<a href="{{ app.request.baseUrl }}/metadata/{{ path }}/{{ title }}">Back to {{ title }}</a>	
+			<h3>Verbs for the {{ title }} corpus:</h3>	
 
 		<div id="columnchart2" style="width: 800px; height: 400px;"></div>	
 		
@@ -33,7 +32,7 @@
       
       	var options2 = {
 	
-        title: "Verbs' frequency (for the 20 most frequent verbs)",
+        title: "Verb frequency (for the 20 most frequent verbs)",
         subtitle: 'Given as total number of occurrences and number of unique verbs',
         width: 900,
         height: 400,

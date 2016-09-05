@@ -6,13 +6,13 @@
         <div id="container">
 		<div id="status">  
 		<a href="{{ app.request.baseUrl }}/{{ back }}">Back to {{ title }}</a>
-                	<h3>Words/sentences countings in the {{ title }} corpus:</h3>
+                	<h3>Word/sentence countings in the {{ title }} corpus:</h3>
 		<br/>
 		<center><p><b>(1) Number of words and sentences per AD unit:</b></p>
 		<table width="80%" style="background:#F5F5F5;">
 		<tr>	<td>Num of AD units</td><td>{{ all.Paragraphs }}</td>
 			<td>&nbsp;&nbsp;</td>
-			<td>Avg. words per AD unit</td><td>{{ all.Avg_WordsXpar }}</td>
+			<td>Mean words per AD unit</td><td>{{ all.Avg_WordsXpar }}</td>
 			<td>&nbsp;&nbsp;</td>
 			<td>Min. words per AD unit</td><td>{{ all.Min_WordsXpar }}</td>
 		</tr>
@@ -39,11 +39,11 @@
 		<table width="80%" style="background:#F5F5F5;">
 		<tr>	<td>Num of sentences</td><td>{{ all.Sentences }}</td>
 			<td>&nbsp;&nbsp;</td>
-			<td>Avg. words per sentence</td><td>{{ all.Avg_WordsXsentence }}</td>
+			<td>Mean words per sentence</td><td>{{ all.Avg_WordsXsentence }}</td>
 			<td>&nbsp;&nbsp;</td>
 			<td>Min. words per sentence</td><td>{{ all.Min_WordsXsentence }}</td>
 		</tr>
-		<tr>  	<td>Num of vords</td><td>{{ all.Words }}</td>
+		<tr>  	<td>Num of words</td><td>{{ all.Words }}</td>
 			<td>&nbsp;&nbsp;</td>
 			<td>Median words per sentence</td><td>{{ all.Median_WordsXsentence }}</td>
 			<td>&nbsp;&nbsp;</td>
@@ -77,7 +77,7 @@
 
 	      var data = new google.visualization.DataTable();
 	      data.addColumn('number', 'AD unit');
-	      data.addColumn('number', 'sent. per AD unit');
+	      data.addColumn('number', 'senttences per AD unit');
 	      data.addColumn('number', 'words per AD unit');
 	      data.addRows([ {{ key|raw }} ]);
 	      var options = {

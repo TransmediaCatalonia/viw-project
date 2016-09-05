@@ -7,7 +7,7 @@
 		   		
     		<div id="status">
 		<a href="{{ app.request.baseUrl }}/corpus/{{ dir }}">Back to {{ dir }}</a>
-		<h3>Choose a Verbal Semantic Classes to see it in "{{ dir }}" the timeline (ordered by frequency)</h3>
+		<h3>Choose a verbal semantic class to see it in "{{ dir }}" timeline (ordered by frequency)</h3>
 		{% if error %}
    			 <p>{{ error }}</p>
 		{% endif %}
@@ -78,7 +78,7 @@
 		
         var options2 = {
           title: 'Verbs of {{ sem }} in the "{{ dir }}" Timeline',
-          hAxis: {title: 'TimeLine in minutes.', viewWindow: {min: 0, max: {{ maxValue}} },format: 'short'},
+          hAxis: {title: 'Timeline in minutes.', viewWindow: {min: 0, max: {{ maxValue}} },format: 'short'},
 	  vAxis: {title: 'Frequency', format: 'short'},
           chartArea:{width:'80%',height:'400px'},
           legend: {position: 'none'},

@@ -1,458 +1,443 @@
 
-4010	8029	4019	En una playa un hombre corre y una pareja pasea con su perro.	Castro_Aina_ES.eaf
-29210	31040	1830	Un coche aparca delante de la playa.	Castro_Aina_ES.eaf
-53000	66220	13220	El conductor es un hombre de unos treinta y tantos años que lleva un traje con corbata.  Se guarda el móvil en un bolsillo de la americana y saca unas gafas de sol del otro.  James, el empresario.	Castro_Aina_ES.eaf
-67220	70100	2880	James va andando con una bolsa de playa de rayas al hombro y el teléfono a la oreja.	Castro_Aina_ES.eaf
-94000	100110	6110	En la playa sobre la arena James se tumba en calzoncillos sobre la toalla.	Castro_Aina_ES.eaf
-142079	144190	2111	Mira a los lados y revuelve sus cosas.	Castro_Aina_ES.eaf
-161040	167110	6070	Se levanta y camina por la arena mirando hacia arriba.	Castro_Aina_ES.eaf
-177010	185070	8060	Vuelve hacia sus cosas y sigue mirando a lo lejos.	Castro_Aina_ES.eaf
-209079	211030	1951	Se viste.	Castro_Aina_ES.eaf
-219110	223079	3969	Ahora vestido camina por un paseo con árboles.	Castro_Aina_ES.eaf
-228010	230110	2100	En un camino de tierra rodeado de matorrales, James sube una cuesta.	Castro_Aina_ES.eaf
-234100	240030	5930	Un hombre de unos sesenta años con el pelo y la barba canosos está sentado en un banco.	Castro_Aina_ES.eaf
-253040	259100	6060	Lleva una camiseta sin mangas verde, bebe un café y mira los árboles.	Castro_Aina_ES.eaf
-265010	266210	1200	Rick, el jubilado.	Castro_Aina_ES.eaf
-271080	277050	5970	Inquieto, se bebe el café y mira la lejanía.	Castro_Aina_ES.eaf
-284080	289140	5060	Deja el café en el banco de al lado. Saca el móvil y empieza a mirar sus contactos.	Castro_Aina_ES.eaf
-296120	299030	2910	Llama a un amigo.	Castro_Aina_ES.eaf
-330150	333010	2860	Frunce el ceño y mira a los lados.	Castro_Aina_ES.eaf
-380030	382070	2040	Extrañado mira hacia arriba y a los lados.	Castro_Aina_ES.eaf
-399040	402080	3040	Se va andando y deja el café.	Castro_Aina_ES.eaf
-411070	415040	3970	Una chica de unos 18 años, con el pelo rizado, chaqueta y pañuelo.	Castro_Aina_ES.eaf
-418080	420110	2030	Jess, la estudiante.	Castro_Aina_ES.eaf
-495080	497110	2030	Mira a los lados sorprendida.	Castro_Aina_ES.eaf
-511180	517059	5879	Fuera, con el abrigo puesto Jess va andando entre matorrales.	Castro_Aina_ES.eaf
-532060	535010	2950	Llega a un campo donde están James y Rick.	Castro_Aina_ES.eaf
-541170	543060	1890	Una voz salida de la nada habla.	Castro_Aina_ES.eaf
-558220	561060	2840	Los tres miran hacia todos lados.	Castro_Aina_ES.eaf
-710020	712120	2100	Se miran y niegan con la cabeza.	Castro_Aina_ES.eaf
-737170	739000	1830	Rick se va con James.	Castro_Aina_ES.eaf
-745010	746240	1230	Jess los sigue.	Castro_Aina_ES.eaf
-752210	762010	9800	Una mujer negra tiende la ropa y habla por teléfono.	Castro_Aina_ES.eaf
-762210	766080	3870	No, no he terminado de tenderla. Tengo que darme prisa.	Castro_Aina_ES.eaf
-768030	772100	4070	No, ¿de qué me hablas? Sí, claro, las maletas están a punto…	Castro_Aina_ES.eaf
-775010	777120	2110	Oye, ahora no puedo hablar. Tengo que dejarte.	Castro_Aina_ES.eaf
-779210	781100	1890	Zoé, la próxima.	Castro_Aina_ES.eaf
-784030	786190	2160	¿Qué pasa mientras…?	Castro_Aina_ES.eaf
-2812	18318	15506	Al amanecer, en una playa, hay una pareja paseando con su perro y un hombre corriendo. El perro olisquea algo en la arena y después sigue a sus amos.	Fuente_Virginia_ES.eaf
-22422	29693	7271	Un deportivo blanco aparca en la carretera al lado del paseo de la playa. Del coche se baja un hombre de mediana edad, trajeado y con maletín.	Fuente_Virginia_ES.eaf
-53048	58592	5544	El hombre saca con cuidado unas gafas de sol, de estilo aviador, de un bolsillo de su americana.	Fuente_Virginia_ES.eaf
-59854	63761	3907	Se pone las gafas y mira al frente.	Fuente_Virginia_ES.eaf
-64983	66881	1898	Es James, el empresario.	Fuente_Virginia_ES.eaf
-67560	71401	3841	James camina hacia la playa con una bolsa de tela a rayas echada al hombro.	Fuente_Virginia_ES.eaf
-92007	98410	6403	En la playa, sobre la arena, hay una toalla y un revoltijo de ropa. James se tumba sobre la toalla bocarriba.	Fuente_Virginia_ES.eaf
-100306	109738	9432	Se frota la cara con las manos y después acaricia la arena hundiendo las yemas de los dedos.	Fuente_Virginia_ES.eaf
-141509	144231	2722	James, nervioso, mira extrañado hacia los lados.	Fuente_Virginia_ES.eaf
-159581	168950	9369	Se levanta y camina hasta meter los pies en la orilla.	Fuente_Virginia_ES.eaf
-169891	178370	8479	Después se aleja del agua sin rumbo, mirando hacia los lados.	Fuente_Virginia_ES.eaf
-180468	189221	8753	Camina hacia atrás, girando sobre sí mismo y mirando hacia los lados como si buscase algo.	Fuente_Virginia_ES.eaf
-191234	195139	3905	Vuelve a acercarse a la orilla y se adentra un poco en el agua.	Fuente_Virginia_ES.eaf
-197662	205064	7402	James vuelve a alejarse de la marea buscando algo a su alrededor.	Fuente_Virginia_ES.eaf
-208178	214105	5927	Llega hasta sus cosas y comienza a ponerse la camisa.	Fuente_Virginia_ES.eaf
-218993	225807	6814	Más tarde, en una calle y rodeado de árboles, James camina a buen ritmo.	Fuente_Virginia_ES.eaf
-227106	233135	6029	Pasado un rato, está subiendo por un monte polvoriento salpicado de arbustos.	Fuente_Virginia_ES.eaf
-233867	237216	3349	En otro lugar, unas manos ajadas sostienen un café para llevar.	Fuente_Virginia_ES.eaf
-237336	243786	6450	Un hombre no demasiado mayor, con ojeras, barba y pelo desaliñado, contempla distraído lo que tiene en frente	Fuente_Virginia_ES.eaf
-248074	258636	10562	Toquetea la tapa del café, la quita y después de olerlo, lo mira con desgana y le pega un trago.	Fuente_Virginia_ES.eaf
-264764	266529	1765	Es Rick, el jubilado.	Fuente_Virginia_ES.eaf
-267717	281549	13832	Está sentado en el banco de un parque, solo. Viste un pantalón sencillo  y una camiseta de tirantes ajada. Rick contempla distraído el entorno mientras se termina su café y posa la taza  de cartón vacía en el banco de al lado.	Fuente_Virginia_ES.eaf
-285581	298722	13141	Rick saca el móvil de un bolsillo del pantalón, abre la agenda de contactos y se pone a buscar a alguien. Selecciona el contacto que buscaba y llama.	Fuente_Virginia_ES.eaf
-330654	332470	1816	Rick mira extrañado a su alrededor.	Fuente_Virginia_ES.eaf
-380223	382249	2026	Vuelve a mirar a su alrededor buscando algo.	Fuente_Virginia_ES.eaf
-398878	405557	6679	Rick se levanta y se aleja caminando distraído buscando algo y dejando atrás el café.	Fuente_Virginia_ES.eaf
-411430	415457	4027	En otra parte, una adolescente pelirroja, con rizos, está concentrada mirando algo.	Fuente_Virginia_ES.eaf
-417571	419477	1906	Es Jess, la estudiante.	Fuente_Virginia_ES.eaf
-425312	428789	3477	Está sentada frente a un escritorio y busca algo entre sus papales.	Fuente_Virginia_ES.eaf
-494932	501629	6697	Jess se pone el pelo detrás de la oreja y mira extrañada a su alrededor.	Fuente_Virginia_ES.eaf
-509713	510969	1256	Se levanta y se va.	Fuente_Virginia_ES.eaf
-511251	516943	5692	En una calle, junto a un muro de piedra, Jess camina en busca de algo.	Fuente_Virginia_ES.eaf
-517842	527979	10137	Más tarde, sube una colina, caminado entre la hierba alta. Se detiene, mira atrás desconcertada y se va corriendo hacia arriba.	Fuente_Virginia_ES.eaf
-529962	536780	6818	En un claro entre montañas, tres siluetas caminan al frente, como desconcertadas, en busca de algo bajo la cegadora luz del sol.	Fuente_Virginia_ES.eaf
-556569	560594	4025	Rick, James y Jess se juntan en medio de la explanada, mirando a su alrededor.	Fuente_Virginia_ES.eaf
-708350	710750	2400	Rick niega con la cabeza.	Fuente_Virginia_ES.eaf
-736786	740377	3591	James se aleja hacia los árboles que bordean el claro, seguido de Rick.	Fuente_Virginia_ES.eaf
-745229	756720	11491	Jess corre tras ellos. Los tres se pierden poco a poco en la distancia en dirección al bosque.	Fuente_Virginia_ES.eaf
-756880	765855	8975	No, no he terminado de tenderla. Tengo que darme prisa.	Fuente_Virginia_ES.eaf
-768154	771530	3376	No, ¿de qué me hablas? Sí, claro, las maletas están a punto....	Fuente_Virginia_ES.eaf
-771730	774558	2828	Al anochecer, en una azotea, un mujer mira nerviosa a su alrededor.	Fuente_Virginia_ES.eaf
-774875	777259	2384	Oye, ahora no puedo hablar. Tengo que dejarte.	Fuente_Virginia_ES.eaf
-779192	781146	1954	Es Zoé, la próxima.	Fuente_Virginia_ES.eaf
-783535	786672	3137	Sobre fondo blanco. ¿Qué pasa mientras...?	Fuente_Virginia_ES.eaf
-788983	791471	2488	Dirigido por Núria Nia.	Fuente_Virginia_ES.eaf
-793647	795427	1780	Director de fotografía, Albert Badia.	Fuente_Virginia_ES.eaf
-798798	800797	1999	Diseño de sonido por Enrique G. Bermejo.	Fuente_Virginia_ES.eaf
-803681	805909	2228	Maquilladora, Laia Teixidó.	Fuente_Virginia_ES.eaf
-808520	811714	3194	Asistente de dirección, Marta Aguadé Forrelad.	Fuente_Virginia_ES.eaf
-813359	815021	1662	Edición de Núria Nia.	Fuente_Virginia_ES.eaf
-818244	824025	5781	Producido por: Transmedia Catalonia y La Panorámica.  	Fuente_Virginia_ES.eaf
-827790	835784	7994	James Humber como James, Rick Zingale como Rick, Jessica Álvarez como Jess y Adeline Flaun como Zoé.	Fuente_Virginia_ES.eaf
-837282	852892	15610	Idea original de: Marçal Font y Nuria Nia. Guion de Nuria Nia. Estudio de sonido, Kamikaze Estudi. Música: Time Doesn't wait de The IMG. Estudio de edición, LaPanorámica.cat.	Fuente_Virginia_ES.eaf
-857064	862907	5843	Proyecto creado por Anna Matamala y financiado por el Ministerio de Economía y Competitividad.	Fuente_Virginia_ES.eaf
-862907	863907	1000		Fuente_Virginia_ES.eaf
-872520	875985	3465	Sobre fondo blanco: ¡Disfrutad de vuestro tiempo!	Fuente_Virginia_ES.eaf
-4848	11848	7000	De día, en el paseo marítimo de una playa, algunas personas pasean o hacen deporte. Junto a la playa hay una carretera.  	Garcia_Isabel_ES.eaf
-12448	14448	2000	El cielo está algo nublado y gris.	Garcia_Isabel_ES.eaf
-17167	18849	1682	Funde a blanco con la frase:	Garcia_Isabel_ES.eaf
-21403	25083	3680	Un coche de alta gama aparca en la carretera junto a la playa.	Garcia_Isabel_ES.eaf
-52865	56694	3829	Es un hombre trajeado de unos cuarenta años. Mira hacia la playa.	Garcia_Isabel_ES.eaf
-59642	61173	1531	Se pone unas gafas de sol.	Garcia_Isabel_ES.eaf
-65474	66741	1267	James, el empresario.	Garcia_Isabel_ES.eaf
-67672	71107	3435	Camina con un bolso de playa y el móvil pegado a la oreja.	Garcia_Isabel_ES.eaf
-92389	92869	480	Después.	Garcia_Isabel_ES.eaf
-93680	96759	3079	James, sin camiseta, se tumba en la arena bocarriba.	Garcia_Isabel_ES.eaf
-100718	102438	1720	Se lleva las manos a la cara.	Garcia_Isabel_ES.eaf
-106056	109654	3598	Con los ojos cerrados, hace surcos con los dedos en la arena.	Garcia_Isabel_ES.eaf
-130197	131086	889	Mira alrededor.	Garcia_Isabel_ES.eaf
-141510	144227	2717	Frunce el ceño y mira de nuevo a su alrededor.	Garcia_Isabel_ES.eaf
-160914	163914	3000	James, desconcertado, se levanta y anda unos pasos.	Garcia_Isabel_ES.eaf
-166899	168699	1800	Camina despacio por la orilla.	Garcia_Isabel_ES.eaf
-171118	174978	3860	Parece buscar con la vista y el oído de dónde proviene el sonido.	Garcia_Isabel_ES.eaf
-177649	183028	5379	Ante el silencio, se detiene y se dispone a dar media vuelta. Pero se gira y mira de nuevo.	Garcia_Isabel_ES.eaf
-195925	201925	6000	Regresa a por sus cosas. Camina rápido, sin dejar de mirar al frente, extrañado, con el ceño fruncido.	Garcia_Isabel_ES.eaf
-208794	209994	1200	Se empieza a vestir.	Garcia_Isabel_ES.eaf
-214591	216430	1839	No deja de mirar a todos lados.	Garcia_Isabel_ES.eaf
-219920	224400	4480	Más tarde, ya vestido, James camina por un paseo con árboles con paso firme.	Garcia_Isabel_ES.eaf
-227666	231786	4120	Sube por un sendero en una colina con vegetación, siguiendo el sonido.	Garcia_Isabel_ES.eaf
-233218	237364	4146	En un parque, un hombre de unos sesenta años está sentado en un banco.	Garcia_Isabel_ES.eaf
-240002	244608	4606	Tiene en las manos un vaso de café, al que da golpecitos. Observa los árboles.	Garcia_Isabel_ES.eaf
-250491	251811	1320	Abre la tapa del café.	Garcia_Isabel_ES.eaf
-255082	256440	1358	Se lo acerca a la boca.	Garcia_Isabel_ES.eaf
-257365	258565	1200	Mira el café y bebe.	Garcia_Isabel_ES.eaf
-265415	266489	1074	Rick, el jubilado.	Garcia_Isabel_ES.eaf
-270612	275452	4840	Sentado en el banco, Rick mueve las piernas con nerviosismo mientras bebé el café.	Garcia_Isabel_ES.eaf
-278769	280249	1480	Deja el café en el banco.	Garcia_Isabel_ES.eaf
-280860	281883	1023	Da unas palmadas.	Garcia_Isabel_ES.eaf
-285575	287341	1766	Se saca el móvil del bolsillo.	Garcia_Isabel_ES.eaf
-289071	290960	1889	Ojea los contactos de la agenda.	Garcia_Isabel_ES.eaf
-293960	296960	3000	No parece decidirse por ninguno.	Garcia_Isabel_ES.eaf
-298085	299805	1720	Finalmente elige uno y llama.	Garcia_Isabel_ES.eaf
-330036	331688	1652	Mira hacia arriba extrañado.	Garcia_Isabel_ES.eaf
-380205	381887	1682	Vuelve a mirar hacia arriba.	Garcia_Isabel_ES.eaf
-399074	400634	1560	Se aleja caminando rápido.	Garcia_Isabel_ES.eaf
-402784	404104	1320	Mira para todos lados.	Garcia_Isabel_ES.eaf
-408305	409745	1440	Se adentra en el parque.	Garcia_Isabel_ES.eaf
-410717	412897	2180	En una biblioteca, una joven estudia.	Garcia_Isabel_ES.eaf
-418454	419667	1213	Jess, la estudiante.	Garcia_Isabel_ES.eaf
-422930	424847	1917	Busca el móvil bajo los apuntes.	Garcia_Isabel_ES.eaf
-429886	430663	777	Lo encuentra.	Garcia_Isabel_ES.eaf
-490481	491381	900	Mira extrañada.	Garcia_Isabel_ES.eaf
-494466	497906	3440	Jess mira con asombro a derecha e izquierda, sin entender.	Garcia_Isabel_ES.eaf
-509634	510954	1320	Más tarde en la calle.	Garcia_Isabel_ES.eaf
-513761	518202	4441	Jess mira a derecha e izquierda, intentando localizar el origen del sonido.	Garcia_Isabel_ES.eaf
-518986	521575	2589	Sube por una colina con vegetación frondosa.	Garcia_Isabel_ES.eaf
-523328	524826	1498	Se detiene para escuchar.	Garcia_Isabel_ES.eaf
-527086	528806	1720	Y sigue subiendo rápidamente.	Garcia_Isabel_ES.eaf
-530887	537247	6360	Al final de la colina, Jess llega a una explanada donde están también James y Rick. El cielo está despejado.	Garcia_Isabel_ES.eaf
-538605	542932	4327	Los tres se miran entre sí, asombrados, a la vez que miran a todos lados.	Garcia_Isabel_ES.eaf
-556414	560668	4254	Miran al cielo. La voz parece provenir de ningún sitio y de todos lados.	Garcia_Isabel_ES.eaf
-594670	596750	2080	Rick se lleva una mano a la cabeza.	Garcia_Isabel_ES.eaf
-642232	643432	1200	Rick les mira serio.	Garcia_Isabel_ES.eaf
-696415	697198	783	Rick asiente.	Garcia_Isabel_ES.eaf
-700636	701731	1095	Los tres se miran.	Garcia_Isabel_ES.eaf
-707174	712297	5123	Se intercambian miradas. Rick se encoge de hombros y niega con la cabeza. Jess también.	Garcia_Isabel_ES.eaf
-718218	719992	1774	Rick alza los brazos al cielo.	Garcia_Isabel_ES.eaf
-725532	726911	1379	James sacude la cabeza.	Garcia_Isabel_ES.eaf
-740372	741925	1553	Jess se encoge de hombros.	Garcia_Isabel_ES.eaf
-743243	743743	500	Asiente.	Garcia_Isabel_ES.eaf
-749357	753328	3971	Los tres se alejan colina abajo, entre los árboles, hacia la playa.	Garcia_Isabel_ES.eaf
-758501	759361	860	Funde a negro.	Garcia_Isabel_ES.eaf
-759895	762100	2205	En una azotea, una mujer tiende ropa.	Garcia_Isabel_ES.eaf
-762752	765992	3240	No, no he terminado de tenderla. Tengo que darme prisa.	Garcia_Isabel_ES.eaf
-766781	767611	830	Mira al cielo.	Garcia_Isabel_ES.eaf
-768447	771407	2960	No, ¿de qué hablas? Sí, las maletas están a punto.	Garcia_Isabel_ES.eaf
-774968	777688	2720	Oye, ahora no puedo hablar. Tengo que dejarte.	Garcia_Isabel_ES.eaf
-778113	778996	883	Mira extrañada.	Garcia_Isabel_ES.eaf
-780641	781591	950	Zoé, la próxima.	Garcia_Isabel_ES.eaf
-783694	788414	4720	Sobre fondo blanco, la frase Qué pasa mientras... seguida de una línea continua.	Garcia_Isabel_ES.eaf
-5649	11631	5982	De día, en la playa, una pareja pasea a su perro mientras un corredor pasa por su lado.	Jimenez_Jose_ES.eaf
-24747	30399	5652	Un lujoso coche blanco se detiene delante de la playa.	Jimenez_Jose_ES.eaf
-32281	32720	439	El conductor se apea.	Jimenez_Jose_ES.eaf
-43845	44932	1087	Guarda un maletín en el maletero.	Jimenez_Jose_ES.eaf
-54905	60014	5109	Saca unas gafas de sol y se las pone. Viste un traje gris y corbata.	Jimenez_Jose_ES.eaf
-65092	66892	1800	James [Yéims], el empresario.	Jimenez_Jose_ES.eaf
-67712	71441	3729	James, pelirrojo y de unos 40 años, pasea por la playa sujetando un móvil.	Jimenez_Jose_ES.eaf
-92827	97410	4583	Ahora en bañador, James se tumba en una toalla y cierra los ojos.	Jimenez_Jose_ES.eaf
-103285	110055	6770	Se frota los ojos con ambas manos, las estira y coge un poco de arena para luego dejarla caer entre sus dedos.	Jimenez_Jose_ES.eaf
-131092	132212	1120	Mira a ambos lados.	Jimenez_Jose_ES.eaf
-141539	143640	2101	Busca algo en su ropa.	Jimenez_Jose_ES.eaf
-161596	162959	1363	James se levanta.	Jimenez_Jose_ES.eaf
-165035	169865	4830	Camina por la playa en bañador mirando a su alrededor con gesto extrañado.	Jimenez_Jose_ES.eaf
-174722	177703	2981	Sigue caminando sin rumbo fijo.	Jimenez_Jose_ES.eaf
-180134	182796	2662	Se detiene y se dirige a donde está su toalla.	Jimenez_Jose_ES.eaf
-187548	192939	5391	Vuelve a girar la vista extrañado y sigue caminando sin dejar de mirar a su alrededor.	Jimenez_Jose_ES.eaf
-208573	212968	4395	Coge su ropa y comienza a vestirse.	Jimenez_Jose_ES.eaf
-220493	229074	8581	Ya vestido con su traje de oficina, camina con paso firme y comienza a subir por una pequeña montaña llena de arbustos y matorrales.	Jimenez_Jose_ES.eaf
-234081	237758	3677	En un parque, un hombre de unos 60 años descansa sentado en un banco.	Jimenez_Jose_ES.eaf
-239969	243877	3908	De canoso pelo largo y una barba descuidada, observa con la mirada perdida.	Jimenez_Jose_ES.eaf
-252964	256079	3115	Destapa el café que sujeta con una mano y le da un sorbo con desgana.	Jimenez_Jose_ES.eaf
-265175	266950	1775	Rick [Ríc], el jubilado.	Jimenez_Jose_ES.eaf
-273013	278722	5709	Ric da otro sorbo al café y lo deja en el banco de al lado.	Jimenez_Jose_ES.eaf
-290036	292979	2943	Saca su teléfono móvil y busca entre los contactos.	Jimenez_Jose_ES.eaf
-295680	298226	2546	Selecciona uno y llama.	Jimenez_Jose_ES.eaf
-330837	332740	1903	Rick alza la mirada extrañado.	Jimenez_Jose_ES.eaf
-380268	382380	2112	Vuelve a alzar la vista lentamente.	Jimenez_Jose_ES.eaf
-399524	406253	6729	Se levanta, y sin coger su café, empieza a caminar mirando a su alrededor una y otra vez.	Jimenez_Jose_ES.eaf
-411764	415088	3324	En su habitación una joven de melena pelirroja. 	Jimenez_Jose_ES.eaf
-418424	419891	1467	Jess [Yés], la estudiante.	Jimenez_Jose_ES.eaf
-425851	429103	3252	Jess busca su móvil entre una montaña de libros y apuntes.	Jimenez_Jose_ES.eaf
-474339	475347	1008	Busca entre los papeles.	Jimenez_Jose_ES.eaf
-497584	500967	3383	Jess mira a su alrededor con gesto confuso.	Jimenez_Jose_ES.eaf
-511358	514730	3372	Sale a la calle y empieza a caminar.	Jimenez_Jose_ES.eaf
-518379	521775	3396	Sube por una pequeña montaña llena de arbutos y matorrales.	Jimenez_Jose_ES.eaf
-532847	539188	6341	En un descampado rodeado por montañas, Jess se acerca a James y Rick, quienes están de pie sin hacer nada.	Jimenez_Jose_ES.eaf
-556489	560014	3525	Los tres no paran de mirar al cielo y a su alrededor.	Jimenez_Jose_ES.eaf
-595664	596876	1212	Rick tiene los ojos llorosos.	Jimenez_Jose_ES.eaf
-621545	622125	580	James asiente con gesto irónico.	Jimenez_Jose_ES.eaf
-709342	711078	1736	Rick niega con la cabeza.	Jimenez_Jose_ES.eaf
-740101	742022	1921	Rick sigue a James.	Jimenez_Jose_ES.eaf
-746407	752109	5702	Jess corre tras ellos y los tres juntos siguen caminando.	Jimenez_Jose_ES.eaf
-763556	767971	4415	En una terraza, una mujer francesa de piel morena se queja por teléfono de lo ajetreada que está.	Jimenez_Jose_ES.eaf
-772254	774012	1758	Mira a su alrededor extrañada.	Jimenez_Jose_ES.eaf
-779809	781442	1633	Zoé [Zóe], la próxima.	Jimenez_Jose_ES.eaf
-784271	786762	2491	¿Qué pasa mientras...?	Jimenez_Jose_ES.eaf
-4436	17104	12668	El paisaje de una playa. El cielo está parcialmente nublado y teñido de un color rosado. De forma paralela al mar. una pareja pasea por la arena con su perro. En el sentido contrario al suyo un hombre hace footing.  	Marco_Carmen_ES.eaf
-22095	24866	2771	Un coche deportivo blanco se acerca a la playa.  	Marco_Carmen_ES.eaf
-53270	63434	10164	Es un hombre de unos cuarenta. pelirrojo. con barba y tez clara. Viste con traje y corbata. Saca del bolsillo de la chaqueta unas gafas de estilo aviador y se las pone.	Marco_Carmen_ES.eaf
-65248	67198	1950	Se trata de James. el empresario.	Marco_Carmen_ES.eaf
-67315	71491	4176	Camina por una zona arenosa con el móvil en la mano y un bolso playero.	Marco_Carmen_ES.eaf
-93658	98192	4534	Ya no lleva traje. Se tumba sobre una toalla en la arena y suelta el móvil.	Marco_Carmen_ES.eaf
-99297	109908	10611	Esta acostado boca arriba y con los ojos entornados. Se frota los ojos con las manos. estira los brazos en la arena y la acaricia suavemente con la mano izquierda.	Marco_Carmen_ES.eaf
-114906	115978	1072	Se incorpora.	Marco_Carmen_ES.eaf
-159206	176509	17303	Deja el teléfono y se levanta. Lleva solo los calzoncillos y deja las demás pertenencias en la arena. Está desorientado y camina con lentitud. Se acerca a la orilla del mar y segundos más tarde se aleja. Para sutilmente. observando el paisaje que le rodea y mirando hacia arriba.	Marco_Carmen_ES.eaf
-189792	202549	12757	Pasea sin rumbo de un lado a otro y curiosea cuanto hay a su alrededor. Se desplaza torpemente. avanzando y retrocediendo sin decisión. Finalmente retoma el camino hacia el lugar donde dejó todas sus cosas.	Marco_Carmen_ES.eaf
-210101	214779	4678	Sigue mirando a los lados. desconcertado. Recoge su ropa y se pone la camisa.	Marco_Carmen_ES.eaf
-222100	232925	10825	James avanza entre un camino con árboles a los lados. Está vestido y con la camisa desabrochada. Llega a un montículo repleto de arbustos y hierbajos y lo sube por un camino de tierra.	Marco_Carmen_ES.eaf
-233295	235007	1712	Una taza de café para llevar.	Marco_Carmen_ES.eaf
-237124	243290	6166	La sujeta un señor de unos setenta años. Tiene el pelo largo y canoso a juego con una barba espesa.	Marco_Carmen_ES.eaf
-248246	251102	2856	Recorre la tapa de café haciendo círculos.	Marco_Carmen_ES.eaf
-253657	258680	5023	Lo destapa y sitúa el vaso cerca de sus labios. Inseguro. da un trago a la bebida.	Marco_Carmen_ES.eaf
-265556	267457	1901	Él es Rick. el jubilado.	Marco_Carmen_ES.eaf
-267517	281686	14169	A la sombra de una arboleda. hay tres bancos individuales. Rick está sentado en el de en medio. Deja la tapa de plástico en el banco a su izquierda. Mueve la pierna derecha con nerviosismo y deja el vaso junto a la tapa.	Marco_Carmen_ES.eaf
-285700	295865	10165	Rick saca el móvil. Retira la funda y selecciona la pestaña de contactos en la pantalla táctil. Recorre con el dedo la agenda y pulsa el botón verde de llamada.	Marco_Carmen_ES.eaf
-330860	332728	1868	Extrañado. eleva la vista.	Marco_Carmen_ES.eaf
-380403	382058	1655	Algo capta su atención.	Marco_Carmen_ES.eaf
-400899	410905	10006	Se levanta y abandona la taza de café en el asiento. Tambaleándose y echando un vistazo al cielo. se retira del banco en el que estaba. Se aleja caminando por un sendero.	Marco_Carmen_ES.eaf
-411420	415586	4166	Una joven de unos veinte años está sentada en su escritorio.	Marco_Carmen_ES.eaf
-418090	420086	1996	Es Jess. la estudiante.	Marco_Carmen_ES.eaf
-425287	426917	1630	Busca entre los papeles.	Marco_Carmen_ES.eaf
-497017	505398	8381	Se toca el cabello que es pelirrojo y muy rizado. Alza la vista. Mira hacia ambos lados de la habitación. como si estuviera buscando algo.	Marco_Carmen_ES.eaf
-509800	525266	15466	Jess se levanta. coge su abrigo y sale a la calle. Se marcha con desconfianza y llega a una senda repleta de vegetación. Al principio. avanza por el camino con paso lentos. Se para un instante, estudia el entorno y continúa decidida.	Marco_Carmen_ES.eaf
-530159	538648	8489	En una llanura rodeada por árboles. se encuentran James. Rick y Jess. Todos están absortos y giran sobre sí mismos mientras observan el cielo.	Marco_Carmen_ES.eaf
-556402	560715	4313	Contemplan el cielo y se cubren los ojos para no deslumbrarse con el sol.	Marco_Carmen_ES.eaf
-594892	596025	1133	Rick se emociona.	Marco_Carmen_ES.eaf
-708026	712637	4611	Se miran tratando de buscar una respuesta. Rick y Jess niegan con la cabeza.	Marco_Carmen_ES.eaf
-746217	753050	6833	El cielo está despejado y brilla el sol. Jess corretea tras James y Rick. Los alcanza y se marchan juntos del lugar.	Marco_Carmen_ES.eaf
-758273	762269	3996	Una señora de unos treinta años tiende ropa y habla por teléfono.	Marco_Carmen_ES.eaf
-762429	765393	2964	No he terminado de tender. tengo que darme prisa.	Marco_Carmen_ES.eaf
-767965	771096	3131	No. ¿de qué hablas? Claro. las maletas están a punto.	Marco_Carmen_ES.eaf
-772906	773953	1047	Eleva la vista.	Marco_Carmen_ES.eaf
-774797	777207	2410	Oye. no puedo hablar. tengo que dejarte.	Marco_Carmen_ES.eaf
-778208	782682	4474	Mira al horizonte con expresión de incertidumbre. Ella es Zoé... la próxima.	Marco_Carmen_ES.eaf
-783807	785972	2165	Qué pasa mientras...	Marco_Carmen_ES.eaf
-3145	10421	7276	A pleno día, por una playa algo nublada, pasean varias personas. Un hombre hace jogging y un perro olfatea la arena.	MartindelRio_Barbara_ES.eaf
-26802	30435	3633	Un coche blanco aparca frente a la arena. Dentro, un hombre discute por el móvil.	MartindelRio_Barbara_ES.eaf
-52772	63172	10400	El hombre ha salido del coche, ha sacado una bolsa del maletero y ha metido un maletín en él. Tiene unos 35 años. lleva traje y corbata. es rubio y tiene barba. Se pone unas gafas de sol.	MartindelRio_Barbara_ES.eaf
-65450	67096	1646	James, el empresario.	MartindelRio_Barbara_ES.eaf
-67726	71462	3736	Marca un teléfono en su móvil mientras camina por la playa con la bolsa al hombro.	MartindelRio_Barbara_ES.eaf
-93607	99633	6026	Vestido únicamente con la ropa interior, James se tumba boca arriba en una toalla extendida sobre la arena.	MartindelRio_Barbara_ES.eaf
-105508	108981	3473	Extiende los brazos y juega con la arena entre sus dedos.	MartindelRio_Barbara_ES.eaf
-142001	144041	2040	Mira a ambos lados, confuso.	MartindelRio_Barbara_ES.eaf
-159426	167258	7832	Deja el móvil en el suelo, se levanta de la toalla y empieza a caminar junto al agua, mirando a su alrededor en busca de la prodecencia del sonido.	MartindelRio_Barbara_ES.eaf
-179914	182753	2839	Se detiene y se dispone a volver a la toalla.	MartindelRio_Barbara_ES.eaf
-187414	189704	2290	Vuelve a mirar en todas direcciones.	MartindelRio_Barbara_ES.eaf
-205087	209186	4099	Vuelve junto a la toalla para recoger su ropa y empieza a vestirse.	MartindelRio_Barbara_ES.eaf
-221244	225182	3938	Camina por una acera rodeada de árboles con expresión seria.	MartindelRio_Barbara_ES.eaf
-227498	230622	3124	Sube por un monte lleno de arbustos y matorrales.	MartindelRio_Barbara_ES.eaf
-236047	245652	9605	Unas manos sujetan un vaso desechable de café. Son de un hombre de unos 60 años con una media melena alborotada y barba canosa. Tiene	MartindelRio_Barbara_ES.eaf
-250171	251896	1725	Juguetea con la tapa del café.	MartindelRio_Barbara_ES.eaf
-256702	258552	1850	Abre la tapa y da un sorbo.	MartindelRio_Barbara_ES.eaf
-265407	267067	1660	Rick, el jubilado.	MartindelRio_Barbara_ES.eaf
-267943	276055	8112	Rick lleva un chándal y una camiseta de tirantes. Está sentado en el banco de un parque. Sigue bebiendo su café con una expresión seria y de aburrimiento.	MartindelRio_Barbara_ES.eaf
-278852	281070	2218	Deja el vaso en el banco de al lado.	MartindelRio_Barbara_ES.eaf
-286074	292686	6612	Saca un móvil del bolsillo trasero del pantalón. Busca en su lista de contactos hasta encontrar el número de Craig Anderson.	MartindelRio_Barbara_ES.eaf
-380199	382092	1893	Mira a su alrededor desconcertado.	MartindelRio_Barbara_ES.eaf
-398386	403979	5593	Dejando atrás su vaso de café, se adentra por un sendero del parque, mirando en todas direcciones.	MartindelRio_Barbara_ES.eaf
-411755	414409	2654	Una chica mira la pantalla de su ordenador.	MartindelRio_Barbara_ES.eaf
-418215	419823	1608	Jess, la estudiante.	MartindelRio_Barbara_ES.eaf
-422560	424213	1653	Rebusca entre sus apuntes.	MartindelRio_Barbara_ES.eaf
-494682	501823	7141	Tiene unos 18 años, pelo rizado y cobrizo. Viste una chaqueta de lana blanca y un pañuelo. Mira confusa a su alrededor.	MartindelRio_Barbara_ES.eaf
-511931	516690	4759	Con un abrigo color caqui sale a la calle y sube por un monte cubierto de hierbas altas.	MartindelRio_Barbara_ES.eaf
-530222	536761	6539	Jess se encuentra con James y Rick en un claro y se acerca a ellos. Los tres siguen buscando con la mirada en todas direcciones.	MartindelRio_Barbara_ES.eaf
-556389	558882	2493	Permanecen quietos, desconcertados.	MartindelRio_Barbara_ES.eaf
-707321	712186	4865	James mira a Rick, quien se encoje de hombros y niega con la cabeza, al igual que Jess.	MartindelRio_Barbara_ES.eaf
-737315	741525	4210	Rick sigue a James hacia los árboles. Jess hace un gesto de indiferencia.	MartindelRio_Barbara_ES.eaf
-745842	751628	5786	Va corriendo hacia los dos hombres y se coloca entre ellos. Ambos le dan una palmada en la espalda mientras se alejan.	MartindelRio_Barbara_ES.eaf
-758240	761660	3420	Una mujer negra de unos 30 años tiende la ropa en una azotea.	MartindelRio_Barbara_ES.eaf
-762472	765576	3104	No, no he terminado de tenderla. Tengo que darme prisa.	MartindelRio_Barbara_ES.eaf
-767700	771368	3668	No, ¿de qué me hablas? Sí, claro, las maletas están a punto.	MartindelRio_Barbara_ES.eaf
-774920	777176	2256	Oye, ahora no puedo hablar. Tengo que dejarte.	MartindelRio_Barbara_ES.eaf
-779638	780995	1357	Zoé, la próxima.	MartindelRio_Barbara_ES.eaf
-783796	785469	1673	¿Qué pasa mientras...?	MartindelRio_Barbara_ES.eaf
-2000	15000	13000	En una playa, en un día de grandes nubes grises, una mujer y un hombre pasean un gran perro marrón. Se cruzan con un hombre que va trotando en dirección opuesta. Visten todos ropa oscura, de manga larga. Junto a la playa, hay una calle asfaltada. 	Mateo_Antonio_ES.eaf
-22000	30000	8000	Un coche blanco de alta gama aparca junto a la acera. El conductor, un hombre pelirrojo de unos cuarenta y cinco años, habla por teléfono.	Mateo_Antonio_ES.eaf
-43000	45000	2000	Saca una bolsa del maletero.	Mateo_Antonio_ES.eaf
-54000	56000	2000	Se queda mirando hacia el mar, pensativo.	Mateo_Antonio_ES.eaf
-59000	64000	5000	Se pone unas gafas de sol. Va vestido con traje de chaqueta y corbata. Es James, el empresario.	Mateo_Antonio_ES.eaf
-67000	71000	4000	Con una bolsa de playa al hombro, anda por un camino de tierra junto al mar mientras mira el móvil.	Mateo_Antonio_ES.eaf
-92000	97000	5000	En la playa, James se ha quitado el traje y se deja caer bocarriba sobre una toalla amarilla.	Mateo_Antonio_ES.eaf
-99000	105000	6000	Se frota levemente los ojos y estira los brazos hacia los lados para tocar la arena con los dedos.	Mateo_Antonio_ES.eaf
-111000	114000	3000	Con un gesto de resignación, se incorpora.	Mateo_Antonio_ES.eaf
-131000	132000	1000	Mira a los lados.	Mateo_Antonio_ES.eaf
-141000	143000	2000	Mira hacia los lados con desconcierto. 	Mateo_Antonio_ES.eaf
-161000	169000	8000	Se levanta y se dirige al mar. Solo lleva puestos unos boxers negros.  Mientras camina hacia el agua, algo le hace detenerse y darse la vuelta.	Mateo_Antonio_ES.eaf
-177000	185000	8000	Se queda quieto en mitad de la arena y dirige la mirada hacia lo lejos, en dirección opuesta al mar. Vuelve a andar hacia el agua y se detiene de nuevo buscando con la mirada.	Mateo_Antonio_ES.eaf
-196000	203000	7000	Tras titubear unos instantes acercándose y alejándose del agua, sin dejar de buscar con la mirada, se dirige a la toalla.	Mateo_Antonio_ES.eaf
-211000	215000	4000	Coge la camisa y empieza a vestirse con expresión de desconcierto.	Mateo_Antonio_ES.eaf
-219000	224000	5000	En una calle arbolada, ya vestido con el mismo traje pero sin corbata, James camina.	Mateo_Antonio_ES.eaf
-226000	231000	5000	En un cerro repleto de arbustos, James avanza hacia la cima por un estrecho sendero.	Mateo_Antonio_ES.eaf
-233000	243000	10000	En un parque, un hombre de unos cincuenta años, con barba y pelo largo, toquetea un vaso de cartón. Lleva una camiseta verde de tirantes y una cadena en el cuello. Mira hacia arriba y sonríe.	Mateo_Antonio_ES.eaf
-244000	246000	2000	Pensativo, mira el vaso.	Mateo_Antonio_ES.eaf
-251000	258000	7000	Le quita la tapa, se lo acerca a la boca y mira el café. Mientras mira pensativo hacia el frente, bebe un trago. 	Mateo_Antonio_ES.eaf
-264000	266000	2000	Se trata de Rick, el jubilado.	Mateo_Antonio_ES.eaf
-268000	273000	5000	La pierna derecha de Rick tiembla con nerviosismo mientras él apura los últimos tragos de café. 	Mateo_Antonio_ES.eaf
-278000	292000	14000	Tras beber el último sorbo, deja el vaso de cartón en el banco contiguo. Da unas palmadas y se frota las manos pensativo. Se saca el móvil del bolsillo trasero del pantalón y busca a alguien en su lista de contactos.	Mateo_Antonio_ES.eaf
-330000	332000	2000	Mira a su alrededor con desconcierto.	Mateo_Antonio_ES.eaf
-380000	382000	2000	Vuelve a mirar a su alrededor.	Mateo_Antonio_ES.eaf
-398000	407000	9000	Se marcha dejando atrás el vaso de cartón vacío. Mientras se aleja, guardándose el teléfono en el bolsillo, va dando vueltas y mirando hacia todas partes.	Mateo_Antonio_ES.eaf
-411000	420000	9000	En una habitación, una joven de unos 25 años, pelirroja y con el pelo rizado, mordisquea nerviosa un bolígrafo frente al ordenador. Es Jess, la estudiante.	Mateo_Antonio_ES.eaf
-425000	428000	3000	Jess rebusca entre los objetos del escritorio hasta que encuentra el móvil.	Mateo_Antonio_ES.eaf
-494000	501000	7000	Sin moverse de su asiento, Jess busca por toda la habitación el origen del sonido y, al no encontrarlo, vuelve la vista a sus apuntes.	Mateo_Antonio_ES.eaf
-503000	505000	2000	Sobresaltada, vuelve a mirar a los lados. 	Mateo_Antonio_ES.eaf
-510000	525000	15000	Se levanta y sale a la calle. Vestida con un abrigo y una bufanda, camina a paso ligero buscando constantemente. Se adentra entre los matorrales del cerro al que James ha ascendido antes. Antes de seguir subiendo, se detiene un momento para mirar atrás.	Mateo_Antonio_ES.eaf
-526000	540000	14000	Se pierde entre las plantas para seguir avanzando. En una explanada de tierra blanca, de pie, a un par de metros el uno del otro, se encuentran James y Rick, que siguen buscando con la mirada. Jess se acerca lentamente a ellos.	Mateo_Antonio_ES.eaf
-555000	559000	4000	Los tres buscan con la mirada la procedencia de la voz.	Mateo_Antonio_ES.eaf
-707000	710000	3000	Rick y Jessica se miran negando con la cabeza.	Mateo_Antonio_ES.eaf
-736000	741000	5000	Rick se va detrás de James. Jessica mira al vacío, pensativa.	Mateo_Antonio_ES.eaf
-745000	753000	8000	Echa a correr detrás de ellos. Cuando los alcanza, los tres se tocan amistosamente mientras se alejan hacia los árboles que hay al final de la explanada. 	Mateo_Antonio_ES.eaf
-756000	765000	9000	Una mujer negra, de unos 40 años, tiende la ropa agobiada mientras habla por teléfono. "No he terminado. Debo darme prisa".	Mateo_Antonio_ES.eaf
-767000	770000	3000	"¿Pero qué dices? ¡Claro que he hecho las maletas!" 	Mateo_Antonio_ES.eaf
-772000	773000	1000	el origen del sonido. "Oye, no puedo hablar ahora. Tengo que colgar".	Mateo_Antonio_ES.eaf
-778000	782000	4000	Mira hacia lo lejos con desconcierto. Es Zoé, la próxima.	Mateo_Antonio_ES.eaf
-2976	8345	5369	Es un día nublado. En la playa, una pareja pasea a un perro y un hombre hace footing.	Palacios_Raquel_ES.eaf
-52480	57053	4573	Es un hombre de unos 40 años.  Tiene pelo y barba castaños y viste de traje.	Palacios_Raquel_ES.eaf
-60382	63836	3454	Saca unas gafas de sol de un bolsillo y se las pone.	Palacios_Raquel_ES.eaf
-65646	67320	1674	Es James, el empresario.	Palacios_Raquel_ES.eaf
-93875	97718	3843	James, en bañador, extiende una toalla en la arena y se tumba.	Palacios_Raquel_ES.eaf
-101219	102613	1394	Se frota los ojos.	Palacios_Raquel_ES.eaf
-106150	109299	3149	Luego extiende los brazos y acaricia la arena.	Palacios_Raquel_ES.eaf
-141974	144180	2206	James busca entre sus cosas.	Palacios_Raquel_ES.eaf
-163156	166225	3069	Se levanta y y se acerca a la orilla del mar.	Palacios_Raquel_ES.eaf
-170162	173877	3715	Luego camina por la playa en busca del origen del pitido.	Palacios_Raquel_ES.eaf
-179953	182147	2194	Se queda quieto un instante.	Palacios_Raquel_ES.eaf
-187204	191200	3996	Camina hacia el lado contrario mientras escruta los alrededores.	Palacios_Raquel_ES.eaf
-198278	202082	3804	Vuelve a la toalla con los ojos entornados y el ceño fruncido.	Palacios_Raquel_ES.eaf
-211112	213449	2337	Recoge su camisa y se la pone.	Palacios_Raquel_ES.eaf
-220251	224078	3827	Poco después camina por la calle, otra vez vestido con el traje.	Palacios_Raquel_ES.eaf
-227238	230579	3341	Asciende por una ladera de tierra sembrada de arbustos.	Palacios_Raquel_ES.eaf
-236737	242866	6129	Sentado en una silla hay un hombre de unos 50 años.  Tiene el pelo gris y revuelto y una barba descuidada.	Palacios_Raquel_ES.eaf
-248864	252107	3243	Tiene un vaso en las manos y quita la tapa de plástico.	Palacios_Raquel_ES.eaf
-256968	259004	2036	Bebe un trago de café.	Palacios_Raquel_ES.eaf
-265594	267439	1845	Es Rick, el jubilado.	Palacios_Raquel_ES.eaf
-269097	273506	4409	Está en un parque. Deja la tapa en la silla de al lado y toma otro trago.	Palacios_Raquel_ES.eaf
-278544	281626	3082	Mueve una pierna con un tic nervioso y deja el vaso.	Palacios_Raquel_ES.eaf
-286040	290098	4058	Saca el móvil del bolsillo, elige un contacto de la lista y llama.	Palacios_Raquel_ES.eaf
-330363	332432	2069	Frunce el ceño y levanta la cabeza.  	Palacios_Raquel_ES.eaf
-398024	404678	6654	Rick se aleja mientras intenta localizar la procedencia del pitido.  El vaso de café queda abandonado en la silla.	Palacios_Raquel_ES.eaf
-418325	421895	3570	Jess, la estudiante, es una adolescente de rizos pelirrojos.	Palacios_Raquel_ES.eaf
-494685	497410	2725	Jess pasea la mirada por la habitación.	Palacios_Raquel_ES.eaf
-511539	514028	2489	Se pone el abrigo y sale a la calle.	Palacios_Raquel_ES.eaf
-518278	522054	3776	Sube un camino cubierto de maleza y se pierde en la espesura.	Palacios_Raquel_ES.eaf
-530311	534880	4569	Llega a una gran explanada de arena donde se encuentran James y Rick.	Palacios_Raquel_ES.eaf
-537712	541306	3594	Los tres dan pasos vacilantes y dirigen la vista al cielo.	Palacios_Raquel_ES.eaf
-556792	561005	4213	Todos examinan la explanada, pero no localizan la fuente de la voz.	Palacios_Raquel_ES.eaf
-708576	710735	2159	Los tres niegan con la cabeza.	Palacios_Raquel_ES.eaf
-745951	750166	4215	Jess corre tras ellos hasta alcanzarlos y se marchan juntos.	Palacios_Raquel_ES.eaf
-762383	765631	3248	No, no he terminado de tenderla. Tengo que darme prisa.	Palacios_Raquel_ES.eaf
-768120	772007	3887	No, ¿de qué me hablas? Sí, claro, las maletas están a punto.	Palacios_Raquel_ES.eaf
-774661	777376	2715	Oye, ahora no puedo hablar. Tengo que dejarte.	Palacios_Raquel_ES.eaf
-779764	781482	1718	Zoé. La próxima.	Palacios_Raquel_ES.eaf
-5045	11095	6050	De día, en un paseo al lado de la playa, una pareja camina con su perro y un hombre corre por la arena.  	Roldan_Marina_ES.eaf
-13919	17854	3935	Sobre fondo blanco en letras negras y en inglés:	Roldan_Marina_ES.eaf
-22998	30422	7424	Un hombre en un deportivo blanco se detiene junto a la acera del paseo. El hombre, de unos 40 años, pelo corto y barba baja del coche mientras habla por teléfono.	Roldan_Marina_ES.eaf
-53307	60834	7527	Tras guardar un maletín en el maletero y coger una bolsa de playa, el hombre, vestido de traje y corbata, se pone unas gafas de sol.	Roldan_Marina_ES.eaf
-62643	65041	2398	Escrito en pantalla en letras blancas:	Roldan_Marina_ES.eaf
-65740	67428	1688	James, el empresario.	Roldan_Marina_ES.eaf
-68014	70160	2146	Camina por la arena y utiliza el móvil.	Roldan_Marina_ES.eaf
-94156	97894	3738	Ahora, en ropa interior, se tumba en la arena sobre una toalla.	Roldan_Marina_ES.eaf
-105170	109651	4481	Con los ojos cerrados y algo más relajado, James juguetea con la arena en las manos.	Roldan_Marina_ES.eaf
-113113	114201	1088	Se incorpora.	Roldan_Marina_ES.eaf
-130000	132025	2025	Mira a su alrededor.	Roldan_Marina_ES.eaf
-141742	144298	2556	Rebusca entre sus cosas desconcertado.	Roldan_Marina_ES.eaf
-165186	169095	3909	James se pone de pie y camina por la playa a paso lento.	Roldan_Marina_ES.eaf
-171293	175904	4611	Mira extrañado hacia todos lados mientras deambula por la arena.	Roldan_Marina_ES.eaf
-178144	179285	1141	Se detiene.	Roldan_Marina_ES.eaf
-185171	188333	3162	Mira hacia atrás y se acerca a la orilla.	Roldan_Marina_ES.eaf
-197017	199941	2924	Camina hacia la toalla mientras mira hacia arriba.	Roldan_Marina_ES.eaf
-209851	213224	3373	Se viste sin dejar de prestar atención a su alrededor.	Roldan_Marina_ES.eaf
-219448	223170	3722	Vestido de nuevo, James camina por la calle.	Roldan_Marina_ES.eaf
-228410	232171	3761	Ahora camina por una ladera llena de arbustos y matorrales.	Roldan_Marina_ES.eaf
-234283	239695	5412	En un parque, a la sombra de los árboles, un hombre de aspecto descuidado está sentado en un banco pensativo.	Roldan_Marina_ES.eaf
-242529	244065	1536	Sonríe.	Roldan_Marina_ES.eaf
-248881	254317	5436	El hombre, de unos 65 años, pelo largo y canoso y barba, abre la tapa del café que sostiene.	Roldan_Marina_ES.eaf
-258237	259334	1097	Le da un sorbo.	Roldan_Marina_ES.eaf
-264419	267713	3294	Escrito en pantalla en letras blancas: Rick, el jubilado.	Roldan_Marina_ES.eaf
-268820	271567	2747	Algo nervioso, Rick le da otro sorbo al café.	Roldan_Marina_ES.eaf
-274532	278226	3694	Contempla los árboles que le rodean.	Roldan_Marina_ES.eaf
-279415	284883	5468	Deja el café en el banco de al lado y saca el móvil del bolsillo trasero del pantalón.	Roldan_Marina_ES.eaf
-289704	293478	3774	Busca entre sus contactos y llama a Craig Anderson	Roldan_Marina_ES.eaf
-330656	332878	2222	Frunce el ceño y mira a su alrededor.	Roldan_Marina_ES.eaf
-380311	382449	2138	Observa perplejo el entorno.	Roldan_Marina_ES.eaf
-398203	401452	3249	Se levanta y camina escudriñando el parque.	Roldan_Marina_ES.eaf
-411433	415594	4161	En una vivienda, una chica de unos 18 años estudia delante del ordenador.	Roldan_Marina_ES.eaf
-417069	420172	3103	Escrito en pantalla en letras blancas: Jess, la estudiante.	Roldan_Marina_ES.eaf
-420975	423752	2777	Jess, de pelo largo y rizado, rebusca por la mesa.	Roldan_Marina_ES.eaf
-495560	498325	2765	Con gesto serio, mira por la habitación.	Roldan_Marina_ES.eaf
-509418	510806	1388	Jess se levanta.	Roldan_Marina_ES.eaf
-512730	518427	5697	Fuera de la vivienda, Jess, con una chaqueta y un pañuelo alrededor del cuello, camina por el campo.	Roldan_Marina_ES.eaf
-518885	521614	2729	Mira a su alrededor constantemente.	Roldan_Marina_ES.eaf
-524719	527527	2808	Se detiene, mira hacia atrás y continúa.	Roldan_Marina_ES.eaf
-530915	536016	5101	La joven llega a una planicie iluminada por el sol donde también se encuentran James y Rick.	Roldan_Marina_ES.eaf
-538423	541060	2637	Se acerca a ellos en silencio.	Roldan_Marina_ES.eaf
-556430	558776	2346	Los tres examinan el entorno perplejos.	Roldan_Marina_ES.eaf
-707734	711532	3798	Rick y Jessica niegan con la cabeza.	Roldan_Marina_ES.eaf
-737245	739254	2009	Rick va tras James.	Roldan_Marina_ES.eaf
-740317	742065	1748	Jessica se queda pensativa.	Roldan_Marina_ES.eaf
-746140	748881	2741	Los tres abandonan la planicie.	Roldan_Marina_ES.eaf
-753745	759926	6181	En una azotea, una mujer negra de unos 35 años y media melena tiende la ropa mientras habla por teléfono.	Roldan_Marina_ES.eaf
-765275	767994	2719	(Audiosubtítulos): No he terminado de tenderla.	Roldan_Marina_ES.eaf
-767994	768994	1000		Roldan_Marina_ES.eaf
-771531	774675	3144	(Audiosubtítulos): No, ¿de qué me hablas?	Roldan_Marina_ES.eaf
-774675	775675	1000		Roldan_Marina_ES.eaf
-777048	779270	2222	(Audiosubtítulos): Oye, ahora no puedo hablar.	Roldan_Marina_ES.eaf
-779270	779784	514		Roldan_Marina_ES.eaf
-779784	782992	3208	Escrito en pantalla en letras blancas: Zoé, la próxima.	Roldan_Marina_ES.eaf
-784575	788551	3976	Sobre fondo blanco en letras negras y en inglés: Qué pasa mientras...	Roldan_Marina_ES.eaf
-2826	5827	3001	En el paseo de la playa.	Rubio_Jennifer_ES.eaf
-15187	19144	3957	Sobre fondo blanco, en letras negras:	Rubio_Jennifer_ES.eaf
-21796	28869	7073	En el paseo aparca un coche de alta gama conducido por un ejecutivo con traje que habla por el móvil.	Rubio_Jennifer_ES.eaf
-53173	59522	6349	El ejecutivo, de unos 40 años, cambia el maletín por una bolsa de playa.	Rubio_Jennifer_ES.eaf
-62097	67456	5359	En letras blancas: James, el empresario.	Rubio_Jennifer_ES.eaf
-67496	71496	4000	Llama por el móvil mientras camina por el paseo de la playa.	Rubio_Jennifer_ES.eaf
-94690	98182	3492	Se queda en calzoncillos y se tumba en la arena.	Rubio_Jennifer_ES.eaf
-106442	110353	3911	Relajado, juega con la arena entre sus dedos.	Rubio_Jennifer_ES.eaf
-163053	166651	3598	Se levanta y busca el ruido extraño.	Rubio_Jennifer_ES.eaf
-181651	185006	3355	Se mueve de un lado a otro desconcertado.	Rubio_Jennifer_ES.eaf
-207496	212380	4884	Se viste para seguir el rastro del ruido fuera de la playa.	Rubio_Jennifer_ES.eaf
-226692	229836	3144	Sube un pequeño monte.	Rubio_Jennifer_ES.eaf
-233297	246593	13296	En un parque, unas manos sostienen un café para llevar. Un hombre de unos 55 años, desdeñado, está sentado en un banco. Mira al horizonte y sonríe. Hace un gesto de resignación.	Rubio_Jennifer_ES.eaf
-254966	257647	2681	Bebe del café.	Rubio_Jennifer_ES.eaf
-264257	267383	3126	En letras blancas: Rick, el jubilado.	Rubio_Jennifer_ES.eaf
-277543	281465	3922	Mueve la pierna y da unas palmadas nervioso.	Rubio_Jennifer_ES.eaf
-293436	297218	3782	Coge el móvil y hace una llamada.	Rubio_Jennifer_ES.eaf
-398634	404140	5506	Mira extrañado y se levanta para buscar el ruido. Se aleja y se deja el café en el banco.	Rubio_Jennifer_ES.eaf
-411405	415300	3895	En una habitación está sentada una chica de unos 18 años.	Rubio_Jennifer_ES.eaf
-417444	423092	5648	En letras blancas, Jess, la estudiante. No encuentra el móvil entre el desorden.	Rubio_Jennifer_ES.eaf
-494558	498114	3556	Jess mira a todos lados buscando el ruido.	Rubio_Jennifer_ES.eaf
-511236	516799	5563	Sale de su casa en busca del ruido y sube un pequeño monte.	Rubio_Jennifer_ES.eaf
-529805	534459	4654	Allí están James y Rick mirando a todos lados.	Rubio_Jennifer_ES.eaf
-538573	541660	3087	Una voz desconocida les habla.	Rubio_Jennifer_ES.eaf
-708623	711596	2973	Se miran los unos a los otros.	Rubio_Jennifer_ES.eaf
-739557	742196	2639	Jess, extrañada, sonríe.	Rubio_Jennifer_ES.eaf
-746077	749120	3043	Se alejan juntos.	Rubio_Jennifer_ES.eaf
-755720	761993	6273	En la azotea de un edificio, una mujer de unos 35 años habla por el móvil mientras tiende la ropa.	Rubio_Jennifer_ES.eaf
-762153	765956	3803	No, no he terminado de tender. Tengo que darme prisa.	Rubio_Jennifer_ES.eaf
-767664	772310	4646	No, ¿de qué me hablas? Si, las maletas están hechas...	Rubio_Jennifer_ES.eaf
-774593	777921	3328	Oye, ahora no puedo hablar. Tengo que colgar.	Rubio_Jennifer_ES.eaf
-778081	781591	3510	El letras blancas: Zoé, la próxima.	Rubio_Jennifer_ES.eaf
-782813	787179	4366	Sobre fondo blanco, en letras negras: ¿qué pasa mientras...?	Rubio_Jennifer_ES.eaf
+4010	8029	4019	En una playa un hombre corre y una pareja pasea con su perro.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+29210	31040	1830	Un coche aparca delante de la playa.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+53000	66220	13220	El conductor es un hombre de unos treinta y tantos años que lleva un traje con corbata.  Se guarda el móvil en un bolsillo de la americana y saca unas gafas de sol del otro.  James, el empresario.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+67220	70100	2880	James va andando con una bolsa de playa de rayas al hombro y el teléfono a la oreja.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+94000	100110	6110	En la playa sobre la arena James se tumba en calzoncillos sobre la toalla.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+142079	144190	2111	Mira a los lados y revuelve sus cosas.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+161040	167110	6070	Se levanta y camina por la arena mirando hacia arriba.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+177010	185070	8060	Vuelve hacia sus cosas y sigue mirando a lo lejos.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+209079	211030	1951	Se viste.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+219110	223079	3969	Ahora vestido camina por un paseo con árboles.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+228010	230110	2100	En un camino de tierra rodeado de matorrales, James sube una cuesta.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+234100	240030	5930	Un hombre de unos sesenta años con el pelo y la barba canosos está sentado en un banco.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+253040	259100	6060	Lleva una camiseta sin mangas verde, bebe un café y mira los árboles.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+265010	266210	1200	Rick, el jubilado.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+271080	277050	5970	Inquieto, se bebe el café y mira la lejanía.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+284080	289140	5060	Deja el café en el banco de al lado. Saca el móvil y empieza a mirar sus contactos.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+296120	299030	2910	Llama a un amigo.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+330150	333010	2860	Frunce el ceño y mira a los lados.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+380030	382070	2040	Extrañado mira hacia arriba y a los lados.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+399040	402080	3040	Se va andando y deja el café.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+411070	415040	3970	Una chica de unos 18 años, con el pelo rizado, chaqueta y pañuelo.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+418080	420110	2030	Jess, la estudiante.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+495080	497110	2030	Mira a los lados sorprendida.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+511180	517059	5879	Fuera, con el abrigo puesto Jess va andando entre matorrales.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+532060	535010	2950	Llega a un campo donde están James y Rick.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+541170	543060	1890	Una voz salida de la nada habla.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+558220	561060	2840	Los tres miran hacia todos lados.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+710020	712120	2100	Se miran y niegan con la cabeza.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+737170	739000	1830	Rick se va con James.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+745010	746240	1230	Jess los sigue.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+752210	762010	9800	Una mujer negra tiende la ropa y habla por teléfono.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+762210	766080	3870	No, no he terminado de tenderla. Tengo que darme prisa.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+768030	772100	4070	No, ¿de qué me hablas? Sí, claro, las maletas están a punto…	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+775010	777120	2110	Oye, ahora no puedo hablar. Tengo que dejarte.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+779210	781100	1890	Zoé, la próxima.	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+784030	786190	2160	¿Qué pasa mientras…?	WHW-ES-St/Castro_Aina_ES/Castro_Aina_ES.eaf
+2812	18318	15506	Al amanecer, en una playa, hay una pareja paseando con su perro y un hombre corriendo. El perro olisquea algo en la arena y después sigue a sus amos.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+22422	29693	7271	Un deportivo blanco aparca en la carretera al lado del paseo de la playa. Del coche se baja un hombre de mediana edad, trajeado y con maletín.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+53048	58592	5544	El hombre saca con cuidado unas gafas de sol, de estilo aviador, de un bolsillo de su americana.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+59854	63761	3907	Se pone las gafas y mira al frente.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+64983	66881	1898	Es James, el empresario.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+67560	71401	3841	James camina hacia la playa con una bolsa de tela a rayas echada al hombro.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+92007	98410	6403	En la playa, sobre la arena, hay una toalla y un revoltijo de ropa. James se tumba sobre la toalla bocarriba.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+100306	109738	9432	Se frota la cara con las manos y después acaricia la arena hundiendo las yemas de los dedos.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+141509	144231	2722	James, nervioso, mira extrañado hacia los lados.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+159581	168950	9369	Se levanta y camina hasta meter los pies en la orilla.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+169891	178370	8479	Después se aleja del agua sin rumbo, mirando hacia los lados.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+180468	189221	8753	Camina hacia atrás, girando sobre sí mismo y mirando hacia los lados como si buscase algo.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+191234	195139	3905	Vuelve a acercarse a la orilla y se adentra un poco en el agua.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+197662	205064	7402	James vuelve a alejarse de la marea buscando algo a su alrededor.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+208178	214105	5927	Llega hasta sus cosas y comienza a ponerse la camisa.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+218993	225807	6814	Más tarde, en una calle y rodeado de árboles, James camina a buen ritmo.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+227106	233135	6029	Pasado un rato, está subiendo por un monte polvoriento salpicado de arbustos.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+233867	237216	3349	En otro lugar, unas manos ajadas sostienen un café para llevar.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+237336	243786	6450	Un hombre no demasiado mayor, con ojeras, barba y pelo desaliñado, contempla distraído lo que tiene en frente	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+248074	258636	10562	Toquetea la tapa del café, la quita y después de olerlo, lo mira con desgana y le pega un trago.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+264764	266529	1765	Es Rick, el jubilado.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+267717	281549	13832	Está sentado en el banco de un parque, solo. Viste un pantalón sencillo  y una camiseta de tirantes ajada. Rick contempla distraído el entorno mientras se termina su café y posa la taza  de cartón vacía en el banco de al lado.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+285581	298722	13141	Rick saca el móvil de un bolsillo del pantalón, abre la agenda de contactos y se pone a buscar a alguien. Selecciona el contacto que buscaba y llama.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+330654	332470	1816	Rick mira extrañado a su alrededor.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+380223	382249	2026	Vuelve a mirar a su alrededor buscando algo.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+398878	405557	6679	Rick se levanta y se aleja caminando distraído buscando algo y dejando atrás el café.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+411430	415457	4027	En otra parte, una adolescente pelirroja, con rizos, está concentrada mirando algo.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+417571	419477	1906	Es Jess, la estudiante.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+425312	428789	3477	Está sentada frente a un escritorio y busca algo entre sus papales.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+494932	501629	6697	Jess se pone el pelo detrás de la oreja y mira extrañada a su alrededor.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+509713	510969	1256	Se levanta y se va.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+511251	516943	5692	En una calle, junto a un muro de piedra, Jess camina en busca de algo.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+517842	527979	10137	Más tarde, sube una colina, caminado entre la hierba alta. Se detiene, mira atrás desconcertada y se va corriendo hacia arriba.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+529962	536780	6818	En un claro entre montañas, tres siluetas caminan al frente, como desconcertadas, en busca de algo bajo la cegadora luz del sol.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+556569	560594	4025	Rick, James y Jess se juntan en medio de la explanada, mirando a su alrededor.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+708350	710750	2400	Rick niega con la cabeza.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+736786	740377	3591	James se aleja hacia los árboles que bordean el claro, seguido de Rick.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+745229	756720	11491	Jess corre tras ellos. Los tres se pierden poco a poco en la distancia en dirección al bosque.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+756880	765855	8975	No, no he terminado de tenderla. Tengo que darme prisa.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+768154	771530	3376	No, ¿de qué me hablas? Sí, claro, las maletas están a punto....	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+771730	774558	2828	Al anochecer, en una azotea, un mujer mira nerviosa a su alrededor.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+774875	777259	2384	Oye, ahora no puedo hablar. Tengo que dejarte.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+779192	781146	1954	Es Zoé, la próxima.	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+783535	786672	3137	Sobre fondo blanco. ¿Qué pasa mientras...?	WHW-ES-St/Fuente_Virginia_ES/Fuente_Virginia_ES.eaf
+4848	11848	7000	De día, en el paseo marítimo de una playa, algunas personas pasean o hacen deporte. Junto a la playa hay una carretera.  	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+12448	14448	2000	El cielo está algo nublado y gris.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+17167	18849	1682	Funde a blanco con la frase:	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+21403	25083	3680	Un coche de alta gama aparca en la carretera junto a la playa.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+52865	56694	3829	Es un hombre trajeado de unos cuarenta años. Mira hacia la playa.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+59642	61173	1531	Se pone unas gafas de sol.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+65474	66741	1267	James, el empresario.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+67672	71107	3435	Camina con un bolso de playa y el móvil pegado a la oreja.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+92389	92869	480	Después.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+93680	96759	3079	James, sin camiseta, se tumba en la arena bocarriba.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+100718	102438	1720	Se lleva las manos a la cara.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+106056	109654	3598	Con los ojos cerrados, hace surcos con los dedos en la arena.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+130197	131086	889	Mira alrededor.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+141510	144227	2717	Frunce el ceño y mira de nuevo a su alrededor.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+160914	163914	3000	James, desconcertado, se levanta y anda unos pasos.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+166899	168699	1800	Camina despacio por la orilla.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+171118	174978	3860	Parece buscar con la vista y el oído de dónde proviene el sonido.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+177649	183028	5379	Ante el silencio, se detiene y se dispone a dar media vuelta. Pero se gira y mira de nuevo.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+195925	201925	6000	Regresa a por sus cosas. Camina rápido, sin dejar de mirar al frente, extrañado, con el ceño fruncido.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+208794	209994	1200	Se empieza a vestir.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+214591	216430	1839	No deja de mirar a todos lados.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+219920	224400	4480	Más tarde, ya vestido, James camina por un paseo con árboles con paso firme.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+227666	231786	4120	Sube por un sendero en una colina con vegetación, siguiendo el sonido.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+233218	237364	4146	En un parque, un hombre de unos sesenta años está sentado en un banco.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+240002	244608	4606	Tiene en las manos un vaso de café, al que da golpecitos. Observa los árboles.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+250491	251811	1320	Abre la tapa del café.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+255082	256440	1358	Se lo acerca a la boca.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+257365	258565	1200	Mira el café y bebe.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+265415	266489	1074	Rick, el jubilado.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+270612	275452	4840	Sentado en el banco, Rick mueve las piernas con nerviosismo mientras bebé el café.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+278769	280249	1480	Deja el café en el banco.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+280860	281883	1023	Da unas palmadas.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+285575	287341	1766	Se saca el móvil del bolsillo.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+289071	290960	1889	Ojea los contactos de la agenda.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+293960	296960	3000	No parece decidirse por ninguno.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+298085	299805	1720	Finalmente elige uno y llama.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+330036	331688	1652	Mira hacia arriba extrañado.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+380205	381887	1682	Vuelve a mirar hacia arriba.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+399074	400634	1560	Se aleja caminando rápido.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+402784	404104	1320	Mira para todos lados.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+408305	409745	1440	Se adentra en el parque.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+410717	412897	2180	En una biblioteca, una joven estudia.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+418454	419667	1213	Jess, la estudiante.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+422930	424847	1917	Busca el móvil bajo los apuntes.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+429886	430663	777	Lo encuentra.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+490481	491381	900	Mira extrañada.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+494466	497906	3440	Jess mira con asombro a derecha e izquierda, sin entender.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+509634	510954	1320	Más tarde en la calle.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+513761	518202	4441	Jess mira a derecha e izquierda, intentando localizar el origen del sonido.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+518986	521575	2589	Sube por una colina con vegetación frondosa.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+523328	524826	1498	Se detiene para escuchar.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+527086	528806	1720	Y sigue subiendo rápidamente.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+530887	537247	6360	Al final de la colina, Jess llega a una explanada donde están también James y Rick. El cielo está despejado.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+538605	542932	4327	Los tres se miran entre sí, asombrados, a la vez que miran a todos lados.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+556414	560668	4254	Miran al cielo. La voz parece provenir de ningún sitio y de todos lados.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+594670	596750	2080	Rick se lleva una mano a la cabeza.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+642232	643432	1200	Rick les mira serio.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+696415	697198	783	Rick asiente.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+700636	701731	1095	Los tres se miran.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+707174	712297	5123	Se intercambian miradas. Rick se encoge de hombros y niega con la cabeza. Jess también.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+718218	719992	1774	Rick alza los brazos al cielo.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+725532	726911	1379	James sacude la cabeza.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+740372	741925	1553	Jess se encoge de hombros.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+743243	743743	500	Asiente.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+749357	753328	3971	Los tres se alejan colina abajo, entre los árboles, hacia la playa.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+758501	759361	860	Funde a negro.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+759895	762100	2205	En una azotea, una mujer tiende ropa.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+762752	765992	3240	No, no he terminado de tenderla. Tengo que darme prisa.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+766781	767611	830	Mira al cielo.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+768447	771407	2960	No, ¿de qué hablas? Sí, las maletas están a punto.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+774968	777688	2720	Oye, ahora no puedo hablar. Tengo que dejarte.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+778113	778996	883	Mira extrañada.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+780641	781591	950	Zoé, la próxima.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+783694	788414	4720	Sobre fondo blanco, la frase Qué pasa mientras... seguida de una línea continua.	WHW-ES-St/Garcia_Isabel_ES/Garcia_Isabel_ES.eaf
+5649	11631	5982	De día, en la playa, una pareja pasea a su perro mientras un corredor pasa por su lado.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+24747	30399	5652	Un lujoso coche blanco se detiene delante de la playa.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+32281	32720	439	El conductor se apea.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+43845	44932	1087	Guarda un maletín en el maletero.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+54905	60014	5109	Saca unas gafas de sol y se las pone. Viste un traje gris y corbata.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+65092	66892	1800	James [Yéims], el empresario.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+67712	71441	3729	James, pelirrojo y de unos 40 años, pasea por la playa sujetando un móvil.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+92827	97410	4583	Ahora en bañador, James se tumba en una toalla y cierra los ojos.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+103285	110055	6770	Se frota los ojos con ambas manos, las estira y coge un poco de arena para luego dejarla caer entre sus dedos.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+131092	132212	1120	Mira a ambos lados.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+141539	143640	2101	Busca algo en su ropa.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+161596	162959	1363	James se levanta.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+165035	169865	4830	Camina por la playa en bañador mirando a su alrededor con gesto extrañado.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+174722	177703	2981	Sigue caminando sin rumbo fijo.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+180134	182796	2662	Se detiene y se dirige a donde está su toalla.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+187548	192939	5391	Vuelve a girar la vista extrañado y sigue caminando sin dejar de mirar a su alrededor.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+208573	212968	4395	Coge su ropa y comienza a vestirse.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+220493	229074	8581	Ya vestido con su traje de oficina, camina con paso firme y comienza a subir por una pequeña montaña llena de arbustos y matorrales.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+234081	237758	3677	En un parque, un hombre de unos 60 años descansa sentado en un banco.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+239969	243877	3908	De canoso pelo largo y una barba descuidada, observa con la mirada perdida.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+252964	256079	3115	Destapa el café que sujeta con una mano y le da un sorbo con desgana.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+265175	266950	1775	Rick [Ríc], el jubilado.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+273013	278722	5709	Ric da otro sorbo al café y lo deja en el banco de al lado.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+290036	292979	2943	Saca su teléfono móvil y busca entre los contactos.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+295680	298226	2546	Selecciona uno y llama.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+330837	332740	1903	Rick alza la mirada extrañado.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+380268	382380	2112	Vuelve a alzar la vista lentamente.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+399524	406253	6729	Se levanta, y sin coger su café, empieza a caminar mirando a su alrededor una y otra vez.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+411764	415088	3324	En su habitación una joven de melena pelirroja. 	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+418424	419891	1467	Jess [Yés], la estudiante.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+425851	429103	3252	Jess busca su móvil entre una montaña de libros y apuntes.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+474339	475347	1008	Busca entre los papeles.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+497584	500967	3383	Jess mira a su alrededor con gesto confuso.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+511358	514730	3372	Sale a la calle y empieza a caminar.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+518379	521775	3396	Sube por una pequeña montaña llena de arbutos y matorrales.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+532847	539188	6341	En un descampado rodeado por montañas, Jess se acerca a James y Rick, quienes están de pie sin hacer nada.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+556489	560014	3525	Los tres no paran de mirar al cielo y a su alrededor.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+595664	596876	1212	Rick tiene los ojos llorosos.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+621545	622125	580	James asiente con gesto irónico.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+709342	711078	1736	Rick niega con la cabeza.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+740101	742022	1921	Rick sigue a James.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+746407	752109	5702	Jess corre tras ellos y los tres juntos siguen caminando.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+763556	767971	4415	En una terraza, una mujer francesa de piel morena se queja por teléfono de lo ajetreada que está.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+772254	774012	1758	Mira a su alrededor extrañada.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+779809	781442	1633	Zoé [Zóe], la próxima.	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+784271	786762	2491	¿Qué pasa mientras...?	WHW-ES-St/Jimenez_Jose_ES/Jimenez_Jose_ES.eaf
+4436	17104	12668	El paisaje de una playa. El cielo está parcialmente nublado y teñido de un color rosado. De forma paralela al mar. una pareja pasea por la arena con su perro. En el sentido contrario al suyo un hombre hace footing.  	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+22095	24866	2771	Un coche deportivo blanco se acerca a la playa.  	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+53270	63434	10164	Es un hombre de unos cuarenta. pelirrojo. con barba y tez clara. Viste con traje y corbata. Saca del bolsillo de la chaqueta unas gafas de estilo aviador y se las pone.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+65248	67198	1950	Se trata de James. el empresario.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+67315	71491	4176	Camina por una zona arenosa con el móvil en la mano y un bolso playero.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+93658	98192	4534	Ya no lleva traje. Se tumba sobre una toalla en la arena y suelta el móvil.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+99297	109908	10611	Esta acostado boca arriba y con los ojos entornados. Se frota los ojos con las manos. estira los brazos en la arena y la acaricia suavemente con la mano izquierda.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+114906	115978	1072	Se incorpora.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+159206	176509	17303	Deja el teléfono y se levanta. Lleva solo los calzoncillos y deja las demás pertenencias en la arena. Está desorientado y camina con lentitud. Se acerca a la orilla del mar y segundos más tarde se aleja. Para sutilmente. observando el paisaje que le rodea y mirando hacia arriba.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+189792	202549	12757	Pasea sin rumbo de un lado a otro y curiosea cuanto hay a su alrededor. Se desplaza torpemente. avanzando y retrocediendo sin decisión. Finalmente retoma el camino hacia el lugar donde dejó todas sus cosas.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+210101	214779	4678	Sigue mirando a los lados. desconcertado. Recoge su ropa y se pone la camisa.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+222100	232925	10825	James avanza entre un camino con árboles a los lados. Está vestido y con la camisa desabrochada. Llega a un montículo repleto de arbustos y hierbajos y lo sube por un camino de tierra.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+233295	235007	1712	Una taza de café para llevar.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+237124	243290	6166	La sujeta un señor de unos setenta años. Tiene el pelo largo y canoso a juego con una barba espesa.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+248246	251102	2856	Recorre la tapa de café haciendo círculos.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+253657	258680	5023	Lo destapa y sitúa el vaso cerca de sus labios. Inseguro. da un trago a la bebida.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+265556	267457	1901	Él es Rick. el jubilado.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+267517	281686	14169	A la sombra de una arboleda. hay tres bancos individuales. Rick está sentado en el de en medio. Deja la tapa de plástico en el banco a su izquierda. Mueve la pierna derecha con nerviosismo y deja el vaso junto a la tapa.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+285700	295865	10165	Rick saca el móvil. Retira la funda y selecciona la pestaña de contactos en la pantalla táctil. Recorre con el dedo la agenda y pulsa el botón verde de llamada.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+330860	332728	1868	Extrañado. eleva la vista.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+380403	382058	1655	Algo capta su atención.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+400899	410905	10006	Se levanta y abandona la taza de café en el asiento. Tambaleándose y echando un vistazo al cielo. se retira del banco en el que estaba. Se aleja caminando por un sendero.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+411420	415586	4166	Una joven de unos veinte años está sentada en su escritorio.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+418090	420086	1996	Es Jess. la estudiante.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+425287	426917	1630	Busca entre los papeles.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+497017	505398	8381	Se toca el cabello que es pelirrojo y muy rizado. Alza la vista. Mira hacia ambos lados de la habitación. como si estuviera buscando algo.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+509800	525266	15466	Jess se levanta. coge su abrigo y sale a la calle. Se marcha con desconfianza y llega a una senda repleta de vegetación. Al principio. avanza por el camino con paso lentos. Se para un instante, estudia el entorno y continúa decidida.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+530159	538648	8489	En una llanura rodeada por árboles. se encuentran James. Rick y Jess. Todos están absortos y giran sobre sí mismos mientras observan el cielo.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+556402	560715	4313	Contemplan el cielo y se cubren los ojos para no deslumbrarse con el sol.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+594892	596025	1133	Rick se emociona.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+708026	712637	4611	Se miran tratando de buscar una respuesta. Rick y Jess niegan con la cabeza.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+746217	753050	6833	El cielo está despejado y brilla el sol. Jess corretea tras James y Rick. Los alcanza y se marchan juntos del lugar.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+758273	762269	3996	Una señora de unos treinta años tiende ropa y habla por teléfono.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+762429	765393	2964	No he terminado de tender. tengo que darme prisa.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+767965	771096	3131	No. ¿de qué hablas? Claro. las maletas están a punto.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+772906	773953	1047	Eleva la vista.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+774797	777207	2410	Oye. no puedo hablar. tengo que dejarte.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+778208	782682	4474	Mira al horizonte con expresión de incertidumbre. Ella es Zoé... la próxima.	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+783807	785972	2165	Qué pasa mientras...	WHW-ES-St/Marco_Carmen_ES/Marco_Carmes_ES.eaf
+3145	10421	7276	A pleno día, por una playa algo nublada, pasean varias personas. Un hombre hace jogging y un perro olfatea la arena.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+26802	30435	3633	Un coche blanco aparca frente a la arena. Dentro, un hombre discute por el móvil.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+52772	63172	10400	El hombre ha salido del coche, ha sacado una bolsa del maletero y ha metido un maletín en él. Tiene unos 35 años. lleva traje y corbata. es rubio y tiene barba. Se pone unas gafas de sol.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+65450	67096	1646	James, el empresario.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+67726	71462	3736	Marca un teléfono en su móvil mientras camina por la playa con la bolsa al hombro.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+93607	99633	6026	Vestido únicamente con la ropa interior, James se tumba boca arriba en una toalla extendida sobre la arena.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+105508	108981	3473	Extiende los brazos y juega con la arena entre sus dedos.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+142001	144041	2040	Mira a ambos lados, confuso.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+159426	167258	7832	Deja el móvil en el suelo, se levanta de la toalla y empieza a caminar junto al agua, mirando a su alrededor en busca de la prodecencia del sonido.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+179914	182753	2839	Se detiene y se dispone a volver a la toalla.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+187414	189704	2290	Vuelve a mirar en todas direcciones.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+205087	209186	4099	Vuelve junto a la toalla para recoger su ropa y empieza a vestirse.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+221244	225182	3938	Camina por una acera rodeada de árboles con expresión seria.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+227498	230622	3124	Sube por un monte lleno de arbustos y matorrales.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+236047	245652	9605	Unas manos sujetan un vaso desechable de café. Son de un hombre de unos 60 años con una media melena alborotada y barba canosa. Tiene	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+250171	251896	1725	Juguetea con la tapa del café.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+256702	258552	1850	Abre la tapa y da un sorbo.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+265407	267067	1660	Rick, el jubilado.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+267943	276055	8112	Rick lleva un chándal y una camiseta de tirantes. Está sentado en el banco de un parque. Sigue bebiendo su café con una expresión seria y de aburrimiento.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+278852	281070	2218	Deja el vaso en el banco de al lado.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+286074	292686	6612	Saca un móvil del bolsillo trasero del pantalón. Busca en su lista de contactos hasta encontrar el número de Craig Anderson.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+380199	382092	1893	Mira a su alrededor desconcertado.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+398386	403979	5593	Dejando atrás su vaso de café, se adentra por un sendero del parque, mirando en todas direcciones.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+411755	414409	2654	Una chica mira la pantalla de su ordenador.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+418215	419823	1608	Jess, la estudiante.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+422560	424213	1653	Rebusca entre sus apuntes.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+494682	501823	7141	Tiene unos 18 años, pelo rizado y cobrizo. Viste una chaqueta de lana blanca y un pañuelo. Mira confusa a su alrededor.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+511931	516690	4759	Con un abrigo color caqui sale a la calle y sube por un monte cubierto de hierbas altas.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+530222	536761	6539	Jess se encuentra con James y Rick en un claro y se acerca a ellos. Los tres siguen buscando con la mirada en todas direcciones.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+556389	558882	2493	Permanecen quietos, desconcertados.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+707321	712186	4865	James mira a Rick, quien se encoje de hombros y niega con la cabeza, al igual que Jess.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+737315	741525	4210	Rick sigue a James hacia los árboles. Jess hace un gesto de indiferencia.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+745842	751628	5786	Va corriendo hacia los dos hombres y se coloca entre ellos. Ambos le dan una palmada en la espalda mientras se alejan.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+758240	761660	3420	Una mujer negra de unos 30 años tiende la ropa en una azotea.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+762472	765576	3104	No, no he terminado de tenderla. Tengo que darme prisa.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+767700	771368	3668	No, ¿de qué me hablas? Sí, claro, las maletas están a punto.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+774920	777176	2256	Oye, ahora no puedo hablar. Tengo que dejarte.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+779638	780995	1357	Zoé, la próxima.	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+783796	785469	1673	¿Qué pasa mientras...?	WHW-ES-St/MartindelRio_Barbara_ES/MartindelRio_Barbara_ES.eaf
+2000	15000	13000	En una playa, en un día de grandes nubes grises, una mujer y un hombre pasean un gran perro marrón. Se cruzan con un hombre que va trotando en dirección opuesta. Visten todos ropa oscura, de manga larga. Junto a la playa, hay una calle asfaltada. 	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+22000	30000	8000	Un coche blanco de alta gama aparca junto a la acera. El conductor, un hombre pelirrojo de unos cuarenta y cinco años, habla por teléfono.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+43000	45000	2000	Saca una bolsa del maletero.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+54000	56000	2000	Se queda mirando hacia el mar, pensativo.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+59000	64000	5000	Se pone unas gafas de sol. Va vestido con traje de chaqueta y corbata. Es James, el empresario.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+67000	71000	4000	Con una bolsa de playa al hombro, anda por un camino de tierra junto al mar mientras mira el móvil.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+92000	97000	5000	En la playa, James se ha quitado el traje y se deja caer bocarriba sobre una toalla amarilla.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+99000	105000	6000	Se frota levemente los ojos y estira los brazos hacia los lados para tocar la arena con los dedos.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+111000	114000	3000	Con un gesto de resignación, se incorpora.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+131000	132000	1000	Mira a los lados.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+141000	143000	2000	Mira hacia los lados con desconcierto. 	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+161000	169000	8000	Se levanta y se dirige al mar. Solo lleva puestos unos boxers negros.  Mientras camina hacia el agua, algo le hace detenerse y darse la vuelta.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+177000	185000	8000	Se queda quieto en mitad de la arena y dirige la mirada hacia lo lejos, en dirección opuesta al mar. Vuelve a andar hacia el agua y se detiene de nuevo buscando con la mirada.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+196000	203000	7000	Tras titubear unos instantes acercándose y alejándose del agua, sin dejar de buscar con la mirada, se dirige a la toalla.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+211000	215000	4000	Coge la camisa y empieza a vestirse con expresión de desconcierto.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+219000	224000	5000	En una calle arbolada, ya vestido con el mismo traje pero sin corbata, James camina.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+226000	231000	5000	En un cerro repleto de arbustos, James avanza hacia la cima por un estrecho sendero.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+233000	243000	10000	En un parque, un hombre de unos cincuenta años, con barba y pelo largo, toquetea un vaso de cartón. Lleva una camiseta verde de tirantes y una cadena en el cuello. Mira hacia arriba y sonríe.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+244000	246000	2000	Pensativo, mira el vaso.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+251000	258000	7000	Le quita la tapa, se lo acerca a la boca y mira el café. Mientras mira pensativo hacia el frente, bebe un trago. 	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+264000	266000	2000	Se trata de Rick, el jubilado.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+268000	273000	5000	La pierna derecha de Rick tiembla con nerviosismo mientras él apura los últimos tragos de café. 	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+278000	292000	14000	Tras beber el último sorbo, deja el vaso de cartón en el banco contiguo. Da unas palmadas y se frota las manos pensativo. Se saca el móvil del bolsillo trasero del pantalón y busca a alguien en su lista de contactos.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+330000	332000	2000	Mira a su alrededor con desconcierto.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+380000	382000	2000	Vuelve a mirar a su alrededor.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+398000	407000	9000	Se marcha dejando atrás el vaso de cartón vacío. Mientras se aleja, guardándose el teléfono en el bolsillo, va dando vueltas y mirando hacia todas partes.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+411000	420000	9000	En una habitación, una joven de unos 25 años, pelirroja y con el pelo rizado, mordisquea nerviosa un bolígrafo frente al ordenador. Es Jess, la estudiante.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+425000	428000	3000	Jess rebusca entre los objetos del escritorio hasta que encuentra el móvil.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+494000	501000	7000	Sin moverse de su asiento, Jess busca por toda la habitación el origen del sonido y, al no encontrarlo, vuelve la vista a sus apuntes.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+503000	505000	2000	Sobresaltada, vuelve a mirar a los lados. 	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+510000	525000	15000	Se levanta y sale a la calle. Vestida con un abrigo y una bufanda, camina a paso ligero buscando constantemente. Se adentra entre los matorrales del cerro al que James ha ascendido antes. Antes de seguir subiendo, se detiene un momento para mirar atrás.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+526000	540000	14000	Se pierde entre las plantas para seguir avanzando. En una explanada de tierra blanca, de pie, a un par de metros el uno del otro, se encuentran James y Rick, que siguen buscando con la mirada. Jess se acerca lentamente a ellos.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+555000	559000	4000	Los tres buscan con la mirada la procedencia de la voz.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+707000	710000	3000	Rick y Jessica se miran negando con la cabeza.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+736000	741000	5000	Rick se va detrás de James. Jessica mira al vacío, pensativa.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+745000	753000	8000	Echa a correr detrás de ellos. Cuando los alcanza, los tres se tocan amistosamente mientras se alejan hacia los árboles que hay al final de la explanada. 	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+756000	765000	9000	Una mujer negra, de unos 40 años, tiende la ropa agobiada mientras habla por teléfono. "No he terminado. Debo darme prisa".	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+767000	770000	3000	"¿Pero qué dices? ¡Claro que he hecho las maletas!" 	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+772000	773000	1000	el origen del sonido. "Oye, no puedo hablar ahora. Tengo que colgar".	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+778000	782000	4000	Mira hacia lo lejos con desconcierto. Es Zoé, la próxima.	WHW-ES-St/Mateo_Antonio_ES/Mateo_Antonio_ES.eaf
+2976	8345	5369	Es un día nublado. En la playa, una pareja pasea a un perro y un hombre hace footing.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+52480	57053	4573	Es un hombre de unos 40 años.  Tiene pelo y barba castaños y viste de traje.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+60382	63836	3454	Saca unas gafas de sol de un bolsillo y se las pone.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+65646	67320	1674	Es James, el empresario.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+93875	97718	3843	James, en bañador, extiende una toalla en la arena y se tumba.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+101219	102613	1394	Se frota los ojos.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+106150	109299	3149	Luego extiende los brazos y acaricia la arena.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+141974	144180	2206	James busca entre sus cosas.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+163156	166225	3069	Se levanta y y se acerca a la orilla del mar.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+170162	173877	3715	Luego camina por la playa en busca del origen del pitido.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+179953	182147	2194	Se queda quieto un instante.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+187204	191200	3996	Camina hacia el lado contrario mientras escruta los alrededores.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+198278	202082	3804	Vuelve a la toalla con los ojos entornados y el ceño fruncido.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+211112	213449	2337	Recoge su camisa y se la pone.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+220251	224078	3827	Poco después camina por la calle, otra vez vestido con el traje.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+227238	230579	3341	Asciende por una ladera de tierra sembrada de arbustos.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+236737	242866	6129	Sentado en una silla hay un hombre de unos 50 años.  Tiene el pelo gris y revuelto y una barba descuidada.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+248864	252107	3243	Tiene un vaso en las manos y quita la tapa de plástico.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+256968	259004	2036	Bebe un trago de café.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+265594	267439	1845	Es Rick, el jubilado.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+269097	273506	4409	Está en un parque. Deja la tapa en la silla de al lado y toma otro trago.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+278544	281626	3082	Mueve una pierna con un tic nervioso y deja el vaso.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+286040	290098	4058	Saca el móvil del bolsillo, elige un contacto de la lista y llama.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+330363	332432	2069	Frunce el ceño y levanta la cabeza.  	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+398024	404678	6654	Rick se aleja mientras intenta localizar la procedencia del pitido.  El vaso de café queda abandonado en la silla.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+418325	421895	3570	Jess, la estudiante, es una adolescente de rizos pelirrojos.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+494685	497410	2725	Jess pasea la mirada por la habitación.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+511539	514028	2489	Se pone el abrigo y sale a la calle.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+518278	522054	3776	Sube un camino cubierto de maleza y se pierde en la espesura.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+530311	534880	4569	Llega a una gran explanada de arena donde se encuentran James y Rick.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+537712	541306	3594	Los tres dan pasos vacilantes y dirigen la vista al cielo.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+556792	561005	4213	Todos examinan la explanada, pero no localizan la fuente de la voz.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+708576	710735	2159	Los tres niegan con la cabeza.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+745951	750166	4215	Jess corre tras ellos hasta alcanzarlos y se marchan juntos.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+762383	765631	3248	No, no he terminado de tenderla. Tengo que darme prisa.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+768120	772007	3887	No, ¿de qué me hablas? Sí, claro, las maletas están a punto.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+774661	777376	2715	Oye, ahora no puedo hablar. Tengo que dejarte.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+779764	781482	1718	Zoé. La próxima.	WHW-ES-St/Palacios_Raquel_ES/Palacios_Raquel_ES.eaf
+5045	11095	6050	De día, en un paseo al lado de la playa, una pareja camina con su perro y un hombre corre por la arena.  	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+13919	17854	3935	Sobre fondo blanco en letras negras y en inglés:	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+22998	30422	7424	Un hombre en un deportivo blanco se detiene junto a la acera del paseo. El hombre, de unos 40 años, pelo corto y barba baja del coche mientras habla por teléfono.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+53307	60834	7527	Tras guardar un maletín en el maletero y coger una bolsa de playa, el hombre, vestido de traje y corbata, se pone unas gafas de sol.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+62643	65041	2398	Escrito en pantalla en letras blancas:	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+65740	67428	1688	James, el empresario.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+68014	70160	2146	Camina por la arena y utiliza el móvil.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+94156	97894	3738	Ahora, en ropa interior, se tumba en la arena sobre una toalla.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+105170	109651	4481	Con los ojos cerrados y algo más relajado, James juguetea con la arena en las manos.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+113113	114201	1088	Se incorpora.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+130000	132025	2025	Mira a su alrededor.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+141742	144298	2556	Rebusca entre sus cosas desconcertado.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+165186	169095	3909	James se pone de pie y camina por la playa a paso lento.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+171293	175904	4611	Mira extrañado hacia todos lados mientras deambula por la arena.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+178144	179285	1141	Se detiene.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+185171	188333	3162	Mira hacia atrás y se acerca a la orilla.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+197017	199941	2924	Camina hacia la toalla mientras mira hacia arriba.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+209851	213224	3373	Se viste sin dejar de prestar atención a su alrededor.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+219448	223170	3722	Vestido de nuevo, James camina por la calle.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+228410	232171	3761	Ahora camina por una ladera llena de arbustos y matorrales.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+234283	239695	5412	En un parque, a la sombra de los árboles, un hombre de aspecto descuidado está sentado en un banco pensativo.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+242529	244065	1536	Sonríe.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+248881	254317	5436	El hombre, de unos 65 años, pelo largo y canoso y barba, abre la tapa del café que sostiene.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+258237	259334	1097	Le da un sorbo.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+264419	267713	3294	Escrito en pantalla en letras blancas: Rick, el jubilado.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+268820	271567	2747	Algo nervioso, Rick le da otro sorbo al café.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+274532	278226	3694	Contempla los árboles que le rodean.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+279415	284883	5468	Deja el café en el banco de al lado y saca el móvil del bolsillo trasero del pantalón.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+289704	293478	3774	Busca entre sus contactos y llama a Craig Anderson	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+330656	332878	2222	Frunce el ceño y mira a su alrededor.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+380311	382449	2138	Observa perplejo el entorno.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+398203	401452	3249	Se levanta y camina escudriñando el parque.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+411433	415594	4161	En una vivienda, una chica de unos 18 años estudia delante del ordenador.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+417069	420172	3103	Escrito en pantalla en letras blancas: Jess, la estudiante.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+420975	423752	2777	Jess, de pelo largo y rizado, rebusca por la mesa.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+495560	498325	2765	Con gesto serio, mira por la habitación.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+509418	510806	1388	Jess se levanta.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+512730	518427	5697	Fuera de la vivienda, Jess, con una chaqueta y un pañuelo alrededor del cuello, camina por el campo.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+518885	521614	2729	Mira a su alrededor constantemente.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+524719	527527	2808	Se detiene, mira hacia atrás y continúa.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+530915	536016	5101	La joven llega a una planicie iluminada por el sol donde también se encuentran James y Rick.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+538423	541060	2637	Se acerca a ellos en silencio.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+556430	558776	2346	Los tres examinan el entorno perplejos.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+707734	711532	3798	Rick y Jessica niegan con la cabeza.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+737245	739254	2009	Rick va tras James.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+740317	742065	1748	Jessica se queda pensativa.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+746140	748881	2741	Los tres abandonan la planicie.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+753745	759926	6181	En una azotea, una mujer negra de unos 35 años y media melena tiende la ropa mientras habla por teléfono.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+765275	768994	3719	(Audiosubtítulos): No he terminado de tenderla. 	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+771531	775675	4144	(Audiosubtítulos): No, ¿de qué me hablas? 	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+777048	779270	2222	(Audiosubtítulos): Oye, ahora no puedo hablar.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+779784	782992	3208	Escrito en pantalla en letras blancas: Zoé, la próxima.	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+784575	788551	3976	Sobre fondo blanco en letras negras y en inglés: Qué pasa mientras...	WHW-ES-St/Roldan_Marina_ES/Roldan_Marina_ES.eaf
+2826	5827	3001	En el paseo de la playa.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+15187	19144	3957	Sobre fondo blanco, en letras negras:	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+21796	28869	7073	En el paseo aparca un coche de alta gama conducido por un ejecutivo con traje que habla por el móvil.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+53173	59522	6349	El ejecutivo, de unos 40 años, cambia el maletín por una bolsa de playa.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+62097	67456	5359	En letras blancas: James, el empresario.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+67496	71496	4000	Llama por el móvil mientras camina por el paseo de la playa.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+94690	98182	3492	Se queda en calzoncillos y se tumba en la arena.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+106442	110353	3911	Relajado, juega con la arena entre sus dedos.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+163053	166651	3598	Se levanta y busca el ruido extraño.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+181651	185006	3355	Se mueve de un lado a otro desconcertado.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+207496	212380	4884	Se viste para seguir el rastro del ruido fuera de la playa.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+226692	229836	3144	Sube un pequeño monte.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+233297	246593	13296	En un parque, unas manos sostienen un café para llevar. Un hombre de unos 55 años, desdeñado, está sentado en un banco. Mira al horizonte y sonríe. Hace un gesto de resignación.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+254966	257647	2681	Bebe del café.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+264257	267383	3126	En letras blancas: Rick, el jubilado.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+277543	281465	3922	Mueve la pierna y da unas palmadas nervioso.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+293436	297218	3782	Coge el móvil y hace una llamada.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+398634	404140	5506	Mira extrañado y se levanta para buscar el ruido. Se aleja y se deja el café en el banco.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+411405	415300	3895	En una habitación está sentada una chica de unos 18 años.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+417444	423092	5648	En letras blancas, Jess, la estudiante. No encuentra el móvil entre el desorden.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+494558	498114	3556	Jess mira a todos lados buscando el ruido.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+511236	516799	5563	Sale de su casa en busca del ruido y sube un pequeño monte.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+529805	534459	4654	Allí están James y Rick mirando a todos lados.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+538573	541660	3087	Una voz desconocida les habla.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+708623	711596	2973	Se miran los unos a los otros.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+739557	742196	2639	Jess, extrañada, sonríe.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+746077	749120	3043	Se alejan juntos.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+755720	761993	6273	En la azotea de un edificio, una mujer de unos 35 años habla por el móvil mientras tiende la ropa.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+762153	765956	3803	No, no he terminado de tender. Tengo que darme prisa.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+767664	772310	4646	No, ¿de qué me hablas? Si, las maletas están hechas...	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+774593	777921	3328	Oye, ahora no puedo hablar. Tengo que colgar.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+778081	781591	3510	El letras blancas: Zoé, la próxima.	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf
+782813	787179	4366	Sobre fondo blanco, en letras negras: ¿qué pasa mientras...?	WHW-ES-St/Rubio_Jennifer_ES/Rubio_Jennifer_ES.eaf

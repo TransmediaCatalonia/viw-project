@@ -1,468 +1,468 @@
 
-4240	15389	11149	Dia gris i ennuvolat. davant el mar. des de la carretera, un passeig sense arbres i, al fons, la línia de l’horitzó. Una parella passeja amb un gos, i una altre persona corre.	AccessFriendly-CA.eaf
-20713	27403	6690	Apareix el títol en anglès: what happens while...  s’atura un cotxe esportiu, blanc. El conductor parla pel mòbil.	AccessFriendly-CA.eaf
-53034	62164	9130	Mentre parlava, l’home ha sortit del cotxe amb una cartera a la mà. l’ha ficat al maleter, i ha tret una bossa de ratlles.  Es guarda el mòbil a la butxaca i es posa les ulleres de sol.	AccessFriendly-CA.eaf
-65334	69268	3934	Sobreimprès, a la imatge congelada, es llegeix: James, l’empresari.	AccessFriendly-CA.eaf
-95693	108314	12621	En James s’estira, de panxa enlaire, damunt la tovallola, a la sorra. ara va amb el tors despullat. abans anava vestit amb americana i corbata.  Es posa les mans a la cara, i després toca la sorra amb els dits.	AccessFriendly-CA.eaf
-162188	174159	11971	S’aixeca. Porta banyador i va descalç. s’acosta a la vora de l’aigua. es gira i torna enrere, tot mirant al seu voltant. s’atura. fa unes passes titubejants, cap a una banda i l’altra.	AccessFriendly-CA.eaf
-176450	177010	560	S'atura.	AccessFriendly-CA.eaf
-179502	183391	3889	Fa unes passes titubejants, cap a una banda i l’altra.	AccessFriendly-CA.eaf
-185734	191130	5396	A la dreta de la pantalla, al fons, s’albira el perfil de la ciutat entre la broma.	AccessFriendly-CA.eaf
-192812	199540	6728	En james té uns 40 anys, potser a prop dels 50. és ben plantat, pèl roig i amb barba.	AccessFriendly-CA.eaf
-206597	214704	8107	Amb cara d’amoïnat, torna cap a la tovallola i es posa la camisa. intrigat, no para de mirar al seu voltant 	AccessFriendly-CA.eaf
-220209	224870	4661	En james camina per una zona d’arbres. porta el vestit però sense la corbata.	AccessFriendly-CA.eaf
-227597	230485	2888	Puja per un corriol costerut, entre matolls.	AccessFriendly-CA.eaf
-234708	244368	9660	Un got de pàstic, amb tapa, subjectat per unes mans.  Rostre pensarós d’un home, d’uns seixanta anys, amb cabell arrissat i barba canosa. 	AccessFriendly-CA.eaf
-248664	257714	9050	Voreja amb els dits la tapa del got i finalment l’obre. hi ha cafè aigualit. Indecís, acaba fent un glop.	AccessFriendly-CA.eaf
-265470	286687	21217	Sobreimprès, a la imatge congelada, es llegeix: Rick, el jubilat. En Rick està assegut en un banc del parc. amb el got a les mans i la mirada perduda, mou nerviosament una cama.  Vesteix samarreta de tirants, pantalons texans i calçat esportiu. porta una cadena platejada al voltant del coll i una polsera al canell. Té alguns tatuatges als braços.	AccessFriendly-CA.eaf
-287442	297699	10257	Deixa el got damunt el banc. es treu el mòbil de la butxaca del darrera.  l’activa i obre la llista de contactes. en selecciona un: craig anderson.	AccessFriendly-CA.eaf
-398967	410499	11532	S’aixeca i es guarda el mobil a la butxaca. El got ha quedat sol damunt el banc. En Rick s’allunya i comença a caminar, tot mirant cap amunt i al seu voltant, encuriosit.	AccessFriendly-CA.eaf
-412289	422125	9836	Noia jove davant l’ordinador. Es posa un llapis dins la boca i el mossega.  Sobreimprès, a la imatge congelada, es llegeix: jess, l’estudiant 	AccessFriendly-CA.eaf
-424403	430168	5765	La jess té una llarga melena arrissada, d’un castany vermellós. Porta les ungles pintades de blau.	AccessFriendly-CA.eaf
-496201	499340	3139	Mira cap amunt i darrera seu, temorosa.	AccessFriendly-CA.eaf
-509767	510556	789	S’aixeca.	AccessFriendly-CA.eaf
-512117	517866	5749	A l’exterior.  la Jess, abrigada amb parca i bufanda, camina per una zona de matolls. 	AccessFriendly-CA.eaf
-519312	522469	3157	Tot d’una s’atura i mira cap al seu darrera.	AccessFriendly-CA.eaf
-526327	528809	2482	Es tomba i segueix caminant a pas lleuger.	AccessFriendly-CA.eaf
-530708	536023	5315	En una clariana del bosc, sota un cel blau, coincideixen els tres personatges. 	AccessFriendly-CA.eaf
-537387	543061	5674	Desconcertats, mouen el cap, fan passes indecises i miren a totes bandes. 	AccessFriendly-CA.eaf
-737538	756867	19329	En James es tomba d’esquena i comença a caminar. en Rick el segueix. la Jess s’ho pensa. En el rostre dels tres personatges, s’hi ha dibuixat un somriure. La Jess, que s’havia quedat palplantada, es gira i comença a córrer cap a ells. junts, tots tres s’endinsen en el bosc.	AccessFriendly-CA.eaf
-758140	759431	1291	Pantalla negre.	AccessFriendly-CA.eaf
-778921	782709	3788	Sobreimprès, a la imatge congelada, es llegeix: Zoé, la següent	AccessFriendly-CA.eaf
-2950	12240	9290	A una platja, i sota un cel parcialment ennuvolat, es creuen per la sorra una parella que passeja un gos de mida gran i un home que fa fúting. El gos ensuma.	Aptent-CA.eaf
-13900	18660	4760	En sentir el xiulet corre amb els seus amos. Sobreimprès amb fons blanc:	Aptent-CA.eaf
-19190	20720	1530	Què passa mentre.	Aptent-CA.eaf
-21100	30200	9100	Al costat de la platja s'atura un cotxe blanc de gamma alta. Sortirà el conductor parlant amb el mòbil, desarà el seu maletí al maleter i agafarà una bossa de platja.	Aptent-CA.eaf
-52500	56230	3730	Penja i desa el mòbil. S'enduu la mà a la butxaca interior del vestit.	Aptent-CA.eaf
-59140	62810	3670	Es posa unes ulleres de sol d'aviador daurades i mira endavant.	Aptent-CA.eaf
-65430	70430	5000	Sobreimprès: James, l'empresari. Caminant per la platja s'enduu el mòbil a l'orella.	Aptent-CA.eaf
-92060	97450	5390	S'estén de panxa enlaire i en banyador sobre una tovallola. Deixa el mòbil amb les seves coses.	Aptent-CA.eaf
-99420	108650	9230	Roman uns segons amb els ulls tancats. S'emporta les mans a la cara i estén els braços sobre la sorra. Amb una mà n'agafa una mica i la deixa caure lentament.	Aptent-CA.eaf
-114700	116170	1470	S'incorpora i l'agafa.	Aptent-CA.eaf
-141540	143730	2190	Busca quelcom entre les seves coses.	Aptent-CA.eaf
-157500	159660	2160	Deixa el mòbil a un costat i s'aixeca.	Aptent-CA.eaf
-163140	168170	5030	S'allunya uns metres de la tovallola mirant a la llunyania, en direcció al passeig marítim.	Aptent-CA.eaf
-169400	176000	6600	S'atura i centra la seva atenció en un punt fix. Una gavina vola a uns metres d'ell movent les ales amb ímpetu.	Aptent-CA.eaf
-179820	183420	3600	Dirigeix la mirada d'una banda a l'altra de la platja com desorientat.	Aptent-CA.eaf
-187420	192260	4840	Fa mitja volta i sense deixar de mirar en totes direccions s'apropa a la vora del mar.	Aptent-CA.eaf
-197780	205620	7840	El seu rostre denota certa inquietud. Torna cap a la tovallola sense posar atenció als seus passos. Dos iots solquen el mar.	Aptent-CA.eaf
-208500	217760	9260	S'inclina lleugerament per agafar la camisa i torna a alçar la mirada mentre se la posa. Després s'ajup per recollir la resta de la roba i continua vestint-se.	Aptent-CA.eaf
-218800	225970	7170	Camina per un llarg passeig envoltat d'arbres d'abundant fullatge. Té el coll de la camisa descordat i ja no porta corbata.	Aptent-CA.eaf
-227220	231060	3840	Puja per una muntanya a través d'una estreta sendera pedregosa.	Aptent-CA.eaf
-233940	246270	12330	Un home de mitjana edat amb barba canosa i lleugerament descuidada està assegut a un banc individual envoltat de vegetació. Sosté un got de plàstic amb tapa i tamborina sobre ell amb l'índex de la mà esquerra.	Aptent-CA.eaf
-248700	255670	6970	Somriu i fa que no amb el cap. Continua tocant el got nerviós i finalment treu la tapa. Conté cafè sol.	Aptent-CA.eaf
-257700	260670	2970	Mira l'interior del got, beu un glop i l'assaboreix.	Aptent-CA.eaf
-265660	275890	10230	Sobreimprès: Rick, el jubilat. Deixa la tapa a un dels dos bancs individuals que té a cada costat i beu un altre glop de cafè sense deixar de moure la cama dreta nerviós.	Aptent-CA.eaf
-278000	280810	2810	Deixa el got al costat de la tapa i pica de mans.	Aptent-CA.eaf
-284940	293370	8430	Treu el mòbil de la butxaca posterior dels pantalons. Accedeix a la secció "contactes" i fa lliscar el dit per la pantalla fins a aturar-se a Craig Anderson.	Aptent-CA.eaf
-296980	298690	1710	Prem trucar amb gest d'enuig.	Aptent-CA.eaf
-325460	326860	1400	Gest d'impotència.	Aptent-CA.eaf
-329620	332290	2670	De sobte arrufa les celles i alça la mirada.	Aptent-CA.eaf
-336060	336770	710	Estranyat.	Aptent-CA.eaf
-351940	353900	1960	Mou la mà intentant explicar-se.	Aptent-CA.eaf
-380100	381870	1770	Torna a alçar la mirada estranyat.	Aptent-CA.eaf
-387020	388780	1760	Apunta un petit somriure.	Aptent-CA.eaf
-398180	405520	7340	El got de plàstic reposa sobre el banc amb la tapa posada. Ell s'allunya mirant inquiet en totes direccions i s'endinsa en una sendera.	Aptent-CA.eaf
-409680	417050	7370	Una jove pèl-roja amb rínxols està asseguda davant d'un ordinador portàtil envoltada d'apunts. Mossega el llapis amb fastig.	Aptent-CA.eaf
-418220	420270	2050	Sobreimprès: Jess, l'estudiant.	Aptent-CA.eaf
-423020	424100	1080	Busca el mòbil.	Aptent-CA.eaf
-425590	429710	4120	Finalment el troba entre els papers. Despenja i se l'emporta a l'orella.	Aptent-CA.eaf
-455620	456860	1240	Arqueja les celles.	Aptent-CA.eaf
-464060	465360	1300	Mou la mà alterada.	Aptent-CA.eaf
-494300	501490	7190	Mira a banda i banda, amb gest d'estranyesa i temor. Alleujada pel cessament del soroll, abaixa la mirada per seguir estudiant.	Aptent-CA.eaf
-506620	507980	1360	S'aixeca de la cadira.	Aptent-CA.eaf
-512780	519500	6720	Ha sortit al carrer amb un abric marró i un fulard negre amb estampat blanc. Puja un pendent ple de vegetació.	Aptent-CA.eaf
-522220	527460	5240	De sobte gira el cap com intentant esbrinar d'on ve el soroll i continua el seu camí.	Aptent-CA.eaf
-530700	541110	10410	Arriba a una esplanada i camina lentament cap al James i el Rick, que també hi són. Els tres fan voltes sobre si mateixos movent el cap desconcertats. Una veu els sorprèn.	Aptent-CA.eaf
-556540	560740	4200	El James mira a la llunyania protegint-se del sol intens amb la mà.	Aptent-CA.eaf
-576260	577700	1440	Fent un pas endavant.	Aptent-CA.eaf
-586460	587190	730	Busquen.	Aptent-CA.eaf
-595000	596280	1280	Gest anguniós.	Aptent-CA.eaf
-642180	643500	1320	Els mira fixament.	Aptent-CA.eaf
-652100	653700	1600	La Jess escolta atenta.	Aptent-CA.eaf
-681100	682040	940	Seriós.	Aptent-CA.eaf
-684700	686220	1520	El James reflexiu.	Aptent-CA.eaf
-700460	701770	1310	Gestos d'inquietud.	Aptent-CA.eaf
-707580	711940	4360	El James mira el Rick que sembla dubtar i la Jess fa que no amb el cap.	Aptent-CA.eaf
-715300	716670	1370	Es manté expectant.	Aptent-CA.eaf
-717940	720220	2280	De sobte el Rick obre els braços.	Aptent-CA.eaf
-721060	721790	730	Somriu.	Aptent-CA.eaf
-723400	724500	1100	Mirant al cel.	Aptent-CA.eaf
-725420	726890	1470	El James es fa enrere.	Aptent-CA.eaf
-736580	740860	4280	El James se'n va amb les mans a les butxaques. El Rick cuita a atrapar-lo.	Aptent-CA.eaf
-744940	753070	8130	La Jess corre cap a ells. Quan els atrapa, el James li passa una mà per l'esquena. Mentre parlen es van allunyant en direcció a la vegetació.	Aptent-CA.eaf
-755900	760640	4740	Una dona negra estén la roba amb el mòbil subjectat entre la galta i l'espatlla esquerra.	Aptent-CA.eaf
-762340	765580	3240	No, encara no l'he estès tota. M'he d'afanyar a acabar.	Aptent-CA.eaf
-767700	771820	4120	No, però de què em parles? Sí, esclar, ja he fet les maletes...	Aptent-CA.eaf
-772420	774460	2040	Mira estranyada al seu voltant.	Aptent-CA.eaf
-774700	777310	2610	Escolta, ara no puc parlar. T'he de deixar.	Aptent-CA.eaf
-777700	785680	7980	Espantada i amb la mirada perduda. Sobreimprès: Zoé, la pròxima. En negre i sobre fons blanc: què passa mentre...?	Aptent-CA.eaf
-5000	11000	6000	A l'alba, vista d'un passeig terrós vora el mar. Un home hi passa corrent i una parella hi passeja un gos.	Descriptik-CA.eaf
-14400	16830	2430	Sobre fons blanc, les lletres del títol.	Descriptik-CA.eaf
-22000	30120	8120	Un esportiu luxós s'atura davant del passeig. Un home elegant en baixa parlant pel mòbil i desa un maletí al maleter, d'on en treu una bossa de mà grossa.	Descriptik-CA.eaf
-53050	55780	2730	Llança una mirada al mar i es posa unes ulleres de sol.	Descriptik-CA.eaf
-60320	69240	8920	Esbufega i arronsa les espatlles amb expressió exhausta. Sobreimprès: "James, l'empresari". Camina pel passeig amb la bossa de mà penjada d'una espatlla.	Descriptik-CA.eaf
-93120	96230	3110	A la platja, s'estira en una tovallola sense la part de dalt.	Descriptik-CA.eaf
-101000	103770	2770	Es frega els ulls i estira una mà sobre la sorra.	Descriptik-CA.eaf
-107000	109120	2120	L'acarona i n'agafa un polsim.	Descriptik-CA.eaf
-130270	132050	1780	Mira a banda i banda buscant el soroll.	Descriptik-CA.eaf
-142050	143320	1270	Remena les seves coses.	Descriptik-CA.eaf
-159000	160290	1290	Tira el mòbil i s'alça.	Descriptik-CA.eaf
-164520	171480	6960	S'allunya unes passes buscant amb la mirada. Al fons, la silueta del Fòrum de Barcelona i les torres de la central tèrmica del Besós.	Descriptik-CA.eaf
-178050	180150	2100	S'atura, seriós, i fa mitja volta.	Descriptik-CA.eaf
-185310	190250	4940	S'atura un instant, però torna a passejar per la sorra buscant amb la mirada. Està tot sol.	Descriptik-CA.eaf
-196000	202150	6150	És un home de mitjana edat, porta els cabells curts i una barba espessa, i és de pell clara. Va en calçotets.	Descriptik-CA.eaf
-207470	211720	4250	Se'n torna vora les seves coses i es posa la camisa sense deixar de guaitar al seu voltant.	Descriptik-CA.eaf
-220000	222050	2050	Vestit, recorre un pont arbrat.	Descriptik-CA.eaf
-226080	228540	2460	S'enfila per un camí al pendent d'un descampat.	Descriptik-CA.eaf
-232080	240920	8840	Un home de cabells llargs i despentinats tamborina els dits contra l'envàs de plàstic d'una beguda. Té uns 60 anys i porta una barba canosa. Sacseja el cap, nostàlgic.	Descriptik-CA.eaf
-250000	254120	4120	Destapa l'envàs amb compte, es mira la beguda, cavil·lós, i en fa un glop.	Descriptik-CA.eaf
-265000	273730	8730	Sobreimprès: "Rick, el jubilat". Assegut en uns bancs sota una zona arbrada, en Rick es torna a mirar la beguda mentre belluga una cama, inquiet, i en fa un glop.	Descriptik-CA.eaf
-278050	286260	8210	Fa que no amb el cap i deixa el got al banc del costat, vora la tapa. Es recolza al banc, pica de mans sense deixar de camejar, i es treu el mòbil de la butxaca.	Descriptik-CA.eaf
-290370	292240	1870	Fa anar l'agenda i s'atura a la ce.	Descriptik-CA.eaf
-297080	299150	2070	Selecciona un contacte i hi truca.	Descriptik-CA.eaf
-329150	330780	1630	Mira incòmode al seu voltant.	Descriptik-CA.eaf
-380140	381300	1160	Busca amb la mirada.	Descriptik-CA.eaf
-398000	403550	5550	S'alça del banc i s'allunya per un caminet buscant al seu voltant. Es deixa el got de plàstic al banc del costat.	Descriptik-CA.eaf
-409000	412970	3970	Una noia pèl-roja feineja en un escriptori, davant d'un portàtil i d'un llibre.	Descriptik-CA.eaf
-418000	423150	5150	Sobreimprès: "Jess, l'estudiant". Busca el mòbil rere el portàtil i entre la paperassa.	Descriptik-CA.eaf
-497120	500120	3000	Mira desconcertada a les parets de l'habitació.	Descriptik-CA.eaf
-510350	512240	1890	Surt al carrer i segueix el soroll.	Descriptik-CA.eaf
-518000	521000	3000	Puja per un caminet entre canyes verdes i matolls.	Descriptik-CA.eaf
-525000	528150	3150	S'atura un moment per parar l'orella i continua cap a un flanc.	Descriptik-CA.eaf
-531150	540200	9050	En James, en Rick i la Jess es troben en un descampat terrós, enmig d'un paratge de turons coberts de vegetació. Miren enlaire i al seu voltant, desconcertats.	Descriptik-CA.eaf
-708410	710750	2340	Tots tres es miren: en Rick fa que no.	Descriptik-CA.eaf
-736610	741330	4720	En James comença a passar i en Rick el segueix. La Jessica mig somriu i assenteix.	Descriptik-CA.eaf
-746000	752060	6060	Els atrapa d'una corredissa i es posa entre tots dos. S'allunyen del descampat en direcció a una línia d'arbres.	Descriptik-CA.eaf
-758150	760360	2210	Fosa a negre. Al terrat d'un edifici.	Descriptik-CA.eaf
-762490	765260	2770	"No, encara no l'he estès tota. M'he d'afanyar a acabar."	Descriptik-CA.eaf
-768000	773050	5050	"No, però de què em parles? Sí, esclar, ja he fet les maletes..." La dona busca el soroll.	Descriptik-CA.eaf
-775100	777100	2000	"Escolta, ara no puc parlar. T'he de deixar."	Descriptik-CA.eaf
-779090	786240	7150	Sobreimprès: "Zoé, la següent." Fosa a negre. Sobre fons blanc, les lletres del títol, seguides d'una línia contínua.	Descriptik-CA.eaf
-0	14000	14000	Un matí de cel gris cendra amb núvols baixos plana sobre el mar i el passeig marítim. Una parella que passeja un gran danés per la sorra es creua amb un home que practica running. El gos s’atura a ensumar el terra i la parella el crida.	LB-CA.eaf
-15000	17000	2000	En lletres negres sobre fons blanc... Què passa mentre...	LB-CA.eaf
-22000	25000	3000	Un cotxe esportiu blanc, s’atura a la calçada del passeig.	LB-CA.eaf
-27000	30000	3000	El conductor parla per telèfon fent gestos enèrgics amb les mans.	LB-CA.eaf
-31000	32000	1000	Baixa del cotxe.	LB-CA.eaf
-38000	39000	1000	Deixa el seu maletí a terra.	LB-CA.eaf
-45000	46000	1000	Obre el maleter.	LB-CA.eaf
-52000	71000	19000	L’home penja el telèfon, contrariat. Amb la mirada perduda al mar es treu de la butxaca interior de l’americana unes ulleres de sol de muntura daurada i vidres amb forma d’ametlla... Se les col·loca... i sospira. En lletres blanques sobreimpreses: James, l’empresari. Duu una bossa de platja penjada a l’espatlla. Camina per la sorra.	LB-CA.eaf
-92000	104000	12000	James és un home ros de mitjana edat. Duu bigoti i una barba curta i ben cuidada. En vestit de bany, s’ajau de panxa enlaire en una tovallola, damunt la sorra. Sospira, tanca el ulls i se’ls frega amb les mans.	LB-CA.eaf
-105000	109000	4000	Estirat, obre els braços abandonant-se a la carícia d’un sol pàl·lid.	LB-CA.eaf
-110000	114000	4000	Amb el dits juga amb la sorra. La trucada el fa aixecar el cap i s’incorpora.	LB-CA.eaf
-129000	133000	4000	Un dringar metàl·lic el distreu i mira inquiet al seu voltant.	LB-CA.eaf
-141000	145000	4000	Mentre parla, mira a dreta i esquerra intentant localitzar d’on ve el soroll.	LB-CA.eaf
-158000	161000	3000	Deixa el telèfon i s’aixeca ple de curiositat.	LB-CA.eaf
-164000	169000	5000	En vestit de bany dóna tombs per la platja tot cercant l’origen d’aquell dring. Va cap a on trenquen les onades.	LB-CA.eaf
-170000	176000	6000	A l’altre cantó de la badia, la fosca silueta dels edificis alts de la ciutat es retalla en el cel enteranyinat.	LB-CA.eaf
-177000	184000	7000	James torna cap a la tovallola però s’atura. Resta dret i després es gira. Una gavina passa volant.	LB-CA.eaf
-186000	193000	7000	Les passes de l’home són vacil·lants. Mira el cel a dreta i esquerra, confús, mentre va cap a la vora de l’aigua.	LB-CA.eaf
-197000	200000	3000	S’allunya de l’aigua amb la mirada posada al cel.	LB-CA.eaf
-203000	207000	4000	Al mar, no massa lluny de la costa, dues barques es gronxen damunt les onades.	LB-CA.eaf
-208270	214000	5730	Decidit, arriba on hi ha la tovallola, agafa la camisa i se la posa sense deixar de mirar al cel.	LB-CA.eaf
-220000	230000	10000	Ja vestit, camina sota els arbres del passeig. L’americana oberta, la camisa amb el coll descordat, sense corbata. Desapareix enfilant-se per un coster cap al cim d’un turó.	LB-CA.eaf
-233000	255000	22000	Uns dits nerviosos colpegen un got de cartró amb tapa. Un home barba-serrat amb cabells llargs, arrissats i despentinats, sosté el got entre les mans. Duu una samarreta imperi que deixa al descobert el tatuatge de l’espatlla. Somriu, fa que no amb el cap i para atenció al got. Repassa la tapa amb l’índex, li dóna un copet amb el polze i la treu. El got és ple d’un líquid negre.	LB-CA.eaf
-257000	264000	7000	Una cadena de baules gruixudes a joc amb la del canell li voreja el coll. Mira el got pensatiu, fa un glop i sospira.	LB-CA.eaf
-265000	269000	4000	Sobreimpressionat amb lletres blanques: Rick, el jubilat.	LB-CA.eaf
-270000	273000	3000	En Rick és assegut en un banc d’una placeta pública.	LB-CA.eaf
-274000	277000	3000	Fa un altre glop sota l’ombra d’uns arbres de troncs recargolats.	LB-CA.eaf
-279000	288000	9000	Belluga la cama dreta de manera nerviosa. Tot d’una deixa el got al banc del costat i pica de mans. De la butxaca de darrera del pantaló treu el telèfon.	LB-CA.eaf
-290000	294000	4000	Amb el dit fa passar ràpid la llista de contactes. En selecciona un.	LB-CA.eaf
-295580	299000	3420	Toca la pantalla i es posa el telèfon a l’orella esperant resposta.	LB-CA.eaf
-329000	332000	3000	Estranyat, cerca amb la mirada d’on ve el soroll.	LB-CA.eaf
-336000	337000	1000	El busca mentre parla.	LB-CA.eaf
-380000	382000	2000	El soroll el torna a interrompre.	LB-CA.eaf
-383000	385000	2000	Explora el seu voltant amb la mirada.	LB-CA.eaf
-397000	409000	12000	En Rick s’aixeca somrient. Apressat, comença a caminar i s’allunya de la placeta, deixant el got abandonat i mig ple al damunt del banc. Camina tot mirant al seu voltant, com cercant alguna cosa.	LB-CA.eaf
-411000	417000	6000	Una noia jove de cabells rinxolats i llargs fins a les espatlles treballa davant de l’ordinador portàtil.	LB-CA.eaf
-417570	421470	3900	SObreimpressionat en lletres blanques: Jess l'estudiant.	LB-CA.eaf
-422000	429000	7000	Es treu el llapis de la boca i cerca el telèfon emmig del desordre de papers de la seva taula. Quan el troba, respon a la trucada.	LB-CA.eaf
-496000	499000	3000	Penja. Amb estranyesa, mira a un costat i a un altre.	LB-CA.eaf
-501000	503000	2000	Fa per tornar a la feina però...	LB-CA.eaf
-506000	507000	1000	Alça el cap.	LB-CA.eaf
-510000	514000	4000	La Jess s’aixeca de la cadira, deixa l’estudi i, abrigada, surt al carrer.	LB-CA.eaf
-517000	520000	3000	Puja per un pendent emmig de canyes, herbes altes i matolls.	LB-CA.eaf
-523510	526700	3190	S’atura un moment, mira al seu voltant i accelera el pas.	LB-CA.eaf
-528410	535000	6590	Arriba a una esplanada de terra nua, al peu de dos turons, vorejada de matolls secs i d’arbres sense fulles.	LB-CA.eaf
-536000	540000	4000	També hi ha en Rick i en James, que escodrinyen el seu entorn.	LB-CA.eaf
-555000	559000	4000	Tots tres miren en totes direccions sense veure-hi ningú.	LB-CA.eaf
-576000	577000	1000	Es sorprèn.	LB-CA.eaf
-595000	597000	2000	En Rick es posa la mà al cap...	LB-CA.eaf
-662000	664000	2000	Amb la mà, imita un metrònom.	LB-CA.eaf
-685000	687000	2000	En James i la Jess l’escolten, reflexius.	LB-CA.eaf
-707000	712000	5000	En James i en Rick s’intercanvien una mirada. En Rick i la Jess neguen amb el cap.	LB-CA.eaf
-715000	720000	5000	Tots tres són al mig de l’esplanada. En Rick obre els braços.	LB-CA.eaf
-724000	727000	3000	En James, sorprès, somriu i aixeca les espatlles.	LB-CA.eaf
-736000	744000	8000	En Rick segueix en James, que també somriu. La Jess resta pensativa, aixeca les celles, dibuixa un somriure...	LB-CA.eaf
-745000	752000	7000	...i els atrapa amb quatre gambades. Tots tres, parlant animadament, abandonen l’esplanada i fan cap a la platja.	LB-CA.eaf
-755000	758000	3000	La pantalla s’enfosqueix. Una dona jove negra, amb el cabells pentinats amb trenes a l’estil africà, estén la roba en un terrat.	LB-CA.eaf
-763000	766000	3000	No, encara no l’he estesa tota. M’he d’afanyar a acabar.	LB-CA.eaf
-768000	771000	3000	No, però de què em parles? Si, esclar, ja he fet les maletes...	LB-CA.eaf
-772000	774000	2000	La dona mira d’on ve el soroll.	LB-CA.eaf
-775000	778420	3420	Escolta, ara no puc parlar. T’he de deixar. La dona penja el telèfon.	LB-CA.eaf
-779200	782540	3340	Sobreimpressionat amb llebtres blanques: Zoé la següent.	LB-CA.eaf
-783480	788670	5190	Amb lletres negres sobre fons blanc es pot llegir: "What happens While?". Què passa mentres?	LB-CA.eaf
-3570	15410	11840	Un matí ennuvolat, prop del mar, per un passeig marítim urbà sense asfaltar, un noi i una noia passegen un gos i un home amb xandall corre. El gos s'atura un instant, ensuma en un petit clot i després segueix la parella.	MultiSignes-CA.eaf
-16130	18000	1870	En lletres negres, sobre fons blanc...	MultiSignes-CA.eaf
-22510	29590	7080	Un cotxe esportiu blanc s'atura davant del passeig marítim. El conductor parla pel mòbil, dóna un cop al volant i gesticula amb les mans.	MultiSignes-CA.eaf
-38000	39340	1340	L'home porta un maletí.	MultiSignes-CA.eaf
-43900	44940	1040	El desa al maleter.	MultiSignes-CA.eaf
-52800	65470	12670	L'home nega amb el cap, serra els llavis i mira cap al mar. Es treu unes ulleres de sol d'estil aviador de la butxaca interior de l'americana i se les posa. La imatge es congela i sobreimprès a la pantalla es llegeix: "James, l'empresari".	MultiSignes-CA.eaf
-67100	71730	4630	Amb la silueta de la ciutat de fons, en James camina amb el mòbil a la mà i una bossa de platja a l'espatlla.	MultiSignes-CA.eaf
-92000	98220	6220	0A la sorra de la platja, un vestit d'home rebregat al costat d'una tovallola groga. En James s'hi estira, tot deixant caure el cap.	MultiSignes-CA.eaf
-100450	108750	8300	Tanca els ulls, es frega la cara amb les mans i després posa els braços en creu. Amb la mà esquerra acarona la sorra, n'agafa un grapat i la deixa lliscar entre els dits.	MultiSignes-CA.eaf
-112000	113620	1620	Obre els ulls i s'incorpora.	MultiSignes-CA.eaf
-142000	143420	1420	Mira a banda i banda.	MultiSignes-CA.eaf
-158010	160150	2140	Deixa el mòbil damunt de la roba i s'aixeca.	MultiSignes-CA.eaf
-161400	168390	6990	En James camina cap a l'aigua en banyador. Té uns quaranta anys, els cabells foscos i curts, porta una barba ben arreglada i està en forma.	MultiSignes-CA.eaf
-170430	175080	4650	Quan és a prop de l'aigua, alça la vista com si seguís alguna cosa amb els ulls i torna cap a la sorra.	MultiSignes-CA.eaf
-178850	181850	3000	S'atura, mira cap al cel un instant i torna cap a l'aigua.	MultiSignes-CA.eaf
-187280	196000	8720	Es torna a aturar i mira cap al cel, a banda i banda, com si hi hagués alguna cosa volant a prop seu. Camina per la platja, amb la vista fixa al cel, com si busqués l'origen del so enigmàtic.	MultiSignes-CA.eaf
-199100	212780	13680	Camina per la sorra a poc a poc, mirant cap al cel enteranyinat i blanquinós amb el rostre tens i els ulls empetitits per la intensitat de la llum. S'ajup per agafar la camisa grisa de màniga llarga de terra i se la posa sense apartar la vista del cel en cap moment.	MultiSignes-CA.eaf
-220270	232800	12530	Per un carrer d'una ciutat amb plataners arrenglerats, en James camina amb l'americana descordada i el coll de la camisa obert, sense corbata. Arriba a un petit turó i comença a pujar per un corriol costerut i pedregós que s'obre pas entre arbustos i matolls secs.	MultiSignes-CA.eaf
-235000	243320	8320	En una cadira d'un parc hi seu un home d'uns seixanta anys, de cabells blancs i despentinats i barba espessa. Té un got de plàstic amb tapa a les mans i somriu amb amargor.	MultiSignes-CA.eaf
-247910	251880	3970	Amb el dit índex ressegueix el contorn de la tapa del got i després l'aixeca.	MultiSignes-CA.eaf
-254000	260410	6410	Es mira el cafè, s'apropa el got a la boca i l'ensuma. Després fa un glop i es llepa els llavis, mantenint la mirada fixa en un punt.	MultiSignes-CA.eaf
-265610	281040	15430	La imatge es congela i sobreimprès a la pantalla es llegeix: "Rick, el jubilat". Sota uns arbres hi ha tres cadires de fusta individuals i en Rick seu a la del mig. Du una samarreta sense mànigues, té un tatuatge al braç dret i mou nerviosament la cama. Fa un altre glop de cafè, deixa el got a una cadira buida i pica de mans.	MultiSignes-CA.eaf
-285350	291000	5650	Es treu un mòbil de pantalla tàctil de la butxaca del darrere dels texans i amb el dit índex va passant els contactes de l'agenda.	MultiSignes-CA.eaf
-294350	298440	4090	S'atura en un dels contactes, en Craig Anderson, i prem el botó verd de trucada.	MultiSignes-CA.eaf
-330420	332150	1730	En Rick alça la mirada cap al cel.	MultiSignes-CA.eaf
-380340	382340	2000	En Rick mira cap al cel sorprès.	MultiSignes-CA.eaf
-398480	409480	11000	El got de cafè és a una de les cadires. En Rick s'allunya caminant i es guarda el mòbil a la butxaca del darrere dels texans. Mentre camina pel parc, mira cap al cel com si seguís el rastre d'alguna cosa que hi hagués a l'aire.	MultiSignes-CA.eaf
-412000	414000	2000	En una habitació, una noia estudia.	MultiSignes-CA.eaf
-416160	421930	5770	Es fica un llapis a la boca i el mossega. La imatge es congela i sobreimprès es llegeix: "Jess, l'estudiant".	MultiSignes-CA.eaf
-425726	430314	4588	Busca el mòbil damunt un escriptori on hi ha un portàtil engegat i un munt de papers desendreçats.	MultiSignes-CA.eaf
-494380	504970	10590	La Jess penja i alça la mirada. Amb la mà dreta es col·loca els cabells llargs i rinxolats rere l'orella. Dóna un cop d'ull ràpid a banda i banda, abaixa la mirada cap a l'ordinador i torna a alçar els ulls.	MultiSignes-CA.eaf
-509930	511040	1110	S'aixeca de la cadira.	MultiSignes-CA.eaf
-512530	532550	20020	Ben abrigada, amb una jaqueta i un mocador, la Jess va per un camí que s'obre pas entre arbustos i canyes. Té uns divuit anys i és pèl-roja. S'atura un instant, mira enrere, com si busqués alguna cosa, i després continua caminant fins a una clariana envoltada de turons. Al bell mig de l'esplanada hi ha en James i en Rick. Tots dos miren cap al cel. La Jess s'hi apropa a poc a poc.	MultiSignes-CA.eaf
-555800	561480	5680	En Rick mira al cel. En James fa visera amb la mà, perquè el sol no l'enlluerni. La Jess mira al seu voltant.	MultiSignes-CA.eaf
-595000	597000	2000	En Rick es posa la mà al front.	MultiSignes-CA.eaf
-696540	697760	1220	En Rick assenteix.	MultiSignes-CA.eaf
-700190	702190	2000	James es fica les mans a les butxaques.	MultiSignes-CA.eaf
-707280	711730	4450	En James mira en Rick, que s'arronsa d'espatlles, mou el cap a banda i banda i mira la Jess.	MultiSignes-CA.eaf
-717920	720570	2650	Miren cap al cel. En Rick alça els braços.	MultiSignes-CA.eaf
-736800	741800	5000	En Rick segueix en James. La Jess es queda parada, arqueja les celles i arronsa els llavis .	MultiSignes-CA.eaf
-746590	752590	6000	La Jess corre i els empaita. En James l'abraça per les espatlles i tots tres marxen caminant i xerrant cap al bosc.	MultiSignes-CA.eaf
-756430	762730	6300	Dalt d'un terrat, una dona negra parla pel mòbil mentre estén la bugada. Diu: "Encara no l'he estès tota i m'he d'afanyar".	MultiSignes-CA.eaf
-766440	768070	1630	Diu: "Ja he fet les maletes".	MultiSignes-CA.eaf
-773000	774590	1590	Alça la mirada cap al cel.	MultiSignes-CA.eaf
-777780	783670	5890	Mira cap al cel sorpresa. La imatge es congela i sobreimprès es llegeix: "Zoé, la següent". La imatge talla a negre.	MultiSignes-CA.eaf
-785200	788250	3050	Sobre fons blanc, en lletres minúscules: "Què passa mentre..."	MultiSignes-CA.eaf
-3080	16050	12970	Un pla fix d'una platja a peu de carretera, amb el mar al fons. Darrere els núvols s'entreveu la llum tènue dels primers rajos de sol del matí. Un home i una dona, abrigats, passegen per la sorra amb un gos. Es creuen amb un home que fa fúting.	Plurals-CA.eaf
-20640	22550	1910	Lletres negres sobre fons blanc.	Plurals-CA.eaf
-23800	29890	6090	La mateixa platja. Un home condueix un cotxe blanc, de gamma alta. Parla pel mòbil mentre aparca.	Plurals-CA.eaf
-52060	59950	7890	Duu un maletí negre que guarda al portaequipatge, d'on treu una bossa de platja amb ratlles marineres. Contempla el mar, es posa unes ulleres de sol i sospira profundament.	Plurals-CA.eaf
-65300	66870	1570	James, l'empresari.	Plurals-CA.eaf
-67410	70180	2770	Camina per la platja amb la bossa penjada a l'espatlla.	Plurals-CA.eaf
-91800	100030	8230	És un home de mitjana edat, pèl-roig, alt i de constitució atlètica. Vesteix pantalons i americana negres, camisa grisa i corbata.	Plurals-CA.eaf
-101410	110750	9340	S'estira a la tovallola sobre la sorra, amb el tors nu, panxa enlaire. Es frega els ulls. Deixa caure els braços, relaxat, i pessiga la sorra, que se li esmuny entre els dits.	Plurals-CA.eaf
-141490	143860	2370	Mira a banda i banda, desconcertat.	Plurals-CA.eaf
-163440	174440	11000	Porta els cabells curts i la barba retallada. S'aixeca de la tovallola i camina uns quants metres amb gest confús. Ha deixat la roba apilonada sobre la sorra i va en calçotets. Escolta atentament i canvia de direcció.	Plurals-CA.eaf
-175550	178510	2960	S'atura i relaxa el gest, alleujat. Al seu voltant no hi ha ningú.	Plurals-CA.eaf
-191450	196940	5490	Perplex, mira cap a totes direccions, amb la barbeta elevada i els ulls entretancats, intrigat.	Plurals-CA.eaf
-207410	214460	7050	Observa i escolta amb atenció fins que, resolut i seriós, es vesteix, amb la mirada clavada en un punt llunyà, d'esquena al mar.	Plurals-CA.eaf
-219410	222300	2890	Camina per un carrer envoltat d'arbres, decidit.	Plurals-CA.eaf
-227390	232570	5180	Amb pas ferm, s'enfila per un camí de sorra estret, rodejat de plantes i matolls.	Plurals-CA.eaf
-236450	243580	7130	Uns dits inquiets repiquen un got de cartró. Un home d'uns seixanta anys, canós, despentinat i amb barba, mira al seu voltant, somriu i sacseja el cap.	Plurals-CA.eaf
-249350	256430	7080	Té un got de cafè entre les mans. N'acarona la tapa de plàstic, l'obre, en mira l'interior i en fa un glop, resignat.	Plurals-CA.eaf
-265510	267040	1530	Rick, el jubilat.	Plurals-CA.eaf
-267510	284440	16930	En un parc. En Rick, assegut en una cadira, es beu el cafè mentre mira al buit i fa tremolar la cama dreta, neguitós. Porta calçat esportiu, texans foscos i samarreta de tirants marró. Té un tatuatge al braç dret i duu una cadena i una polsera de plata, gruixudes. Deixa el got a un costat i es frega les mans.	Plurals-CA.eaf
-289330	297310	7980	Es treu el mòbil de la butxaca i obre la llista de contactes. En selecciona un: Craig Anderson. Li truca.	Plurals-CA.eaf
-329340	332040	2700	Arrufa les celles i mira enlaire, estranyat.	Plurals-CA.eaf
-398410	399880	1470	S'aixeca del banc i se'n va.	Plurals-CA.eaf
-411380	413390	2010	Una noia jove seu davant de l'ordinador.	Plurals-CA.eaf
-418470	419930	1460	Jess, l'estudiant.	Plurals-CA.eaf
-421990	429180	7190	Mossega un llapis, que deixa anar per buscar el mòbil. El troba sota una pila de papers que té sobre la taula, desendreçats.	Plurals-CA.eaf
-494380	499290	4910	Busca entre els papers, desconcertada. Amb gest confús, mira a dreta i esquerra.	Plurals-CA.eaf
-503410	504590	1180	Se sobresalta.	Plurals-CA.eaf
-511480	520370	8890	Al carrer, abrigada. Escolta atenta, amb actitud vigilant, i camina instintivament, com posseïda. Creua un terreny boscós, envoltat d'herbes altes.	Plurals-CA.eaf
-523430	526780	3350	S'atura, escolta, i arrenca a córrer convençuda.	Plurals-CA.eaf
-532460	539270	6810	Arriba a una esplanada de sorra extensa, envoltada de petits turons, on hi ha en James i en Rick que deambulen desorientats, mirant al cel.	Plurals-CA.eaf
-556270	559820	3550	Tots tres, drets enmig del pla, busquen arreu amb la mirada.	Plurals-CA.eaf
-594740	596710	1970	Es posa una mà al front, torbat.	Plurals-CA.eaf
-710000	712370	2370	Es miren. En Rick i la Jess fan que no.	Plurals-CA.eaf
-725429	727527	2098	En James somriu incrèdul.	Plurals-CA.eaf
-737280	739260	1980	L'home assenteix, somrient.	Plurals-CA.eaf
-753280	755210	1930	Marxen junts, abraçant-se.	Plurals-CA.eaf
-762420	765390	2970	No, encara no l'he estès tota. M'he d'afanyar a acabar.	Plurals-CA.eaf
-768420	772510	4090	No, però de què em parles? Sí, esclar, ja he fet les maletes...	Plurals-CA.eaf
-775390	780640	5250	Escolta, ara no puc parlar. T'he de deixar. Una dona estén la roba mentre parla per telèfon. Zoé, la següent.	Plurals-CA.eaf
-783360	786610	3250	Amb lletres negres sobre fons blanc, el títol: "El que passa mentre..."	Plurals-CA.eaf
-3340	16360	13020	En un pla estàtic, de cara al mar, mig carrer, la vorera, un passeig ampli de terra, una tanca i el mar, sota un cel de color perla, mig ennuvolat. Un home passa corrent de dreta a esquerra, i es creua amb una parella que passeja un gos, un gran danès.	SBT-Carme-CA.eaf
-24660	29230	4570	Un cotxe esportiu blanc s'atura arran de vorera. El conductor parla pel mòbil.	SBT-Carme-CA.eaf
-38110	39990	1880	Amb un maletí, va cap al maleter.	SBT-Carme-CA.eaf
-53810	62940	9130	Deixa el maletí al maleter i n'agafa una bossa. Dret darrere del vehicle, es desa el mòbil, es treu unes ulleres de sol de la butxaca interior de l'americana i se les posa.	SBT-Carme-CA.eaf
-66270	71450	5180	James, l'empresari.L'home camina pel descampat amb una bossa de ratlles penjada de l'espatlla.	SBT-Carme-CA.eaf
-92540	109180	16640	Sobre la sorra, una pila de roba rebregada i una tovallola estesa. En James s'hi estira panxa amunt a prendre el sol. L'home, de pell clara, té els cabells pèl-rojos, tallats curts, i porta barba ben arreglada. Es frega els ulls, estén els braços a banda i banda del cos i agafa granets de sorra amb els dits.	SBT-Carme-CA.eaf
-117520	118330	810	S'incorpora.	SBT-Carme-CA.eaf
-142490	144130	1640	Es gira a banda i banda, estranyat.	SBT-Carme-CA.eaf
-158850	163090	4240	Mira entre la roba, i al voltant, neguitós. S'aixeca i camina cap a l'aigua.	SBT-Carme-CA.eaf
-171040	175050	4010	Alça la mirada, com buscant alguna cosa, i s'allunya del trenc de les onades.	SBT-Carme-CA.eaf
-193160	199610	6450	Torna cap a l'aigua i es gira de cop, cercant l'origen del xiulet. Mira pertot, estranyat, i desisteix del bany.	SBT-Carme-CA.eaf
-203440	205580	2140	Torna cap a la tovallola, mirant enlaire.	SBT-Carme-CA.eaf
-210020	212810	2790	Agafa la camisa, de color gris clar, i se la posa.	SBT-Carme-CA.eaf
-221590	229100	7510	Ja vestit, amb americana i pantalons foscos, camina arran de carrer, per sota d'unes oliveres. S'enfila per un corriol entre matolls.	SBT-Carme-CA.eaf
-233430	245560	12130	Primer pla d'un got de cafè amb tapa. Un home d'uns 60 anys, de cabells grisos desendreçats, barba i celles poblades, samarreta de tirants caqui i una cadena gruixuda penjada del coll, el sosté entre les mans.	SBT-Carme-CA.eaf
-248170	253290	5120	Mira enlaire somrient, sacseja el cap i l'abaixa. Repassa amb el dit la tapa del got, i l'obre.	SBT-Carme-CA.eaf
-256530	260280	3750	El sacseja lleugerament, se'n mira el líquid uns instants i en fa un glop.	SBT-Carme-CA.eaf
-266400	267600	1200	Rick, el jubilat.	SBT-Carme-CA.eaf
-269610	275680	6070	Deixa la tapa en un banc individual, al costat d'on seu ell, i s'acaba el cafè mentre fa tremolar la cama dreta.	SBT-Carme-CA.eaf
-278880	284159	5279	Sacseja el cap fent que no, deixa el got al costat de la tapa i es deixa caure sobre el respatller.	SBT-Carme-CA.eaf
-288660	294170	5510	Es treu el mòbil de la butxaca de darrere dels texans, en plega la tapa enrere i busca un contacte.	SBT-Carme-CA.eaf
-298340	300230	1890	Craig Anderson. Li truca.	SBT-Carme-CA.eaf
-330270	332090	1820	Arrufa les celles i mira enlaire.	SBT-Carme-CA.eaf
-380880	383000	2120	Torna a mirar amunt, estranyat.	SBT-Carme-CA.eaf
-398430	409070	10640	Pla estàtic des del banc, amb el got de cafè en primer pla. En Rick s'aixeca, somrient, es desa el mòbil a la butxaca del darrere dels texans i camina fent voltes sobre si mateix mirant enlaire.	SBT-Carme-CA.eaf
-414120	420150	6030	Una noia adolescent, de cabellera arrissada  vermellosa i ulls clars. Jess, l'estudiant.	SBT-Carme-CA.eaf
-423530	428150	4620	Deixa el llapis que tenia entre les dents, i busca entre llibres i papers, al voltant del portàtil.	SBT-Carme-CA.eaf
-495450	498650	3200	Estranyada, busca entre els papers, i mira enlaire, a banda i banda.	SBT-Carme-CA.eaf
-510570	519730	9160	S'incorpora. Al carrer, amb jaqueta cordada i mocador de coll, va mirant pertot, encuriosida. S'endinsa per un canyissar, i s'atura per fer un cop d'ull tot al voltant.	SBT-Carme-CA.eaf
-525680	528350	2670	Corre amunt entre les herbes cap a un camp d'oliveres.	SBT-Carme-CA.eaf
-531040	537570	6530	En un gran descampat de terra, envoltat de vegetació, en James, en Rick i la Jess, que van mirant enlaire desconcertats.	SBT-Carme-CA.eaf
-556530	560170	3640	Tots tres, a pocs metres, cerquen pertot, encara més sorpresos.	SBT-Carme-CA.eaf
-595330	597130	1800	Es posa la mà al front, desesperat.	SBT-Carme-CA.eaf
-708530	711200	2670	En Rick s'arronsa d'espatlles i se'ls mira tots dos.	SBT-Carme-CA.eaf
-739440	741500	2060	La Jess rumia, sorpresa, i somriu.	SBT-Carme-CA.eaf
-749250	753230	3980	Corre fins a trobar-los, i camina entre els dos homes en direcció a la vegetació.	SBT-Carme-CA.eaf
-757800	762150	4350	Fosa a negre. Una dona amb els cabells trenats i curts estén roba.	SBT-Carme-CA.eaf
-765540	768130	2590	"No, encara no l'he estès tota. M'he d'afanyar a acabar."	SBT-Carme-CA.eaf
-771350	775030	3680	"No, però de què em parles? Sí, esclar, ja he fet les maletes..."	SBT-Carme-CA.eaf
-777130	779120	1990	"Escolta, ara no puc parlar. T'he de deixar."	SBT-Carme-CA.eaf
-780210	783060	2850	Zoé, la següent.  Fosa a negre.	SBT-Carme-CA.eaf
-783120	787450	4330	"QUÈ PASSA MENTRE..." Sobre fons blanc, els crèdits.	SBT-Carme-CA.eaf
-3390	10220	6830	Un noi i una noia passegen amb un gos per un descampat a la vora de la platja. Es creuen amb un noi que corre.	SDI-Media-CA.eaf
-24700	30000	5300	Un cotxe blanc s’atura a la calçada, al costat del descampat. En baixa un home que parla per telèfon.	SDI-Media-CA.eaf
-53790	57880	4090	L’home ha ficat un maletí al maleter i n’ha tret una bossa informal	SDI-Media-CA.eaf
-59350	61250	1900	Es posa les ulleres de sol. 	SDI-Media-CA.eaf
-65250	70500	5250	Un rètol ens indica que és en James, l’empresari. En James va cap a la platja caminant i parlant per telèfon.	SDI-Media-CA.eaf
-94580	96960	2380	En James s’ajeu a la tovallola	SDI-Media-CA.eaf
-102300	105190	2890	Es frega els ulls, cansat.	SDI-Media-CA.eaf
-160160	169350	9190	En James fa cara d’ amoïnat. S’aixeca i va en banyador cap a l’aigua. Al fons hi ha la silueta d’una ciutat industrial.	SDI-Media-CA.eaf
-171350	174510	3160	Sense mullar-se, torna cap a la sorra seca.	SDI-Media-CA.eaf
-189960	196000	6040	Mira a totes bandes, busca d’on ve el soroll que se sent. Continua caminant per la platja.	SDI-Media-CA.eaf
-211170	212680	1510	En James es posa la camisa.	SDI-Media-CA.eaf
-221220	225170	3950	En James camina, vestit amb pantalons i americana, per un carrer amb arbres.	SDI-Media-CA.eaf
-229246	232049	2803	Ara puja per un camí que hi ha entremig d’uns matolls.	SDI-Media-CA.eaf
-237000	241990	4990	Un home amb barba de quatre dies i cabells embullats té un got de plàstic a les mans.	SDI-Media-CA.eaf
-250000	256670	6670	Fa gestos d’impaciència amb les mans. Obre la tapa del got i en beu el contingut, te o cafè.	SDI-Media-CA.eaf
-264480	266940	2460	Un rètol ens indica que és en Rick, el jubilat.	SDI-Media-CA.eaf
-270410	275460	5050	En Rick continua assegut en un banc, a sota d’uns arbres. Fa més gestos d’impaciència.	SDI-Media-CA.eaf
-288270	291500	3230	Agafa el mòbil i busca per l’agenda de contactes.	SDI-Media-CA.eaf
-293320	296020	2700	Truca a un tal Craig Anderson.	SDI-Media-CA.eaf
-400430	407480	7050	En Rick s’aixeca del banc i se’n va mirant per tot arreu buscant alguna cosa. Deixa el got al banc.	SDI-Media-CA.eaf
-413610	420840	7230	Veiem una noia amb els cabells arrissats i un llapis a la boca. Un rètol ens indica que és la Jess, l’estudiant.	SDI-Media-CA.eaf
-427310	429230	1920	Busca el mòbil per l’escriptori.	SDI-Media-CA.eaf
-509540	510130	590	S’aixeca.	SDI-Media-CA.eaf
-512440	513490	1050	Ara és a l’exterior.	SDI-Media-CA.eaf
-518000	519730	1730	Puja pel mateix camí que en James.	SDI-Media-CA.eaf
-532470	537140	4670	Veiem una esplanada a l’aire lliure. Hi ha en James, en Rick i la Jess.	SDI-Media-CA.eaf
-541160	542190	1030	Se sent una veu.	SDI-Media-CA.eaf
-558300	560500	2200	Els tres busquen d’on veu la veu.	SDI-Media-CA.eaf
-709240	711670	2430	En Rick i la Jessica fan que no amb el cap.	SDI-Media-CA.eaf
-738840	742150	3310	En Rick i en James se’n van. La Jess pensa i somriu.	SDI-Media-CA.eaf
-754770	756760	1990	Se’n van tots tres de l’esplanada	SDI-Media-CA.eaf
-759050	763710	4660	Fosa en negre. Una noia parla per telèfon de la bugada i unes maletes.	SDI-Media-CA.eaf
-779810	782530	2720	Un rètol ens indica que és la Zoé, la següent.	SDI-Media-CA.eaf
-2900	14830	11930	De dia, en una platja, un home corre. En sentit contrari, una parella, ben abrigada, passeja un gos gran. El gos s'atura per olorar alguna cosa sota la sorra. Ara, segueix els seus amos.	Sonidos-CA.eaf
-20950	28800	7850	Un cotxe d'alta gama arriba a la platja. Dins hi ha un home d'uns 40 anys, ros, alt i amb barba, que parla per telèfon.	Sonidos-CA.eaf
-52660	58790	6130	L'home penja i mira cap al mar. Treu unes ulleres de sol de la butxaca interior de la jaqueta i se les posa.	Sonidos-CA.eaf
-65069	70220	5151	Sobreescrit en pantalla: James, l'empresari. A la platja, el James truca per telèfon.	Sonidos-CA.eaf
-92110	96080	3970	Sobre la sorra, el James, en roba interior, es gita a la tovallola.	Sonidos-CA.eaf
-99060	106930	7870	El James, interpretat per James Humber, es passa les mans pels ulls. Ara, deixa caure els braços als costats i toca la sorra amb les mans.	Sonidos-CA.eaf
-111180	112229	1049	El James s'aixeca.	Sonidos-CA.eaf
-141670	143410	1740	El James mira al seu voltant.	Sonidos-CA.eaf
-158040	160050	2010	El James penja i s'aixeca del tot.	Sonidos-CA.eaf
-163110	165020	1910	S'acosta a la vora del mar i camina.	Sonidos-CA.eaf
-169090	172890	3800	Ara se n'allunya. Mira lleugerament cap a dalt, estranyat.	Sonidos-CA.eaf
-177030	178170	1140	El James s'atura.	Sonidos-CA.eaf
-179970	180650	680	Es gira.	Sonidos-CA.eaf
-184040	186150	2110	S'atura i es torna a girar, confús.	Sonidos-CA.eaf
-190050	192350	2300	Mira al seu voltant, estranyat, i s'acosta al mar.	Sonidos-CA.eaf
-196250	198360	2110	Ara, es torna a allunyar de la vora del mar.	Sonidos-CA.eaf
-201250	204290	3040	Mira lleugerament cap a dalt, arrufant les celles.	Sonidos-CA.eaf
-207960	211730	3770	S'apropa a la seva tovallola i s'ajup per agafar la camisa. Se la posa.	Sonidos-CA.eaf
-219080	222430	3350	En un parc, el James, ja vestit, camina entre els arbres.	Sonidos-CA.eaf
-226240	230430	4190	Arriba a un turó i puja per un camí petit de terra, envoltat de vegetació baixa.	Sonidos-CA.eaf
-235079	242330	7251	Al parc, un home d'uns 65 anys, de cabells i barba canosos i desendreçats, sosté un got de cafè. Somriu, resignat.	Sonidos-CA.eaf
-249010	251970	2960	Diu que no amb el cap i treu el tap de plàstic del got de cafè.	Sonidos-CA.eaf
-255210	257930	2720	Es mira el cafè una estona i, finalment, beu.	Sonidos-CA.eaf
-265160	274080	8920	Sobreescrit en pantalla: Rick, el jubilat. El Rick, interpretat per Rick Zingale, deixa el tap de plàstic al banc del costat i continua bevent.	Sonidos-CA.eaf
-278130	280230	2100	El Rick deixa el got i fa palmes.	Sonidos-CA.eaf
-285210	289340	4130	Treu el mòbil de la butxaca de darrere dels pantalons. Busca als contactes.	Sonidos-CA.eaf
-295100	298130	3030	S'atura a la "C" i truca el Creig Anderson.	Sonidos-CA.eaf
-329520	331740	2220	El Rick s'estranya i mira cap a dalt.	Sonidos-CA.eaf
-380360	381510	1150	Arrufa les celles.	Sonidos-CA.eaf
-397740	401380	3640	El Rick guarda el telèfon i camina pel parc sense deixar de mirar cap a dalt.	Sonidos-CA.eaf
-405070	413460	8390	El got continua al banc. El Rick marxa. Asseguda a un escriptori, una noia d'uns 18 anys i cabells arrissats treballa amb l'ordinador.	Sonidos-CA.eaf
-418060	420800	2740	Sobreescrit en pantalla: Jess, l'estudiant.	Sonidos-CA.eaf
-422120	423570	1450	La Jess busca el mòbil.	Sonidos-CA.eaf
-426190	427720	1530	Busca sota uns papers.	Sonidos-CA.eaf
-429140	430140	1000	Agafa el mòbil.	Sonidos-CA.eaf
-494370	500440	6070	La Jess penja i mira cap a dalt, estranyada. Es toca els cabells i mira cap a l'altre costat. Ara, abaixa la mirada.	Sonidos-CA.eaf
-503160	504210	1050	La Jess s'esglaia.	Sonidos-CA.eaf
-506090	506820	730	S'aixeca.	Sonidos-CA.eaf
-509110	515810	6700	Agafa l'abric i marxa. A l'exterior, la Jess, interpretada per Jessica Álvarez, mira a totes bandes.	Sonidos-CA.eaf
-517190	519250	2060	Ara puja per un camí ple de vegetació.	Sonidos-CA.eaf
-522130	522770	640	S'atura.	Sonidos-CA.eaf
-525100	527760	2660	La Jess es gira de cop i marxa entre la vegetació.	Sonidos-CA.eaf
-531060	534970	3910	En una gran esplanada, el James, el Rick i la Jess miren al seu voltant.	Sonidos-CA.eaf
-538160	539880	1720	La Jess s'acosta al Rick i al James.	Sonidos-CA.eaf
-555190	558260	3070	Els tres miren cap a dalt i al seu voltant, confusos.	Sonidos-CA.eaf
-594180	595620	1440	S'arronsa d'espatlles.	Sonidos-CA.eaf
-642150	643210	1060	El Rick se'ls mira.	Sonidos-CA.eaf
-652010	653170	1160	Els mira fixament.	Sonidos-CA.eaf
-684910	686530	1620	El James aixeca la mirada.	Sonidos-CA.eaf
-700610	701730	1120	Els tres es miren.	Sonidos-CA.eaf
-707540	711210	3670	El James mira el Rick, ell mira la Jess i fa que no amb el cap.	Sonidos-CA.eaf
-718150	719560	1410	Miren al seu voltant.	Sonidos-CA.eaf
-723410	724490	1080	El Rick mira al cel.	Sonidos-CA.eaf
-736600	741700	5100	El James fa un gest amb el cap. El Rick el segueix. La Jess aixeca les celles.	Sonidos-CA.eaf
-745020	748670	3650	La Jess corre cap a ells. El James li passa el braç per l'espatlla.	Sonidos-CA.eaf
-751100	753180	2080	Tots tres caminen cap a la vegetació.	Sonidos-CA.eaf
-756010	760240	4230	De nit, en una terrassa, una dona estén la roba mentre parla per telèfon.	Sonidos-CA.eaf
-762240	777780	15540	Sobreescrit en pantalla: "No, encara no l'he estès tota. M'he d'afanyar a acabar. No, però de què em parles? Sí, esclar, ja he fet les maletes..." Mira el seu voltant, estranyada. Sobreescrit en pantalla: "Escolta, ara no puc parlar. T'he de deixar".	Sonidos-CA.eaf
-780030	787190	7160	Sobreescrit en pantalla: Zoé, la següent. Sobre fons blanc, el títol seguit d'una ratlla: Què passa mentre...	Sonidos-CA.eaf
-3320	12640	9320	Sota un cel enteranyinat, un home fa fúting per un passeig de terra vora el mar. Es creua amb una parella que passeja un gran danès. El gos es ressaga ensumant i els segueix.	Subtil-CA.eaf
-16000	20690	4690	Sobre fons blanc, les lletres: Què passa mente	Subtil-CA.eaf
-21210	29390	8180	Un cotxe de luxe s'atura arran de passeig. El conductor, que discuteix per telèfon, en baixa amb un maletí, el guarda al maleter i en treu una bossa.	Subtil-CA.eaf
-54000	64000	10000	Es posa unes ulleres de sol d'aviador i sospira amb expressió cansada. Té uns cinquanta anys i porta vestit i corbata. Sobreimprès en un extrem: "James, l'empresari".	Subtil-CA.eaf
-66180	70360	4180	Amb la bossa a l'espatlla, camina pel passeig entre gent que passeja i fa exercici.	Subtil-CA.eaf
-94110	97630	3520	En calçotets, s'estira panxa enlaire a la platja sobre una tovallola.	Subtil-CA.eaf
-103170	106390	3220	Es frega els ulls, estén els braços i joguineja amb la sorra.	Subtil-CA.eaf
-112140	113590	1450	Agafa el mòbil i s'asseu.	Subtil-CA.eaf
-142040	143790	1750	Mira estranyat a banda i banda.	Subtil-CA.eaf
-159060	161150	2090	Deixa el mòbil sobre la roba i s'alça.  	Subtil-CA.eaf
-166220	168510	2290	Avança fins a la riba i busca amb la mirada.	Subtil-CA.eaf
-173260	176360	3100	Torna a endinsar-se a la sorra i passeja la vista, descol·locat.	Subtil-CA.eaf
-185120	188250	3130	Va per recular, però s'atura i guaita enrere i pertot.	Subtil-CA.eaf
-197000	199620	2620	Torna fins a la riba i camina mirant enlaire.	Subtil-CA.eaf
-208460	210840	2380	Agafa la camisa i se la posa, desconcertat.	Subtil-CA.eaf
-217340	221870	4530	Vestit, però amb el coll de la camisa obert i sense corbata, camina sota uns arbres.	Subtil-CA.eaf
-226000	229610	3610	Enfila un caminet de terra que fa pujada entre cactus i matolls.	Subtil-CA.eaf
-233000	242120	9120	Un home de mitjana edat d'aspecte deixat tamborina els dits en un got de cartró. Passeja la mirada i els ulls se li entelen. Mig somriu i fa que no.	Subtil-CA.eaf
-249310	251730	2420	Acaricia la tapadora del got i l'enretira.	Subtil-CA.eaf
-258140	263810	5670	S'acosta el recipient i fa un glop de cafè. Sobreimprès en un extrem: "Rick, el jubilat".	Subtil-CA.eaf
-267220	275220	8000	Porta vambes, pantalons d'esport i samarreta imperi. Assegut en un banc sota uns arbres, belluga una cama, inquiet, i fa un altre glop de cafè.	Subtil-CA.eaf
-279290	286010	6720	Mira enlaire, sacseja el cap i deixa el got al banc del costat. Pica de mans, se les frega i agafa el mòbil.	Subtil-CA.eaf
-290030	291200	1170	Navega per l'agenda.	Subtil-CA.eaf
-295340	298180	2840	Selecciona el nom "Craig Anderson" i clica trucar.	Subtil-CA.eaf
-329350	331180	1830	Escodrinya els voltants, descol·locat.	Subtil-CA.eaf
-380390	381770	1380	Mira estranyat enlaire.	Subtil-CA.eaf
-399220	402750	3530	Deixa el got al banc i s'allunya sense deixar de mirar enrere i enlaire.	Subtil-CA.eaf
-407000	411290	4290	Una noia pèl-roja estudia. Mossega un llapis i fa que no amb el cap.	Subtil-CA.eaf
-418000	420880	2880	Sobreimprès en un extrem: "Jess, l'estudiant".	Subtil-CA.eaf
-426000	428630	2630	Busca entre un portàtil i tot de paperassa.	Subtil-CA.eaf
-497140	499490	2350	Recorre amb la mirada el sostre de l'habitació.	Subtil-CA.eaf
-510310	512960	2650	Camina pel carrer mirant confosa a banda i banda.	Subtil-CA.eaf
-517290	523540	6250	Avança entre herbes per un terreny que fa pujada. S'atura per guaitar enrere i continua endavant a corre-cuita.	Subtil-CA.eaf
-528390	530840	2450	Arriba a una clariana on hi ha en James i en Rick.	Subtil-CA.eaf
-535170	538800	3630	Tots tres miren enlaire estranyats, sota una claror enlluernadora.	Subtil-CA.eaf
-556470	558440	1970	Ells busquen amb la mirada, atònits.	Subtil-CA.eaf
-707500	710960	3460	En Rick arronsa les espatlles i fa que no. La Jess l'imita.	Subtil-CA.eaf
-737110	740420	3310	En Rick segueix en James i la Jess arqueja les celles pensativa.	Subtil-CA.eaf
-746000	750720	4720	Els atrapa d'una corredissa i s'encaminen plegats cap als arbres d'un extrem de la clariana.	Subtil-CA.eaf
-755000	760030	5030	Fosa a negre. Una dona afroamericana parla pel mòbil mentre estén roba en un terrat.	Subtil-CA.eaf
-762440	765120	2680	"No, encara no l'he estès tota. M'he d'afanyar a acabar."	Subtil-CA.eaf
-768000	771270	3270	"No, però de què em parles? Sí, esclar, ja he fet les maletes..."	Subtil-CA.eaf
-775000	783150	8150	"Escolta, ara no puc parlar. T'he de deixar." Passeja la vista, estranyada. Sobreimprès: "Zoé, la següent". Fosa a negre.	Subtil-CA.eaf
-787000	791000	4000	Sobre fons blanc, les lletres "què passa mentre..." i els crèdits.	Subtil-CA.eaf
+4240	15389	11149	Dia gris i ennuvolat. davant el mar. des de la carretera, un passeig sense arbres i, al fons, la línia de l’horitzó. Una parella passeja amb un gos, i una altre persona corre.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+20713	27403	6690	Apareix el títol en anglès: what happens while...  s’atura un cotxe esportiu, blanc. El conductor parla pel mòbil.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+53034	62164	9130	Mentre parlava, l’home ha sortit del cotxe amb una cartera a la mà. l’ha ficat al maleter, i ha tret una bossa de ratlles.  Es guarda el mòbil a la butxaca i es posa les ulleres de sol.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+65334	69268	3934	Sobreimprès, a la imatge congelada, es llegeix: James, l’empresari.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+95693	108314	12621	En James s’estira, de panxa enlaire, damunt la tovallola, a la sorra. ara va amb el tors despullat. abans anava vestit amb americana i corbata.  Es posa les mans a la cara, i després toca la sorra amb els dits.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+162188	174159	11971	S’aixeca. Porta banyador i va descalç. s’acosta a la vora de l’aigua. es gira i torna enrere, tot mirant al seu voltant. s’atura. fa unes passes titubejants, cap a una banda i l’altra.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+176450	177010	560	S'atura.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+179502	183391	3889	Fa unes passes titubejants, cap a una banda i l’altra.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+185734	191130	5396	A la dreta de la pantalla, al fons, s’albira el perfil de la ciutat entre la broma.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+192812	199540	6728	En james té uns 40 anys, potser a prop dels 50. és ben plantat, pèl roig i amb barba.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+206597	214704	8107	Amb cara d’amoïnat, torna cap a la tovallola i es posa la camisa. intrigat, no para de mirar al seu voltant 	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+220209	224870	4661	En james camina per una zona d’arbres. porta el vestit però sense la corbata.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+227597	230485	2888	Puja per un corriol costerut, entre matolls.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+234708	244368	9660	Un got de pàstic, amb tapa, subjectat per unes mans.  Rostre pensarós d’un home, d’uns seixanta anys, amb cabell arrissat i barba canosa. 	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+248664	257714	9050	Voreja amb els dits la tapa del got i finalment l’obre. hi ha cafè aigualit. Indecís, acaba fent un glop.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+265470	286687	21217	Sobreimprès, a la imatge congelada, es llegeix: Rick, el jubilat. En Rick està assegut en un banc del parc. amb el got a les mans i la mirada perduda, mou nerviosament una cama.  Vesteix samarreta de tirants, pantalons texans i calçat esportiu. porta una cadena platejada al voltant del coll i una polsera al canell. Té alguns tatuatges als braços.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+287442	297699	10257	Deixa el got damunt el banc. es treu el mòbil de la butxaca del darrera.  l’activa i obre la llista de contactes. en selecciona un: craig anderson.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+398967	410499	11532	S’aixeca i es guarda el mobil a la butxaca. El got ha quedat sol damunt el banc. En Rick s’allunya i comença a caminar, tot mirant cap amunt i al seu voltant, encuriosit.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+412289	422125	9836	Noia jove davant l’ordinador. Es posa un llapis dins la boca i el mossega.  Sobreimprès, a la imatge congelada, es llegeix: jess, l’estudiant 	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+424403	430168	5765	La jess té una llarga melena arrissada, d’un castany vermellós. Porta les ungles pintades de blau.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+496201	499340	3139	Mira cap amunt i darrera seu, temorosa.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+509767	510556	789	S’aixeca.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+512117	517866	5749	A l’exterior.  la Jess, abrigada amb parca i bufanda, camina per una zona de matolls. 	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+519312	522469	3157	Tot d’una s’atura i mira cap al seu darrera.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+526327	528809	2482	Es tomba i segueix caminant a pas lleuger.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+530708	536023	5315	En una clariana del bosc, sota un cel blau, coincideixen els tres personatges. 	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+537387	543061	5674	Desconcertats, mouen el cap, fan passes indecises i miren a totes bandes. 	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+737538	756867	19329	En James es tomba d’esquena i comença a caminar. en Rick el segueix. la Jess s’ho pensa. En el rostre dels tres personatges, s’hi ha dibuixat un somriure. La Jess, que s’havia quedat palplantada, es gira i comença a córrer cap a ells. junts, tots tres s’endinsen en el bosc.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+758140	759431	1291	Pantalla negre.	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+778921	782709	3788	Sobreimprès, a la imatge congelada, es llegeix: Zoé, la següent	WHW-CA-Pr/AccessFriendly-CA/AccessFriendly-CA.eaf
+2950	12240	9290	A una platja, i sota un cel parcialment ennuvolat, es creuen per la sorra una parella que passeja un gos de mida gran i un home que fa fúting. El gos ensuma.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+13900	18660	4760	En sentir el xiulet corre amb els seus amos. Sobreimprès amb fons blanc:	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+19190	20720	1530	Què passa mentre.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+21100	30200	9100	Al costat de la platja s'atura un cotxe blanc de gamma alta. Sortirà el conductor parlant amb el mòbil, desarà el seu maletí al maleter i agafarà una bossa de platja.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+52500	56230	3730	Penja i desa el mòbil. S'enduu la mà a la butxaca interior del vestit.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+59140	62810	3670	Es posa unes ulleres de sol d'aviador daurades i mira endavant.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+65430	70430	5000	Sobreimprès: James, l'empresari. Caminant per la platja s'enduu el mòbil a l'orella.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+92060	97450	5390	S'estén de panxa enlaire i en banyador sobre una tovallola. Deixa el mòbil amb les seves coses.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+99420	108650	9230	Roman uns segons amb els ulls tancats. S'emporta les mans a la cara i estén els braços sobre la sorra. Amb una mà n'agafa una mica i la deixa caure lentament.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+114700	116170	1470	S'incorpora i l'agafa.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+141540	143730	2190	Busca quelcom entre les seves coses.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+157500	159660	2160	Deixa el mòbil a un costat i s'aixeca.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+163140	168170	5030	S'allunya uns metres de la tovallola mirant a la llunyania, en direcció al passeig marítim.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+169400	176000	6600	S'atura i centra la seva atenció en un punt fix. Una gavina vola a uns metres d'ell movent les ales amb ímpetu.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+179820	183420	3600	Dirigeix la mirada d'una banda a l'altra de la platja com desorientat.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+187420	192260	4840	Fa mitja volta i sense deixar de mirar en totes direccions s'apropa a la vora del mar.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+197780	205620	7840	El seu rostre denota certa inquietud. Torna cap a la tovallola sense posar atenció als seus passos. Dos iots solquen el mar.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+208500	217760	9260	S'inclina lleugerament per agafar la camisa i torna a alçar la mirada mentre se la posa. Després s'ajup per recollir la resta de la roba i continua vestint-se.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+218800	225970	7170	Camina per un llarg passeig envoltat d'arbres d'abundant fullatge. Té el coll de la camisa descordat i ja no porta corbata.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+227220	231060	3840	Puja per una muntanya a través d'una estreta sendera pedregosa.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+233940	246270	12330	Un home de mitjana edat amb barba canosa i lleugerament descuidada està assegut a un banc individual envoltat de vegetació. Sosté un got de plàstic amb tapa i tamborina sobre ell amb l'índex de la mà esquerra.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+248700	255670	6970	Somriu i fa que no amb el cap. Continua tocant el got nerviós i finalment treu la tapa. Conté cafè sol.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+257700	260670	2970	Mira l'interior del got, beu un glop i l'assaboreix.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+265660	275890	10230	Sobreimprès: Rick, el jubilat. Deixa la tapa a un dels dos bancs individuals que té a cada costat i beu un altre glop de cafè sense deixar de moure la cama dreta nerviós.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+278000	280810	2810	Deixa el got al costat de la tapa i pica de mans.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+284940	293370	8430	Treu el mòbil de la butxaca posterior dels pantalons. Accedeix a la secció "contactes" i fa lliscar el dit per la pantalla fins a aturar-se a Craig Anderson.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+296980	298690	1710	Prem trucar amb gest d'enuig.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+325460	326860	1400	Gest d'impotència.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+329620	332290	2670	De sobte arrufa les celles i alça la mirada.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+336060	336770	710	Estranyat.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+351940	353900	1960	Mou la mà intentant explicar-se.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+380100	381870	1770	Torna a alçar la mirada estranyat.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+387020	388780	1760	Apunta un petit somriure.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+398180	405520	7340	El got de plàstic reposa sobre el banc amb la tapa posada. Ell s'allunya mirant inquiet en totes direccions i s'endinsa en una sendera.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+409680	417050	7370	Una jove pèl-roja amb rínxols està asseguda davant d'un ordinador portàtil envoltada d'apunts. Mossega el llapis amb fastig.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+418220	420270	2050	Sobreimprès: Jess, l'estudiant.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+423020	424100	1080	Busca el mòbil.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+425590	429710	4120	Finalment el troba entre els papers. Despenja i se l'emporta a l'orella.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+455620	456860	1240	Arqueja les celles.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+464060	465360	1300	Mou la mà alterada.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+494300	501490	7190	Mira a banda i banda, amb gest d'estranyesa i temor. Alleujada pel cessament del soroll, abaixa la mirada per seguir estudiant.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+506620	507980	1360	S'aixeca de la cadira.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+512780	519500	6720	Ha sortit al carrer amb un abric marró i un fulard negre amb estampat blanc. Puja un pendent ple de vegetació.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+522220	527460	5240	De sobte gira el cap com intentant esbrinar d'on ve el soroll i continua el seu camí.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+530700	541110	10410	Arriba a una esplanada i camina lentament cap al James i el Rick, que també hi són. Els tres fan voltes sobre si mateixos movent el cap desconcertats. Una veu els sorprèn.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+556540	560740	4200	El James mira a la llunyania protegint-se del sol intens amb la mà.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+576260	577700	1440	Fent un pas endavant.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+586460	587190	730	Busquen.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+595000	596280	1280	Gest anguniós.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+642180	643500	1320	Els mira fixament.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+652100	653700	1600	La Jess escolta atenta.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+681100	682040	940	Seriós.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+684700	686220	1520	El James reflexiu.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+700460	701770	1310	Gestos d'inquietud.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+707580	711940	4360	El James mira el Rick que sembla dubtar i la Jess fa que no amb el cap.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+715300	716670	1370	Es manté expectant.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+717940	720220	2280	De sobte el Rick obre els braços.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+721060	721790	730	Somriu.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+723400	724500	1100	Mirant al cel.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+725420	726890	1470	El James es fa enrere.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+736580	740860	4280	El James se'n va amb les mans a les butxaques. El Rick cuita a atrapar-lo.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+744940	753070	8130	La Jess corre cap a ells. Quan els atrapa, el James li passa una mà per l'esquena. Mentre parlen es van allunyant en direcció a la vegetació.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+755900	760640	4740	Una dona negra estén la roba amb el mòbil subjectat entre la galta i l'espatlla esquerra.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+762340	765580	3240	No, encara no l'he estès tota. M'he d'afanyar a acabar.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+767700	771820	4120	No, però de què em parles? Sí, esclar, ja he fet les maletes...	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+772420	774460	2040	Mira estranyada al seu voltant.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+774700	777310	2610	Escolta, ara no puc parlar. T'he de deixar.	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+777700	785680	7980	Espantada i amb la mirada perduda. Sobreimprès: Zoé, la pròxima. En negre i sobre fons blanc: què passa mentre...?	WHW-CA-Pr/Aptent-CA/Aptent-CA.eaf
+5000	11000	6000	A l'alba, vista d'un passeig terrós vora el mar. Un home hi passa corrent i una parella hi passeja un gos.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+14400	16830	2430	Sobre fons blanc, les lletres del títol.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+22000	30120	8120	Un esportiu luxós s'atura davant del passeig. Un home elegant en baixa parlant pel mòbil i desa un maletí al maleter, d'on en treu una bossa de mà grossa.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+53050	55780	2730	Llança una mirada al mar i es posa unes ulleres de sol.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+60320	69240	8920	Esbufega i arronsa les espatlles amb expressió exhausta. Sobreimprès: "James, l'empresari". Camina pel passeig amb la bossa de mà penjada d'una espatlla.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+93120	96230	3110	A la platja, s'estira en una tovallola sense la part de dalt.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+101000	103770	2770	Es frega els ulls i estira una mà sobre la sorra.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+107000	109120	2120	L'acarona i n'agafa un polsim.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+130270	132050	1780	Mira a banda i banda buscant el soroll.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+142050	143320	1270	Remena les seves coses.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+159000	160290	1290	Tira el mòbil i s'alça.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+164520	171480	6960	S'allunya unes passes buscant amb la mirada. Al fons, la silueta del Fòrum de Barcelona i les torres de la central tèrmica del Besós.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+178050	180150	2100	S'atura, seriós, i fa mitja volta.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+185310	190250	4940	S'atura un instant, però torna a passejar per la sorra buscant amb la mirada. Està tot sol.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+196000	202150	6150	És un home de mitjana edat, porta els cabells curts i una barba espessa, i és de pell clara. Va en calçotets.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+207470	211720	4250	Se'n torna vora les seves coses i es posa la camisa sense deixar de guaitar al seu voltant.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+220000	222050	2050	Vestit, recorre un pont arbrat.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+226080	228540	2460	S'enfila per un camí al pendent d'un descampat.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+232080	240920	8840	Un home de cabells llargs i despentinats tamborina els dits contra l'envàs de plàstic d'una beguda. Té uns 60 anys i porta una barba canosa. Sacseja el cap, nostàlgic.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+250000	254120	4120	Destapa l'envàs amb compte, es mira la beguda, cavil·lós, i en fa un glop.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+265000	273730	8730	Sobreimprès: "Rick, el jubilat". Assegut en uns bancs sota una zona arbrada, en Rick es torna a mirar la beguda mentre belluga una cama, inquiet, i en fa un glop.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+278050	286260	8210	Fa que no amb el cap i deixa el got al banc del costat, vora la tapa. Es recolza al banc, pica de mans sense deixar de camejar, i es treu el mòbil de la butxaca.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+290370	292240	1870	Fa anar l'agenda i s'atura a la ce.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+297080	299150	2070	Selecciona un contacte i hi truca.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+329150	330780	1630	Mira incòmode al seu voltant.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+380140	381300	1160	Busca amb la mirada.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+398000	403550	5550	S'alça del banc i s'allunya per un caminet buscant al seu voltant. Es deixa el got de plàstic al banc del costat.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+409000	412970	3970	Una noia pèl-roja feineja en un escriptori, davant d'un portàtil i d'un llibre.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+418000	423150	5150	Sobreimprès: "Jess, l'estudiant". Busca el mòbil rere el portàtil i entre la paperassa.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+497120	500120	3000	Mira desconcertada a les parets de l'habitació.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+510350	512240	1890	Surt al carrer i segueix el soroll.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+518000	521000	3000	Puja per un caminet entre canyes verdes i matolls.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+525000	528150	3150	S'atura un moment per parar l'orella i continua cap a un flanc.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+531150	540200	9050	En James, en Rick i la Jess es troben en un descampat terrós, enmig d'un paratge de turons coberts de vegetació. Miren enlaire i al seu voltant, desconcertats.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+708410	710750	2340	Tots tres es miren: en Rick fa que no.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+736610	741330	4720	En James comença a passar i en Rick el segueix. La Jessica mig somriu i assenteix.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+746000	752060	6060	Els atrapa d'una corredissa i es posa entre tots dos. S'allunyen del descampat en direcció a una línia d'arbres.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+758150	760360	2210	Fosa a negre. Al terrat d'un edifici.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+762490	765260	2770	"No, encara no l'he estès tota. M'he d'afanyar a acabar."	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+768000	773050	5050	"No, però de què em parles? Sí, esclar, ja he fet les maletes..." La dona busca el soroll.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+775100	777100	2000	"Escolta, ara no puc parlar. T'he de deixar."	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+779090	786240	7150	Sobreimprès: "Zoé, la següent." Fosa a negre. Sobre fons blanc, les lletres del títol, seguides d'una línia contínua.	WHW-CA-Pr/Descriptik-CA/Descriptik-CA.eaf
+0	14000	14000	Un matí de cel gris cendra amb núvols baixos plana sobre el mar i el passeig marítim. Una parella que passeja un gran danés per la sorra es creua amb un home que practica running. El gos s’atura a ensumar el terra i la parella el crida.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+15000	17000	2000	En lletres negres sobre fons blanc... Què passa mentre...	WHW-CA-Pr/LB-CA/LB-CA.eaf
+22000	25000	3000	Un cotxe esportiu blanc, s’atura a la calçada del passeig.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+27000	30000	3000	El conductor parla per telèfon fent gestos enèrgics amb les mans.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+31000	32000	1000	Baixa del cotxe.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+38000	39000	1000	Deixa el seu maletí a terra.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+45000	46000	1000	Obre el maleter.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+52000	71000	19000	L’home penja el telèfon, contrariat. Amb la mirada perduda al mar es treu de la butxaca interior de l’americana unes ulleres de sol de muntura daurada i vidres amb forma d’ametlla... Se les col·loca... i sospira. En lletres blanques sobreimpreses: James, l’empresari. Duu una bossa de platja penjada a l’espatlla. Camina per la sorra.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+92000	104000	12000	James és un home ros de mitjana edat. Duu bigoti i una barba curta i ben cuidada. En vestit de bany, s’ajau de panxa enlaire en una tovallola, damunt la sorra. Sospira, tanca el ulls i se’ls frega amb les mans.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+105000	109000	4000	Estirat, obre els braços abandonant-se a la carícia d’un sol pàl·lid.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+110000	114000	4000	Amb el dits juga amb la sorra. La trucada el fa aixecar el cap i s’incorpora.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+129000	133000	4000	Un dringar metàl·lic el distreu i mira inquiet al seu voltant.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+141000	145000	4000	Mentre parla, mira a dreta i esquerra intentant localitzar d’on ve el soroll.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+158000	161000	3000	Deixa el telèfon i s’aixeca ple de curiositat.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+164000	169000	5000	En vestit de bany dóna tombs per la platja tot cercant l’origen d’aquell dring. Va cap a on trenquen les onades.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+170000	176000	6000	A l’altre cantó de la badia, la fosca silueta dels edificis alts de la ciutat es retalla en el cel enteranyinat.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+177000	184000	7000	James torna cap a la tovallola però s’atura. Resta dret i després es gira. Una gavina passa volant.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+186000	193000	7000	Les passes de l’home són vacil·lants. Mira el cel a dreta i esquerra, confús, mentre va cap a la vora de l’aigua.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+197000	200000	3000	S’allunya de l’aigua amb la mirada posada al cel.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+203000	207000	4000	Al mar, no massa lluny de la costa, dues barques es gronxen damunt les onades.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+208270	214000	5730	Decidit, arriba on hi ha la tovallola, agafa la camisa i se la posa sense deixar de mirar al cel.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+220000	230000	10000	Ja vestit, camina sota els arbres del passeig. L’americana oberta, la camisa amb el coll descordat, sense corbata. Desapareix enfilant-se per un coster cap al cim d’un turó.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+233000	255000	22000	Uns dits nerviosos colpegen un got de cartró amb tapa. Un home barba-serrat amb cabells llargs, arrissats i despentinats, sosté el got entre les mans. Duu una samarreta imperi que deixa al descobert el tatuatge de l’espatlla. Somriu, fa que no amb el cap i para atenció al got. Repassa la tapa amb l’índex, li dóna un copet amb el polze i la treu. El got és ple d’un líquid negre.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+257000	264000	7000	Una cadena de baules gruixudes a joc amb la del canell li voreja el coll. Mira el got pensatiu, fa un glop i sospira.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+265000	269000	4000	Sobreimpressionat amb lletres blanques: Rick, el jubilat.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+270000	273000	3000	En Rick és assegut en un banc d’una placeta pública.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+274000	277000	3000	Fa un altre glop sota l’ombra d’uns arbres de troncs recargolats.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+279000	288000	9000	Belluga la cama dreta de manera nerviosa. Tot d’una deixa el got al banc del costat i pica de mans. De la butxaca de darrera del pantaló treu el telèfon.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+290000	294000	4000	Amb el dit fa passar ràpid la llista de contactes. En selecciona un.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+295580	299000	3420	Toca la pantalla i es posa el telèfon a l’orella esperant resposta.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+329000	332000	3000	Estranyat, cerca amb la mirada d’on ve el soroll.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+336000	337000	1000	El busca mentre parla.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+380000	382000	2000	El soroll el torna a interrompre.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+383000	385000	2000	Explora el seu voltant amb la mirada.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+397000	409000	12000	En Rick s’aixeca somrient. Apressat, comença a caminar i s’allunya de la placeta, deixant el got abandonat i mig ple al damunt del banc. Camina tot mirant al seu voltant, com cercant alguna cosa.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+411000	417000	6000	Una noia jove de cabells rinxolats i llargs fins a les espatlles treballa davant de l’ordinador portàtil.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+417570	421470	3900	SObreimpressionat en lletres blanques: Jess l'estudiant.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+422000	429000	7000	Es treu el llapis de la boca i cerca el telèfon emmig del desordre de papers de la seva taula. Quan el troba, respon a la trucada.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+496000	499000	3000	Penja. Amb estranyesa, mira a un costat i a un altre.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+501000	503000	2000	Fa per tornar a la feina però...	WHW-CA-Pr/LB-CA/LB-CA.eaf
+506000	507000	1000	Alça el cap.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+510000	514000	4000	La Jess s’aixeca de la cadira, deixa l’estudi i, abrigada, surt al carrer.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+517000	520000	3000	Puja per un pendent emmig de canyes, herbes altes i matolls.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+523510	526700	3190	S’atura un moment, mira al seu voltant i accelera el pas.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+528410	535000	6590	Arriba a una esplanada de terra nua, al peu de dos turons, vorejada de matolls secs i d’arbres sense fulles.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+536000	540000	4000	També hi ha en Rick i en James, que escodrinyen el seu entorn.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+555000	559000	4000	Tots tres miren en totes direccions sense veure-hi ningú.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+576000	577000	1000	Es sorprèn.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+595000	597000	2000	En Rick es posa la mà al cap...	WHW-CA-Pr/LB-CA/LB-CA.eaf
+662000	664000	2000	Amb la mà, imita un metrònom.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+685000	687000	2000	En James i la Jess l’escolten, reflexius.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+707000	712000	5000	En James i en Rick s’intercanvien una mirada. En Rick i la Jess neguen amb el cap.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+715000	720000	5000	Tots tres són al mig de l’esplanada. En Rick obre els braços.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+724000	727000	3000	En James, sorprès, somriu i aixeca les espatlles.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+736000	744000	8000	En Rick segueix en James, que també somriu. La Jess resta pensativa, aixeca les celles, dibuixa un somriure...	WHW-CA-Pr/LB-CA/LB-CA.eaf
+745000	752000	7000	...i els atrapa amb quatre gambades. Tots tres, parlant animadament, abandonen l’esplanada i fan cap a la platja.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+755000	758000	3000	La pantalla s’enfosqueix. Una dona jove negra, amb el cabells pentinats amb trenes a l’estil africà, estén la roba en un terrat.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+763000	766000	3000	No, encara no l’he estesa tota. M’he d’afanyar a acabar.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+768000	771000	3000	No, però de què em parles? Si, esclar, ja he fet les maletes...	WHW-CA-Pr/LB-CA/LB-CA.eaf
+772000	774000	2000	La dona mira d’on ve el soroll.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+775000	778420	3420	Escolta, ara no puc parlar. T’he de deixar. La dona penja el telèfon.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+779200	782540	3340	Sobreimpressionat amb llebtres blanques: Zoé la següent.	WHW-CA-Pr/LB-CA/LB-CA.eaf
+783480	788670	5190	Amb lletres negres sobre fons blanc es pot llegir: "What happens While?". Què passa mentres?	WHW-CA-Pr/LB-CA/LB-CA.eaf
+3570	15410	11840	Un matí ennuvolat, prop del mar, per un passeig marítim urbà sense asfaltar, un noi i una noia passegen un gos i un home amb xandall corre. El gos s'atura un instant, ensuma en un petit clot i després segueix la parella.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+16130	18000	1870	En lletres negres, sobre fons blanc...	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+22510	29590	7080	Un cotxe esportiu blanc s'atura davant del passeig marítim. El conductor parla pel mòbil, dóna un cop al volant i gesticula amb les mans.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+38000	39340	1340	L'home porta un maletí.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+43900	44940	1040	El desa al maleter.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+52800	65470	12670	L'home nega amb el cap, serra els llavis i mira cap al mar. Es treu unes ulleres de sol d'estil aviador de la butxaca interior de l'americana i se les posa. La imatge es congela i sobreimprès a la pantalla es llegeix: "James, l'empresari".	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+67100	71730	4630	Amb la silueta de la ciutat de fons, en James camina amb el mòbil a la mà i una bossa de platja a l'espatlla.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+92000	98220	6220	0A la sorra de la platja, un vestit d'home rebregat al costat d'una tovallola groga. En James s'hi estira, tot deixant caure el cap.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+100450	108750	8300	Tanca els ulls, es frega la cara amb les mans i després posa els braços en creu. Amb la mà esquerra acarona la sorra, n'agafa un grapat i la deixa lliscar entre els dits.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+112000	113620	1620	Obre els ulls i s'incorpora.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+142000	143420	1420	Mira a banda i banda.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+158010	160150	2140	Deixa el mòbil damunt de la roba i s'aixeca.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+161400	168390	6990	En James camina cap a l'aigua en banyador. Té uns quaranta anys, els cabells foscos i curts, porta una barba ben arreglada i està en forma.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+170430	175080	4650	Quan és a prop de l'aigua, alça la vista com si seguís alguna cosa amb els ulls i torna cap a la sorra.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+178850	181850	3000	S'atura, mira cap al cel un instant i torna cap a l'aigua.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+187280	196000	8720	Es torna a aturar i mira cap al cel, a banda i banda, com si hi hagués alguna cosa volant a prop seu. Camina per la platja, amb la vista fixa al cel, com si busqués l'origen del so enigmàtic.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+199100	212780	13680	Camina per la sorra a poc a poc, mirant cap al cel enteranyinat i blanquinós amb el rostre tens i els ulls empetitits per la intensitat de la llum. S'ajup per agafar la camisa grisa de màniga llarga de terra i se la posa sense apartar la vista del cel en cap moment.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+220270	232800	12530	Per un carrer d'una ciutat amb plataners arrenglerats, en James camina amb l'americana descordada i el coll de la camisa obert, sense corbata. Arriba a un petit turó i comença a pujar per un corriol costerut i pedregós que s'obre pas entre arbustos i matolls secs.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+235000	243320	8320	En una cadira d'un parc hi seu un home d'uns seixanta anys, de cabells blancs i despentinats i barba espessa. Té un got de plàstic amb tapa a les mans i somriu amb amargor.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+247910	251880	3970	Amb el dit índex ressegueix el contorn de la tapa del got i després l'aixeca.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+254000	260410	6410	Es mira el cafè, s'apropa el got a la boca i l'ensuma. Després fa un glop i es llepa els llavis, mantenint la mirada fixa en un punt.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+265610	281040	15430	La imatge es congela i sobreimprès a la pantalla es llegeix: "Rick, el jubilat". Sota uns arbres hi ha tres cadires de fusta individuals i en Rick seu a la del mig. Du una samarreta sense mànigues, té un tatuatge al braç dret i mou nerviosament la cama. Fa un altre glop de cafè, deixa el got a una cadira buida i pica de mans.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+285350	291000	5650	Es treu un mòbil de pantalla tàctil de la butxaca del darrere dels texans i amb el dit índex va passant els contactes de l'agenda.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+294350	298440	4090	S'atura en un dels contactes, en Craig Anderson, i prem el botó verd de trucada.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+330420	332150	1730	En Rick alça la mirada cap al cel.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+380340	382340	2000	En Rick mira cap al cel sorprès.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+398480	409480	11000	El got de cafè és a una de les cadires. En Rick s'allunya caminant i es guarda el mòbil a la butxaca del darrere dels texans. Mentre camina pel parc, mira cap al cel com si seguís el rastre d'alguna cosa que hi hagués a l'aire.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+412000	414000	2000	En una habitació, una noia estudia.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+416160	421930	5770	Es fica un llapis a la boca i el mossega. La imatge es congela i sobreimprès es llegeix: "Jess, l'estudiant".	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+425726	430314	4588	Busca el mòbil damunt un escriptori on hi ha un portàtil engegat i un munt de papers desendreçats.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+494380	504970	10590	La Jess penja i alça la mirada. Amb la mà dreta es col·loca els cabells llargs i rinxolats rere l'orella. Dóna un cop d'ull ràpid a banda i banda, abaixa la mirada cap a l'ordinador i torna a alçar els ulls.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+509930	511040	1110	S'aixeca de la cadira.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+512530	532550	20020	Ben abrigada, amb una jaqueta i un mocador, la Jess va per un camí que s'obre pas entre arbustos i canyes. Té uns divuit anys i és pèl-roja. S'atura un instant, mira enrere, com si busqués alguna cosa, i després continua caminant fins a una clariana envoltada de turons. Al bell mig de l'esplanada hi ha en James i en Rick. Tots dos miren cap al cel. La Jess s'hi apropa a poc a poc.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+555800	561480	5680	En Rick mira al cel. En James fa visera amb la mà, perquè el sol no l'enlluerni. La Jess mira al seu voltant.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+595000	597000	2000	En Rick es posa la mà al front.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+696540	697760	1220	En Rick assenteix.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+700190	702190	2000	James es fica les mans a les butxaques.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+707280	711730	4450	En James mira en Rick, que s'arronsa d'espatlles, mou el cap a banda i banda i mira la Jess.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+717920	720570	2650	Miren cap al cel. En Rick alça els braços.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+736800	741800	5000	En Rick segueix en James. La Jess es queda parada, arqueja les celles i arronsa els llavis .	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+746590	752590	6000	La Jess corre i els empaita. En James l'abraça per les espatlles i tots tres marxen caminant i xerrant cap al bosc.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+756430	762730	6300	Dalt d'un terrat, una dona negra parla pel mòbil mentre estén la bugada. Diu: "Encara no l'he estès tota i m'he d'afanyar".	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+766440	768070	1630	Diu: "Ja he fet les maletes".	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+773000	774590	1590	Alça la mirada cap al cel.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+777780	783670	5890	Mira cap al cel sorpresa. La imatge es congela i sobreimprès es llegeix: "Zoé, la següent". La imatge talla a negre.	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+785200	788250	3050	Sobre fons blanc, en lletres minúscules: "Què passa mentre..."	WHW-CA-Pr/MultiSignes-CA/MultiSignes-CA.eaf
+3080	16050	12970	Un pla fix d'una platja a peu de carretera, amb el mar al fons. Darrere els núvols s'entreveu la llum tènue dels primers rajos de sol del matí. Un home i una dona, abrigats, passegen per la sorra amb un gos. Es creuen amb un home que fa fúting.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+20640	22550	1910	Lletres negres sobre fons blanc.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+23800	29890	6090	La mateixa platja. Un home condueix un cotxe blanc, de gamma alta. Parla pel mòbil mentre aparca.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+52060	59950	7890	Duu un maletí negre que guarda al portaequipatge, d'on treu una bossa de platja amb ratlles marineres. Contempla el mar, es posa unes ulleres de sol i sospira profundament.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+65300	66870	1570	James, l'empresari.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+67410	70180	2770	Camina per la platja amb la bossa penjada a l'espatlla.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+91800	100030	8230	És un home de mitjana edat, pèl-roig, alt i de constitució atlètica. Vesteix pantalons i americana negres, camisa grisa i corbata.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+101410	110750	9340	S'estira a la tovallola sobre la sorra, amb el tors nu, panxa enlaire. Es frega els ulls. Deixa caure els braços, relaxat, i pessiga la sorra, que se li esmuny entre els dits.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+141490	143860	2370	Mira a banda i banda, desconcertat.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+163440	174440	11000	Porta els cabells curts i la barba retallada. S'aixeca de la tovallola i camina uns quants metres amb gest confús. Ha deixat la roba apilonada sobre la sorra i va en calçotets. Escolta atentament i canvia de direcció.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+175550	178510	2960	S'atura i relaxa el gest, alleujat. Al seu voltant no hi ha ningú.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+191450	196940	5490	Perplex, mira cap a totes direccions, amb la barbeta elevada i els ulls entretancats, intrigat.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+207410	214460	7050	Observa i escolta amb atenció fins que, resolut i seriós, es vesteix, amb la mirada clavada en un punt llunyà, d'esquena al mar.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+219410	222300	2890	Camina per un carrer envoltat d'arbres, decidit.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+227390	232570	5180	Amb pas ferm, s'enfila per un camí de sorra estret, rodejat de plantes i matolls.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+236450	243580	7130	Uns dits inquiets repiquen un got de cartró. Un home d'uns seixanta anys, canós, despentinat i amb barba, mira al seu voltant, somriu i sacseja el cap.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+249350	256430	7080	Té un got de cafè entre les mans. N'acarona la tapa de plàstic, l'obre, en mira l'interior i en fa un glop, resignat.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+265510	267040	1530	Rick, el jubilat.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+267510	284440	16930	En un parc. En Rick, assegut en una cadira, es beu el cafè mentre mira al buit i fa tremolar la cama dreta, neguitós. Porta calçat esportiu, texans foscos i samarreta de tirants marró. Té un tatuatge al braç dret i duu una cadena i una polsera de plata, gruixudes. Deixa el got a un costat i es frega les mans.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+289330	297310	7980	Es treu el mòbil de la butxaca i obre la llista de contactes. En selecciona un: Craig Anderson. Li truca.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+329340	332040	2700	Arrufa les celles i mira enlaire, estranyat.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+398410	399880	1470	S'aixeca del banc i se'n va.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+411380	413390	2010	Una noia jove seu davant de l'ordinador.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+418470	419930	1460	Jess, l'estudiant.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+421990	429180	7190	Mossega un llapis, que deixa anar per buscar el mòbil. El troba sota una pila de papers que té sobre la taula, desendreçats.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+494380	499290	4910	Busca entre els papers, desconcertada. Amb gest confús, mira a dreta i esquerra.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+503410	504590	1180	Se sobresalta.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+511480	520370	8890	Al carrer, abrigada. Escolta atenta, amb actitud vigilant, i camina instintivament, com posseïda. Creua un terreny boscós, envoltat d'herbes altes.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+523430	526780	3350	S'atura, escolta, i arrenca a córrer convençuda.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+532460	539270	6810	Arriba a una esplanada de sorra extensa, envoltada de petits turons, on hi ha en James i en Rick que deambulen desorientats, mirant al cel.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+556270	559820	3550	Tots tres, drets enmig del pla, busquen arreu amb la mirada.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+594740	596710	1970	Es posa una mà al front, torbat.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+710000	712370	2370	Es miren. En Rick i la Jess fan que no.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+725429	727527	2098	En James somriu incrèdul.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+737280	739260	1980	L'home assenteix, somrient.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+753280	755210	1930	Marxen junts, abraçant-se.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+762420	765390	2970	No, encara no l'he estès tota. M'he d'afanyar a acabar.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+768420	772510	4090	No, però de què em parles? Sí, esclar, ja he fet les maletes...	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+775390	780640	5250	Escolta, ara no puc parlar. T'he de deixar. Una dona estén la roba mentre parla per telèfon. Zoé, la següent.	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+783360	786610	3250	Amb lletres negres sobre fons blanc, el títol: "El que passa mentre..."	WHW-CA-Pr/Plurals-CA/Plurals-CA.eaf
+3340	16360	13020	En un pla estàtic, de cara al mar, mig carrer, la vorera, un passeig ampli de terra, una tanca i el mar, sota un cel de color perla, mig ennuvolat. Un home passa corrent de dreta a esquerra, i es creua amb una parella que passeja un gos, un gran danès.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+24660	29230	4570	Un cotxe esportiu blanc s'atura arran de vorera. El conductor parla pel mòbil.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+38110	39990	1880	Amb un maletí, va cap al maleter.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+53810	62940	9130	Deixa el maletí al maleter i n'agafa una bossa. Dret darrere del vehicle, es desa el mòbil, es treu unes ulleres de sol de la butxaca interior de l'americana i se les posa.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+66270	71450	5180	James, l'empresari.L'home camina pel descampat amb una bossa de ratlles penjada de l'espatlla.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+92540	109180	16640	Sobre la sorra, una pila de roba rebregada i una tovallola estesa. En James s'hi estira panxa amunt a prendre el sol. L'home, de pell clara, té els cabells pèl-rojos, tallats curts, i porta barba ben arreglada. Es frega els ulls, estén els braços a banda i banda del cos i agafa granets de sorra amb els dits.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+117520	118330	810	S'incorpora.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+142490	144130	1640	Es gira a banda i banda, estranyat.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+158850	163090	4240	Mira entre la roba, i al voltant, neguitós. S'aixeca i camina cap a l'aigua.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+171040	175050	4010	Alça la mirada, com buscant alguna cosa, i s'allunya del trenc de les onades.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+193160	199610	6450	Torna cap a l'aigua i es gira de cop, cercant l'origen del xiulet. Mira pertot, estranyat, i desisteix del bany.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+203440	205580	2140	Torna cap a la tovallola, mirant enlaire.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+210020	212810	2790	Agafa la camisa, de color gris clar, i se la posa.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+221590	229100	7510	Ja vestit, amb americana i pantalons foscos, camina arran de carrer, per sota d'unes oliveres. S'enfila per un corriol entre matolls.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+233430	245560	12130	Primer pla d'un got de cafè amb tapa. Un home d'uns 60 anys, de cabells grisos desendreçats, barba i celles poblades, samarreta de tirants caqui i una cadena gruixuda penjada del coll, el sosté entre les mans.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+248170	253290	5120	Mira enlaire somrient, sacseja el cap i l'abaixa. Repassa amb el dit la tapa del got, i l'obre.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+256530	260280	3750	El sacseja lleugerament, se'n mira el líquid uns instants i en fa un glop.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+266400	267600	1200	Rick, el jubilat.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+269610	275680	6070	Deixa la tapa en un banc individual, al costat d'on seu ell, i s'acaba el cafè mentre fa tremolar la cama dreta.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+278880	284159	5279	Sacseja el cap fent que no, deixa el got al costat de la tapa i es deixa caure sobre el respatller.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+288660	294170	5510	Es treu el mòbil de la butxaca de darrere dels texans, en plega la tapa enrere i busca un contacte.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+298340	300230	1890	Craig Anderson. Li truca.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+330270	332090	1820	Arrufa les celles i mira enlaire.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+380880	383000	2120	Torna a mirar amunt, estranyat.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+398430	409070	10640	Pla estàtic des del banc, amb el got de cafè en primer pla. En Rick s'aixeca, somrient, es desa el mòbil a la butxaca del darrere dels texans i camina fent voltes sobre si mateix mirant enlaire.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+414120	420150	6030	Una noia adolescent, de cabellera arrissada  vermellosa i ulls clars. Jess, l'estudiant.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+423530	428150	4620	Deixa el llapis que tenia entre les dents, i busca entre llibres i papers, al voltant del portàtil.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+495450	498650	3200	Estranyada, busca entre els papers, i mira enlaire, a banda i banda.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+510570	519730	9160	S'incorpora. Al carrer, amb jaqueta cordada i mocador de coll, va mirant pertot, encuriosida. S'endinsa per un canyissar, i s'atura per fer un cop d'ull tot al voltant.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+525680	528350	2670	Corre amunt entre les herbes cap a un camp d'oliveres.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+531040	537570	6530	En un gran descampat de terra, envoltat de vegetació, en James, en Rick i la Jess, que van mirant enlaire desconcertats.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+556530	560170	3640	Tots tres, a pocs metres, cerquen pertot, encara més sorpresos.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+595330	597130	1800	Es posa la mà al front, desesperat.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+708530	711200	2670	En Rick s'arronsa d'espatlles i se'ls mira tots dos.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+739440	741500	2060	La Jess rumia, sorpresa, i somriu.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+749250	753230	3980	Corre fins a trobar-los, i camina entre els dos homes en direcció a la vegetació.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+757800	762150	4350	Fosa a negre. Una dona amb els cabells trenats i curts estén roba.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+765540	768130	2590	"No, encara no l'he estès tota. M'he d'afanyar a acabar."	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+771350	775030	3680	"No, però de què em parles? Sí, esclar, ja he fet les maletes..."	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+777130	779120	1990	"Escolta, ara no puc parlar. T'he de deixar."	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+780210	783060	2850	Zoé, la següent.  Fosa a negre.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+783120	787450	4330	"QUÈ PASSA MENTRE..." Sobre fons blanc, els crèdits.	WHW-CA-Pr/SBT-Carme-CA/SBT-Carme-CA.eaf
+3390	10220	6830	Un noi i una noia passegen amb un gos per un descampat a la vora de la platja. Es creuen amb un noi que corre.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+24700	30000	5300	Un cotxe blanc s’atura a la calçada, al costat del descampat. En baixa un home que parla per telèfon.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+53790	57880	4090	L’home ha ficat un maletí al maleter i n’ha tret una bossa informal	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+59350	61250	1900	Es posa les ulleres de sol. 	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+65250	70500	5250	Un rètol ens indica que és en James, l’empresari. En James va cap a la platja caminant i parlant per telèfon.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+94580	96960	2380	En James s’ajeu a la tovallola	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+102300	105190	2890	Es frega els ulls, cansat.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+160160	169350	9190	En James fa cara d’ amoïnat. S’aixeca i va en banyador cap a l’aigua. Al fons hi ha la silueta d’una ciutat industrial.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+171350	174510	3160	Sense mullar-se, torna cap a la sorra seca.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+189960	196000	6040	Mira a totes bandes, busca d’on ve el soroll que se sent. Continua caminant per la platja.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+211170	212680	1510	En James es posa la camisa.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+221220	225170	3950	En James camina, vestit amb pantalons i americana, per un carrer amb arbres.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+229246	232049	2803	Ara puja per un camí que hi ha entremig d’uns matolls.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+237000	241990	4990	Un home amb barba de quatre dies i cabells embullats té un got de plàstic a les mans.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+250000	256670	6670	Fa gestos d’impaciència amb les mans. Obre la tapa del got i en beu el contingut, te o cafè.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+264480	266940	2460	Un rètol ens indica que és en Rick, el jubilat.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+270410	275460	5050	En Rick continua assegut en un banc, a sota d’uns arbres. Fa més gestos d’impaciència.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+288270	291500	3230	Agafa el mòbil i busca per l’agenda de contactes.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+293320	296020	2700	Truca a un tal Craig Anderson.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+400430	407480	7050	En Rick s’aixeca del banc i se’n va mirant per tot arreu buscant alguna cosa. Deixa el got al banc.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+413610	420840	7230	Veiem una noia amb els cabells arrissats i un llapis a la boca. Un rètol ens indica que és la Jess, l’estudiant.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+427310	429230	1920	Busca el mòbil per l’escriptori.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+509540	510130	590	S’aixeca.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+512440	513490	1050	Ara és a l’exterior.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+518000	519730	1730	Puja pel mateix camí que en James.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+532470	537140	4670	Veiem una esplanada a l’aire lliure. Hi ha en James, en Rick i la Jess.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+541160	542190	1030	Se sent una veu.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+558300	560500	2200	Els tres busquen d’on veu la veu.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+709240	711670	2430	En Rick i la Jessica fan que no amb el cap.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+738840	742150	3310	En Rick i en James se’n van. La Jess pensa i somriu.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+754770	756760	1990	Se’n van tots tres de l’esplanada	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+759050	763710	4660	Fosa en negre. Una noia parla per telèfon de la bugada i unes maletes.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+779810	782530	2720	Un rètol ens indica que és la Zoé, la següent.	WHW-CA-Pr/SDI-Media-CA/SDI-Media-CA.eaf
+2900	14830	11930	De dia, en una platja, un home corre. En sentit contrari, una parella, ben abrigada, passeja un gos gran. El gos s'atura per olorar alguna cosa sota la sorra. Ara, segueix els seus amos.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+20950	28800	7850	Un cotxe d'alta gama arriba a la platja. Dins hi ha un home d'uns 40 anys, ros, alt i amb barba, que parla per telèfon.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+52660	58790	6130	L'home penja i mira cap al mar. Treu unes ulleres de sol de la butxaca interior de la jaqueta i se les posa.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+65069	70220	5151	Sobreescrit en pantalla: James, l'empresari. A la platja, el James truca per telèfon.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+92110	96080	3970	Sobre la sorra, el James, en roba interior, es gita a la tovallola.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+99060	106930	7870	El James, interpretat per James Humber, es passa les mans pels ulls. Ara, deixa caure els braços als costats i toca la sorra amb les mans.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+111180	112229	1049	El James s'aixeca.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+141670	143410	1740	El James mira al seu voltant.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+158040	160050	2010	El James penja i s'aixeca del tot.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+163110	165020	1910	S'acosta a la vora del mar i camina.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+169090	172890	3800	Ara se n'allunya. Mira lleugerament cap a dalt, estranyat.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+177030	178170	1140	El James s'atura.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+179970	180650	680	Es gira.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+184040	186150	2110	S'atura i es torna a girar, confús.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+190050	192350	2300	Mira al seu voltant, estranyat, i s'acosta al mar.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+196250	198360	2110	Ara, es torna a allunyar de la vora del mar.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+201250	204290	3040	Mira lleugerament cap a dalt, arrufant les celles.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+207960	211730	3770	S'apropa a la seva tovallola i s'ajup per agafar la camisa. Se la posa.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+219080	222430	3350	En un parc, el James, ja vestit, camina entre els arbres.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+226240	230430	4190	Arriba a un turó i puja per un camí petit de terra, envoltat de vegetació baixa.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+235079	242330	7251	Al parc, un home d'uns 65 anys, de cabells i barba canosos i desendreçats, sosté un got de cafè. Somriu, resignat.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+249010	251970	2960	Diu que no amb el cap i treu el tap de plàstic del got de cafè.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+255210	257930	2720	Es mira el cafè una estona i, finalment, beu.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+265160	274080	8920	Sobreescrit en pantalla: Rick, el jubilat. El Rick, interpretat per Rick Zingale, deixa el tap de plàstic al banc del costat i continua bevent.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+278130	280230	2100	El Rick deixa el got i fa palmes.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+285210	289340	4130	Treu el mòbil de la butxaca de darrere dels pantalons. Busca als contactes.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+295100	298130	3030	S'atura a la "C" i truca el Creig Anderson.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+329520	331740	2220	El Rick s'estranya i mira cap a dalt.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+380360	381510	1150	Arrufa les celles.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+397740	401380	3640	El Rick guarda el telèfon i camina pel parc sense deixar de mirar cap a dalt.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+405070	413460	8390	El got continua al banc. El Rick marxa. Asseguda a un escriptori, una noia d'uns 18 anys i cabells arrissats treballa amb l'ordinador.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+418060	420800	2740	Sobreescrit en pantalla: Jess, l'estudiant.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+422120	423570	1450	La Jess busca el mòbil.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+426190	427720	1530	Busca sota uns papers.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+429140	430140	1000	Agafa el mòbil.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+494370	500440	6070	La Jess penja i mira cap a dalt, estranyada. Es toca els cabells i mira cap a l'altre costat. Ara, abaixa la mirada.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+503160	504210	1050	La Jess s'esglaia.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+506090	506820	730	S'aixeca.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+509110	515810	6700	Agafa l'abric i marxa. A l'exterior, la Jess, interpretada per Jessica Álvarez, mira a totes bandes.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+517190	519250	2060	Ara puja per un camí ple de vegetació.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+522130	522770	640	S'atura.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+525100	527760	2660	La Jess es gira de cop i marxa entre la vegetació.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+531060	534970	3910	En una gran esplanada, el James, el Rick i la Jess miren al seu voltant.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+538160	539880	1720	La Jess s'acosta al Rick i al James.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+555190	558260	3070	Els tres miren cap a dalt i al seu voltant, confusos.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+594180	595620	1440	S'arronsa d'espatlles.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+642150	643210	1060	El Rick se'ls mira.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+652010	653170	1160	Els mira fixament.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+684910	686530	1620	El James aixeca la mirada.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+700610	701730	1120	Els tres es miren.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+707540	711210	3670	El James mira el Rick, ell mira la Jess i fa que no amb el cap.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+718150	719560	1410	Miren al seu voltant.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+723410	724490	1080	El Rick mira al cel.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+736600	741700	5100	El James fa un gest amb el cap. El Rick el segueix. La Jess aixeca les celles.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+745020	748670	3650	La Jess corre cap a ells. El James li passa el braç per l'espatlla.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+751100	753180	2080	Tots tres caminen cap a la vegetació.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+756010	760240	4230	De nit, en una terrassa, una dona estén la roba mentre parla per telèfon.	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+762240	777780	15540	Sobreescrit en pantalla: "No, encara no l'he estès tota. M'he d'afanyar a acabar. No, però de què em parles? Sí, esclar, ja he fet les maletes..." Mira el seu voltant, estranyada. Sobreescrit en pantalla: "Escolta, ara no puc parlar. T'he de deixar".	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+780030	787190	7160	Sobreescrit en pantalla: Zoé, la següent. Sobre fons blanc, el títol seguit d'una ratlla: Què passa mentre...	WHW-CA-Pr/Sonidos-CA/Sonidos-CA.eaf
+3320	12640	9320	Sota un cel enteranyinat, un home fa fúting per un passeig de terra vora el mar. Es creua amb una parella que passeja un gran danès. El gos es ressaga ensumant i els segueix.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+16000	20690	4690	Sobre fons blanc, les lletres: Què passa mente	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+21210	29390	8180	Un cotxe de luxe s'atura arran de passeig. El conductor, que discuteix per telèfon, en baixa amb un maletí, el guarda al maleter i en treu una bossa.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+54000	64000	10000	Es posa unes ulleres de sol d'aviador i sospira amb expressió cansada. Té uns cinquanta anys i porta vestit i corbata. Sobreimprès en un extrem: "James, l'empresari".	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+66180	70360	4180	Amb la bossa a l'espatlla, camina pel passeig entre gent que passeja i fa exercici.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+94110	97630	3520	En calçotets, s'estira panxa enlaire a la platja sobre una tovallola.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+103170	106390	3220	Es frega els ulls, estén els braços i joguineja amb la sorra.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+112140	113590	1450	Agafa el mòbil i s'asseu.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+142040	143790	1750	Mira estranyat a banda i banda.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+159060	161150	2090	Deixa el mòbil sobre la roba i s'alça.  	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+166220	168510	2290	Avança fins a la riba i busca amb la mirada.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+173260	176360	3100	Torna a endinsar-se a la sorra i passeja la vista, descol·locat.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+185120	188250	3130	Va per recular, però s'atura i guaita enrere i pertot.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+197000	199620	2620	Torna fins a la riba i camina mirant enlaire.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+208460	210840	2380	Agafa la camisa i se la posa, desconcertat.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+217340	221870	4530	Vestit, però amb el coll de la camisa obert i sense corbata, camina sota uns arbres.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+226000	229610	3610	Enfila un caminet de terra que fa pujada entre cactus i matolls.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+233000	242120	9120	Un home de mitjana edat d'aspecte deixat tamborina els dits en un got de cartró. Passeja la mirada i els ulls se li entelen. Mig somriu i fa que no.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+249310	251730	2420	Acaricia la tapadora del got i l'enretira.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+258140	263810	5670	S'acosta el recipient i fa un glop de cafè. Sobreimprès en un extrem: "Rick, el jubilat".	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+267220	275220	8000	Porta vambes, pantalons d'esport i samarreta imperi. Assegut en un banc sota uns arbres, belluga una cama, inquiet, i fa un altre glop de cafè.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+279290	286010	6720	Mira enlaire, sacseja el cap i deixa el got al banc del costat. Pica de mans, se les frega i agafa el mòbil.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+290030	291200	1170	Navega per l'agenda.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+295340	298180	2840	Selecciona el nom "Craig Anderson" i clica trucar.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+329350	331180	1830	Escodrinya els voltants, descol·locat.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+380390	381770	1380	Mira estranyat enlaire.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+399220	402750	3530	Deixa el got al banc i s'allunya sense deixar de mirar enrere i enlaire.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+407000	411290	4290	Una noia pèl-roja estudia. Mossega un llapis i fa que no amb el cap.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+418000	420880	2880	Sobreimprès en un extrem: "Jess, l'estudiant".	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+426000	428630	2630	Busca entre un portàtil i tot de paperassa.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+497140	499490	2350	Recorre amb la mirada el sostre de l'habitació.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+510310	512960	2650	Camina pel carrer mirant confosa a banda i banda.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+517290	523540	6250	Avança entre herbes per un terreny que fa pujada. S'atura per guaitar enrere i continua endavant a corre-cuita.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+528390	530840	2450	Arriba a una clariana on hi ha en James i en Rick.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+535170	538800	3630	Tots tres miren enlaire estranyats, sota una claror enlluernadora.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+556470	558440	1970	Ells busquen amb la mirada, atònits.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+707500	710960	3460	En Rick arronsa les espatlles i fa que no. La Jess l'imita.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+737110	740420	3310	En Rick segueix en James i la Jess arqueja les celles pensativa.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+746000	750720	4720	Els atrapa d'una corredissa i s'encaminen plegats cap als arbres d'un extrem de la clariana.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+755000	760030	5030	Fosa a negre. Una dona afroamericana parla pel mòbil mentre estén roba en un terrat.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+762440	765120	2680	"No, encara no l'he estès tota. M'he d'afanyar a acabar."	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+768000	771270	3270	"No, però de què em parles? Sí, esclar, ja he fet les maletes..."	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+775000	783150	8150	"Escolta, ara no puc parlar. T'he de deixar." Passeja la vista, estranyada. Sobreimprès: "Zoé, la següent". Fosa a negre.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf
+787000	791000	4000	Sobre fons blanc, les lletres "què passa mentre..." i els crèdits.	WHW-CA-Pr/Subtil-CA/Subtil-CA.eaf

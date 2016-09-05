@@ -60,15 +60,15 @@ class KwicController extends Controller
 /**  
      * @Route("/kwic/{corpus}", name="kwic")
      */
-     ## simple search facility for Corpus (searches on 'corpus.txt' file with format: [utterance, source.file]) 
-     ## allows for string search on corpus.txt file. Displays matching utterances (together with link to source file)
+     ## simple search facility for Corpus (searches on 'Hits-All.txt' file with format: [utterance, source.file]) 
+     ## allows for string search on Hits-All.txt file. Displays matching utterances (together with link to source file)
     public function concordancer($corpus, Request $request)
     {    
         
 	## gets data from CSV.php controller
         $path = $this->container->getParameter('kernel.root_dir');
         $dataDir = $path . "/../data/$corpus";
-        $file = $dataDir .  "/corpus.txt";	
+        $file = $dataDir .  "/Hits-All.txt";	
 
 	## creates form with textarea
 	$defaultData = array();
@@ -97,11 +97,11 @@ class KwicController extends Controller
 		foreach ($lines as $l) { 
 			$string = explode("\t", $l);  
       	 		if (count($string) > 1) {
-				$path = explode("/",$string[1]);
+				$path = explode("/",$string[4]);
 				array_pop($path);
                       	  	$link = implode("/",$path);
 				#var_dump($string);print "<br/>";
-				$result = $this->get('app.utils.kwic')->kwic($d,$string[0]);
+				$result = $this->get('app.utils.kwic')->kwic($d,$string[3]);
 				if ($result != "") {
 					array_push($values, array($result,$link));
 					if( !in_array($link,$files)) array_push($files,$link);

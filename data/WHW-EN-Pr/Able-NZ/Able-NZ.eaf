@@ -117,7 +117,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="835360"/>
         <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="839200"/>
     </TIME_ORDER>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="utterance" TIER_ID="AD-en">
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="utterance" TIER_ID="AD-unit">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
                 <ANNOTATION_VALUE>On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog pauses to sniff the ground and trots onwards.</ANNOTATION_VALUE>
@@ -304,8 +304,8 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="focus" PARENT_REF="AD-en" TIER_ID="AD-Focus"/>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="words" PARENT_REF="AD-en" TIER_ID="AD-Sentences">
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="focus" PARENT_REF="AD-unit" TIER_ID="AD-Focus"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="words" PARENT_REF="AD-unit" TIER_ID="Sentences">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2612" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>On an overcast day, a man and a woman walk by the seaside with a large, lanky dog</ANNOTATION_VALUE>
@@ -622,7 +622,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-en" TIER_ID="Tokens">
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-unit" TIER_ID="Tokens">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5187" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>On</ANNOTATION_VALUE>
@@ -4184,8 +4184,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-Sentences" TIER_ID="Sentences-Focus"/>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-Sentences" TIER_ID="S-chunk"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="Sentences" TIER_ID="Sentences-Focus"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="Sentences" TIER_ID="Chunks"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="Tokens" TIER_ID="PoS">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7328" ANNOTATION_REF="a5187">
@@ -11310,7 +11310,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="focus" PARENT_REF="S-chunk" TIER_ID="S-chunk-focus"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="focus" PARENT_REF="Chunks" TIER_ID="Chunk-Focus"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="utterance" TIER_ID="Credits">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5182" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">

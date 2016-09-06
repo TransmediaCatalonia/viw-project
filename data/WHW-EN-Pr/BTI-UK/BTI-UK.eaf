@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-07-14T10:29:53+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
-    <HEADER MEDIA-FILE="" TIME_UNITS="milliseconds">
-        <MEDIA-DESCRIPTOR MEDIA_URL="file:///C:/Users/amatamala/Desktop/UAB/What/BTI_UK/MASTERCOMP_ENG_WHW_AD_MIX_1.mp4" MIME_TYPE="video/mp4"/>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-09-06T11:46:08+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:54a6f9c4-b5c2-4764-90d6-9a17550fd56b</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">3350</PROPERTY>
     </HEADER>
@@ -117,7 +116,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="851210"/>
         <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="863140"/>
     </TIME_ORDER>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="utterance" TIER_ID="AD-en">
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="utterance" TIER_ID="AD-unit">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog stops to sniff at something on the sand.</ANNOTATION_VALUE>
@@ -339,9 +338,9 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="focus" PARENT_REF="AD-en" TIER_ID="AD-Focus"/>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="words" PARENT_REF="AD-en" TIER_ID="AD-Sentences"/>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-en" TIER_ID="Tokens">
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="focus" PARENT_REF="AD-unit" TIER_ID="AD-Focus"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="words" PARENT_REF="AD-unit" TIER_ID="Sentences"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-unit" TIER_ID="Tokens">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a58">
                 <ANNOTATION_VALUE>In</ANNOTATION_VALUE>
@@ -4368,8 +4367,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-Sentences" TIER_ID="Sentences-Focus"/>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="AD-Sentences" TIER_ID="S-chunk"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="Sentences" TIER_ID="Sentences-Focus"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="Sentences" TIER_ID="Chunks"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="Tokens" TIER_ID="PoS">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2546" ANNOTATION_REF="a126">
@@ -12424,7 +12423,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="focus" PARENT_REF="S-chunk" TIER_ID="S-chunk-focus"/>
+    <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="focus" PARENT_REF="Chunks" TIER_ID="Chunk-Focus"/>
     <TIER DEFAULT_LOCALE="ca" LINGUISTIC_TYPE_REF="utterance" TIER_ID="Credits">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">

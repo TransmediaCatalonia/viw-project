@@ -17,11 +17,9 @@
 *.mov
 *.wav
 *.docx
-*.doc
 *.zip
 *.001
 *.pfsx
-*.pdf
 *~
 *.gz
 *.BAK

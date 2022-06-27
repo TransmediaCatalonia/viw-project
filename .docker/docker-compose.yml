@@ -1,0 +1,23 @@
+version: "3.8"
+services:
+  php:
+    build:
+      context: ./php
+      args:
+        TIMEZONE: ${TIMEZONE}
+    volumes:
+      - ../:/var/www/symfony/
+    networks:
+      - symfony
+  nginx:
+    build:
+      context: ./nginx
+    volumes:
+      - ../:/var/www/symfony/
+    ports:
+      - 80:80
+    networks:
+      - symfony
+
+networks:
+  symfony:

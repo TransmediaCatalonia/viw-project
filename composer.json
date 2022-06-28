@@ -19,9 +19,12 @@
         "symfony/flex": "^1.17|^2",
         "symfony/framework-bundle": "5.4.*",
         "symfony/runtime": "5.4.*",
-        "symfony/yaml": "5.4.*"
-    },
-    "require-dev": {
+        "symfony/yaml": "5.4.*",
+        "doctrine/annotations": "^1.13",
+        "symfony/form": "5.4.*",
+        "twig/twig": "^2.0",
+        "symfony/twig-bundle": "5.4.*",
+        "symfony/asset": "5.4.*"
     },
     "scripts": {
         "post-install-cmd": [

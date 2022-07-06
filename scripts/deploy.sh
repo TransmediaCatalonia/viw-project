@@ -2,7 +2,7 @@
 
 FTPURL="ftp://${VIW_FTP_USER}:${VIW_FTP_PASS}@${VIW_FTP_HOST}"
 
-WEB_URL="http://${VIW_FTP_HOST}/web/"
+WEB_URL="http://${VIW_FTP_HOST}/easit-data/"
 
 RCD="/httpdocs"
 DELETE="--delete"

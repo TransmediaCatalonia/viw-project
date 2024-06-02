@@ -5,37 +5,32 @@
 
 namespace App\Controller;
 
+use DOMDocument;
+use DOMXpath;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\Routing\Annotation\Route;
-use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\Finder\Finder;
 use Symfony\Component\HttpFoundation\Response;
-use App\Utils\Metadata;
-use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
-use Symfony\Component\DomCrawler\Crawler;
+use Symfony\Component\Routing\Attribute\Route;
 
 class SearchController extends AbstractController
 {
-    /**
-     * @Route("/search")
-     */
-    public function searchXML()
+    #[Route(path: '/search')]
+    public function searchXML(): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $indexFile = $path . "/data/records.xml";
-        $languages = array();
-        $subjects = array();
+        $languages = [];
+        $subjects = [];
 
         if (file_exists($indexFile)) {
             // biuld domXpath
-            $doc = new \DOMDocument();
+            $doc = new DOMDocument();
             $doc->loadXml(file_get_contents($indexFile));
             $doc->preserveWhiteSpace = false;
-            $xpath = new \DOMXpath($doc);
+            $xpath = new DOMXpath($doc);
 
             // get corpus
             $allCorpus = $xpath->query("//corpus/@id");
-            $corp = array();
+            $corp = [];
             foreach ($allCorpus as $l) {
                 array_push($corp, trim(($l->nodeValue)));
             }
@@ -44,7 +39,7 @@ class SearchController extends AbstractController
 
             // get languages
             $allLanguages = $xpath->query("//language");
-            $langs = array();
+            $langs = [];
             foreach ($allLanguages as $l) {
                 array_push($langs, trim(($l->nodeValue)));
             }
@@ -53,7 +48,7 @@ class SearchController extends AbstractController
 
             // get providers
             $allSubjects = $xpath->query("//creator");
-            $pros = array();
+            $pros = [];
             foreach ($allSubjects as $l) {
                 array_push($pros, trim(($l->nodeValue)));
             }
@@ -62,7 +57,7 @@ class SearchController extends AbstractController
 
             // get expertisse
             $allSubjects = $xpath->query("//expertise");
-            $exps = array();
+            $exps = [];
             foreach ($allSubjects as $l) {
                 array_push($exps, trim(($l->nodeValue)));
             }
@@ -75,34 +70,30 @@ class SearchController extends AbstractController
 
         return $this->render(
             'Search/search.html.twig',
-            array('corpus' => $corpus, 'languages' => $languages, 'providers' => $providers, 'expertise' => $expertise)
+            ['corpus' => $corpus, 'languages' => $languages, 'providers' => $providers, 'expertise' => $expertise]
         );
     }
 
 
-    /**
-     * @Route("/search/{node}/{value}")
-     *
-     * Example: http://localhost:8000/search/language/CA
-     */
-    public function searchNode($node, $value)
+    #[Route(path: '/search/{node}/{value}')] // Example: http://localhost:8000/search/language/CA
+    public function searchNode($node, $value): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $indexFile = $path . "/data/records.xml";
-        $languages = array();
-        $subjects = array();
+        $languages = [];
+        $subjects = [];
         //var_dump($node,$value);
 
         if (file_exists($indexFile)) {
             // build domXpath
-            $doc = new \DOMDocument();
+            $doc = new DOMDocument();
             $doc->preserveWhiteSpace = false;
             $doc->loadXml(file_get_contents($indexFile));
 
-            $xpath = new \DOMXpath($doc);
+            $xpath = new DOMXpath($doc);
 
             // get results
-            $files = array();
+            $files = [];
             $query = "//record[" . $node . "='" . $value . "']";
             //var_dump($query);
             $results = $xpath->query($query);
@@ -114,7 +105,7 @@ class SearchController extends AbstractController
                 $title = $titles->item(0)->nodeValue;
                 #$descriptions = $result->getElementsByTagName( "description" );
                 #$description = $descriptions->item(0)->nodeValue;
-                $selectedFields = array();
+                $selectedFields = [];
                 array_push($selectedFields, $title, $dir[0], $dir[1]);
                 array_push($files, $selectedFields);
                 ksort($files);
@@ -130,7 +121,7 @@ class SearchController extends AbstractController
 
         return $this->render(
             'Search/results.html.twig',
-            array('node' => $node, 'value' => $value, 'files' => $files)
+            ['node' => $node, 'value' => $value, 'files' => $files]
         );
     }
 }

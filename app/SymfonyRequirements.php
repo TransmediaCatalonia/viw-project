@@ -168,7 +168,7 @@ class PhpIniRequirement extends Requirement
  */
 class RequirementCollection implements IteratorAggregate
 {
-    private $requirements = array();
+    private $requirements = [];
 
     /**
      * Gets the current RequirementCollection as an Iterator.
@@ -185,7 +185,7 @@ class RequirementCollection implements IteratorAggregate
      *
      * @param Requirement $requirement A Requirement instance
      */
-    public function add(Requirement $requirement)
+    public function add(Requirement $requirement): void
     {
         $this->requirements[] = $requirement;
     }
@@ -198,7 +198,7 @@ class RequirementCollection implements IteratorAggregate
      * @param string      $helpHtml    The help text formatted in HTML for resolving the problem
      * @param string|null $helpText    The help text (when null, it will be inferred from $helpHtml, i.e. stripped from HTML tags)
      */
-    public function addRequirement($fulfilled, $testMessage, $helpHtml, $helpText = null)
+    public function addRequirement($fulfilled, $testMessage, $helpHtml, $helpText = null): void
     {
         $this->add(new Requirement($fulfilled, $testMessage, $helpHtml, $helpText, false));
     }
@@ -211,7 +211,7 @@ class RequirementCollection implements IteratorAggregate
      * @param string      $helpHtml    The help text formatted in HTML for resolving the problem
      * @param string|null $helpText    The help text (when null, it will be inferred from $helpHtml, i.e. stripped from HTML tags)
      */
-    public function addRecommendation($fulfilled, $testMessage, $helpHtml, $helpText = null)
+    public function addRecommendation($fulfilled, $testMessage, $helpHtml, $helpText = null): void
     {
         $this->add(new Requirement($fulfilled, $testMessage, $helpHtml, $helpText, true));
     }
@@ -229,7 +229,7 @@ class RequirementCollection implements IteratorAggregate
      * @param string        $helpHtml          The help text formatted in HTML for resolving the problem (when null and $evaluation is a boolean a default help is derived)
      * @param string|null   $helpText          The help text (when null, it will be inferred from $helpHtml, i.e. stripped from HTML tags)
      */
-    public function addPhpIniRequirement($cfgName, $evaluation, $approveCfgAbsence = false, $testMessage = null, $helpHtml = null, $helpText = null)
+    public function addPhpIniRequirement($cfgName, $evaluation, $approveCfgAbsence = false, $testMessage = null, $helpHtml = null, $helpText = null): void
     {
         $this->add(new PhpIniRequirement($cfgName, $evaluation, $approveCfgAbsence, $testMessage, $helpHtml, $helpText, false));
     }
@@ -247,7 +247,7 @@ class RequirementCollection implements IteratorAggregate
      * @param string        $helpHtml          The help text formatted in HTML for resolving the problem (when null and $evaluation is a boolean a default help is derived)
      * @param string|null   $helpText          The help text (when null, it will be inferred from $helpHtml, i.e. stripped from HTML tags)
      */
-    public function addPhpIniRecommendation($cfgName, $evaluation, $approveCfgAbsence = false, $testMessage = null, $helpHtml = null, $helpText = null)
+    public function addPhpIniRecommendation($cfgName, $evaluation, $approveCfgAbsence = false, $testMessage = null, $helpHtml = null, $helpText = null): void
     {
         $this->add(new PhpIniRequirement($cfgName, $evaluation, $approveCfgAbsence, $testMessage, $helpHtml, $helpText, true));
     }
@@ -257,7 +257,7 @@ class RequirementCollection implements IteratorAggregate
      *
      * @param RequirementCollection $collection A RequirementCollection instance
      */
-    public function addCollection(RequirementCollection $collection)
+    public function addCollection(RequirementCollection $collection): void
     {
         $this->requirements = array_merge($this->requirements, $collection->all());
     }
@@ -279,7 +279,7 @@ class RequirementCollection implements IteratorAggregate
      */
     public function getRequirements()
     {
-        $array = array();
+        $array = [];
         foreach ($this->requirements as $req) {
             if (!$req->isOptional()) {
                 $array[] = $req;
@@ -296,7 +296,7 @@ class RequirementCollection implements IteratorAggregate
      */
     public function getFailedRequirements()
     {
-        $array = array();
+        $array = [];
         foreach ($this->requirements as $req) {
             if (!$req->isFulfilled() && !$req->isOptional()) {
                 $array[] = $req;
@@ -313,7 +313,7 @@ class RequirementCollection implements IteratorAggregate
      */
     public function getRecommendations()
     {
-        $array = array();
+        $array = [];
         foreach ($this->requirements as $req) {
             if ($req->isOptional()) {
                 $array[] = $req;
@@ -330,7 +330,7 @@ class RequirementCollection implements IteratorAggregate
      */
     public function getFailedRecommendations()
     {
-        $array = array();
+        $array = [];
         foreach ($this->requirements as $req) {
             if (!$req->isFulfilled() && $req->isOptional()) {
                 $array[] = $req;
@@ -376,7 +376,7 @@ class RequirementCollection implements IteratorAggregate
  */
 class SymfonyRequirements extends RequirementCollection
 {
-    const REQUIRED_PHP_VERSION = '5.3.3';
+    public const REQUIRED_PHP_VERSION = '5.3.3';
 
     /**
      * Constructor that initializes the requirements.
@@ -434,7 +434,7 @@ class SymfonyRequirements extends RequirementCollection
         }
 
         if (version_compare($installedPhpVersion, self::REQUIRED_PHP_VERSION, '>=')) {
-            $timezones = array();
+            $timezones = [];
             foreach (DateTimeZone::listAbbreviations() as $abbreviations) {
                 foreach ($abbreviations as $abbreviation) {
                     $timezones[$abbreviation['timezone_id']] = true;
@@ -505,7 +505,7 @@ class SymfonyRequirements extends RequirementCollection
         if (extension_loaded('suhosin')) {
             $this->addPhpIniRequirement(
                 'suhosin.executor.include.whitelist',
-                create_function('$cfgValue', 'return false !== stripos($cfgValue, "phar");'),
+                fn($cfgValue) => false !== stripos((string) $cfgValue, "phar"),
                 false,
                 'suhosin.executor.include.whitelist must be configured correctly in php.ini',
                 'Add "<strong>phar</strong>" to <strong>suhosin.executor.include.whitelist</strong> in php.ini<a href="#phpini">*</a>.'
@@ -523,7 +523,7 @@ class SymfonyRequirements extends RequirementCollection
 
             $this->addPhpIniRecommendation(
                 'xdebug.max_nesting_level',
-                create_function('$cfgValue', 'return $cfgValue > 100;'),
+                fn($cfgValue) => $cfgValue > 100,
                 true,
                 'xdebug.max_nesting_level should be above 100 in php.ini',
                 'Set "<strong>xdebug.max_nesting_level</strong>" to e.g. "<strong>250</strong>" in php.ini<a href="#phpini">*</a> to stop Xdebug\'s infinite recursion protection erroneously throwing a fatal error in your project.'
@@ -541,7 +541,7 @@ class SymfonyRequirements extends RequirementCollection
         if (extension_loaded('mbstring')) {
             $this->addPhpIniRequirement(
                 'mbstring.func_overload',
-                create_function('$cfgValue', 'return (int) $cfgValue === 0;'),
+                fn($cfgValue) => (int) $cfgValue === 0,
                 true,
                 'string functions should not be overloaded',
                 'Set "<strong>mbstring.func_overload</strong>" to <strong>0</strong> in php.ini<a href="#phpini">*</a> to disable function overloading by the mbstring extension.'
@@ -557,7 +557,7 @@ class SymfonyRequirements extends RequirementCollection
                 $r = new ReflectionClass('Sensio\Bundle\DistributionBundle\SensioDistributionBundle');
 
                 $contents = file_get_contents(dirname($r->getFileName()).'/Resources/skeleton/app/SymfonyRequirements.php');
-            } catch (ReflectionException $e) {
+            } catch (ReflectionException) {
                 $contents = '';
             }
             $this->addRecommendation(
@@ -689,7 +689,7 @@ class SymfonyRequirements extends RequirementCollection
 
             $this->addPhpIniRecommendation(
                 'intl.error_level',
-                create_function('$cfgValue', 'return (int) $cfgValue === 0;'),
+                fn($cfgValue) => (int) $cfgValue === 0,
                 true,
                 'intl.error_level should be 0 in php.ini',
                 'Set "<strong>intl.error_level</strong>" to "<strong>0</strong>" in php.ini<a href="#phpini">*</a> to inhibit the messages when an error occurs in ICU functions.'
@@ -760,15 +760,11 @@ class SymfonyRequirements extends RequirementCollection
         $size = ini_get('realpath_cache_size');
         $size = trim($size);
         $unit = strtolower(substr($size, -1, 1));
-        switch ($unit) {
-            case 'g':
-                return $size * 1024 * 1024 * 1024;
-            case 'm':
-                return $size * 1024 * 1024;
-            case 'k':
-                return $size * 1024;
-            default:
-                return (int) $size;
-        }
+        return match ($unit) {
+            'g' => $size * 1024 * 1024 * 1024,
+            'm' => $size * 1024 * 1024,
+            'k' => $size * 1024,
+            default => (int) $size,
+        };
     }
 }

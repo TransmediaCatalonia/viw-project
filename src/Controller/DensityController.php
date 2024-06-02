@@ -3,20 +3,13 @@
 namespace App\Controller;
 
 use App\Utils\Metadata;
+use DOMDocument;
+use DOMXpath;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\Routing\Annotation\Route;
-use Symfony\Component\HttpFoundation\Response;
-use Symfony\Component\Finder\Finder;
-use Symfony\Component\HttpFoundation\Request;
-
-use Symfony\Component\Form\AbstractType;
-use Symfony\Component\Form\FormBuilderInterface;
-use Symfony\Component\OptionsResolver\OptionsResolver;
-use Symfony\Component\Form\Extension\Core\Type\EmailType;
-use Symfony\Component\Form\Extension\Core\Type\TextType;
-use Symfony\Component\Form\Extension\Core\Type\RepeatedType;
-use Symfony\Component\Form\Extension\Core\Type\PasswordType;
 use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\Routing\Attribute\Route;
 
 class DensityController extends AbstractController
 {
@@ -29,9 +22,7 @@ class DensityController extends AbstractController
         $this->metadata = $metadata;
     }
 
-    /**
-     * @Route("/density", name="density")
-     */
+    #[Route(path: '/density', name: 'density')]
     public function listDensityFiles(Request $request)
     {
         $path = $this->getParameter('kernel.project_dir');
@@ -39,27 +30,20 @@ class DensityController extends AbstractController
         ## reads records.xml and gets records available into $files0
         $recordsFile = $path . "/data/records.xml";
         $records = $this->metadata->metadata($recordsFile);
-        $files0 = array();
+        $files0 = [];
         foreach ($records->record as $r) {
             $id = $r['id'];
             //$pair[0]=[$id];
-            $keys = array($id);
+            $keys = [$id];
             $pair = array_fill_keys($keys, $id);
             array_push($files0, $pair);
         }
 
 
         ## creates form with $files0 ## symphony3.0: 	->add('chooseTwoFiles', ChoiceType::class,  array(
-        $defaultData = array();
+        $defaultData = [];
         $form = $this->createFormBuilder($defaultData)
-            ->add('chooseTwoFiles', 'Symfony\Component\Form\Extension\Core\Type\ChoiceType', array(
-                'choices' => array($files0),
-                'multiple' => true,
-                'expanded' => true,
-                'choice_value' => function ($key) {
-                    return $key;
-                }
-            ))
+            ->add('chooseTwoFiles', ChoiceType::class, ['choices' => [$files0], 'multiple' => true, 'expanded' => true, 'choice_value' => fn($key) => $key])
             ->getForm();
 
         ## check if form already posted
@@ -73,27 +57,25 @@ class DensityController extends AbstractController
                     $error = "You can only choose TWO files!!";
                     return $this->render(
                         'density/density.html.twig',
-                        array('form' => $form->createView(), 'error' => $error));
+                        ['form' => $form, 'error' => $error]);
                 } elseif (count($d) < 2) {
                     $error = "You need TWO files!!";
                     return $this->render(
                         'density/density.html.twig',
-                        array('form' => $form->createView(), 'error' => $error));
+                        ['form' => $form, 'error' => $error]);
                 } else {
-                    return $this->redirectToRoute('density_graph', array('file1' => $d[0], 'file2' => $d[1]));
+                    return $this->redirectToRoute('density_graph', ['file1' => $d[0], 'file2' => $d[1]]);
                 }
             }
         } else {
             return $this->render(
                 'density/density.html.twig',
-                array('form' => $form->createView(), 'error' => $error));
+                ['form' => $form, 'error' => $error]);
         }
     }
 
-    /**
-     * @Route("/density/graph/{file1}/{file2}", name="density_graph")
-     */
-    public function graph($file1, $file2)
+    #[Route(path: '/density/graph/{file1}/{file2}', name: 'density_graph')]
+    public function graph($file1, $file2): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $indexFile = $path . "/data/records.xml";
@@ -101,14 +83,14 @@ class DensityController extends AbstractController
 
         if (file_exists($indexFile)) {
             // build domXpath
-            $doc = new \DOMDocument();
+            $doc = new DOMDocument();
             $doc->preserveWhiteSpace = false;
             $doc->loadXml(file_get_contents($indexFile));
 
-            $xpath = new \DOMXpath($doc);
+            $xpath = new DOMXpath($doc);
 
             // get results
-            $files = array();
+            $files = [];
             $query1 = "//record[@id='" . $file1 . "']";
             $query2 = "//record[@id='" . $file2 . "']";
             //var_dump($query);
@@ -133,13 +115,13 @@ class DensityController extends AbstractController
         $csvFile1 = file($data1);
         $csvFile2 = file($data2);
 
-        $maxValues = array();
-        $rows = array();
+        $maxValues = [];
+        $rows = [];
         foreach ($csvFile1 as $l) {
             $line = trim($l);
             $data = str_getcsv($line, "\t");
             if (count($data) > 2) {
-                $paths = explode("/", $data[4]);
+                $paths = explode("/", (string)$data[4]);
                 $file = substr($paths[2], 0, -4);
                 if ($file == $file1) {
                     $row = "";
@@ -157,7 +139,7 @@ class DensityController extends AbstractController
             $line = trim($l);
             $data = str_getcsv($line, "\t");
             if (count($data) > 2) {
-                $paths = explode("/", $data[4]);
+                $paths = explode("/", (string)$data[4]);
                 $file = substr($paths[2], 0, -4);
                 if ($file == $file2) {
                     $row = "";
@@ -174,7 +156,7 @@ class DensityController extends AbstractController
 
         return $this->render(
             'density/graph.html.twig',
-            array('key' => $data, 'lang1' => $file1, 'lang2' => $file2, 'maxValue' => $maxValue)
+            ['key' => $data, 'lang1' => $file1, 'lang2' => $file2, 'maxValue' => $maxValue]
         );
 
     }

@@ -4,9 +4,8 @@ namespace App\Controller;
 
 use App\Utils\CSV;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Component\HttpFoundation\Response;
-use Symfony\Component\Finder\Finder;
+use Symfony\Component\Routing\Attribute\Route;
 
 /**
  * Index:
@@ -30,11 +29,10 @@ class HitsController extends AbstractController
     {
         $this->csv = $csv;
     }
-    /**
-     * @Route("/hits/time/{subdir_id}/{dir_id}")
-     */
+
     ### reads 'Hits-All.txt' file and displays utterances in timeline (counting duration)
-    public function hitsTime($dir_id, $subdir_id)
+    #[Route(path: '/hits/time/{subdir_id}/{dir_id}')]
+    public function hitsTime($dir_id, $subdir_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/" . $subdir_id . "/";
@@ -43,15 +41,15 @@ class HitsController extends AbstractController
         $csvFile = file($file);
         #$data = [];
 
-        $rows = array();
-        $duration = array();
-        $lastTime = array();
+        $rows = [];
+        $duration = [];
+        $lastTime = [];
         $i = 1;
 
         foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t");
             if (count($data) > 2 & $i > 1) {
-                $paths = explode("/", $data[4]);
+                $paths = explode("/", (string)$data[4]);
                 $file = substr($paths[2], 0, -4);
                 if ($dir_id == $file) {
                     $time = $data[0] / 60000;    #beguin time (in seconds)
@@ -82,13 +80,13 @@ class HitsController extends AbstractController
         $max = max($duration);
 
         foreach ($duration as $key => $num) {
-            $devs[$key] = pow($num - $mean, 2);
+            $devs[$key] = ($num - $mean) ** 2;
         }
         $std = sqrt(array_sum($devs) / (count($devs) - 1));
 
         $var = 0.0;
         foreach ($duration as $i) {
-            $var += pow($i - $mean, 2);
+            $var += ($i - $mean) ** 2;
         }
         $var /= (false ? count($duration) - 1 : count($duration));
         ///////
@@ -96,18 +94,14 @@ class HitsController extends AbstractController
 
         return $this->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'duration in seconds',
-                'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
-                'maxValue' => $maxValue, 'path' => $subdir_id)
+            ['key' => $data, 'title' => $dir_id, 'type' => 'duration in seconds', 'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id]
         );
 
     }
 
-    /**
-     * @Route("/hits/timevisual/{subdir_id}/{dir_id}")
-     */
     ### reads 'Hits-All.txt' file and displays utterances in timeline + filmic info (counting duration)
-    public function hitsTimevisual($dir_id, $subdir_id)
+    #[Route(path: '/hits/timevisual/{subdir_id}/{dir_id}')]
+    public function hitsTimevisual($dir_id, $subdir_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/" . $subdir_id . "/";
@@ -116,15 +110,15 @@ class HitsController extends AbstractController
         $csvFile = file($file);
         #$data = [];
 
-        $rows = array();
-        $duration = array();
-        $lastTime = array();
+        $rows = [];
+        $duration = [];
+        $lastTime = [];
         $i = 1;
 
         foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t");
             if (count($data) > 2 & $i > 1) {
-                $paths = explode("/", $data[4]);
+                $paths = explode("/", (string)$data[4]);
                 $file = substr($paths[2], 0, -4);
                 if ($dir_id == $file) {
                     $time = $data[0] / 60000;    #beguin time (in seconds)
@@ -143,7 +137,7 @@ class HitsController extends AbstractController
         # Adds filmic info: returns ['time',null,null,1,'text']
         $corpusFile = $path . "/data/" . $subdir_id . "/Filmic-Hits.txt";
 
-        list($filmic_rows, $filmic_lastTime) = $this->csv->getFilmic($corpusFile);
+        [$filmic_rows, $filmic_lastTime] = $this->csv->getFilmic($corpusFile);
         $mergeR = array_merge($rows, $filmic_rows);
         $mergeT = array_merge($rows, $filmic_lastTime);
 
@@ -162,30 +156,26 @@ class HitsController extends AbstractController
         $max = max($duration);
 
         foreach ($duration as $key => $num) {
-            $devs[$key] = pow($num - $mean, 2);
+            $devs[$key] = ($num - $mean) ** 2;
         }
         $std = sqrt(array_sum($devs) / (count($devs) - 1));
 
         $var = 0.0;
         foreach ($duration as $i) {
-            $var += pow($i - $mean, 2);
+            $var += ($i - $mean) ** 2;
         }
         $var /= (false ? count($duration) - 1 : count($duration));
         ///////
 
         return $this->render(
             'hits/hitsVisual.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'Duration in seconds',
-                'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max,
-                'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id)
+            ['key' => $data, 'title' => $dir_id, 'type' => 'Duration in seconds', 'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id]
         );
     }
 
-    /**
-     * @Route("/hits/words/{subdir_id}/{dir_id}")
-     */
     ### reads Hits-All.txt file and displays utterances in timeline (counting words)
-    public function hitsWords($dir_id, $subdir_id)
+    #[Route(path: '/hits/words/{subdir_id}/{dir_id}')]
+    public function hitsWords($dir_id, $subdir_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/" . $subdir_id . "/";
@@ -194,20 +184,20 @@ class HitsController extends AbstractController
         $csvFile = file($file);
         #$data = [];
 
-        $rows = array();
-        $words = array();
-        $lastTime = array();
+        $rows = [];
+        $words = [];
+        $lastTime = [];
         #array_push($rows,'["time line", "words"]');
         $i = 1;
         foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t");
             if (count($data) > 2 & $i > 1) {
-                $paths = explode("/", $data[4]);
+                $paths = explode("/", (string)$data[4]);
                 $file = substr($paths[2], 0, -4);
                 if ($dir_id == $file) {
                     $row = "";
                     $d = $data[0] / 60000;
-                    $sentence = explode(" ", $data[3]);
+                    $sentence = explode(" ", (string)$data[3]);
                     $c = count($sentence);
                     array_push($words, $c);
                     $text = "'Num. words: " . $c . "'";
@@ -234,30 +224,26 @@ class HitsController extends AbstractController
         $max = max($words);
 
         foreach ($words as $key => $num) {
-            $devs[$key] = pow($num - $mean, 2);
+            $devs[$key] = ($num - $mean) ** 2;
         }
         $std = sqrt(array_sum($devs) / (count($devs) - 1));
 
         $var = 0.0;
         foreach ($words as $i) {
-            $var += pow($i - $mean, 2);
+            $var += ($i - $mean) ** 2;
         }
         $var /= (false ? count($words) - 1 : count($words));
         ///////
 
         return $this->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'Num. of words',
-                'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
-                'maxValue' => $maxValue, 'path' => $subdir_id)
+            ['key' => $data, 'title' => $dir_id, 'type' => 'Num. of words', 'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id]
         );
     }
 
-    /**
-     * @Route("/hits/wordsvisual/{subdir_id}/{dir_id}")
-     */
     ### reads Hits-All.txt file and displays utterances in timeline (counting words) plus Filmic info (shoots)
-    public function hitsWordsVisual($dir_id, $subdir_id)
+    #[Route(path: '/hits/wordsvisual/{subdir_id}/{dir_id}')]
+    public function hitsWordsVisual($dir_id, $subdir_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/" . $subdir_id . "/";
@@ -265,20 +251,20 @@ class HitsController extends AbstractController
 
         $csvFile = file($file);
 
-        $rows = array();
-        $words = array();
+        $rows = [];
+        $words = [];
         #array_push($rows,'["time line", "words"]');
         $i = 1;
         foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t");
             if (count($data) > 2 & $i > 1) {
-                $paths = explode("/", $data[4]);
+                $paths = explode("/", (string)$data[4]);
                 $file = substr($paths[2], 0, -4);
                 if ($dir_id == $file) {
                     $row = "";
                     $d = $data[0] / 60000;
                     //$text = "'" . $data[0] . "'" ;
-                    $sentence = explode(" ", $data[3]);
+                    $sentence = explode(" ", (string)$data[3]);
                     $c = count($sentence);
                     array_push($words, $c);
                     $text = "'Words: " . $c . "'";
@@ -293,7 +279,7 @@ class HitsController extends AbstractController
         # Adds filmic info: returns ['time',null,null,1,'text']
         $corpusFile = $path . "/data/" . $subdir_id . "/Filmic-Hits.txt";
 
-        list($filmic_rows, $filmic_lastTime) = $this->csv->getFilmic($corpusFile);
+        [$filmic_rows, $filmic_lastTime] = $this->csv->getFilmic($corpusFile);
         $mergeR = array_merge($rows, $filmic_rows);
         $mergeT = array_merge($rows, $filmic_lastTime);
 
@@ -313,31 +299,27 @@ class HitsController extends AbstractController
         $max = max($words);
 
         foreach ($words as $key => $num) {
-            $devs[$key] = pow($num - $mean, 2);
+            $devs[$key] = ($num - $mean) ** 2;
         }
         $std = sqrt(array_sum($devs) / (count($devs) - 1));
 
         $var = 0.0;
         foreach ($words as $i) {
-            $var += pow($i - $mean, 2);
+            $var += ($i - $mean) ** 2;
         }
         $var /= (false ? count($words) - 1 : count($words));
         ///////
 
         return $this->render(
             'hits/hitsVisual.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'num. of words',
-                'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max,
-                'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id)
+            ['key' => $data, 'title' => $dir_id, 'type' => 'num. of words', 'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id]
         );
     }
 
 
-    /**
-     * @Route("/hits/timewords/{subdir_id}/{dir_id}")
-     */
     ### reads Hits-All.txt file and displays utterances in timeline (counting time/words)
-    public function timewords($dir_id, $subdir_id)
+    #[Route(path: '/hits/timewords/{subdir_id}/{dir_id}')]
+    public function timewords($dir_id, $subdir_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/" . $subdir_id . "/";
@@ -346,22 +328,22 @@ class HitsController extends AbstractController
         $csvFile = file($file);
         #$data = [];
 
-        $rows = array();
-        $duration = array();
-        $lastTime = array();
+        $rows = [];
+        $duration = [];
+        $lastTime = [];
         $i = 1;
         foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t");
             if (count($data) > 2 & $i > 1) {
-                $paths = explode("/", $data[4]);
+                $paths = explode("/", (string)$data[4]);
                 $file = substr($paths[2], 0, -4);
                 if ($dir_id == $file) {
                     $row = "";
                     #$sentence = explode(" ", $data[3]);
-                    $vowels = array(" ", ",", ".", ";", "!", ":", "-");
+                    $vowels = [" ", ",", ".", ";", "!", ":", "-"];
                     $sentence = str_replace($vowels, "", $data[3]);
 
-                    $c = strlen(utf8_decode($sentence));
+                    $c = strlen(mb_convert_encoding($sentence, 'ISO-8859-1'));
                     $t = $data[0] / 60000;
 
                     #$x = $data[2] / str_word_count($data[3]);
@@ -392,13 +374,13 @@ class HitsController extends AbstractController
         $max = max($duration);
 
         foreach ($duration as $key => $num) {
-            $devs[$key] = pow($num - $mean, 2);
+            $devs[$key] = ($num - $mean) ** 2;
         }
         $std = sqrt(array_sum($devs) / (count($devs) - 1));
 
         $var = 0.0;
         foreach ($duration as $i) {
-            $var += pow($i - $mean, 2);
+            $var += ($i - $mean) ** 2;
         }
         $var /= (false ? count($duration) - 1 : count($duration));
         ///////
@@ -406,17 +388,13 @@ class HitsController extends AbstractController
 
         return $this->render(
             'hits/Hits.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'characters/second',
-                'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var,
-                'maxValue' => $maxValue, 'path' => $subdir_id)
+            ['key' => $data, 'title' => $dir_id, 'type' => 'characters/second', 'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id]
         );
     }
 
-    /**
-     * @Route("/hits/timewordsvisual/{subdir_id}/{dir_id}")
-     */
     ### reads Hits-All.txt file and displays utterances in timeline + visual info (counting time/words)
-    public function timewordsvisual($dir_id, $subdir_id)
+    #[Route(path: '/hits/timewordsvisual/{subdir_id}/{dir_id}')]
+    public function timewordsvisual($dir_id, $subdir_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/" . $subdir_id . "/";
@@ -425,22 +403,22 @@ class HitsController extends AbstractController
         $csvFile = file($file);
         #$data = [];
 
-        $rows = array();
-        $duration = array();
-        $lastTime = array();
+        $rows = [];
+        $duration = [];
+        $lastTime = [];
         $i = 1;
         foreach ($csvFile as $line) {
             $data = str_getcsv($line, "\t");
             if (count($data) > 2 & $i > 1) {
-                $paths = explode("/", $data[4]);
+                $paths = explode("/", (string)$data[4]);
                 $file = substr($paths[2], 0, -4);
                 if ($dir_id == $file) {
                     $row = "";
                     #$sentence = explode(" ", $data[3]);
-                    $vowels = array(" ", ",", ".", ";", "!", ":", "-");
+                    $vowels = [" ", ",", ".", ";", "!", ":", "-"];
                     $sentence = str_replace($vowels, "", $data[3]);
 
-                    $c = strlen(utf8_decode($sentence));
+                    $c = strlen(mb_convert_encoding($sentence, 'ISO-8859-1'));
                     $t = $data[0] / 60000;
 
                     #$x = $data[2] / str_word_count($data[3]);
@@ -459,7 +437,7 @@ class HitsController extends AbstractController
         # Adds filmic info: returns ['time',null,null,1,'text']
         $corpusFile = $path . "/data/" . $subdir_id . "/Filmic-Hits.txt";
 
-        list($filmic_rows, $filmic_lastTime) = $this->csv->getFilmic($corpusFile);
+        [$filmic_rows, $filmic_lastTime] = $this->csv->getFilmic($corpusFile);
         $mergeR = array_merge($rows, $filmic_rows);
         $mergeT = array_merge($rows, $filmic_lastTime);
 
@@ -478,32 +456,26 @@ class HitsController extends AbstractController
         $max = max($duration);
 
         foreach ($duration as $key => $num) {
-            $devs[$key] = pow($num - $mean, 2);
+            $devs[$key] = ($num - $mean) ** 2;
         }
         $std = sqrt(array_sum($devs) / (count($devs) - 1));
 
         $var = 0.0;
         foreach ($duration as $i) {
-            $var += pow($i - $mean, 2);
+            $var += ($i - $mean) ** 2;
         }
         $var /= (false ? count($duration) - 1 : count($duration));
         ///////
 
         return $this->render(
             'hits/hitsVisual.html.twig',
-            array('key' => $data, 'title' => $dir_id, 'type' => 'characters/second',
-                'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max,
-                'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id)
+            ['key' => $data, 'title' => $dir_id, 'type' => 'characters/second', 'mean' => $mean, 'median' => $median, 'min' => $min, 'max' => $max, 'std' => $std, 'var' => $var, 'maxValue' => $maxValue, 'path' => $subdir_id]
         );
     }
 
-    /**
-     * @Route("/words/{corpus}/{subdir_id}/{file_id}", requirements={"corpus": "corpus"}  )
-     *
-     * we set corpus to 'corpus' (silly thing to avoid routing errors with next function)
-     */
     ## reads countWords.txt file (for corpus) and displays some figures
-    public function wordsCorpus($subdir_id, $file_id)
+    #[Route(path: '/words/{corpus}/{subdir_id}/{file_id}', requirements: ['corpus' => 'corpus'])] // we set corpus to 'corpus' (silly thing to avoid routing errors with next function)
+    public function wordsCorpus($subdir_id, $file_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/" . $subdir_id . "/";
@@ -512,12 +484,12 @@ class HitsController extends AbstractController
         $lines = file($file);
         #$data = [];
 
-        $rows = array();
-        $pWords = array();
-        $sValues = array();
-        $rows2 = array();
-        $sWords = array();
-        $all = array();
+        $rows = [];
+        $pWords = [];
+        $sValues = [];
+        $rows2 = [];
+        $sWords = [];
+        $all = [];
 
 
         foreach ($lines as $line) {
@@ -563,16 +535,14 @@ class HitsController extends AbstractController
         $back = "corpus/" . $subdir_id;
         return $this->render(
             'hits/words.html.twig',
-            array('key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $subdir_id, 'type' => 'num. of words', 'back' => $back)
+            ['key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $subdir_id, 'type' => 'num. of words', 'back' => $back]
         );
     }
 
 
-    /**
-     * @Route("/words/{subdir_id}/{dir_id}/{file_id}")
-     */
     ## reads countWords.txt file (for files) and displays some figures
-    public function words($file_id, $dir_id, $subdir_id)
+    #[Route(path: '/words/{subdir_id}/{dir_id}/{file_id}')]
+    public function words($file_id, $dir_id, $subdir_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/" . $subdir_id . "/" . $dir_id . "/";
@@ -581,12 +551,12 @@ class HitsController extends AbstractController
         $lines = file($file);
         #$data = [];
 
-        $rows = array();
-        $pWords = array();
-        $sValues = array();
-        $rows2 = array();
-        $sWords = array();
-        $all = array();
+        $rows = [];
+        $pWords = [];
+        $sValues = [];
+        $rows2 = [];
+        $sWords = [];
+        $all = [];
 
 
         foreach ($lines as $line) {
@@ -632,16 +602,14 @@ class HitsController extends AbstractController
         $back = "metadata/" . $subdir_id . "/" . $dir_id;
         return $this->render(
             'hits/words.html.twig',
-            array('key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $dir_id, 'type' => 'num. of words', 'back' => $back)
+            ['key' => $data, 'all' => $all, 'key2' => $data2, 'title' => $dir_id, 'type' => 'num. of words', 'back' => $back]
         );
     }
 
-    /**
-     * @Route("/hits/timeline/{corpus_id}")
-     */
     ## reads Hits-All.txt file (for files) and displays data in timeline,
     ##
-    public function timeline($corpus_id)
+    #[Route(path: '/hits/timeline/{corpus_id}')]
+    public function timeline($corpus_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/" . $corpus_id . "/";
@@ -649,8 +617,8 @@ class HitsController extends AbstractController
 
         $lines = file($file);
 
-        $rows = array();
-        $data = array();
+        $rows = [];
+        $data = [];
         # 176450	177010	560	S'atura.	AccessFriendly-CA.eaf
         foreach ($lines as $l) {
             $line = trim($l);
@@ -687,16 +655,14 @@ class HitsController extends AbstractController
 
         return $this->render(
             'hits/timeline.html.twig',
-            array('key' => $data, 'corpus' => $corpus_id)
+            ['key' => $data, 'corpus' => $corpus_id]
         );
     }
 
-    /**
-     * @Route("/hits/timelinejs/{corpus_id}")
-     */
     ## reads Hits-All.txt file (for files) and displays data in timeline,
     ##
-    public function timelinejs($corpus_id)
+    #[Route(path: '/hits/timelinejs/{corpus_id}')]
+    public function timelinejs($corpus_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/" . $corpus_id . "/";
@@ -704,9 +670,9 @@ class HitsController extends AbstractController
 
         $lines = file($file);
 
-        $rows = array();
-        $data = array();
-        $times = array();
+        $rows = [];
+        $data = [];
+        $times = [];
         # 176450	177010	560	S'atura.	AccessFriendly-CA.eaf
         # [new Date(t.getTime()+759230), ,"Blackness.", "SDI-Media-UK.eaf"],
         foreach ($lines as $l) {
@@ -730,7 +696,7 @@ class HitsController extends AbstractController
 
         return $this->render(
             'default/timelineCorpus.html.twig',
-            array('key' => $data, 'corpus' => $corpus_id, 'start' => $start)
+            ['key' => $data, 'corpus' => $corpus_id, 'start' => $start]
         );
     }
 

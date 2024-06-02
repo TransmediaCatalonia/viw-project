@@ -1,4 +1,4 @@
-FROM php:7.4.29-fpm
+FROM php:8.2.19-fpm
 
 RUN apt update && \
     apt install -y git libzip-dev

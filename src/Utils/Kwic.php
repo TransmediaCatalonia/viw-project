@@ -16,16 +16,16 @@ class Kwic
      */
     function kwic($str1,$str2) {
    
-    $kwicLen = strlen($str1);
+    $kwicLen = strlen((string) $str1);
 
-    $kwicArray = array();
+    $kwicArray = [];
     $pos          = 0;
     $count       = 0;
 
     while($pos !== FALSE) {
-        $pos = stripos($str2,$str1,$pos); 
+        $pos = stripos((string) $str2,(string) $str1,$pos); 
         if($pos !== FALSE) {
-            $kwicArray[$count]['kwic'] = substr($str2,$pos,$kwicLen);
+            $kwicArray[$count]['kwic'] = substr((string) $str2,$pos,$kwicLen);
             $kwicArray[$count++]['pos']  = $pos;
             $pos++;
         }
@@ -50,16 +50,16 @@ class Kwic
      */
 function kwicCorpus($str1,$str2) {
    
-    $kwicLen = strlen($str1);
+    $kwicLen = strlen((string) $str1);
 
-    $kwicArray = array();
+    $kwicArray = [];
     $pos          = 0;
     $count       = 0;
 
     while($pos !== FALSE) {
-        $pos = stripos($str2,$str1,$pos); 
+        $pos = stripos((string) $str2,(string) $str1,$pos); 
         if($pos !== FALSE) {
-            $kwicArray[$count]['kwic'] = substr($str2,$pos,$kwicLen);
+            $kwicArray[$count]['kwic'] = substr((string) $str2,$pos,$kwicLen);
             $kwicArray[$count++]['pos']  = $pos;
             $pos++;
         }

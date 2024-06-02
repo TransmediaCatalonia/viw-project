@@ -2,12 +2,12 @@
 
 namespace App\Controller;
 
-use Symfony\Component\Routing\Annotation\Route;
-use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\HttpFoundation\Response;
-use Symfony\Component\Finder\Finder;
 use App\Utils\Metadata;
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
+use Symfony\Component\Finder\Finder;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpFoundation\ResponseHeaderBag;
+use Symfony\Component\Routing\Attribute\Route;
 
 class DefaultController extends AbstractController
 {
@@ -20,38 +20,29 @@ class DefaultController extends AbstractController
         $this->metadata = $metadata;
     }
 
-    /**
-     * @Route("/", name="homepage")
-     */
-    public function indexAction(Request $request)
+    #[Route(path: '/', name: 'homepage')]
+    public function index(): Response
     {
         $path = $this->getParameter('kernel.project_dir');
-
         ## reads records.xml and lists records available
         $recordsFile = $path . "/data/records.xml";
         $records = $this->metadata->metadata($recordsFile);
-//	$records = $this->get('app.utils.metadata')->metadata($recordsFile);
-
-        $corpora = array();
+        //	$records = $this->get('app.utils.metadata')->metadata($recordsFile);
+        $corpora = [];
         foreach ($records->corpus as $c) {
             $id = (string)$c['id'];
             $corpora[$id] = (string)$c->description;
         }
         #var_dump($corpora);
-
-
         $help = "You can choose one corpus to work with ...";
         return $this->render(
             'default/indexCorpus.html.twig',
-            array('corpus' => $corpora, 'help' => $help)
+            ['corpus' => $corpora, 'help' => $help]
         );
-
     }
 
-    /**
-     * @Route("/corpus/{corpus_id}/", name="_corpusAction")
-     */
-    public function corpusAction($corpus_id)
+    #[Route(path: '/corpus/{corpus_id}/', name: '_corpusAction')]
+    public function corpus($corpus_id): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/";
@@ -62,7 +53,7 @@ class DefaultController extends AbstractController
         $records = $this->metadata->metadata($recordsFile);
 
         ##gets metadata for corpus
-        $metadata = array();
+        $metadata = [];
         $language;
         foreach ($records->corpus as $r) {
             $att = 'id';
@@ -74,7 +65,7 @@ class DefaultController extends AbstractController
         }
 
         ## looks for corpus' files
-        $files = array();
+        $files = [];
         foreach ($records->record as $r) {
             if ($r->corpus == $corpus_id) {
                 #array_push($files,$r->source);
@@ -135,23 +126,13 @@ class DefaultController extends AbstractController
 
         return $this->render(
             'default/metadataCorpus.html.twig',
-            array('metadata' => $metadata,
-                'words' => $words,
-                'corpus' => $corpus_id,
-                'corpusfile' => $corpusfile,
-                'similarity' => $similarity,
-                'sem' => $sem,
-                'hits_timeline' => $hits_timeline,
-                'files' => $files,
-                'filmic' => $filmic)
+            ['metadata' => $metadata, 'words' => $words, 'corpus' => $corpus_id, 'corpusfile' => $corpusfile, 'similarity' => $similarity, 'sem' => $sem, 'hits_timeline' => $hits_timeline, 'files' => $files, 'filmic' => $filmic]
         );
     }
 
 
-    /**
-     * @Route("/metadata/{dir_id}/{file_id}", name="_metadata")
-     */
-    public function fileAction($dir_id, $file_id)
+    #[Route(path: '/metadata/{dir_id}/{file_id}', name: '_metadata')]
+    public function file_metadata($dir_id, $file_id, string $disposition = ResponseHeaderBag::DISPOSITION_ATTACHMENT): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $dataDir = $path . "/data/";
@@ -228,17 +209,25 @@ class DefaultController extends AbstractController
 
         return $this->render(
             'default/metadata.html.twig',
-            array('record' => $record,        # all metadata stuff from record
-                'title' => $title,        # file's title
-                'subdir' => $subdir,        # $subdir = $dir_id . "/" . $file_id;
-                'corpus' => $corpus,        # file's corpus
-                'langdir' => $dir_id,        # corpus dir
+            [
+                'record' => $record,
+                # all metadata stuff from record
+                'title' => $title,
+                # file's title
+                'subdir' => $subdir,
+                # $subdir = $dir_id . "/" . $file_id;
+                'corpus' => $corpus,
+                # file's corpus
+                'langdir' => $dir_id,
+                # corpus dir
                 'html' => $html,
                 'eaf' => $eaf,
                 'hits' => $hits,
                 'words' => $words,
-                'verbs' => $verbs,        # semverb.csv (only for if exists purposes)
-                'sentences' => "sentences.txt")
+                'verbs' => $verbs,
+                # semverb.csv (only for if exists purposes)
+                'sentences' => "sentences.txt",
+            ]
         );
     }
 }

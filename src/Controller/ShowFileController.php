@@ -4,18 +4,12 @@
 namespace App\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\Routing\Annotation\Route;
-use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\Finder\Finder;
 use Symfony\Component\HttpFoundation\Response;
-use App\Utils\Metadata;
-use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
+use Symfony\Component\Routing\Attribute\Route;
 
 class ShowFileController extends AbstractController
 {
-    /**
-     * @Route("/show/{dir_id}/{subdir_id}/{file_id}", defaults={"file_id" = "null"})
-     */
+    #[Route(path: '/show/{dir_id}/{subdir_id}/{file_id}', defaults: ['file_id' => 'null'])]
     public function showFile($file_id, $dir_id, $subdir_id)
     {
         $path = $this->getParameter('kernel.project_dir');
@@ -29,13 +23,9 @@ class ShowFileController extends AbstractController
 
         if (file_exists($file)) {
 
-            $options = array('http' => array(
-                'method' => 'POST',
-                'content' => $file,
-                'header' =>
-                    "Content-Type: text/plain\r\n" .
-                    "Content-Length: " . strlen($file) . "\r\n"
-            ));
+            $options = ['http' => ['method' => 'POST', 'content' => $file, 'header' =>
+                "Content-Type: text/plain\r\n" .
+                "Content-Length: " . strlen($file) . "\r\n"]];
             $context = stream_context_create($options);
 
             return new Response(file_get_contents($file, false, $context));

@@ -3,21 +3,13 @@
 namespace App\Controller;
 
 use App\Utils\Kwic;
-
+use DOMDocument;
+use DOMXpath;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\Routing\Annotation\Route;
-use Symfony\Component\HttpFoundation\Response;
-use Symfony\Component\Finder\Finder;
-use Symfony\Component\HttpFoundation\Request;
-
-use Symfony\Component\Form\AbstractType;
-use Symfony\Component\Form\FormBuilderInterface;
-use Symfony\Component\OptionsResolver\OptionsResolver;
-use Symfony\Component\Form\Extension\Core\Type\EmailType;
 use Symfony\Component\Form\Extension\Core\Type\TextType;
-use Symfony\Component\Form\Extension\Core\Type\RepeatedType;
-use Symfony\Component\Form\Extension\Core\Type\PasswordType;
-use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\Routing\Attribute\Route;
 
 class KwicController extends AbstractController
 {
@@ -29,27 +21,26 @@ class KwicController extends AbstractController
     {
         $this->kwic = $kwic;
     }
-    /**
-     * @Route("/kwic", name="kwicHome")
-     */
+
     ## simple search facility for Corpus. Lists corpora available.
-    public function concordancerHome()
+    #[Route(path: '/kwic', name: 'kwicHome')]
+    public function concordancerHome(): Response
     {
         $path = $this->getParameter('kernel.project_dir');
         $indexFile = $path . "/data/records.xml";
-        $languages = array();
-        $subjects = array();
+        $languages = [];
+        $subjects = [];
 
         if (file_exists($indexFile)) {
             // biuld domXpath
-            $doc = new \DOMDocument();
+            $doc = new DOMDocument();
             $doc->loadXml(file_get_contents($indexFile));
             $doc->preserveWhiteSpace = false;
-            $xpath = new \DOMXpath($doc);
+            $xpath = new DOMXpath($doc);
 
             // get corpus
             $allCorpus = $xpath->query("//corpus/@id");
-            $corp = array();
+            $corp = [];
             foreach ($allCorpus as $l) {
                 array_push($corp, trim(($l->nodeValue)));
             }
@@ -58,16 +49,14 @@ class KwicController extends AbstractController
 
         return $this->render(
             'kwic/kwicHome.html.twig',
-            array('corpus' => $corpus, 'title' => ""));
+            ['corpus' => $corpus, 'title' => ""]);
     }
 
 
-    /**
-     * @Route("/kwic/{corpus}", name="kwic")
-     */
     ## simple search facility for Corpus (searches on 'Hits-All.txt' file with format: [utterance, source.file])
     ## allows for string search on Hits-All.txt file. Displays matching utterances (together with link to source file)
-    public function concordancer($corpus, Request $request)
+    #[Route(path: '/kwic/{corpus}', name: 'kwic')]
+    public function concordancer($corpus, Request $request): Response
     {
         ## gets data from CSV.php controller
         $path = $this->getParameter('kernel.project_dir');
@@ -75,7 +64,7 @@ class KwicController extends AbstractController
         $file = $dataDir . "/Hits-All.txt";
 
         ## creates form with textarea
-        $defaultData = array();
+        $defaultData = [];
         $form = $this->createFormBuilder($defaultData)
             ->add('word', TextType::class)
             ->getForm();
@@ -96,8 +85,8 @@ class KwicController extends AbstractController
 
                 $content = file_get_contents($file);
                 $lines = explode(PHP_EOL, $content);
-                $values = array();
-                $files = array();
+                $values = [];
+                $files = [];
                 foreach ($lines as $l) {
                     $string = explode("\t", $l);
                     if (count($string) > 1) {
@@ -107,7 +96,7 @@ class KwicController extends AbstractController
                         #var_dump($string);print "<br/>";
                         $result = $this->kwic->kwic($d, $string[3]);
                         if ($result != "") {
-                            array_push($values, array($result, $link));
+                            array_push($values, [$result, $link]);
                             if (!in_array($link, $files)) array_push($files, $link);
                         }
                     }
@@ -118,21 +107,19 @@ class KwicController extends AbstractController
                 $title = "'$d' was found in $c AD units in $cc files";
                 return $this->render(
                     'kwic/kwic.html.twig',
-                    array('form' => $form->createView(), 'error' => $error, 'result' => $values, 'corpus' => $corpus, 'title' => $title));
+                    ['form' => $form, 'error' => $error, 'result' => $values, 'corpus' => $corpus, 'title' => $title]);
             }
         } else {
             return $this->render(
                 'kwic/kwic.html.twig',
-                array('form' => $form->createView(), 'error' => $error, 'result' => "", 'corpus' => $corpus, 'title' => ""));
+                ['form' => $form, 'error' => $error, 'result' => "", 'corpus' => $corpus, 'title' => ""]);
         }
     }
 
-    /**
-     * @Route("/kwic/corpus/{dir}/{corpus}", name="kwiccorpus")
-     */
     ## simple search facility for file (sentences.txt file).
     ## displays sentences.txt file and allows for string search. Displays text with matching strings in red
-    public function showcorpus($dir, $corpus, Request $request)
+    #[Route(path: '/kwic/corpus/{dir}/{corpus}', name: 'kwiccorpus')]
+    public function showcorpus($dir, $corpus, Request $request): Response
     {
         #var_dump($corpus);
         ##
@@ -141,7 +128,7 @@ class KwicController extends AbstractController
         $file = $dataDir . "/data/sentences.txt";
 
         ## creates form with textarea
-        $defaultData = array();
+        $defaultData = [];
         $form = $this->createFormBuilder($defaultData)
             ->add('word', TextType::class)
             ->getForm();
@@ -160,12 +147,12 @@ class KwicController extends AbstractController
                 $title = "Looking for '$d' in $corpus'";
                 return $this->render(
                     'kwic/kwicCorpus.html.twig',
-                    array('form' => $form->createView(), 'error' => $error, 'result' => $result, 'dir' => $dir, 'corpus' => $corpus, 'title' => $title));
+                    ['form' => $form, 'error' => $error, 'result' => $result, 'dir' => $dir, 'corpus' => $corpus, 'title' => $title]);
             }
         } else {
             return $this->render(
                 'kwic/kwicCorpus.html.twig',
-                array('form' => $form->createView(), 'error' => $error, 'result' => $content, 'dir' => $dir, 'corpus' => $corpus, 'title' => ""));
+                ['form' => $form, 'error' => $error, 'result' => $content, 'dir' => $dir, 'corpus' => $corpus, 'title' => ""]);
         }
     }
 }

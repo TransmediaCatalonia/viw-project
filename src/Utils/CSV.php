@@ -35,15 +35,15 @@ class CSV
     public function getLemmaSemFreq($csvFile,$pos,$provider)
     {
 	$nWords = 0;
-	$words = array();
-	$result = array();
+	$words = [];
+	$result = [];
 	## reads csv file into $data array (input format: "Annotation1-1","Annotation2-1","Annotation3-1","TranscriptionName")
 	## Human,9746,hombre,9746,NCMS000,9746,"Aptent-ES.eaf"
 
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
 	
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) {
 		if ($provider == "") {
   			$csv[] = array_combine($header, $row);
@@ -55,10 +55,10 @@ class CSV
 
 
 	foreach ($csv as $data) {
-	   if ( ( ($pos == 'N') && ( 0 === strpos($data['Annotation3-1'], $pos) ) ) ||
-	        ( ($pos == 'V') && ( 0 === strpos($data['Annotation3-1'], $pos) ) && ( 0 !== strpos($data['Annotation1-1'], 'A') ) ) ||
-		( ($pos == 'A') && ( ( 0 === strpos($data['Annotation3-1'], $pos) ) || (0 === strpos($data['Annotation3-1'], 'VMP')) || (0 === strpos($data['Annotation3-1'], 'JJ')) )) ||
-		( ($pos == 'R') && ( ( 0 === strpos($data['Annotation3-1'], $pos)) || ( 0 === strpos($data['Annotation3-1'], 'R')) ) ) 
+	   if ( ( ($pos == 'N') && ( str_starts_with((string) $data['Annotation3-1'], (string) $pos) ) ) ||
+	        ( ($pos == 'V') && ( str_starts_with((string) $data['Annotation3-1'], (string) $pos) ) && ( !str_starts_with((string) $data['Annotation1-1'], 'A') ) ) ||
+		( ($pos == 'A') && ( ( str_starts_with((string) $data['Annotation3-1'], (string) $pos) ) || (str_starts_with((string) $data['Annotation3-1'], 'VMP')) || (str_starts_with((string) $data['Annotation3-1'], 'JJ')) )) ||
+		( ($pos == 'R') && ( ( str_starts_with((string) $data['Annotation3-1'], (string) $pos)) || ( str_starts_with((string) $data['Annotation3-1'], 'R')) ) ) 
 		) {
 		$word = $data['Annotation2-1'];
 		$sem = $data['Annotation1-1'];
@@ -77,17 +77,14 @@ class CSV
 		//checks word, if new -> initialise & adds it in $result
 		else { 
 			array_push($words,$word_sem);
-			$d = array(
-		    	'lemma' => $word_sem,
-		    	'freq' => 1,
-			);
+			$d = ['lemma' => $word_sem, 'freq' => 1];
 			array_push($result,$d); 
 		} 
 	   } 
         }
 	#var_dump($result);
 	# arrange results 
-	$values = array();
+	$values = [];
 	$headers = "['Lemma','SemClass','Frequency']";
 	array_push($values, $headers);
 	foreach ( $result as $key ){ 
@@ -97,7 +94,7 @@ class CSV
 		array_push($values, $val);
 	}
 	#var_dump($values);
-        return array($values,$result);
+        return [$values, $result];
     }
 
 /**
@@ -112,14 +109,14 @@ class CSV
     public function getLemmaPoSFreq($csvFile,$provider)
     {
 	$nWords = 0;
-	$words = array();
-	$result = array();
+	$words = [];
+	$result = [];
 	## reads ﻿"Annotation1-1","BeginTime","Annotation2-1","BeginTime","Annotation3-1","BeginTime","TranscriptionName"
 
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
 	
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) { 
 		if ($provider == "") {
   			$csv[] = array_combine($header, $row);
@@ -151,18 +148,14 @@ class CSV
 		//checks word, if new -> initialise & adds it in $result
 		else {
 			array_push($words,$word);
-			$d = array(
-		    	'lemma' => $word,
-			'pos' => $data['Annotation3-1'][0],
-		    	'freq' => 1,
-			);
+			$d = ['lemma' => $word, 'pos' => $data['Annotation3-1'][0], 'freq' => 1];
 			array_push($result,$d);
 		} 
 	    
         }
 
 	# arrange results 
-	$values = array(); 
+	$values = []; 
 	$headers = "['Lemma','PoS','Frequency']";
 	array_push($values, $headers);
 	foreach ( $result as $key ){ 
@@ -180,7 +173,7 @@ class CSV
 		}
 	}
 	#var_dump($values);
-        return array($values,$result);
+        return [$values, $result];
     }
 
 
@@ -194,16 +187,16 @@ class CSV
 	##﻿csv: "Annotation1-1","BeginTime","Annotation2-1","BeginTime","Annotation3-1","BeginTime","TranscriptionName"
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);	
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) {
   		$csv[] = array_combine($header, $row);
 	}  
         #var_dump($csv[2]);
-	$result_v = array();$result_n = array();$result_a = array();$result_r = array();
+	$result_v = [];$result_n = [];$result_a = [];$result_r = [];
 	
 	foreach ($csv as $c) { 
 	#if ($pos == "V"){
-	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
+	   if ((str_starts_with((string) $c['Annotation3-1'], "VM") && !str_starts_with((string) $c['Annotation3-1'], "VMP")) || str_starts_with((string) $c['Annotation3-1'], "VB")){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
@@ -212,8 +205,8 @@ class CSV
 		##initialize the result for this fileName because it doesnt exist yet
   		if (!isset($result_v[$fileName])) {
 			$v = 1 ;
-    			$result_v[$fileName] = array();
-			$result_v[$fileName]['verbs'] = array();
+    			$result_v[$fileName] = [];
+			$result_v[$fileName]['verbs'] = [];
 		}
 		++$v; 
                 $result_v[$fileName]['lemma'] = $v;
@@ -221,7 +214,7 @@ class CSV
 	   }
 	#}
 	#if ($pos == "N"){
-	   elseif (substr($c['Annotation3-1'], 0, 1 ) === "N"){
+	   elseif (str_starts_with((string) $c['Annotation3-1'], "N")){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
@@ -230,8 +223,8 @@ class CSV
 		##initialize the result for this fileName because it doesnt exist yet
   		if (!isset($result_n[$fileName])) {
 			$n = 1 ;
-    			$result_n[$fileName] = array();
-			$result_n[$fileName]['verbs'] = array();
+    			$result_n[$fileName] = [];
+			$result_n[$fileName]['verbs'] = [];
 		}
 		++$n; 
                 $result_n[$fileName]['lemma'] = $n;
@@ -239,7 +232,7 @@ class CSV
 	   }
 	#}
 	#if ($pos == "A"){
-	   elseif (substr($c['Annotation3-1'], 0, 1 ) === "A" || substr($c['Annotation3-1'], 0, 3 ) == "VMP" || substr($c['Annotation3-1'], 0, 1 ) === "J"){
+	   elseif (str_starts_with((string) $c['Annotation3-1'], "A") || str_starts_with((string) $c['Annotation3-1'], "VMP") || str_starts_with((string) $c['Annotation3-1'], "J")){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
@@ -248,8 +241,8 @@ class CSV
 		##initialize the result for this fileName because it doesnt exist yet
   		if (!isset($result_a[$fileName])) {
 			$a = 1 ;
-    			$result_a[$fileName] = array();
-			$result_a[$fileName]['verbs'] = array();
+    			$result_a[$fileName] = [];
+			$result_a[$fileName]['verbs'] = [];
 		}
 		++$a; 
                 $result_a[$fileName]['lemma'] = $a;
@@ -257,7 +250,7 @@ class CSV
 	   }
 	#}
 	#if ($pos == "R"){
-	   elseif (substr($c['Annotation3-1'], 0, 1 ) === "R"){
+	   elseif (str_starts_with((string) $c['Annotation3-1'], "R")){
 		#foreach ($c as $key => $value) {var_dump($key);var_dump($value);}
 		$fileName = $c['TranscriptionName'];
 		#$lemma = $c['Annotation1']; var_dump($lemma);
@@ -266,8 +259,8 @@ class CSV
 		##initialize the result for this fileName because it doesnt exist yet
   		if (!isset($result_r[$fileName])) {
 			$r = 1 ;
-    			$result_r[$fileName] = array();
-			$result_r[$fileName]['verbs'] = array();
+    			$result_r[$fileName] = [];
+			$result_r[$fileName]['verbs'] = [];
 		}
 		++$r; 
                 $result_r[$fileName]['lemma'] = $r;
@@ -276,7 +269,7 @@ class CSV
 	#}
 	}
 	#var_dump($result);
-	$values_v = array(); $values_n = array(); $values_a = array(); $values_r = array();
+	$values_v = []; $values_n = []; $values_a = []; $values_r = [];
 	$headers_v = "['Provider','NumVerbs','UniqVerbs']";
 	$headers_n = "['Provider','NumNouns','UniqNouns']";
 	$headers_a = "['Provider','NumAdjs','UniqAdjs']";
@@ -330,7 +323,7 @@ class CSV
 		array_push($values_r, $pair);
 	}		
 	#var_dump($values);	  
-        return array($values_v, $values_n, $values_a, $values_r, $csv);
+        return [$values_v, $values_n, $values_a, $values_r, $csv];
     }
 
 
@@ -348,16 +341,16 @@ class CSV
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
 	
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) {
   		$csv[] = array_combine($header, $row);
 	}
         
         #var_dump($csv[2]);
-	$result = array();
+	$result = [];
 	
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
+	   if (str_starts_with((string) $c['Annotation3-1'], "VM") && !str_starts_with((string) $c['Annotation3-1'], "VMP")){
 		$lemma = $c['Annotation2-1'];
 		##initialize the result for this Lemma because it doesnt exist yet
   		if (!isset($result[$lemma])) {
@@ -370,7 +363,7 @@ class CSV
 	arsort($result);
 	#var_dump($result);
 	
-	$values = array();
+	$values = [];
 	$headers = "['Lemma','Frequency','RelFreq in %']";
 	array_push($values, $headers);
 	$total = count($csv);
@@ -397,18 +390,18 @@ class CSV
 	##﻿"Annotation1-1","BeginTime","Annotation2-1","BeginTime","Annotation3-1","BeginTime","TranscriptionName"
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
-	$header2 = array();
+	$header2 = [];
 		
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) {
   		$csv[] = array_combine($header, $row);
 	}
         
         #var_dump($csv[2]);
-	$result = array();
+	$result = [];
 	
 	foreach ($csv as $c) { 
-	   if (substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP"){
+	   if (str_starts_with((string) $c['Annotation3-1'], "VM") && !str_starts_with((string) $c['Annotation3-1'], "VMP")){
 		$sem = $c['Annotation1-1'];
 		##initialize the result for this Sem because it doesnt exist yet
   		if (!isset($result[$sem])) {
@@ -421,7 +414,7 @@ class CSV
 	arsort($result);
 	#var_dump($result);
 	
-	$values = array();
+	$values = [];
 	$headers = "['SemClass','Frequency','RelFreq in %']";
 	array_push($values, $headers);
 	$total = count($csv);
@@ -449,15 +442,15 @@ class CSV
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
 	
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) {
   		$csv[] = array_combine($header, $row);
 	}
         
-	$result = array();
+	$result = [];
 	
 	foreach ($csv as $c) { 
-	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
+	   if ((str_starts_with((string) $c['Annotation3-1'], "VM") && !str_starts_with((string) $c['Annotation3-1'], "VMP")) || str_starts_with((string) $c['Annotation3-1'], "VB")){
 		$sem = $c['Annotation1-1']; 
 		##initialize the result for this Sem because it doesnt exist yet
   		if (!isset($result[$sem])) {
@@ -484,16 +477,16 @@ class CSV
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
 	
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) {
   		$csv[] = array_combine($header, $row);
 	}
         
         #var_dump($csv[2]);
-	$result = array();
+	$result = [];
 	$total = 0;
 	foreach ($csv as $c) { 
-	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
+	   if ((str_starts_with((string) $c['Annotation3-1'], "VM") && !str_starts_with((string) $c['Annotation3-1'], "VMP")) || str_starts_with((string) $c['Annotation3-1'], "VB")){
 		if ($c['Annotation1-1'] == $sem ) {
 			$lemma = $c['Annotation2-1'];
 			##initialize the result for this Lemma because it doesnt exist yet
@@ -509,7 +502,7 @@ class CSV
 	arsort($result);
 	#var_dump($result);
 	
-	$values = array();
+	$values = [];
 	$headers = "['Sem','Verbs']";
 	array_push($values, $headers);
 	
@@ -522,7 +515,7 @@ class CSV
 	#var_dump($values);		
 	# ['lemma', 'Frequency']
 	
-        return array($values,$total);
+        return [$values, $total];
     }
 
 
@@ -537,22 +530,22 @@ class CSV
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
 	
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) {
   		$csv[] = array_combine($header, $row);
 	}
         
         #var_dump($csv[2]);
-	$result = array();
+	$result = [];
 	$total = 1;
 	foreach ($csv as $c) { 
-	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){		
+	   if ((str_starts_with((string) $c['Annotation3-1'], "VM") && !str_starts_with((string) $c['Annotation3-1'], "VMP")) || str_starts_with((string) $c['Annotation3-1'], "VB")){		
 		if ($c['Annotation1-1'] == $sem ) {
 			$lemma = $c['Annotation2-1'];
 			$time = $c['BeginTime'] / 60000;
 			##initialize the result for this Lemma because it doesnt exist yet
   			if (!isset($result[$lemma])) {
-			$result[$lemma] = array();
+			$result[$lemma] = [];
 			$n = 1;
     			array_push($result[$lemma],$n);
     			array_push($result[$lemma],$time);
@@ -565,8 +558,8 @@ class CSV
 	}
 	#var_dump($result); # result lemma -> [time,time,time...]
 	
-	$values = array();
-	$times = array();
+	$values = [];
+	$times = [];
 	foreach ($result as $key => $value) {
 		$num = $value[0];
 		array_shift($value);
@@ -585,7 +578,7 @@ class CSV
 	#var_dump($maxValue);		
 	# values: [time,Freq,'lemma']
 	
-        return array($values,$total,$maxValue);
+        return [$values, $total, $maxValue];
     }
 
 
@@ -601,20 +594,20 @@ class CSV
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
 	
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) {
   		$csv[] = array_combine($header, $row);
 	}
         
         #var_dump($csv[2]);
-	$result = array();
+	$result = [];
 	$total = 1;
 	foreach ($csv as $c) { 
-	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
+	   if ((str_starts_with((string) $c['Annotation3-1'], "VM") && !str_starts_with((string) $c['Annotation3-1'], "VMP")) || str_starts_with((string) $c['Annotation3-1'], "VB")){
 			$sem = $c['Annotation1-1'];
 			##initialize the result for this sem because it doesnt exist yet
   			if (!isset($result[$sem])) {
-			$result[$sem] = array();
+			$result[$sem] = [];
 			$n = 1;
     			$result[$sem] = $n;
 			}
@@ -625,7 +618,7 @@ class CSV
 	}
 	#var_dump($result); # result sem -> [time,time,time...]
 	
-	$values = array();
+	$values = [];
 	array_push($values, "['SemClass', 'Frequency']");
 	# ['Time', 'Frequency', 'SemClass'],
 	foreach ($result as $key => $value) {	
@@ -636,7 +629,7 @@ class CSV
 	
 	reset($result);
 	
-        return array($values,$total);
+        return [$values, $total];
     }
 
 
@@ -653,18 +646,18 @@ class CSV
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
 	
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) {
   		$csv[] = array_combine($header, $row);
 	}
         
         #var_dump($csv[2]);
-	$result = array();
-	$class = array();
-	$prov = array();
+	$result = [];
+	$class = [];
+	$prov = [];
 	
 	foreach ($csv as $c) { 
-	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") || substr($c['Annotation3-1'], 0, 2 ) === "VB"){
+	   if ((str_starts_with((string) $c['Annotation3-1'], "VM") && !str_starts_with((string) $c['Annotation3-1'], "VMP")) || str_starts_with((string) $c['Annotation3-1'], "VB")){
 		$lemma = $c['Annotation2-1'];
 		##initialize the class for this Sem because it doesnt exist yet
 	  	if (!isset($class[$lemma])) {
@@ -694,7 +687,7 @@ class CSV
 	arsort($result);
 	#var_dump($result);
 	
-	$values = array();
+	$values = [];
 	$headers = "['Lemma','Frequency','Mean in corpus']";
 	array_push($values, $headers);
 	$total = count($prov);
@@ -722,20 +715,20 @@ class CSV
 	#var_dump($csvFile,$provider);
 	$rows = array_map('str_getcsv', file($csvFile));
 	$header = array_shift($rows);
-	$header2 = array();
+	$header2 = [];
 		
-	$csv = array();
+	$csv = [];
 	foreach ($rows as $row) {
   		$csv[] = array_combine($header, $row);
 	}
         
         #var_dump($csv);
-	$class = array();
-	$result = array();
-	$prov = array();
+	$class = [];
+	$result = [];
+	$prov = [];
 
 	foreach ($csv as $c) { 
-	   if ((substr($c['Annotation3-1'], 0, 2 ) === "VM" && substr($c['Annotation3-1'], 0, 3 ) != "VMP") ||substr($c['Annotation3-1'], 0, 2 ) === "VB" ){
+	   if ((str_starts_with((string) $c['Annotation3-1'], "VM") && !str_starts_with((string) $c['Annotation3-1'], "VMP")) ||str_starts_with((string) $c['Annotation3-1'], "VB") ){
 		$sem = $c['Annotation1-1'];
 		##initialize the class for this Sem because it doesnt exist yet
 	  	if (!isset($class[$sem])) {
@@ -768,7 +761,7 @@ class CSV
 	#var_dump($result);
 	#var_dump($class);
 
-	$values = array();
+	$values = [];
 	$headers = "['SemClass','Frequency','Mean in corpus']";
 	array_push($values, $headers);
 	$total = count($prov);
@@ -792,8 +785,8 @@ class CSV
     public function getFilmic($corpusFile)
     {
 	$corpusCsvFile = file($corpusFile);
-	$rows = array();
-	$lastTime = array();
+	$rows = [];
+	$lastTime = [];
 	$i = 1;
 	foreach ($corpusCsvFile as $line) {
             $d = str_getcsv($line, "\t"); 
@@ -808,7 +801,7 @@ class CSV
 	    }
 	$i++;
         }    
-	return array($rows,$lastTime);
+	return [$rows, $lastTime];
     }
 
 
